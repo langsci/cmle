@@ -319,6 +319,10 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	\newcommand{\lsSeriesTitle}{African Language Grammars\\ and Dictionaries, No \lsSeriesNumber}
 	\newcommand{\lsSeriesColor}{lsLightOrange}
 \fi
+\ifx\lsSeries\algad
+	\newcommand{\lsSeriesTitle}{Studies in Caribbean Languages, No \lsSeriesNumber}
+	\newcommand{\lsSeriesColor}{lsDarkOrange}
+\fi
 \ifx\lsSeries\tmnlp
 	\newcommand{\lsSeriesTitle}{Translation and Multilingual Natural\\ Language Processing, No \lsSeriesNumber}
 	\newcommand{\lsSeriesColor}{lsDarkBlue}
@@ -344,8 +348,12 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	\newcommand{\lsSeriesColor}{lsNightBlue}
 \fi	
 \ifx\lsSeries\cfls
-	\newcommand{\lsSeriesTitle}{Conceptual Foundation of the Language Sciences, No \lsSeriesNumber}
+	\newcommand{\lsSeriesTitle}{Conceptual Foundations of Language Science, No \lsSeriesNumber}
 	\newcommand{\lsSeriesColor}{lsNightGreen}
+\fi	
+\ifx\lsSeries\cfls
+	\newcommand{\lsSeriesTitle}{Language Variation, No \lsSeriesNumber}
+	\newcommand{\lsSeriesColor}{lsDarkWine}
 \fi	
 \ifx\lsSeries\dummyseries
 	\newcommand{\lsSeriesTitle}{~}
@@ -402,9 +410,11 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 		isbn=false,
 		doi=false,
 		eprint=false,
-		backend=\lsBiblatexBackend
+		backend=\lsBiblatexBackend,
+		indexing=cite
 		]{biblatex}
 	\renewcommand{\postnotedelim}{: $\!$}%
+	\renewcommand{\multicitedelim}{\addsemicolon\space}%  
 	\DeclareFieldFormat{postnote}{#1}%
 	%\renewcommand{\nameyeardelim}{ }%		
 \else	%BibTeX
@@ -439,6 +449,9 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 
 \usepackage{floatrow}					% For adjusting the position of the caption (default is below).
 \floatsetup[table]{capposition=top} 	% As for tables, the caption appears above.
+
+
+\usepackage{booktabs} %for nicer lines
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -482,9 +495,10 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	}
 
 \makeindex
+\newindex{sbj}{sdx}{snd}{Subject index}
 \newindex{lan}{ldx}{lnd}{Language index}
-\newindex{aut}{adx}{and}{Name index}
-\renewindex{default}{idx}{ind}{Subject index}
+% \newindex{aut}{adx}{and}{Name index}
+\renewindex{default}{idx}{ind}{Name index}
 \newindex{wrd}{wdx}{wnd}{Expression index}
 \newindex{rwrd}{rdx}{rnd}{Reverse expression index}
 
@@ -496,17 +510,17 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 \fi
 
 \newcommand{\ia}[1]{\if@noftnote%
-\index[aut]{#1}%
+\index{#1}%
 \else%
-\index[aut]{#1|fn{\thefootnote}}%
+\index{#1|fn{\thefootnote}}%
 \fi%
 }
 
 \newcommand{\is}[1]{\if@noftnote%
-\index{#1}%
+\index[sbj]{#1}%
 \else%
-% irgendwie muss man ihn dazu bringen den Wert fÃ¼r footnote auch einzusetzen
-\index{#1|fn{*}}%
+% irgendwie muss man ihn dazu bringen den Wert für footnote auch einzusetzen
+\index[sbj]{#1|fn{*}}%
 %\indexftn{#1}{\value{footnotemark}}%
 \fi%
 }
@@ -535,7 +549,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 }
 
 
-% \index[lan] fÃ¼r EintrÃ¤ge in separaten Index
+% \index[lan] für Einträge in separaten Index
 
 \newcommand{\il}[1]{%
 \if@noftnote%
@@ -929,7 +943,7 @@ Habelschwerdter Allee 45\\
 This title can be downloaded at:\\
 \url{\lsURL}
 
-Â© \the\year, \iflsCollection the authors\else\@author\fi
+© \the\year, \iflsCollection the authors\else\@author\fi
 
 \newcommand{\ccby}{CC-BY} 
 \ifx\lsCopyright\ccby 
@@ -1134,9 +1148,8 @@ guarantee the accuracy of such information thereafter.
 % gets rid of the warnings:
 % Failed to convert input string to UTF16
 % http://tex.stackexchange.com/questions/66722/tex-live-2012-xelatex-moderncv-error-failed-to-convert-input-string-to-utf1
-\hypersetup{unicode,pdfencoding=auto}
-
-
+\hypersetup{unicode,pdfencoding=auto,bookmarksopenlevel=0}
+ 
 % this is required by authorindex
 \newif\ifshowindex \showindexfalse
 
