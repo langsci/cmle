@@ -1,0 +1,5951 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{amberber05competition}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Amberber}{A.}%
+     {Mengistu}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hoop}{H.}%
+     {Helen}{H.}%
+     {{d}e}{d.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{AMHHd1}
+  \strng{fullhash}{AMHHd1}
+  \field{labelyear}{2005}
+  \field{sortinit}{A}
+  \field{title}{Competition and Variation in Natural Languages: The Case for
+  Case}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{baillie00action}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Baillie}{B.}%
+     {Jean-Christophe}{J.-C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ganascia}{G.}%
+     {Jean-Gabriel}{J.-G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Horn}{H.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOS Press}%
+  }
+  \strng{namehash}{BJCGJG1}
+  \strng{fullhash}{BJCGJG1}
+  \field{labelyear}{2000}
+  \field{sortinit}{B}
+  \field{booktitle}{Proceedings of the 14th European Conference on Artificial
+  Intelligence (ECAI)}
+  \field{pages}{643\bibrangedash 647}
+  \field{title}{Action Categorization from Video Sequences}
+  \list{location}{1}{%
+    {Berlin, Germany}%
+  }
+  \field{year}{2000}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{barddal09case}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bar{\dh}dal}{B.}%
+     {Johanna}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Bar{\dh}dal}{B.}%
+     {Johanna}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chelliah}{C.}%
+     {Shobhana}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{BJ1}
+  \strng{fullhash}{BJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{B}
+  \field{booktitle}{The Role of Semantic, Pragmatic and Discourse Factors in
+  the Development of Case}
+  \field{pages}{123\bibrangedash 159}
+  \field{title}{The Development of Case in {G}ermanic}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{barddal09casebook}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Bar{\dh}dal}{B.}%
+     {Johanna}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chelliah}{C.}%
+     {Shobhana}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{BJCS1}
+  \strng{fullhash}{BJCS1}
+  \field{labelyear}{2009}
+  \field{sortinit}{B}
+  \field{title}{The Role of Semantic, Pragmatic and Discourse Factors in the
+  Development of Case}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{baronchelli06sharp}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Baronchelli}{B.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Felici}{F.}%
+     {Maddalena}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Loreto}{L.}%
+     {Vittorio}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Caglioti}{C.}%
+     {Emanuele}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BA+1}
+  \strng{fullhash}{BAFMLVCESL1}
+  \field{labelyear}{2006}
+  \field{sortinit}{B}
+  \field{title}{Sharp Transition Towards Shared Vocabularies in Multi-Agent
+  Systems}
+  \field{volume}{P06014}
+  \field{journaltitle}{Journal of Statistical Mechanics}
+  \field{year}{2006}
+\endentry
+
+\entry{batali98computational}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Batali}{B.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Hurford}{H.}%
+     {James~R.}{J.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Studdert-Kennedy}{S.-K.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knight}{K.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Edinburgh University Press}%
+  }
+  \strng{namehash}{BJ2}
+  \strng{fullhash}{BJ2}
+  \field{labelyear}{1998}
+  \field{sortinit}{B}
+  \field{booktitle}{Approaches to the Evolution of Language: Social and
+  Cognitive Bases}
+  \field{pages}{405\bibrangedash 426}
+  \field{title}{Computational Simulations of the Emergence of Grammar}
+  \list{location}{1}{%
+    {Edinburgh}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{batali02negotiation}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Batali}{B.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Briscoe}{B.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{BJ2}
+  \strng{fullhash}{BJ2}
+  \field{labelyear}{2002}
+  \field{sortinit}{B}
+  \field{booktitle}{Linguistic Evolution through Language Acquisition: Formal
+  and Computational Models}
+  \field{title}{The Negotiation and Acquisition of Recursive Grammars as a
+  Result of Competition Among Exemplars}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{belpaeme02factors}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Belpaeme}{B.}%
+     {Tony}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BT1}
+  \strng{fullhash}{BT1}
+  \field{labelyear}{2002}
+  \field{sortinit}{B}
+  \field{title}{Factors Influencing the Origins of Colour Categories}
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2002}
+\endentry
+
+\entry{belpaeme05colourful}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Belpaeme}{B.}%
+     {Tony}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bleys}{B.}%
+     {Joris}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Lyon}{L.}%
+     {Caroline}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cangelosi}{C.}%
+     {Angelo}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nehaniv}{N.}%
+     {Chrystopher~L.}{C.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BTBJ1}
+  \strng{fullhash}{BTBJ1}
+  \field{labelyear}{2005}
+  \field{sortinit}{B}
+  \field{booktitle}{AISB'05: Proceedings of Second International Symposium on
+  the Emergence and Evolution of Linguistic Communication (EELC'05)}
+  \field{title}{Colourful Language and Colour Categories}
+  \list{location}{1}{%
+    {Hatfield, UK}%
+  }
+  \field{year}{2005}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{bergen05embodied}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Bergen}{B.}%
+     {Benjamin~K.}{B.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chang}{C.}%
+     {Nancy}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {{\"O}stman}{{\"O}.}%
+     {Jan-Ola}{J.-O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fried}{F.}%
+     {Mirjam}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{BBKCN1}
+  \strng{fullhash}{BBKCN1}
+  \field{labelyear}{2005}
+  \field{sortinit}{B}
+  \field{booktitle}{Construction Grammars: Cognitive Grounding and Theoretical
+  Extensions}
+  \field{title}{Embodied {C}onstruction {G}rammar}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{beuls12diagnostics}{incollection}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Beuls}{B.}%
+     {Katrien}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wellens}{W.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hild}{H.}%
+     {Manfred}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{BKvRWP1}
+  \strng{fullhash}{BKvRWP1}
+  \field{labelyear}{2012}
+  \field{sortinit}{B}
+  \field{booktitle}{Language Grounding in Robots}
+  \field{pages}{215\bibrangedash 234}
+  \field{title}{Diagnostics and Repairs in {Fluid Construction Grammar}}
+  \list{location}{1}{%
+    {Berlin/New York}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{blake94case}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Blake}{B.}%
+     {Barry~J.}{B.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{BBJ1}
+  \strng{fullhash}{BBJ1}
+  \field{labelyear}{1994}
+  \field{sortinit}{B}
+  \field{series}{Cambridge Textbook in Linguistics}
+  \field{title}{Case}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1994}
+\endentry
+
+\entry{bleys08recursive}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bleys}{B.}%
+     {Joris}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cancho}{C.}%
+     {Ramon}{R.}%
+     {Ferrer~i}{F.~i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Press}%
+  }
+  \strng{namehash}{BJ3}
+  \strng{fullhash}{BJ3}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{booktitle}{The Evolution of Language. Proceedings of the 7th
+  International Conference (EVOLANG 7)}
+  \field{pages}{34\bibrangedash 41}
+  \field{title}{The Origins of Recursive Rules: A Usage-Based Account}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{bleys10}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bleys}{B.}%
+     {Joris}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJ3}
+  \strng{fullhash}{BJ3}
+  \field{labelyear}{2011}
+  \field{sortinit}{B}
+  \field{title}{Language Strategies for the Domain of Colour}
+  \list{location}{1}{%
+    {Brussels}%
+  }
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2011}
+\endentry
+
+\entry{boas13sbcg}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Boas}{B.}%
+     {Hans~C.}{H.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sag}{S.}%
+     {Ivan~A.}{I.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CSLI Publications}%
+  }
+  \strng{namehash}{BHCSIA1}
+  \strng{fullhash}{BHCSIA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{B}
+  \field{title}{{Sign-Based Construction Grammar}}
+  \list{location}{1}{%
+    {Stanford}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{deboer99self}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Boer}{B.}%
+     {Bart}{B.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \strng{namehash}{BBd1}
+  \strng{fullhash}{BBd1}
+  \field{labelyear}{1999}
+  \field{sortinit}{B}
+  \field{title}{Self-organisation in Vowel Systems}
+  \list{location}{1}{%
+    {Brussels}%
+  }
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{1999}
+\endentry
+
+\entry{deboer00self}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Boer}{B.}%
+     {Bart}{B.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \strng{namehash}{BBd1}
+  \strng{fullhash}{BBd1}
+  \field{labelyear}{2000}
+  \field{sortinit}{B}
+  \field{number}{4}
+  \field{pages}{441\bibrangedash 465}
+  \field{title}{Self Organization in Vowel Systems}
+  \field{volume}{28}
+  \field{journaltitle}{Journal of Phonetics}
+  \field{year}{2000}
+\endentry
+
+\entry{bresnan82mental}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bresnan}{B.}%
+     {Joan}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT Press}%
+  }
+  \strng{namehash}{BJ4}
+  \strng{fullhash}{BJ4}
+  \field{labelyear}{1982}
+  \field{sortinit}{B}
+  \field{title}{The Mental Representation of Grammatical Relations}
+  \list{location}{1}{%
+    {Cambridge, MA}%
+  }
+  \field{year}{1982}
+\endentry
+
+\entry{brighton05cultural}{incollection}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Brighton}{B.}%
+     {Henry}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Tallerman}{T.}%
+     {Maggie}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{BHKSSK1}
+  \strng{fullhash}{BHKSSK1}
+  \field{labelyear}{2005}
+  \field{sortinit}{B}
+  \field{booktitle}{Language Origins: Perspectives on Evolution}
+  \field{pages}{Chapter 13}
+  \field{title}{Cultural Selection for Learnability: Three Principles
+  Underlying the View that Language Adapts to be Learnable}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{briscoe00grammatical}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Briscoe}{B.}%
+     {E.J.}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BE1}
+  \strng{fullhash}{BE1}
+  \field{labelyear}{2000}
+  \field{sortinit}{B}
+  \field{number}{2}
+  \field{pages}{245\bibrangedash 296}
+  \field{title}{Grammatical Acquisition: Inductive Bias and Coevolution of
+  Language and the Language Acquisition Device}
+  \field{volume}{76}
+  \field{journaltitle}{Language}
+  \field{year}{2000}
+\endentry
+
+\entry{butt06theories}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Butt}{B.}%
+     {Miriam}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{BM1}
+  \strng{fullhash}{BM1}
+  \field{labelyear}{2006}
+  \field{sortinit}{B}
+  \field{series}{Cambridge Textbooks in Linguistics}
+  \field{title}{Theories of Case}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{bybee00three}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Bybee}{B.}%
+     {Joan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {Sandra}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of California, Berkeley}%
+  }
+  \strng{namehash}{BJTS1}
+  \strng{fullhash}{BJTS1}
+  \field{labelyear}{2000}
+  \field{sortinit}{B}
+  \field{booktitle}{Berkeley Linguistics Society}
+  \field{pages}{65\bibrangedash 85}
+  \field{title}{Three Frequency Effects in Syntax}
+  \field{volume}{23}
+  \list{location}{1}{%
+    {Dwinelle Hall, Berkeley CA}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{kirby03language}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Christiansen}{C.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kirby}{K.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Christiansen}{C.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kirby}{K.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{CMKS1}
+  \strng{fullhash}{CMKS1}
+  \field{labelyear}{2003}
+  \field{sortinit}{C}
+  \field{booktitle}{Language Evolution}
+  \field{pages}{1\bibrangedash 15}
+  \field{title}{Language Evolution: The Hardest Problem in Science?}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{comrie05wals}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Comrie}{C.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gil}{G.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Comrie}{C.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{CB1}
+  \strng{fullhash}{CB1}
+  \field{labelyear}{2005}
+  \field{sortinit}{C}
+  \field{booktitle}{The World Atlas of Language Structures}
+  \field{chapter}{98--99}
+  \field{title}{Alignment of Case Marking}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{croft91syntactic}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Chicago UP}%
+  }
+  \strng{namehash}{CW1}
+  \strng{fullhash}{CW1}
+  \field{labelyear}{1991}
+  \field{sortinit}{C}
+  \field{title}{Syntactic Categories and Grammatical Relations. The Cognitive
+  Organization of Information}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1991}
+\endentry
+
+\entry{croft98event}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Butt}{B.}%
+     {Miriam}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Geuder}{G.}%
+     {Wilhelm}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CSLI Publications}%
+  }
+  \strng{namehash}{CW1}
+  \strng{fullhash}{CW1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{booktitle}{The Projection of Arguments: Lexical and Compositional
+  Factors}
+  \field{pages}{21\bibrangedash 63}
+  \field{title}{Event Structure in Argument Linking}
+  \list{location}{1}{%
+    {Stanford}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{croft00explaining}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Longman}%
+  }
+  \strng{namehash}{CW1}
+  \strng{fullhash}{CW1}
+  \field{labelyear}{2000}
+  \field{sortinit}{C}
+  \field{title}{Explaining Language Change: An Evolutionary Approach}
+  \list{location}{1}{%
+    {Harlow Essex}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{croft01radical}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford UP}%
+  }
+  \strng{namehash}{CW1}
+  \strng{fullhash}{CW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{C}
+  \field{title}{Radical Construction Grammar: Syntactic Theory in Typological
+  Perspective}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{croft05relevance}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nedergaard~Thomsen}{N.~T.}%
+     {Ole}{O.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{CW1}
+  \strng{fullhash}{CW1}
+  \field{labelyear}{2004}
+  \field{sortinit}{C}
+  \field{booktitle}{Different Models of Linguistic Change}
+  \field{title}{The Relevance of an Evolutionary Model to Historical
+  Linguistics}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{croft05logical}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {{\"O}stman}{{\"O}.}%
+     {Jan-Ola}{J.-O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fried}{F.}%
+     {Mirjam}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{CW1}
+  \strng{fullhash}{CW1}
+  \field{labelyear}{2005}
+  \field{sortinit}{C}
+  \field{booktitle}{Construction Grammars: Cognitive Grounding and Theoretical
+  Extensions}
+  \field{pages}{273\bibrangedash 314}
+  \field{title}{Logical and Typological Arguments for Radical Construction
+  Grammar}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{croft04cognitive}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cruse}{C.}%
+     {D.~Alan}{D.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CWCDA1}
+  \strng{fullhash}{CWCDA1}
+  \field{labelyear}{2004}
+  \field{sortinit}{C}
+  \field{series}{Cambridge Textbooks in Linguistics}
+  \field{title}{Cognitive Linguistics}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{cysouw08building}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Cysouw}{C.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Miestamo}{M.}%
+     {Matti}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {W\"{a}lchli}{W.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton De Gruyter}%
+  }
+  \strng{namehash}{CM1}
+  \strng{fullhash}{CM1}
+  \field{labelyear}{2007}
+  \field{sortinit}{C}
+  \field{booktitle}{New Challenges in Typology}
+  \field{pages}{225\bibrangedash 248}
+  \field{title}{Building Semantic Maps: The Case of Person Marking}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{daelemans02comparing}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Daelemans}{D.}%
+     {Walter}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Skousen}{S.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lonsdale}{L.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Parkinson}{P.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{DW1}
+  \strng{fullhash}{DW1}
+  \field{labelyear}{2002}
+  \field{sortinit}{D}
+  \field{booktitle}{Analogical Modeling}
+  \field{pages}{157\bibrangedash 179}
+  \field{title}{A Comparison of {A}nalogical {M}odeling of {L}anguage to
+  {M}emory-{B}ased {L}anguage {P}rocessing}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{daelemans05memory}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Daelemans}{D.}%
+     {Walter}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{Van den Bosch}}{V.}%
+     {Antal}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{DWVA1}
+  \strng{fullhash}{DWVA1}
+  \field{labelyear}{2005}
+  \field{sortinit}{D}
+  \field{series}{Studies in Natural Language Processing}
+  \field{title}{Memory-Based Language Processing}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{davidse96functional}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Davidse}{D.}%
+     {Kristin}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Van~Belle}{V.~B.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Van~Langendonck}{V.~L.}%
+     {Willy}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{DK1}
+  \strng{fullhash}{DK1}
+  \field{labelyear}{1996}
+  \field{sortinit}{D}
+  \field{booktitle}{The Dative. Volume 1: Descriptive Studies}
+  \field{pages}{289 \bibrangedash  338}
+  \field{series}{Case and Grammatical Relations Across Languages}
+  \field{title}{Functional Dimensions of the Dative in {E}nglish}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{1996}
+\endentry
+
+\entry{davis00linking}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Davis}{D.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Koenig}{K.}%
+     {Jean-Pierre}{J.-P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DAKJP1}
+  \strng{fullhash}{DAKJP1}
+  \field{labelyear}{2000}
+  \field{sortinit}{D}
+  \field{number}{1}
+  \field{pages}{59\bibrangedash 91}
+  \field{title}{Linking as Constraints on Word Classes in a Hierarchical
+  Lexicon}
+  \field{volume}{76}
+  \field{journaltitle}{Language}
+  \field{year}{2000}
+\endentry
+
+\entry{debeule07compositionality}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {De~Beule}{D.~B.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DBJ1}
+  \strng{fullhash}{DBJ1}
+  \field{labelyear}{2007}
+  \field{sortinit}{D}
+  \field{title}{Compositionality, Hierarchy and Recursion in Language. A Case
+  Study in {F}luid {C}onstruction {G}rammar}
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2007}
+\endentry
+
+\entry{debeule08emergence}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {De~Beule}{D.~B.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cancho}{C.}%
+     {Ramon}{R.}%
+     {Ferrer~i}{F.~i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Press}%
+  }
+  \strng{namehash}{DBJ1}
+  \strng{fullhash}{DBJ1}
+  \field{labelyear}{2008}
+  \field{sortinit}{D}
+  \field{booktitle}{The Evolution of Language. Proceedings of the 7th
+  International Conference (EVOLANG 7)}
+  \field{pages}{75\bibrangedash 82}
+  \field{title}{The Emergence of Compositionality, Hierarchy and Recursion in
+  Peer-to-Peer Interactions}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{debeule06emergence}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {De~Beule}{D.~B.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bergen}{B.}%
+     {Benjamin~K.}{B.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Cangelosi}{C.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific}%
+  }
+  \strng{namehash}{DBJBBK1}
+  \strng{fullhash}{DBJBBK1}
+  \field{labelyear}{2006}
+  \field{sortinit}{D}
+  \field{booktitle}{The Evolution of Language}
+  \field{title}{On the Emergence of Compositionality}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{debeule05hierarchy}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {De~Beule}{D.~B.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Furbach}{F.}%
+     {Ulrich}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{DBJSL1}
+  \strng{fullhash}{DBJSL1}
+  \field{labelyear}{2005}
+  \field{sortinit}{D}
+  \field{booktitle}{KI 2005: Advances In Artificial Intelligence. Proceedings
+  of the 28th German Conference on AI}
+  \field{pages}{1\bibrangedash 15}
+  \field{series}{Lecture Notes in Artificial Intelligence}
+  \field{title}{Hierarchy in {F}luid {C}onstruction {G}rammar}
+  \field{volume}{3698}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{depauw02grael}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {De~Pauw}{D.~P.}%
+     {Guy}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DPG1}
+  \strng{fullhash}{DPG1}
+  \field{labelyear}{2002}
+  \field{sortinit}{D}
+  \field{title}{An Agent-Based Evolutionary Computing Approach to Memory-Based
+  Syntactic Parsing of Natural Language}
+  \list{location}{1}{%
+    {Antwerp}%
+  }
+  \list{institution}{1}{%
+    {Universiteit van Antwerpen}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2002}
+\endentry
+
+\entry{devylder07evolution}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {De~Vylder}{D.~V.}%
+     {Bart}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DVB1}
+  \strng{fullhash}{DVB1}
+  \field{labelyear}{2007}
+  \field{sortinit}{D}
+  \field{title}{The Evolution of Conventions in Multi-Agent Systems}
+  \list{location}{1}{%
+    {Brussels}%
+  }
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2007}
+\endentry
+
+\entry{dik97functional}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dik}{D.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{DS1}
+  \strng{fullhash}{DS1}
+  \field{labelyear}{1997}
+  \field{sortinit}{D}
+  \field{title}{The Theory of Functional Grammar}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{fanego04reanalysis}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fanego}{F.}%
+     {Teresa}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FT1}
+  \strng{fullhash}{FT1}
+  \field{labelyear}{2004}
+  \field{sortinit}{F}
+  \field{number}{21}
+  \field{pages}{5\bibrangedash 55}
+  \field{title}{On Reanalysis and Actualization in Syntactic Change: The Rise
+  and Development of {E}nglish Verbal Gerunds}
+  \field{volume}{21}
+  \field{journaltitle}{Diachronica}
+  \field{year}{2004}
+\endentry
+
+\entry{fillmore68case}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fillmore}{F.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Bach}{B.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harms}{H.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Holt, Rhinehart}%
+    {Winston}%
+  }
+  \strng{namehash}{FC1}
+  \strng{fullhash}{FC1}
+  \field{labelyear}{1968}
+  \field{sortinit}{F}
+  \field{booktitle}{Universals in Linguistic Theory}
+  \field{pages}{1\bibrangedash 88}
+  \field{title}{The Case for Case}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1968}
+\endentry
+
+\entry{fillmore08construction}{book}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Fillmore}{F.}%
+     {Charles~J.}{C.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kay}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Michaelis}{M.}%
+     {Laura}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sag}{S.}%
+     {Ivan}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Chicago University Press}%
+  }
+  \strng{namehash}{FCJ+1}
+  \strng{fullhash}{FCJKPMLSI1}
+  \field{labelyear}{unpubl.}
+  \field{sortinit}{F}
+  \field{note}{Unpublished manuscript. Chapter 7 available online at
+  http://lingo.stanford.edu/sag/SBCG/7.pdf. Last accessed on 1 May 2008}
+  \field{title}{Construction Grammar}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{unpubl.}
+\endentry
+
+\entry{galantucci05experimental}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Galantucci}{G.}%
+     {Bruno}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GB1}
+  \strng{fullhash}{GB1}
+  \field{labelyear}{2005}
+  \field{sortinit}{G}
+  \field{number}{5}
+  \field{pages}{737\bibrangedash 767}
+  \field{title}{An Experimental Study of the Emergence of Human Communication
+  Systems}
+  \field{volume}{29}
+  \field{journaltitle}{Cognitive Science}
+  \field{year}{2005}
+\endentry
+
+\entry{gil08how}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gil}{G.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cancho}{C.}%
+     {Ramon}{R.}%
+     {Ferrer~i}{F.~i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Press}%
+  }
+  \strng{namehash}{GD1}
+  \strng{fullhash}{GD1}
+  \field{labelyear}{2008}
+  \field{sortinit}{G}
+  \field{booktitle}{The Evolution of Language. Proceedings of the 7th
+  International Conference (EVOLANG 7)}
+  \field{pages}{123\bibrangedash 130}
+  \field{title}{How Much Grammar Does it Take to Sail a Boat?(Or, What can
+  Material Artifacts Tell Us about the Evolution of Language}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{givon97introduction}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Giv\'{o}n}{G.}%
+     {Talmy}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Giv\'{o}n}{G.}%
+     {Talmy}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{GT1}
+  \strng{fullhash}{GT1}
+  \field{labelyear}{1997}
+  \field{sortinit}{G}
+  \field{booktitle}{Grammatical Relations: A Functional Perspective}
+  \field{pages}{1\bibrangedash 84}
+  \field{series}{Typological Studies in Language}
+  \field{title}{Grammatical Relations: An Introduction}
+  \field{volume}{35}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{givon01syntax}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Giv\'{o}n}{G.}%
+     {Talmy}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{GT1}
+  \strng{fullhash}{GT1}
+  \field{labelyear}{2001}
+  \field{sortinit}{G}
+  \field{title}{Syntax}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{gleason65linguistics}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gleason}{G.}%
+     {Henry~A.}{H.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Holt, Rinehart}%
+    {Winston}%
+  }
+  \strng{namehash}{GHA1}
+  \strng{fullhash}{GHA1}
+  \field{labelyear}{1965}
+  \field{sortinit}{G}
+  \field{title}{Linguistics and {E}nglish Grammar}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1965}
+\endentry
+
+\entry{goldberg95construction}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goldberg}{G.}%
+     {Adele~E.}{A.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Chicago UP}%
+  }
+  \strng{namehash}{GAE1}
+  \strng{fullhash}{GAE1}
+  \field{labelyear}{1995}
+  \field{sortinit}{G}
+  \field{title}{A Construction Grammar Approach to Argument Structure}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{haspelmath98does}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HM1}
+  \strng{fullhash}{HM1}
+  \field{labelyear}{1998}
+  \field{sortinit}{H}
+  \field{number}{3}
+  \field{pages}{315\bibrangedash 350}
+  \field{title}{Does Grammaticalization Need Reanalysis?}
+  \field{volume}{20}
+  \field{journaltitle}{Studies in Language}
+  \field{year}{1998}
+\endentry
+
+\entry{haspelmath03geometry}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Tomasello}{T.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lawrence Erlbaum}%
+  }
+  \strng{namehash}{HM1}
+  \strng{fullhash}{HM1}
+  \field{labelyear}{2003}
+  \field{sortinit}{H}
+  \field{booktitle}{The New Psychology of Language}
+  \field{pages}{211\bibrangedash 242}
+  \field{title}{The Geometry of Grammatical Meaning: Semantic Maps and
+  Cross-Linguistic Comparison}
+  \field{volume}{2}
+  \list{location}{1}{%
+    {Mahwah, New Jersey}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{hawkin88brief}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hawkin}{H.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Bantam Books}%
+  }
+  \strng{namehash}{HS1}
+  \strng{fullhash}{HS1}
+  \field{labelyear}{1988}
+  \field{sortinit}{H}
+  \field{note}{Introduction by Carl Sagan}
+  \field{title}{A Brief History of Time. From the Big Bang to Black Holes}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{1988}
+\endentry
+
+\entry{hoefler08reanalysis}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hoefler}{H.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cancho}{C.}%
+     {Ramon}{R.}%
+     {Ferrer~i}{F.~i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Press}%
+  }
+  \strng{namehash}{HSSAD1}
+  \strng{fullhash}{HSSAD1}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{booktitle}{The Evolution of Language. Proceedings of the 7th
+  International Conference (EVOLANG 7)}
+  \field{pages}{34\bibrangedash 41}
+  \field{title}{Reanalysis vs Metaphor: What Grammaticalisation CAN Tell Us
+  About Language Evolution}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{hopper93grammaticalization}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hopper}{H.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Traugott}{T.}%
+     {Elizabeth}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{HPTE1}
+  \strng{fullhash}{HPTE1}
+  \field{labelyear}{1993}
+  \field{sortinit}{H}
+  \field{title}{Grammaticalization}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{jackendoff90semantic}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jackendoff}{J.}%
+     {Ray}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT Press}%
+  }
+  \strng{namehash}{JR1}
+  \strng{fullhash}{JR1}
+  \field{labelyear}{1990}
+  \field{sortinit}{J}
+  \field{title}{Semantic Structures}
+  \list{location}{1}{%
+    {Cambridge, MA}%
+  }
+  \field{year}{1990}
+\endentry
+
+\entry{kaplan98architecture}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Kaplan}{K.}%
+     {Fr{\'e}d{\'e}ric}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McIntyre}{M.}%
+     {Angus}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KFMASL1}
+  \strng{fullhash}{KFMASL1}
+  \field{labelyear}{1998}
+  \field{sortinit}{K}
+  \field{booktitle}{Proceedings of Sony Research Forum 1998}
+  \field{title}{An Architecture for Evolving Robust Shared Communication
+  Systems in Noisy Environments}
+  \field{year}{1998}
+\endentry
+
+\entry{kay05argument}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kay}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Fried}{F.}%
+     {Miriam}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boas}{B.}%
+     {Hans~C.}{H.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{KP1}
+  \strng{fullhash}{KP1}
+  \field{labelyear}{2005}
+  \field{sortinit}{K}
+  \field{booktitle}{Grammatical Constructions: Back to the Roots}
+  \field{pages}{71\bibrangedash 98}
+  \field{title}{Argument Structure Constructions and the Argument-Adjunt
+  Distinction}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{kay99grammatical}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kay}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fillmore}{F.}%
+     {Charles~J.}{C.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KPFCJ1}
+  \strng{fullhash}{KPFCJ1}
+  \field{labelyear}{1999}
+  \field{sortinit}{K}
+  \field{pages}{1\bibrangedash 33}
+  \field{title}{Grammatical Constructions and Linguistic Generalizations: The
+  What's X Doing Y? Construction}
+  \field{volume}{75}
+  \field{journaltitle}{Language}
+  \field{year}{1999}
+\endentry
+
+\entry{keenan77noun}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Keenan}{K.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Comrie}{C.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KECB1}
+  \strng{fullhash}{KECB1}
+  \field{labelyear}{1977}
+  \field{sortinit}{K}
+  \field{number}{1}
+  \field{pages}{63\bibrangedash 99}
+  \field{title}{Noun Phrase Accessibility and Universal Grammar}
+  \field{volume}{8}
+  \field{journaltitle}{Linguistic Inquiry}
+  \field{year}{1977}
+\endentry
+
+\entry{king69historical}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {King}{K.}%
+     {Robert~D.}{R.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Prentice Hall}%
+  }
+  \strng{namehash}{KRD1}
+  \strng{fullhash}{KRD1}
+  \field{labelyear}{1969}
+  \field{sortinit}{K}
+  \field{title}{Historical Linguistics and Generative Grammar}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1969}
+\endentry
+
+\entry{kirby99syntax}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Floreano}{F.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nicoud}{N.}%
+     {J.D.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mondada}{M.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{KS1}
+  \strng{fullhash}{KS1}
+  \field{labelyear}{1999}
+  \field{sortinit}{K}
+  \field{booktitle}{Advances in Artificial Life: Proceedings of the 5th
+  European Conference on Artificial Life}
+  \field{pages}{694\bibrangedash 703}
+  \field{title}{Syntax out of Learning: The Cultural Evolution of Structured
+  Communication in a Population of Induction Algorithms}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{kirby00syntax}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Knight}{K.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hurford}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Studdert-Kennedy}{S.-K.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{KS1}
+  \strng{fullhash}{KS1}
+  \field{labelyear}{2000}
+  \field{sortinit}{K}
+  \field{booktitle}{The Evolutionary Emergence of Language: Social Function and
+  the Origins of Linguistic Form}
+  \field{pages}{303\bibrangedash 323}
+  \field{title}{Syntax without Natural Selection: How Compositionality Emerges
+  from Vocabulary in a Population of Learners}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{kirby01spontaneous}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KS1}
+  \strng{fullhash}{KS1}
+  \field{labelyear}{2001}
+  \field{sortinit}{K}
+  \field{number}{2}
+  \field{pages}{102\bibrangedash 110}
+  \field{title}{Spontaneous Evolution of Linguistic Structure: An Iterated
+  Learning Model of the Emergence of Regularity and Irregularity}
+  \field{volume}{5}
+  \field{journaltitle}{IEEE Transactions on Evolutionary Computation}
+  \field{year}{2001}
+\endentry
+
+\entry{kirby02learning}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Briscoe}{B.}%
+     {Ted}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{KS1}
+  \strng{fullhash}{KS1}
+  \field{labelyear}{2002}
+  \field{sortinit}{K}
+  \field{booktitle}{Linguistic Evolution through Language Acquisition: Formal
+  and Computational Models}
+  \field{pages}{173\bibrangedash 204}
+  \field{title}{Learning, Bottlenecks and the Evolution of Recursive Syntax}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{kirby02emergence}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hurford}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Cangelosi}{C.}%
+     {Angelo}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Parisi}{P.}%
+     {Domenico}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Verlag}%
+  }
+  \strng{namehash}{KSHJ1}
+  \strng{fullhash}{KSHJ1}
+  \field{labelyear}{2002}
+  \field{sortinit}{K}
+  \field{booktitle}{Simulating the Evolution of Language}
+  \field{pages}{121\bibrangedash 148}
+  \field{title}{The Emergence of Linguistic Structure: An Overview of the
+  Iterated Learning Model}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{kirby04from}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brighton}{B.}%
+     {Henry}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KSSKBH1}
+  \strng{fullhash}{KSSKBH1}
+  \field{labelyear}{2004}
+  \field{sortinit}{K}
+  \field{number}{3}
+  \field{pages}{587\bibrangedash 607}
+  \field{title}{From {UG} to Universals: Linguistic Adaptation through Iterated
+  Learning}
+  \field{volume}{28}
+  \field{journaltitle}{Studies in Language}
+  \field{year}{2004}
+\endentry
+
+\entry{kulikov06casebook}{book}{}
+  \name{editor}{3}{}{%
+    {{}%
+     {Kulikov}{K.}%
+     {Leonid}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Malchukov}{M.}%
+     {Andrej}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{de Swart}}{d.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{KLMAdP1}
+  \strng{fullhash}{KLMAdP1}
+  \field{labelyear}{2006}
+  \field{sortinit}{K}
+  \field{booktitle}{Case, Valency and Transitivity}
+  \field{pages}{23\bibrangedash 47}
+  \field{title}{Case Systems in a Diachronic Perspective: A Typological Sketch}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{lakoff87woman}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lakoff}{L.}%
+     {George}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The University of Chicago Press}%
+  }
+  \strng{namehash}{LG1}
+  \strng{fullhash}{LG1}
+  \field{labelyear}{1987}
+  \field{sortinit}{L}
+  \field{title}{Women, Fire, and Dangerous Things: What Categories Reveal about
+  the Mind}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{langacker77syntactic}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Langacker}{L.}%
+     {Ronald~W.}{R.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Li}{L.}%
+     {C.N.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Texas Press}%
+  }
+  \strng{namehash}{LRW1}
+  \strng{fullhash}{LRW1}
+  \field{labelyear}{1977}
+  \field{sortinit}{L}
+  \field{booktitle}{Mechanisms of Syntactic Change}
+  \field{pages}{59\bibrangedash 139}
+  \field{title}{Syntactic Reanalysis}
+  \list{location}{1}{%
+    {Austin}%
+  }
+  \field{year}{1977}
+\endentry
+
+\entry{langacker87foundations}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Langacker}{L.}%
+     {Ronald~W.}{R.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Stanford University Press}%
+  }
+  \strng{namehash}{LRW1}
+  \strng{fullhash}{LRW1}
+  \field{labelyear}{1987}
+  \field{sortinit}{L}
+  \field{title}{Foundations of Cognitive Grammar. Volume 1}
+  \list{location}{1}{%
+    {Stanford}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{langacker00dynamic}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Langacker}{L.}%
+     {Ronald~W.}{R.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Barlow}{B.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kemmer}{K.}%
+     {Suzanne}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Chicago University Press}%
+  }
+  \strng{namehash}{LRW1}
+  \strng{fullhash}{LRW1}
+  \field{labelyear}{2000}
+  \field{sortinit}{L}
+  \field{booktitle}{Usage-Based Models of Language}
+  \field{pages}{1\bibrangedash 63}
+  \field{title}{A Dynamic Usage-Based Model}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{levin99two}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Levin}{L.}%
+     {Beth}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rappaport~Hovav}{R.~H.}%
+     {Malka}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cornell Linguistics Circle Publications}%
+  }
+  \strng{namehash}{LBRHM1}
+  \strng{fullhash}{LBRHM1}
+  \field{labelyear}{1999}
+  \field{sortinit}{L}
+  \field{booktitle}{Proceedings of SALT 9}
+  \field{pages}{127\bibrangedash 144}
+  \field{title}{Two Structures for Compositionally Derived Events}
+  \list{location}{1}{%
+    {Ithaca, NY}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{levin05argument}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Levin}{L.}%
+     {Beth}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rappaport~Hovav}{R.~H.}%
+     {Malka}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{LBRHM1}
+  \strng{fullhash}{LBRHM1}
+  \field{labelyear}{2005}
+  \field{sortinit}{L}
+  \field{series}{Research Surveys in Linguistics}
+  \field{title}{Argument Realization}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{li76subject}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Li}{L.}%
+     {C.N.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {S.A.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Li}{L.}%
+     {C.N.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Academic Press}%
+  }
+  \strng{namehash}{LCTS1}
+  \strng{fullhash}{LCTS1}
+  \field{labelyear}{1976}
+  \field{sortinit}{L}
+  \field{booktitle}{Subject and Topic}
+  \field{pages}{458\bibrangedash 489}
+  \field{title}{Subject and Topic: A New Typology of Language}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{loetzsch:08b}{report}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Loetzsch}{L.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wellens}{W.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Beule}{D.~B.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bleys}{B.}%
+     {Joris}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LM+1}
+  \strng{fullhash}{LMWPDBJBJvR1}
+  \field{labelyear}{2008}
+  \field{extrayear}{1}
+  \field{sortinit}{L}
+  \field{number}{AI-Memo 01-08}
+  \field{title}{The Babel2 Manual}
+  \list{location}{1}{%
+    {Brussels}%
+  }
+  \list{institution}{1}{%
+    {AI-Lab VUB}%
+  }
+  \field{type}{techreport}
+  \field{year}{2008}
+\endentry
+
+\entry{loetzsch08typological}{incollection}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Loetzsch}{L.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trijp}{T.}%
+     {Remi}{R.}%
+     {van}{v.}%
+     {}{}}%
+    {{}%
+     {}{}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Wachsmuth}{W.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knoblich}{K.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{LM+1}
+  \strng{fullhash}{LMTRvSL1}
+  \field{labelyear}{2008}
+  \field{extrayear}{2}
+  \field{sortinit}{L}
+  \field{booktitle}{Modeling Communication with Robots and Virtual Humans}
+  \field{pages}{125\bibrangedash 142}
+  \field{series}{LNCS 4930}
+  \field{title}{Typological and Computational Investigations of Spatial
+  Perspective}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{malchukov09case}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Malchukov}{M.}%
+     {Andrej}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Spencer}{S.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MASA1}
+  \strng{fullhash}{MASA1}
+  \field{labelyear}{2009}
+  \field{sortinit}{M}
+  \field{title}{The {O}xford Handbook of Case}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{michaelis06complementation}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Michaelis}{M.}%
+     {Laura~A.}{L.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Hauser}{H.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {BLS}%
+  }
+  \strng{namehash}{MLA1}
+  \strng{fullhash}{MLA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{M}
+  \field{booktitle}{Proceedings of the Thirty-Second Annual Meeting of the
+  Berkeley Linguistics Society}
+  \field{title}{Complementation by Construction}
+  \list{location}{1}{%
+    {Berkeley}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{mitchell97machine}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mitchell}{M.}%
+     {Tom~M.}{T.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {WCB/McGraw-Hill}%
+  }
+  \strng{namehash}{MTM1}
+  \strng{fullhash}{MTM1}
+  \field{labelyear}{1997}
+  \field{sortinit}{M}
+  \field{series}{McGraw-Hill Series in Computer Science}
+  \field{title}{Machine Learning}
+  \field{year}{1997}
+\endentry
+
+\entry{mithun05beyond}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mithun}{M.}%
+     {Marianne}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MM1}
+  \strng{fullhash}{MM1}
+  \field{labelyear}{2005}
+  \field{sortinit}{M}
+  \field{number}{4}
+  \field{pages}{445\bibrangedash 472}
+  \field{title}{Beyond the Core: Typological Variation in the Identification of
+  Participants}
+  \field{volume}{71}
+  \field{journaltitle}{International Journal of Linguistics}
+  \field{year}{2005}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{moy06case}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Moy}{M.}%
+     {Joanna}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MJ1}
+  \strng{fullhash}{MJ1}
+  \field{labelyear}{2006}
+  \field{sortinit}{M}
+  \field{title}{Word Order and Case in Models of Simulated Language Evolution}
+  \list{location}{1}{%
+    {York}%
+  }
+  \list{institution}{1}{%
+    {University of York}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2006}
+\endentry
+
+\entry{nowak01evolution}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Nowak}{N.}%
+     {Martin~A.}{M.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Komarova}{K.}%
+     {Natalia~L.}{N.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Niyogi}{N.}%
+     {Partha}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NMAKNLNP1}
+  \strng{fullhash}{NMAKNLNP1}
+  \field{labelyear}{2001}
+  \field{sortinit}{N}
+  \field{pages}{114\bibrangedash 118}
+  \field{title}{Evolution of {U}niversal {G}rammar}
+  \field{volume}{291}
+  \field{journaltitle}{Science}
+  \field{year}{2001}
+\endentry
+
+\entry{nowak99evolution}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nowak}{N.}%
+     {Martin~A.}{M.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Krakauer}{K.}%
+     {David~C.}{D.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NMAKDC1}
+  \strng{fullhash}{NMAKDC1}
+  \field{labelyear}{1999}
+  \field{sortinit}{N}
+  \field{number}{14}
+  \field{pages}{8028\bibrangedash 8033}
+  \field{title}{The Evolution of Language}
+  \field{volume}{96}
+  \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United Stated of America}
+  \field{year}{1999}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{oudeyer05self-organization}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Oudeyer}{O.}%
+     {Pierre-Yves}{P.-Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OPY1}
+  \strng{fullhash}{OPY1}
+  \field{labelyear}{2005}
+  \field{sortinit}{O}
+  \field{number}{3}
+  \field{pages}{435\bibrangedash 449}
+  \field{title}{The Self-Organization of Speech Sounds}
+  \field{volume}{233}
+  \field{journaltitle}{Journal of Theoretical Biology}
+  \field{year}{2005}
+\endentry
+
+\entry{palmer94grammatical}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Palmer}{P.}%
+     {F.R.}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge UP}%
+  }
+  \strng{namehash}{PF1}
+  \strng{fullhash}{PF1}
+  \field{labelyear}{1994}
+  \field{sortinit}{P}
+  \field{title}{Grammatical Roles and Relations}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1994}
+\endentry
+
+\entry{pauw13}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pauw}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PS1}
+  \strng{fullhash}{PS1}
+  \field{labelyear}{2013}
+  \field{sortinit}{P}
+  \field{title}{Size Matters: Grounding Quantifiers in Spatial Perception}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \list{institution}{1}{%
+    {University of Amsterdam}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2013}
+\endentry
+
+\entry{pinker89learnability}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pinker}{P.}%
+     {Steven}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge UP}%
+  }
+  \strng{namehash}{PS2}
+  \strng{fullhash}{PS2}
+  \field{labelyear}{1989}
+  \field{sortinit}{P}
+  \field{title}{Learnability and Cognition: The Acquisition of Argument
+  Structure}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1989}
+\endentry
+
+\entry{sag94hpsg}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Pollard}{P.}%
+     {Carl}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sag}{S.}%
+     {Ivan~A.}{I.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Chicago Press}%
+  }
+  \strng{namehash}{PCSIA1}
+  \strng{fullhash}{PCSIA1}
+  \field{labelyear}{1994}
+  \field{sortinit}{P}
+  \field{title}{Head-Driven Phrase Structure Grammar}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{1994}
+\endentry
+
+\entry{sag07sbcg}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sag}{S.}%
+     {Ivan~A.}{I.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Boas}{B.}%
+     {Hans~C.}{H.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sag}{S.}%
+     {Ivan~A.}{I.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CSLI Publications}%
+  }
+  \strng{namehash}{SIA1}
+  \strng{fullhash}{SIA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{S}
+  \field{booktitle}{{Sign-Based Construction Grammar}}
+  \field{title}{Sign-Based Construction Grammar. An Informal Synopsis}
+  \list{location}{1}{%
+    {Stanford}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{siskind00visual}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Siskind}{S.}%
+     {Jeffrey~Mark}{J.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SJM1}
+  \strng{fullhash}{SJM1}
+  \field{labelyear}{2000}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the National Conference on Artificial
+  Intelligence (AAAI)}
+  \field{pages}{149\bibrangedash 155}
+  \field{title}{Visual Event Classification via Force Dynamics}
+  \field{year}{2000}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{skousen89analogical}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Skousen}{S.}%
+     {Royal}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Kluwer}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{labelyear}{1989}
+  \field{sortinit}{S}
+  \field{title}{Analogical Modeling of Language}
+  \list{location}{1}{%
+    {Dordrecht}%
+  }
+  \field{year}{1989}
+\endentry
+
+\entry{smith03intelligent}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SAD1}
+  \strng{fullhash}{SAD1}
+  \field{labelyear}{2003}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{175\bibrangedash 190}
+  \field{title}{Intelligent Meaning Creation in a Clumpy World Helps
+  Communication}
+  \field{volume}{9}
+  \field{journaltitle}{Artificial Life}
+  \field{year}{2003}
+\endentry
+
+\entry{smith03transmission}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SK1}
+  \strng{fullhash}{SK1}
+  \field{labelyear}{2003}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{title}{The Transmission of Language: Models of Biological and Cultural
+  Evolution}
+  \list{location}{1}{%
+    {Edinburgh}%
+  }
+  \list{institution}{1}{%
+    {University of Edinburgh}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2003}
+\endentry
+
+\entry{smith03language}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hurford}{H.}%
+     {James~R.}{J.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{5}{}{%
+    {{}%
+     {Banzhaf}{B.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ziegler}{Z.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dittrich}{D.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kim}{K.}%
+     {J.T.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Christaller}{C.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SKHJR1}
+  \strng{fullhash}{SKHJR1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{booktitle}{Advances in Artificial Life: Proceedings of the 7th
+  Eurpopean Conferenceon Artificial Life}
+  \field{pages}{507\bibrangedash 516}
+  \field{title}{Language Evolution in Populations: Extending the Iterated
+  Learning Model}
+  \list{location}{1}{%
+    {2003}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{smith03iterated}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kirby}{K.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brighton}{B.}%
+     {Henry}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SKKSBH1}
+  \strng{fullhash}{SKKSBH1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{number}{4}
+  \field{pages}{371\bibrangedash 386}
+  \field{title}{Iterated Learning: A Framework for the Emergence of Language}
+  \field{volume}{9}
+  \field{journaltitle}{Artificial Life}
+  \field{year}{2003}
+\endentry
+
+\entry{sperber86relevance}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Sperber}{S.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilson}{W.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harvard University Press}%
+  }
+  \strng{namehash}{SDWD1}
+  \strng{fullhash}{SDWD1}
+  \field{labelyear}{1986}
+  \field{sortinit}{S}
+  \field{title}{Relevance: Communication and Cognition}
+  \list{location}{1}{%
+    {Cambridge, MA}%
+  }
+  \field{year}{1986}
+\endentry
+
+\entry{spranger:11b}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Spranger}{S.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SM1}
+  \strng{fullhash}{SM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{title}{The Evolution of Grounded Spatial Language}
+  \list{location}{1}{%
+    {Brussels}%
+  }
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2011}
+\endentry
+
+\entry{steedman00syntactic}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steedman}{S.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT Press}%
+  }
+  \strng{namehash}{SM2}
+  \strng{fullhash}{SM2}
+  \field{labelyear}{2000}
+  \field{sortinit}{S}
+  \field{title}{The Syntactic Process}
+  \list{location}{1}{%
+    {Cambridge, MA}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{steels96selforganizing}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1996}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{number}{3}
+  \field{pages}{319\bibrangedash 332}
+  \field{title}{A Self-Organizing Spatial Vocabulary}
+  \field{volume}{2}
+  \field{journaltitle}{Artificial Life}
+  \field{year}{1996}
+\endentry
+
+\entry{steels96emergent}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{5}{}{%
+    {{}%
+     {Maes}{M.}%
+     {Pattie}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mataric}{M.}%
+     {Maja~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meyer}{M.}%
+     {Jean-Arcady}{J.-A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pollack}{P.}%
+     {Jordan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilson}{W.}%
+     {Stewart~W.}{S.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The MIT Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1996}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{From Animals to Animats 4: Proceedings of the Fourth
+  International Conference On Simulation of Adaptive Behavior}
+  \field{pages}{562\bibrangedash 567}
+  \field{title}{Emergent Adaptive Lexicons}
+  \list{location}{1}{%
+    {Cambridge Ma.}%
+  }
+  \field{year}{1996}
+\endentry
+
+\entry{steels96perceptually}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Tokoro}{T.}%
+     {Mario}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AAAI Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1996}
+  \field{extrayear}{3}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the Second International Conference on
+  Multi-Agent Systems}
+  \field{pages}{338\bibrangedash 344}
+  \field{title}{Perceptually Grounded Meaning Creation}
+  \list{location}{1}{%
+    {Menlo Park}%
+  }
+  \field{year}{1996}
+\endentry
+
+\entry{steels97constructing}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Someren}{S.}%
+     {Maarten~W.}{M.~W.}%
+     {van}{v.}%
+     {}{}}%
+    {{}%
+     {Widmer}{W.}%
+     {Gerhard}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1997}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the European Conference on Machine Learning}
+  \field{pages}{4\bibrangedash 13}
+  \field{title}{Constructing and Sharing Perceptual Distinctions}
+  \list{location}{1}{%
+    {Prague, Czech Republic}%
+  }
+  \field{year}{1997}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels97language-learning}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Daelemans}{D.}%
+     {Walter}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bosh}{B.}%
+     {Antal}{A.}%
+     {van~den}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Weijters}{W.}%
+     {Ton}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ECML/MLnet}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1997}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{Workshop Notes of the ECML/MLnet Familiarization Workshop
+  on Empirical Learning of Natural Language Processing Tasks}
+  \field{title}{Language Learning and Language Contact}
+  \list{location}{1}{%
+    {Prague, Czech Republic}%
+  }
+  \field{year}{1997}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels97selforganizing}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Langton}{L.}%
+     {Christopher~G.}{C.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1997}
+  \field{extrayear}{3}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceeding of Alife V}
+  \field{title}{Self-Organizing Vocabularies}
+  \field{year}{1997}
+\endentry
+
+\entry{steels97origins-ontologies}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1997}
+  \field{extrayear}{4}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{169\bibrangedash 194}
+  \field{title}{The Origins of Ontologies and Communication Conventions in
+  Multi-Agent Systems}
+  \field{volume}{1}
+  \field{journaltitle}{Journal of Agents and Multi-Agent Systems}
+  \field{year}{1997}
+\endentry
+
+\entry{steels97origins-syntax}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Pollack}{P.}%
+     {Martha~E.}{M.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Morgan Kaufmann}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1997}
+  \field{extrayear}{5}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the Fifteenth International Joint Conference
+  on Artificial Intelligence}
+  \field{pages}{1632\bibrangedash 1641}
+  \field{title}{The Origins of Syntax in Visually Grounded Robotic Agents}
+  \list{location}{1}{%
+    {San Francisco, CA}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{steels98structural}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Pfeifer}{P.}%
+     {Rolf}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Blumberg}{B.}%
+     {Bruce}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meyer}{M.}%
+     {Jean-Arcady}{J.-A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilson}{W.}%
+     {Stewart~W.}{S.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The MIT Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1998}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{From Animals to Animats 5: Proceedings of the Fifth
+  International Conference on Simulation of Adaptive Behavior}
+  \field{pages}{263\bibrangedash 269}
+  \field{title}{Structural Coupling of Cognitive Memories Through Adaptive
+  Language Games}
+  \list{location}{1}{%
+    {Cambridge Ma.}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{steels97synthesising}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Hurford}{H.}%
+     {James~R.}{J.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Studdert-Kennedy}{S.-K.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knight}{K.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Edinburgh University Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1998}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{Approaches to the Evolution of Language: Social and
+  Cognitive Bases}
+  \field{pages}{384\bibrangedash 404}
+  \field{title}{Synthesising the Origins of Language and Meaning Using
+  Co-evolution, Self-organisation and Level Formation}
+  \list{location}{1}{%
+    {Edinburgh}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{steels99how}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Wachsmuth}{W.}%
+     {Ipke}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jung}{J.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1999}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings der 4. Fachtagung der Gesellschaft f{\"u}r
+  Kognitionswissenschaft}
+  \field{pages}{1\bibrangedash 3}
+  \field{title}{How Language Bootstraps Cognition}
+  \list{location}{1}{%
+    {Bielefeld}%
+  }
+  \field{year}{1999}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels99spontaneous}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Muggleton}{M.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1999}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{Machine Intelligence 15}
+  \field{pages}{205\bibrangedash 224}
+  \field{title}{The Spontaneous Self-organization of an Adaptive Language}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{steels99talking-heads}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {VUB Artificial Intelligence Laboratory}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{1999}
+  \field{extrayear}{3}
+  \field{sortinit}{S}
+  \field{note}{Special pre-edition for LABORATORIUM, Antwerpen}
+  \field{title}{The Talking Heads Experiment. Volume 1. Words and Meanings}
+  \list{location}{1}{%
+    {Brussels}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{steels00emergence}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Horn}{H.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOS Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2000}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the 14th European Conference on Artificial
+  Intelligence (ECAI)}
+  \field{pages}{764\bibrangedash 769}
+  \field{title}{The Emergence of Grammar in Communicating Autonomous Robotic
+  Agents}
+  \list{location}{1}{%
+    {Berlin, Germany}%
+  }
+  \field{year}{2000}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels00puzzle}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2000}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{number}{4}
+  \field{pages}{153\bibrangedash 150}
+  \field{title}{The Puzzle of Language Evolution}
+  \field{volume}{8}
+  \field{journaltitle}{Kognitionswissenschaft}
+  \field{year}{2000}
+\endentry
+
+\entry{steels01language}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2001}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{pages}{16\bibrangedash 22}
+  \field{title}{Language Games for Autonomous Robots}
+  \field{journaltitle}{IEEE Intelligent Systems}
+  \field{year}{2001}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels01role}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Cohen}{C.}%
+     {P.R.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oates}{O.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AAAI Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2001}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{Papers from the 2001 AAI Spring Symposium}
+  \field{title}{The Role of Language in Learning Grounded Representations}
+  \list{location}{1}{%
+    {Menlo Park, CA}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{steels02grounding}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Cangelosi}{C.}%
+     {Angelo}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Parisi}{P.}%
+     {Domenico}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Verlag}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2002}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{Simulating the Evolution of Language}
+  \field{pages}{211\bibrangedash 226}
+  \field{title}{Grounding Symbols Through Evolutionary Language Games}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{steels02simulating}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2002}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the Evolution of Language Conference}
+  \field{title}{Simulating the Evolution of a Grammar for Case}
+  \list{location}{1}{%
+    {Harvard}%
+  }
+  \field{year}{2002}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels03intelligence}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2003}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{number}{1811}
+  \field{pages}{2381\bibrangedash 2395}
+  \field{title}{Intelligence With Representation}
+  \field{volume}{361}
+  \field{journaltitle}{Philosophical Transactions of the Royal Society A}
+  \field{year}{2003}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels03language}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2003}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{number}{4-5}
+  \field{pages}{173\bibrangedash 185}
+  \field{title}{Language Re-Entrance and the `Inner Voice'}
+  \field{volume}{10}
+  \field{journaltitle}{Journal of Consciousness Studies}
+  \field{year}{2003}
+\endentry
+
+\entry{steels04constructivist}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Daelemans}{D.}%
+     {Walter}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2004}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings 42nd Annual Meeting of the Association for
+  Computational Linguistics}
+  \field{pages}{9\bibrangedash 19}
+  \field{title}{Constructivist Development of Grounded Construction Grammars}
+  \list{location}{1}{%
+    {Barcelona}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{steels04architecture}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Tokoro}{T.}%
+     {Mario}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOS Press}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2004}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{A Learning Zone of One's Own}
+  \field{pages}{135\bibrangedash 150}
+  \field{title}{The Architecture of Flow}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{steels04autotelic}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Fumiya}{F.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pfeifer}{P.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kunyoshi}{K.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2004}
+  \field{extrayear}{3}
+  \field{sortinit}{S}
+  \field{booktitle}{Embodied Artificial Intelligence}
+  \field{pages}{231\bibrangedash 242}
+  \field{series}{LNAI}
+  \field{title}{The Autotelic Principle}
+  \field{volume}{3139}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{steels05emergence}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2005}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{number}{3/4}
+  \field{pages}{213\bibrangedash 230}
+  \field{title}{The Emergence and Evolution of Linguistic Structure: From
+  Lexical to Grammatical Communication Systems}
+  \field{volume}{17}
+  \field{journaltitle}{Connection Science}
+  \field{year}{2005}
+\endentry
+
+\entry{steels05what}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Cangelosi}{C.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nehaniv}{N.}%
+     {C.L.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {AISB}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2005}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{AISB'05: Proceedings of EELC'05}
+  \field{pages}{143\bibrangedash 150}
+  \field{title}{What Triggers the Emergence of Grammar?}
+  \list{location}{1}{%
+    {Hatfield}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{steels06how}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Cangelosi}{C.}%
+     {Angelo}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Publishing}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2006}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the 6th International Conference on the
+  Evolution of Language}
+  \field{title}{How to do Experiments in Artificial Language Evolution and Why}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{steels07recruitment}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Lyon}{L.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nehaniv}{N.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cangelosi}{C.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Verlag}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{booktitle}{The Emergence of Communication and Language}
+  \field{pages}{129\bibrangedash 151}
+  \field{title}{The Recruitment Theory of Language Origins}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{steels11design}{book}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{title}{Design Patterns in {F}luid {C}onstruction {G}rammar}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{steels12computational}{book}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{title}{Computational Issues in {Fluid Construction Grammar}}
+  \list{location}{1}{%
+    {Heidelberg/Berlin}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{steels03shared}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baillie}{B.}%
+     {Jean-Christophe}{J.-C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SLBJC1}
+  \strng{fullhash}{SLBJC1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{number}{2-3}
+  \field{pages}{163\bibrangedash 173}
+  \field{title}{Shared Grounding of Event Descriptions by Autonomous Robots}
+  \field{volume}{43}
+  \field{journaltitle}{Robotics and Autonomous Systems}
+  \field{year}{2003}
+\endentry
+
+\entry{steels05coordinating}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belpaeme}{B.}%
+     {Tony}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SLBT1}
+  \strng{fullhash}{SLBT1}
+  \field{labelyear}{2005}
+  \field{sortinit}{S}
+  \field{pages}{469\bibrangedash 529}
+  \field{title}{Coordinating Perceptually Grounded Categories Through Language:
+  A Case Study For Colour}
+  \field{volume}{28}
+  \field{journaltitle}{Behavioral and Brain Sciences}
+  \field{year}{2005}
+\endentry
+
+\entry{steels05planning}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bleys}{B.}%
+     {Joris}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Bugar{\'\i}n~Diz}{B.~D.}%
+     {Alberto~J.}{A.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Santos~Reyes}{S.~R.}%
+     {Jos{\'e}}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SLBJ1}
+  \strng{fullhash}{SLBJ1}
+  \field{labelyear}{2005}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings CAEPIA 2005, 11th conference of the Spanish
+  association for Artififcial Intelligence}
+  \field{series}{Lecture Notes in Artificial Intelligence}
+  \field{title}{Planning What To Say: Second Order Semantics for {F}luid
+  {C}onstruction {G}rammars}
+  \list{location}{1}{%
+    {Santiago de Compostela}%
+  }
+  \field{year}{2005}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels95alife-route}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brooks}{B.}%
+     {Rodney~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lawrence Erlbaum Ass}%
+  }
+  \strng{namehash}{SLBRA1}
+  \strng{fullhash}{SLBRA1}
+  \field{labelyear}{1995}
+  \field{sortinit}{S}
+  \field{title}{The `Artificial Life' Route to Artificial Intelligence:
+  Building Embodied, Situated Agents}
+  \list{location}{1}{%
+    {New Haven}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{steels06unify}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Beule}{D.~B.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Vogt}{V.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sugita}{S.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tuci}{T.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nehaniv}{N.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SLDBJ1}
+  \strng{fullhash}{SLDBJ1}
+  \field{labelyear}{2006}
+  \field{sortinit}{S}
+  \field{booktitle}{Symbol Grounding and Beyond.}
+  \field{pages}{197\bibrangedash 223}
+  \field{series}{LNAI 4211}
+  \field{title}{Unify and Merge in {F}luid {C}onstruction {G}rammar}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{steels05linking}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Beule}{D.~B.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Neubauer}{N.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SLDBJNN1}
+  \strng{fullhash}{SLDBJNN1}
+  \field{labelyear}{2005}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the 17th Belgium-Netherlands Conference on
+  Artificial Intelligence (BNAIC '05)}
+  \field{pages}{11\bibrangedash 18}
+  \field{title}{Linking in {F}luid {C}onstruction {G}rammar}
+  \list{location}{1}{%
+    {Brussels, Belgium}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{steels12language}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hild}{H.}%
+     {Manfred}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SLHM1}
+  \strng{fullhash}{SLHM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{title}{Language Grounding in Robots}
+  \list{location}{1}{%
+    {Berlin/New York}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{steels98spontaneous}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaplan}{K.}%
+     {Fr{\'e}d{\'e}ric}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Morgan Kaufmann}%
+  }
+  \strng{namehash}{SLKF1}
+  \strng{fullhash}{SLKF1}
+  \field{labelyear}{1998}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings {COLING}-{ACL} 1998}
+  \field{pages}{1243\bibrangedash 1250}
+  \field{title}{Spontaneous Lexicon Change}
+  \list{location}{1}{%
+    {San Francisco, CA}%
+  }
+  \field{year}{1998}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels98stochasticity}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaplan}{K.}%
+     {Fr{\'e}d{\'e}ric}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Adami}{A.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belew}{B.}%
+     {Richard~K.}{R.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kitano}{K.}%
+     {Hiroaki}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Taylor}{T.}%
+     {Charles~E.}{C.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT Press}%
+  }
+  \strng{namehash}{SLKF1}
+  \strng{fullhash}{SLKF1}
+  \field{labelyear}{1998}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the Sixth International Conference on
+  Artificial Life}
+  \field{title}{Stochasticity as a Source of Innovation in Language Games}
+  \field{year}{1998}
+\endentry
+
+\entry{steels99collective}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaplan}{K.}%
+     {Fr{\'e}d{\'e}ric}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Floreano}{F.}%
+     {Dario}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nicoud}{N.}%
+     {Jean-Daniel}{J.-D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mondada}{M.}%
+     {Francesco}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SLKF1}
+  \strng{fullhash}{SLKF1}
+  \field{labelyear}{1999}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{booktitle}{Advances in Artificial Life. Proceedings of the Fifth
+  European Conference, ECAL'99}
+  \field{pages}{679\bibrangedash 688}
+  \field{series}{Lecture Notes in Computer Science}
+  \field{title}{Collective learning and semiotic dynamics}
+  \field{volume}{1674}
+  \list{location}{1}{%
+    {Lausanne, Switzerland}%
+  }
+  \field{year}{1999}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels99situated}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaplan}{K.}%
+     {Fr{\'e}d{\'e}ric}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Dean}{D.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Morgan Kaufmann}%
+  }
+  \strng{namehash}{SLKF1}
+  \strng{fullhash}{SLKF1}
+  \field{labelyear}{1999}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the Sixteenth International Joint Conference
+  on Artificial Intelligence (IJCAI'99)}
+  \field{pages}{862\bibrangedash 867}
+  \field{title}{Situated Grounded Word Semantics}
+  \list{location}{1}{%
+    {Stockholm, Sweden}%
+  }
+  \field{year}{1999}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels02bootstrapping}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaplan}{K.}%
+     {Fr{\'e}d{\'e}ric}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Briscoe}{B.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SLKF1}
+  \strng{fullhash}{SLKF1}
+  \field{labelyear}{2002}
+  \field{sortinit}{S}
+  \field{booktitle}{Linguistic Evolution through Language Acquisition: Formal
+  and Computational Models}
+  \field{pages}{53\bibrangedash 73}
+  \field{title}{Bootstrapping Grounded Word Semantics}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{steels08perspective-alignment}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Loetzsch}{L.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Coventry}{C.}%
+     {Kenny~R.}{K.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tenbrink}{T.}%
+     {Thora}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bateman}{B.}%
+     {John.~A}{J.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{SLLM1}
+  \strng{fullhash}{SLLM1}
+  \field{labelyear}{2008}
+  \field{sortinit}{S}
+  \field{booktitle}{Spatial Language and Dialogue}
+  \field{title}{Perspective Alignment in Spatial Language}
+  \field{year}{2008}
+\endentry
+
+\entry{steels99spatially}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McIntyre}{M.}%
+     {Angus}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SLMA1}
+  \strng{fullhash}{SLMA1}
+  \field{labelyear}{1999}
+  \field{sortinit}{S}
+  \field{number}{4}
+  \field{pages}{301\bibrangedash 323}
+  \field{title}{Spatially Distributed Naming Games}
+  \field{volume}{1}
+  \field{journaltitle}{Advances in Complex Systems}
+  \field{year}{1999}
+\endentry
+
+\entry{steels11how}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{SLvR1}
+  \strng{fullhash}{SLvR1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{booktitle}{Design Patterns in {F}luid {C}onstruction {G}rammar}
+  \field{pages}{301\bibrangedash 330}
+  \field{title}{How to Make Construction Grammars Fluid and Robust}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{steels07multilevel}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wellens}{W.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Costa}{C.}%
+     {Fernando}{F.}%
+     {Almeida~e}{A.~e.}%
+     {}{}}%
+    {{}%
+     {Rocha}{R.}%
+     {Luis~M.}{L.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Costa}{C.}%
+     {Ernesto}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harvey}{H.}%
+     {Inman}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SLvRWP1}
+  \strng{fullhash}{SLvRWP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{booktitle}{Advances in Artificial Life (ECAL 2007)}
+  \field{pages}{421\bibrangedash 434}
+  \field{series}{LNAI 4648}
+  \field{title}{Multi-Level Selection in the Emergence of Language
+  Systematicity}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{steels97grounding}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vogt}{V.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Husbands}{H.}%
+     {Phil}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harvey}{H.}%
+     {Inman}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The MIT Press}%
+  }
+  \strng{namehash}{SLVP1}
+  \strng{fullhash}{SLVP1}
+  \field{labelyear}{1997}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the 4th European Conference on Artificial
+  Life}
+  \field{pages}{473\bibrangedash 484}
+  \field{title}{Grounding Adaptive Language Games in Robotic Agents}
+  \list{location}{1}{%
+    {Brighton, U.K.}%
+  }
+  \field{year}{1997}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{steels06how-grammar}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wellens}{W.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Vogt}{V.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sugita}{S.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tuci}{T.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nehaniv}{N.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer-Verlag}%
+  }
+  \strng{namehash}{SLWP1}
+  \strng{fullhash}{SLWP1}
+  \field{labelyear}{2006}
+  \field{sortinit}{S}
+  \field{booktitle}{Symbol Grounding and Beyond. Proceedings of the Third EELC}
+  \field{pages}{76\bibrangedash 88}
+  \field{series}{LNAI 4211}
+  \field{title}{How Grammar Emerges to Dampen Combinatorial Search in Parsing}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{steels07scaffolding}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wellens}{W.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley -- IEEE Press}%
+  }
+  \strng{namehash}{SLWP1}
+  \strng{fullhash}{SLWP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{booktitle}{IEEE Symposium on Artificial Life 2007 (Alife'07)}
+  \field{pages}{325\bibrangedash 332}
+  \field{title}{Scaffolding Language Emergence Using the Autotelic Principle}
+  \list{location}{1}{%
+    {Honolulu, HI}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{steels02crucial}{incollection}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaplan}{K.}%
+     {Fr{\'e}d{\'e}ric}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McIntyre}{M.}%
+     {Angus}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Van~Looveren}{V.~L.}%
+     {Joris}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Wray}{W.}%
+     {Alison}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{SL+1}
+  \strng{fullhash}{SLKFMAVLJ1}
+  \field{labelyear}{2002}
+  \field{sortinit}{S}
+  \field{booktitle}{The Transition to Language}
+  \field{title}{Crucial Factors in the Origins of Word-Meaning}
+  \list{location}{1}{%
+    {Oxford, UK}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{steels12action}{incollection}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Spranger}{S.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {H\"{o}fer}{H.}%
+     {Sebastian}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hild}{H.}%
+     {Manfred}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hild}{H.}%
+     {Manfred}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{SL+1}
+  \strng{fullhash}{SLSMvRHSHM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{booktitle}{Language Grounding in Robots}
+  \field{pages}{255\bibrangedash 276}
+  \field{title}{Emergent Action Language on Real Robots}
+  \list{location}{1}{%
+    {Berlin/New York}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{stefanowitsch03collostructions}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Stefanowitsch}{S.}%
+     {Anatol}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gries}{G.}%
+     {Stefan~Th.}{S.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SAGST1}
+  \strng{fullhash}{SAGST1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{number}{8}
+  \field{pages}{209\bibrangedash 243}
+  \field{title}{Collostructions: Investigating the Interaction of Words and
+  Constructions}
+  \field{volume}{2}
+  \field{journaltitle}{International Journal of Corpus Linguistics}
+  \field{year}{2003}
+\endentry
+
+\entry{tajima85syntactic}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tajima}{T.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nan'un-do}%
+  }
+  \strng{namehash}{TM1}
+  \strng{fullhash}{TM1}
+  \field{labelyear}{1985}
+  \field{sortinit}{T}
+  \field{title}{The Syntactic Development of the Gerund in Middle {E}nglish}
+  \list{location}{1}{%
+    {Tokyo}%
+  }
+  \field{year}{1985}
+\endentry
+
+\entry{timberlake77reanalysis}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Timberlake}{T.}%
+     {Alan}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Li}{L.}%
+     {C.N.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Texas Press}%
+  }
+  \strng{namehash}{TA1}
+  \strng{fullhash}{TA1}
+  \field{labelyear}{1977}
+  \field{sortinit}{T}
+  \field{booktitle}{Mechanisms of Syntactic Change}
+  \field{pages}{141\bibrangedash 177}
+  \field{title}{Reanalysis and Actualization in Syntactic Change}
+  \list{location}{1}{%
+    {Austin}%
+  }
+  \field{year}{1977}
+\endentry
+
+\entry{tomasello95jointattention}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tomasello}{T.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Moore}{M.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dunham}{D.}%
+     {Philip~J.}{P.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lawrence Erlbaum Associates}%
+  }
+  \strng{namehash}{TM2}
+  \strng{fullhash}{TM2}
+  \field{labelyear}{1995}
+  \field{sortinit}{T}
+  \field{booktitle}{Joint Attention: Its Origins and Role in Development}
+  \field{title}{Joint Attention as Social Cognition}
+  \list{location}{1}{%
+    {Hillsdale, NJ}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{traugott92syntax}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Traugott}{T.}%
+     {Elizabeth~Closs}{E.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Hogg}{H.}%
+     {Richard~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{TEC1}
+  \strng{fullhash}{TEC1}
+  \field{labelyear}{1992}
+  \field{sortinit}{T}
+  \field{booktitle}{The Cambridge History of the {E}nglish Language. The
+  Beginnings to 1066}
+  \field{pages}{168\bibrangedash 289}
+  \field{title}{Syntax}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1992}
+\endentry
+
+\entry{vandenbroeck07constraint}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Van {den}~Broeck}{V.~d.~B.}%
+     {Wouter}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Lopes}{L.}%
+     {L.S.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belpaeme}{B.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cowley}{C.}%
+     {S.~J.}{S.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universidade de Aveiro}%
+  }
+  \strng{namehash}{VdBW1}
+  \strng{fullhash}{VdBW1}
+  \field{labelyear}{2007}
+  \field{sortinit}{V}
+  \field{booktitle}{Language and Robots: Proceedings of the Symposium}
+  \field{title}{A Constraint-Based Model of Grounded Compositional Semantics}
+  \list{location}{1}{%
+    {Aveiro}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{vandenbroeck08constraint}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Van {den}~Broeck}{V.~d.~B.}%
+     {Wouter}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cancho}{C.}%
+     {Ramon}{R.}%
+     {Ferrer~i}{F.~i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Press}%
+  }
+  \strng{namehash}{VdBW1}
+  \strng{fullhash}{VdBW1}
+  \field{labelyear}{2008}
+  \field{sortinit}{V}
+  \field{booktitle}{The Evolution of Language. Proceedings of the 7th
+  International Conference (EVOLANG 7)}
+  \field{pages}{338\bibrangedash 345}
+  \field{title}{Constraint-Based Compositional Semantics}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{vanlooveren05design}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Van~Looveren}{V.~L.}%
+     {Joris}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{VLJ1}
+  \strng{fullhash}{VLJ1}
+  \field{labelyear}{2005}
+  \field{sortinit}{V}
+  \field{title}{Design and Performance of Pre-Grammatical Language Games}
+  \list{location}{1}{%
+    {Brussels}%
+  }
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2005}
+\endentry
+
+\entry{vantrijp08analogy}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2008}
+  \field{extrayear}{1}
+  \field{sortinit}{V}
+  \field{title}{Analogy and Multi-Level Selection in the Formation of a Case
+  Grammar. A Case Study in Fluid Construction Grammar}
+  \list{institution}{1}{%
+    {Universiteit Antwerpen}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2008}
+\endentry
+
+\entry{vantrijp08argumentsstruktur}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Fischer}{F.}%
+     {Kerstin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stefanowitsch}{S.}%
+     {Anatol}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Stauffenburg Verlag}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2008}
+  \field{extrayear}{2}
+  \field{sortinit}{V}
+  \field{booktitle}{Konstruktionsgrammatik II: Von der Konstruktion zur
+  Grammatik}
+  \field{series}{Stauffenburg Linguistik}
+  \field{title}{Argumentsstruktur in der {F}luid {C}onstruction {G}rammar}
+  \field{volume}{47}
+  \list{location}{1}{%
+    {T\"{u}bingen}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{vantrijp08emergence}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cancho}{C.}%
+     {Ramon}{R.}%
+     {Ferrer~i}{F.~i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Press}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2008}
+  \field{extrayear}{3}
+  \field{sortinit}{V}
+  \field{booktitle}{The Evolution of Language. Proceedings of the 7th
+  International Conference (EVOLANG 7)}
+  \field{pages}{346\bibrangedash 353}
+  \field{title}{The Emergence of Semantic Roles in {F}luid {C}onstruction
+  {G}rammar}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{vantrijp10grammaticalization}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2010}
+  \field{extrayear}{1}
+  \field{sortinit}{V}
+  \field{number}{1}
+  \field{pages}{310\bibrangedash 326}
+  \field{title}{Grammaticalization and Semantic Maps: Evidence from Artificial
+  Language Evolution}
+  \field{volume}{8}
+  \field{journaltitle}{Linguistic Discovery}
+  \field{year}{2010}
+\endentry
+
+\entry{vantrijp10spanish}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Smith}{S.}%
+     {A.D.M.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schouwstra}{S.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boer}{B.}%
+     {B.}{B.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2010}
+  \field{extrayear}{2}
+  \field{sortinit}{V}
+  \field{booktitle}{The Evolution of Language (EVOLANG 8)}
+  \field{pages}{336\bibrangedash 343}
+  \field{title}{Strategy Competition in the Evolution of Pronouns: A Case-Study
+  of Spanish Le\'{i}smo, La\'{i}smo and Lo\'{i}smo}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{vantrijp11design}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2011}
+  \field{extrayear}{1}
+  \field{sortinit}{V}
+  \field{booktitle}{Design Patterns in {F}luid {C}onstruction {G}rammar}
+  \field{pages}{115\bibrangedash 145}
+  \field{title}{A Design Pattern for Argument Structure Constructions}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{vantrijp:11a}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{5}{}{%
+    {{}%
+     {De~Causmaecker}{D.~C.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maervoet}{M.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Messelis}{M.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Verbeeck}{V.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vermeulen}{V.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {KAHO Sint-Lieven}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2011}
+  \field{extrayear}{2}
+  \field{sortinit}{V}
+  \field{booktitle}{Proceedings of the 23rd Benelux Conference on Artificial
+  Intelligence (BNAIC 2011)}
+  \field{pages}{288\bibrangedash 295}
+  \field{title}{Can Iterated Learning Explain the Emergence of Case Marking in
+  Language?}
+  \list{location}{1}{%
+    {Ghent}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{vantrijp11feature}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2011}
+  \field{extrayear}{3}
+  \field{sortinit}{V}
+  \field{booktitle}{Design Patterns in {F}luid {C}onstruction {G}rammar}
+  \field{pages}{205\bibrangedash 235}
+  \field{title}{Feature Matrices and Agreement: A Case Study for {German} Case}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{vantrijp12robust}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2012}
+  \field{extrayear}{1}
+  \field{sortinit}{V}
+  \field{booktitle}{Computational Issues in {Fluid Construction Grammar}}
+  \field{pages}{51\bibrangedash 74}
+  \field{title}{A Reflective Architecture for Robust Language Processing and
+  Learning}
+  \list{location}{1}{%
+    {Heidelberg/Berlin}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{vantrijp:12c}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACL}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2012}
+  \field{extrayear}{2}
+  \field{sortinit}{V}
+  \field{booktitle}{Proceedings of the 13th Conference of the European Chapter
+  of the Association for Computational Linguistics}
+  \field{pages}{829\bibrangedash 839}
+  \field{title}{Not as Awful as it Seems: Explaining {German} Case through
+  Computational Experiments in {Fluid Construction Grammar}}
+  \list{location}{1}{%
+    {Avignon}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{vantrijp:12e}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{7}{}{%
+    {{}%
+     {De~Raedt}{D.~R.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bessiere}{B.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dubois}{D.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Doherty}{D.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Frasconi}{F.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heintz}{H.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lucas}{L.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOS Press}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2012}
+  \field{extrayear}{3}
+  \field{sortinit}{V}
+  \field{booktitle}{ECAI2012: The 20th European Conference on Artificial
+  Intelligence}
+  \field{pages}{798\bibrangedash 803}
+  \field{series}{Frontiers in Artificial Intelligence and Applications}
+  \field{title}{Self-Assessing Agents for Explaining Language Change: A Case
+  Study in {German}}
+  \field{volume}{242}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{vantrijp12b}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Scott-Phillips}{S.-P.}%
+     {T.C.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tamariz}{T.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cartmill}{C.}%
+     {E.A.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hurford}{H.}%
+     {J.R.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2012}
+  \field{extrayear}{4}
+  \field{sortinit}{V}
+  \field{booktitle}{The Evolution of Language (EVOLANG 9)}
+  \field{pages}{360\bibrangedash 368}
+  \field{title}{The Emergence of Morphosyntactic Case Systems}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{vantrijp12case}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2012}
+  \field{extrayear}{5}
+  \field{sortinit}{V}
+  \field{booktitle}{Experiments in Cultural Language Evolution}
+  \field{title}{The Evolution of Case Systems for Marking Event Structure}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{vantrijp13comparison}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2013}
+  \field{extrayear}{1}
+  \field{sortinit}{V}
+  \field{pages}{88\bibrangedash 116}
+  \field{title}{A Comparison Between {Fluid Construction Grammar} and
+  {Sign-Based Construction Grammar}}
+  \field{volume}{5}
+  \field{journaltitle}{Constructions and Frames}
+  \field{year}{2013}
+\endentry
+
+\entry{vantrijp2013ldc}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2013}
+  \field{extrayear}{2}
+  \field{sortinit}{V}
+  \field{pages}{105\bibrangedash 132}
+  \field{title}{Linguistic Assessment Criteria for Explaining Language Change:
+  A Case Study on Syncretism in {German} Definite Articles}
+  \field{volume}{3}
+  \field{journaltitle}{Language Dynamics and Change}
+  \field{year}{2013}
+\endentry
+
+\entry{vantrijp14fitness}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2014}
+  \field{extrayear}{1}
+  \field{sortinit}{V}
+  \field{booktitle}{The Evolution of Language (Evolang-X)}
+  \field{title}{Fitness Landscapes in Cultural Language Evolution: A Case Study
+  on {German} Definite Articles}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{vantrijp14}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vR1}
+  \strng{fullhash}{vR1}
+  \field{labelyear}{2014}
+  \field{extrayear}{2}
+  \field{sortinit}{V}
+  \verb{doi}
+  \verb 10.1017/langcog.2014.8
+  \endverb
+  \field{title}{Long-Distance Dependencies Without Filler-Gaps: A
+  Cognitive-Functional Alternative in {Fluid Construction Grammar}}
+  \field{journaltitle}{Language and Cognition}
+  \field{year}{2014}
+\endentry
+
+\entry{vantrijp:12f}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {{van Trijp}}{v.}%
+     {Remi}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vRSL1}
+  \strng{fullhash}{vRSL1}
+  \field{labelyear}{2012}
+  \field{sortinit}{V}
+  \field{number}{3--4}
+  \field{title}{Multilevel Alignment Maintains Language Systematicity}
+  \field{volume}{15}
+  \field{journaltitle}{Advances in Complex Systems}
+  \field{year}{2012}
+\endentry
+
+\entry{vogt00lexicon}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Vogt}{V.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{VP1}
+  \strng{fullhash}{VP1}
+  \field{labelyear}{2000}
+  \field{sortinit}{V}
+  \field{title}{Lexicon Grounding on Mobile Robots}
+  \list{institution}{1}{%
+    {Vrije Universiteit Brussel}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2000}
+\endentry
+
+\entry{vogt07group}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Vogt}{V.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Costa}{C.}%
+     {Fernando}{F.}%
+     {Almeida~e}{A.~e.}%
+     {}{}}%
+    {{}%
+     {Rocha}{R.}%
+     {Luis~M.}{L.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Costa}{C.}%
+     {Ernesto}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Harvey}{H.}%
+     {Inman}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{VP1}
+  \strng{fullhash}{VP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{V}
+  \field{booktitle}{Advances in Artificial Life (ECAL 2007)}
+  \field{pages}{403\bibrangedash 414}
+  \field{series}{LNAI 4648}
+  \field{title}{Group Size Effects on the Emergence of Compositional Structures
+  in Language}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{wellens08coping}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wellens}{W.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Andrew~D.M.}{A.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Kenny}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cancho}{C.}%
+     {Ramon}{R.}%
+     {Ferrer~i}{F.~i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {World Scientific Press}%
+  }
+  \strng{namehash}{WP1}
+  \strng{fullhash}{WP1}
+  \field{labelyear}{2008}
+  \field{sortinit}{W}
+  \field{booktitle}{The Evolution of Language. Proceedings of the 7th
+  International Conference (EVOLANG 7)}
+  \field{pages}{370\bibrangedash 377}
+  \field{title}{Coping with Combinatorial Uncertainty in Word Learning: A
+  Flexible Usage-Based Model}
+  \list{location}{1}{%
+    {Singapore}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{wellens08flexible}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wellens}{W.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Loetzsch}{L.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steels}{S.}%
+     {Luc}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WPLMSL1}
+  \strng{fullhash}{WPLMSL1}
+  \field{labelyear}{2008}
+  \field{sortinit}{W}
+  \field{number}{2}
+  \field{pages}{173\bibrangedash 191}
+  \field{title}{Flexible Word Meaning in Embodied Agents}
+  \field{volume}{20}
+  \field{journaltitle}{Connection Science}
+  \field{year}{2008}
+\endentry
+
+\entry{wilson94group}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wilson}{W.}%
+     {D.S.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sober}{S.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WDSE1}
+  \strng{fullhash}{WDSE1}
+  \field{labelyear}{1994}
+  \field{sortinit}{W}
+  \field{number}{4}
+  \field{pages}{585\bibrangedash 654}
+  \field{title}{Reintroducing Group Selection to the Human Behavioral Sciences}
+  \field{volume}{17}
+  \field{journaltitle}{Behavioral and Brain Sciences}
+  \field{year}{1994}
+\endentry
+
+\entry{wray98protolanguage}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wray}{W.}%
+     {Alison}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WA1}
+  \strng{fullhash}{WA1}
+  \field{labelyear}{1998}
+  \field{sortinit}{W}
+  \field{pages}{47\bibrangedash 67}
+  \field{title}{Protolanguage as a Holistic System for Social Interaction}
+  \field{volume}{18}
+  \field{journaltitle}{Language \& Communication}
+  \field{year}{1998}
+\endentry
+
+\entry{wray02transition}{book}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Wray}{W.}%
+     {Alison}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{WA1}
+  \strng{fullhash}{WA1}
+  \field{labelyear}{2002}
+  \field{sortinit}{W}
+  \field{title}{The Transition to Language}
+  \list{location}{1}{%
+    {Oxford, UK}%
+  }
+  \field{year}{2002}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

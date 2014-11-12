@@ -1,0 +1,175 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{iv}{Item.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Case and Artificial Language Evolution}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Case and the grammar square}{2}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}The functions of case systems}{2}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Stage I: no marking}{3}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}Stage II: specific marking}{4}{subsection.1.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.4}Stage III: semantic role\p@index [sbj]{semantic role}s}{6}{subsection.1.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.5}Stage IV: syntactic role\p@index [sbj]{syntactic role}s}{8}{subsection.1.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.6}Further developments}{9}{subsection.1.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Modeling language evolution}{10}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Three models of artificial language evolution}{10}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}The do's and don'ts of artificial language evolution\p@index [sbj]{artificial language evolution}}{12}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}A brief history of prior work}{16}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}The emergence of adaptive lexicons}{16}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Towards grammar}{18}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.3}Other research avenues}{20}{subsection.1.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Processing Case and Argument Structure}{23}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Representing and linking meanings}{24}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}A brief introduction to Fluid Construction Grammar}{27}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Parsing ``Jack sweep dust off-floor''}{32}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Unifying and merging lexical entries}{32}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}A syntactic case marker\p@index [sbj]{case!case marking}}{39}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}The cause\p@index [sbj]{causality}d motion construction\p@index [sbj]{construction!caused motion construction}}{40}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Producing ``jack sweep floor''}{44}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Unifying and merging lexical entr\p@index [sbj]{lexical entry}ies}{44}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}The agent-acts-on-surface construction}{46}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Networks and conventionalization}{48}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Baseline Experiments}{51}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Experimental set-up}{51}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Key abilities and self-assessment criteria}{52}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Description games}{54}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}The world, sensory-motor input and conceptualization}{56}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Additional assumption\p@index [sbj]{assumption}s and scaffold\p@index [sbj]{scaffold}s}{60}{subsection.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Baseline experiment 1: no marking}{64}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}An inferential coding system}{66}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Results and discussion}{70}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Baseline experiment 2: specific marking}{72}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Speaker-based innovat\p@index [sbj]{innovation}ion}{72}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Results and discussion}{82}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Baseline experiment 3: semantic role\p@index [sbj]{semantic role}s}{87}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Generalization as a side-effect}{88}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Results and discussion of set-up 3a}{95}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Results and discussion of set-up 3b}{98}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Results and discussion of set-up 3c}{101}{subsection.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.5}Results and discussion of set-up 3d}{104}{subsection.3.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.6}Conclusions and future work}{108}{subsection.3.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Multi-level selection\p@index [sbj]{multi-level selection} and language systematicity\p@index [sbj]{systematicity}}{113}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Pattern formation}{114}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Pattern formation\p@index [sbj]{pattern formation} in language}{114}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Operationalizing pattern formation\p@index [sbj]{formation}\p@index [sbj]{pattern formation}}{118}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Experiment 1: individual selection without analog\p@index [sbj]{analogy}y}{121}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Experimental set-up}{122}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Results and discussion}{122}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}The problem of systematicity\p@index [sbj]{systematicity} in other work}{129}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Experiment 2: multi-level selection\p@index [sbj]{multi-level selection} without analog\p@index [sbj]{analogy}y}{134}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Experimental set-up}{134}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Results and discussion}{135}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Experiment 3: multi-level selection\p@index [sbj]{multi-level selection} with analog\p@index [sbj]{analogy}y}{142}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Experimental set-up}{143}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Results and discussion}{144}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Towards syntactic cases}{154}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1}A first experiment}{154}{subsection.4.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2}The grammar square\p@index [sbj]{grammatical square}: a roadmap for further work}{161}{subsection.4.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Impact on Artificial Language Evolution\p@index [sbj]{artificial language evolution} and Linguistic Theory}{165}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Pushing the state-of-the-art}{166}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Experiment 1: a primitive case system?}{166}{subsection.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Experiment 2: dealing with variation\p@index [sbj]{variation}}{170}{subsection.5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Experiment 3: implementing communicative pressures}{172}{subsection.5.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4}Experiment 4: more innate knowledge}{174}{subsection.5.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.5}Summary: case marker\p@index [sbj]{case!case marking}s serve communication}{176}{subsection.5.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Argument structure and construction grammar}{178}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Argument structure in BCG\p@index [sbj]{construction grammar!Berkeley Construction Grammar} and SBCG\p@index [sbj]{construction grammar!Sign-Based Construction Grammar}}{178}{subsection.5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}An example: the ditransitive\p@index [sbj]{ditransitive clause} construction}{179}{subsection.5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Discussion and comparison}{182}{subsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Analog\p@index [sbj]{analogy}y, multi-level selection\p@index [sbj]{selection}\p@index [sbj]{multi-level selection} and the constructicon}{186}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}The organization of the linguistic inventory}{186}{subsection.5.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}The inventor\p@index [sbj]{linguistic inventory}y in Fluid Construction Grammar\p@index [sbj]{construction grammar!Fluid Construction Grammar}}{190}{subsection.5.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Linguistic typology\p@index [sbj]{linguistic typology} and grammaticalization\p@index [sbj]{grammaticalization}}{192}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}The status of semantic map\p@index [sbj]{semantic maps}s}{193}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Thematic hierarchies in case systems\p@index [sbj]{case!case system}}{198}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}A redundant approach to grammaticalization\p@index [sbj]{grammaticalization}}{201}{subsection.5.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Postscriptum}{208}{Item.187}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgements}{211}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendix: Measures}{213}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Name index}{217}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Language index}{225}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Subject index}{225}{section*.15}
