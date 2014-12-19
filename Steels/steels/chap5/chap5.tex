@@ -157,9 +157,9 @@ be displayed in a table as follows:
 \begin{tabular}{ l  l }
 \lsptoprule
 {\it meaning} & {\it form} \\ \midrule
-[DARK] & coba \\ \midrule
-[LARGE] & wabidu \\ \midrule
-... & ... \\ \midrule
+[DARK] & coba \\ 
+[LARGE] & wabidu \\ 
+... & ... \\ 
 \lspbottomrule
 \end{tabular}
 \end{center}
@@ -194,10 +194,10 @@ a lexicon with multiple associations and a score for every
 association is illustrated in \tabref{tab:mem2}. 
 \begin{table}
 \begin{center}
-\begin{tabular}{c c c c  c  c  c } \midrule 
+\begin{tabular}{c c c c  c  c  c } \lsptoprule 
 & coba & zapo & bila & pama & wabidu & limiri \\ \midrule 
-[DARK] & 0.3 & 0.2 & 0.1 & 0.8 & - & - \\ \midrule
-[LARGE] & - & - & - & 0.5 & 0.3 & 0.6 \\ \midrule
+[DARK] & 0.3 & 0.2 & 0.1 & 0.8 & - & - \\ 
+[LARGE] & - & - & - & 0.5 & 0.3 & 0.6 \\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:mem2} Example lexicon with multiple associations.}
@@ -400,10 +400,10 @@ agent, {\bf a5}, after 100 games is shown in \ref{tab:t-mem3}.
 \begin{tabular}{l  l  l }
 \lsptoprule 
 {\it Meaning} & {\it Word} & {\it Score} \\ \midrule
-[LARGE]& pida& 0.20\\ \midrule
-  & fobu& 0.1\\ \midrule
-[LIGHT]& gi& 0.0\\ \midrule
-[SMALL]& di & 0.10\\ \midrule
+[LARGE]& pida& 0.20\\ 
+  & fobu& 0.1\\ 
+[LIGHT]& gi& 0.0\\ 
+[SMALL]& di & 0.10\\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem3} Associative memory of a single agent after 100 games.}
@@ -435,9 +435,9 @@ is shown in \tabref{tab:t-mem4}.
 \begin{tabular}{l  l  l }
 \lsptoprule 
 {\it Meaning}& {\it Word} & {\it Frequency} \\ \midrule 
-[LARGE]& pida& 0.40\\ \midrule
-[LIGHT]& gi & 0.60\\ \midrule
-[SMALL]& di & 0.40\\ \midrule
+[LARGE]& pida& 0.40\\ 
+[LIGHT]& gi & 0.60\\ 
+[SMALL]& di & 0.40\\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem4} Population lexicon after 50 games}
@@ -490,10 +490,10 @@ The group lexicon is shown in \tabref{tab:t-mem5}.
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  c  l  l  c } \midrule 
-{\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency}\\ \midrule 
-[DARK]& go & 1.00 & [LARGE]& pida & 1.00 \\ \midrule 
-[LIGHT]& gi & 1.00 & [SMALL]& di & 1.00 \\ \midrule 
-[RED]& ga & 1.00 & - & - & -  \\ \midrule 
+{\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency}\\  
+[DARK]& go & 1.00 & [LARGE]& pida & 1.00 \\  
+[LIGHT]& gi & 1.00 & [SMALL]& di & 1.00 \\  
+[RED]& ga & 1.00 & - & - & -  \\  
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem5} Consensus in group lexicon, reached after 250 games.}
@@ -590,16 +590,16 @@ previous simulation (with 20 agents), shown in \tabref{tab:t-mem3000}.
 \begin{tabular}{l  l  l  l  l  l }
 \lsptoprule 
 {\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency} \\ \midrule
-[DARK]& dato & 1.00 & [LARGE]& biti & 0.80 \\ \midrule 
-[LIGHT]& pitu & 0.60 & [SMALL]& dopu & 1.00 \\ \midrule 
-[RED]& gabi & 1.00 & [GREEN]& gu & 0.85 \\ \midrule 
-[SQUARE]& koti & 0.50 & [RECTANGLE]& totu & 0.65 \\ \midrule 
-[LEFT]& toga & 0.90 & [BLUE]& ku & 0.80 \\ \midrule 
-[YELLOW]& gubo & 0.55 & [CHARMING]& ge & 1.00 \\ \midrule 
-[TRIANGLE]& bu & 0.85 & [SQUARE]& ba & 0.60 \\ \midrule 
-[FAST]& beke & 1.00 & [SLOW]& tu & 0.95 \\ \midrule 
-[CIRCLE]& ke & 0.75 & [RIGHT]& gaba & 0.95 \\ \midrule 
-[UP]& butu & 1.00 & [DOWN]& ki & 0.95 \\ \midrule 
+[DARK]& dato & 1.00 & [LARGE]& biti & 0.80 \\  
+[LIGHT]& pitu & 0.60 & [SMALL]& dopu & 1.00 \\  
+[RED]& gabi & 1.00 & [GREEN]& gu & 0.85 \\  
+[SQUARE]& koti & 0.50 & [RECTANGLE]& totu & 0.65 \\  
+[LEFT]& toga & 0.90 & [BLUE]& ku & 0.80 \\  
+[YELLOW]& gubo & 0.55 & [CHARMING]& ge & 1.00 \\  
+[TRIANGLE]& bu & 0.85 & [SQUARE]& ba & 0.60 \\  
+[FAST]& beke & 1.00 & [SLOW]& tu & 0.95 \\  
+[CIRCLE]& ke & 0.75 & [RIGHT]& gaba & 0.95 \\  
+[UP]& butu & 1.00 & [DOWN]& ki & 0.95 \\  
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem3000} Group lexicon after 3000 games.}
@@ -691,18 +691,18 @@ of 20 meanings, as expected. The group's lexicon
 is now as in \tabref{tab:gphase1}. 
 \begin{table}
 \begin{center}
-\begin{tabular}{l  l  c  l  l  c } \midrule 
+\begin{tabular}{l  l  c  l  l  c } \lsptoprule 
 {\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency}\\ \midrule 
-[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\ \midrule 
-[M3]& koto & 0.70 & [M4]& da & 1.00 \\ \midrule 
-[M5]& peko & 1.00 & [M6]& ki & 1.00 \\ \midrule 
-[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\ \midrule 
-[M9]& do & 1.00 & [M10]& gige & 1.00 \\ \midrule 
-[M11]& pi & 1.00 & [M12]& bu & 1.00 \\ \midrule 
-[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\ \midrule 
-[M15]& depi & 0.95 & [M16]& pudi & 1.00 \\ \midrule 
-[M17]& tegi & 1.00 & [M18]& ba & 0.90 \\ \midrule 
-[M19]& ko & 1.00 & [M20]& guda & 1.00 \\ \midrule 
+[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\  
+[M3]& koto & 0.70 & [M4]& da & 1.00 \\  
+[M5]& peko & 1.00 & [M6]& ki & 1.00 \\  
+[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\  
+[M9]& do & 1.00 & [M10]& gige & 1.00 \\  
+[M11]& pi & 1.00 & [M12]& bu & 1.00 \\  
+[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\  
+[M15]& depi & 0.95 & [M16]& pudi & 1.00 \\  
+[M17]& tegi & 1.00 & [M18]& ba & 0.90 \\  
+[M19]& ko & 1.00 & [M20]& guda & 1.00 \\  
  \lspbottomrule
 \end{tabular}
 \caption{\label{tab:gphase1} Group lexicon after first phase.}
@@ -718,22 +718,22 @@ consensus has emerged. Words for the latest
 new meanings, [M28] and [M29], still have low frequencies. 
 \begin{table}
 \begin{center}
-\begin{tabular}{ l  l  c  l  l  c } \midrule 
+\begin{tabular}{ l  l  c  l  l  c } \lsptoprule 
 {\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency}\\ \midrule 
-[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\ \midrule 
-[M3]& koto & 1.00 & [M4]& da & 1.00 \\ \midrule 
-[M5]& peko & 1.00 & [M6]& ki & 1.00 \\ \midrule 
-[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\ \midrule 
-[M9]& do & 1.00 & [M10]& gige & 1.00 \\ \midrule 
-[M11]& pi & 1.00 & [M12]& bu & 1.00 \\ \midrule 
-[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\ \midrule 
-[M15]& depi & 1.00 & [M16]& pudi & 1.00 \\ \midrule 
-[M17]& tegi & 1.00 & [M18]& ba & 1.00 \\ \midrule 
-[M19]& ko & 1.00 & [M20]& guda & 1.00 \\ \midrule 
-[M22]& to & 1.00 & [M23]& de & 0.85 \\ \midrule 
-[M24]& tabo & 0.95 & [M25]& piku & 1.00 \\ \midrule 
-[M26]& ku & 1.00 & [M27]& pugu & 1.00 \\ \midrule 
-[M28]& tete & 0.35 & [M29]& todu & 0.35 \\ \midrule 
+[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\  
+[M3]& koto & 1.00 & [M4]& da & 1.00 \\  
+[M5]& peko & 1.00 & [M6]& ki & 1.00 \\  
+[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\  
+[M9]& do & 1.00 & [M10]& gige & 1.00 \\  
+[M11]& pi & 1.00 & [M12]& bu & 1.00 \\  
+[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\  
+[M15]& depi & 1.00 & [M16]& pudi & 1.00 \\  
+[M17]& tegi & 1.00 & [M18]& ba & 1.00 \\  
+[M19]& ko & 1.00 & [M20]& guda & 1.00 \\  
+[M22]& to & 1.00 & [M23]& de & 0.85 \\  
+[M24]& tabo & 0.95 & [M25]& piku & 1.00 \\  
+[M26]& ku & 1.00 & [M27]& pugu & 1.00 \\  
+[M28]& tete & 0.35 & [M29]& todu & 0.35 \\  
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:phase1} Group lexicon after second phase.}
