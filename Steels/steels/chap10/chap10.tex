@@ -23,7 +23,7 @@ From 1996, even before the first Talking Heads experiment was started, experimen
 laboratory, primarily by Paul Vogt, exploring language games on the cybernetic mobile robots that we were able to build ourselves
 at the time. These robots were constructed from Lego bricks and 
 used a basic processing board for linking directly simple sensors (touch sensors, infrared sensors) and actuators (left and right motors)
-using an adaptive dynamical system (see Figure \ref{f:plate3}). They were however too unreliable for long-term repeatable 
+using an adaptive dynamical system (see \figref{f:plate3}). They were however too unreliable for long-term repeatable 
 experimentation and the sensori-motor experiences were too restricted to hope for the development of interesting languages. The use 
 of pan-tilt cameras, as in the Talking Heads experiment, was an attempt to 
 have an experimental set-up at relatively low cost that was reliable and
@@ -74,7 +74,7 @@ These experiments extended the Talking Heads experiment in several directions:
 of the Talking Heads was relatively reliable, although light conditions and camera misalignment
 could occasionally 
 cause havoc. The AIBO experiments now used 3d objects in the real world that were seen from many different 
-angles and in different light conditions (see Figure \ref{f:look-ball}, right). This obviously pushed up the 
+angles and in different light conditions (see \figref{f:look-ball}, right). This obviously pushed up the 
 difficulty of visual perception enormously and it also made it much more difficult to acquire stable categories 
 for reliably recognising the objects in the environment. 
 \item {\it Speech.} The interaction with the robot used spoken language, which implied that the robot needed 
@@ -91,7 +91,7 @@ steering the robot itself, which could in many cases not be overridden or direct
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.50\textwidth]{chap10/figs/look-ball}
 \includegraphics[width=.45\textwidth]{chap10/figs/views-ball}}
-\caption{\small\label{f:look-ball} 
+\caption{\label{f:look-ball} 
 Left: Fr\'{e}d\'{e}ric Kaplan interacts with the AIBO robot in an experiment for the social learning of lexicons.
 Right: View of the ball through the eye of the robot. As the same object is now seen from many different viewpoints it 
 becomes much more challenging to consistently recognize it.}
@@ -129,7 +129,7 @@ H: Yes & H: No, this is "sit". \\
 \end{center}
 The scripts of the agents are represented internally using probabilistic finite state machines with 
 temporal annotations. This computational formalism (pioneered by Rodney Brooks) was also used to program the 
-physical behavior of the robots (Figure \ref{fig:fsm}).\footnote{
+physical behavior of the robots (\figref{fig:fsm}).\footnote{
 This architecture was first described in \cite{Brooks:1986} 
 For the experiments I implemented a LISP-based Behavior Language that ran also on the AIBO.}
 
@@ -144,7 +144,7 @@ touch, vision or infrared sensing has
 detected an object, whatever other network is governing at that time the robot behavior. 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap10/figs/fsm}}
-\caption{\small\label{fig:fsm} 
+\caption{\label{fig:fsm} 
 The behavior on the AIBO, including the language game scripts, are programmed using probabilistic finite state 
 machines that bring the robot from one internal state to another one depending on internal or external conditions.}
 \end{figure}
@@ -223,7 +223,7 @@ perspective, there can be no doubt that perspective marking is pervasive across
 languages and language families, and that speakers make abundant use of it. 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap10/figs/tokyo-persp}}
-\caption{\small\label{fig:tokyo-persp} 
+\caption{\label{fig:tokyo-persp} 
 Luc Steels demonstrates live the Perspective Reversal Experiment in Tokyo, April 2005. AIBO robots track 
 the movement of a ball and 
 the robot acting as speaker describes to the hearer an observed movement, possibly taking into account the 
@@ -235,7 +235,7 @@ freely in an unconstrained in-door environment. As soon as one sees the
 ball, it comes to a stop and searches for another robot nearby, which also
 looks for the ball and stops when it sees it. Then the human
 experimenter pushes the ball with a stick so that it rolls a short
-distance (see Figure \ref{fig:tokyo-persp}). The two robots next play a description game. One robot (acting as the `speaker') 
+distance (see \figref{fig:tokyo-persp}). The two robots next play a description game. One robot (acting as the `speaker') 
 describes the ball-moving event to the other robot (the `hearer'), going through the same semiotic cycle as the Talking 
 Heads agents. The game is a success if the meaning conveyed by the speaker is compatible with the hearer's 
 own perception of the scene. 
@@ -246,13 +246,13 @@ They have been programmed to achieve autonomous locomotion and vision-based obst
 and maintain a real-time analog model of their immediate surroundings based on visual input. Using
 this vision-based world model, the robots are able to detect and track
 other robots as well as orange balls using standard image processing
-algorithms (see Figure \ref{fig:persp-rev-perception}). Furthermore, the
+algorithms (see \figref{fig:persp-rev-perception}). Furthermore, the
 robots have been endowed with mechanisms to segment the flow of data
 into distinct events and they have a short term memory in which they
 can store a number of past events.
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.90\textwidth]{chap10/figs/persp-rev-perception}}
-\caption{\small\label{fig:persp-rev-perception} 
+\caption{\label{fig:persp-rev-perception} 
 Chain from visual image (left) to an analog world model (middle) and a discrete event description
 that is the topic of the language game (right). 
 The top row shows this chain for robot A and the bottom row the chain for robot B, both looking at the same ball.}
@@ -316,7 +316,7 @@ appeared as a paper in the Artificial Intelligence journal in 1998.\cite{Steels:
 It was described by the journal editors (Dan Bobrow and 
 Mike Bray) as "obviously in an early stage, but very provocative and suggestive." The paper was based on my keynote 
 lecture at IJCAI 1997 in Nagoya and used a precursor of the pan-tilt cameras built by Tony Belpaeme. 
-(see Figure \ref{f:plate7}). 
+(see \figref{f:plate7}). 
 
 The paper describes the grammar formalism as follows:
 
@@ -396,12 +396,12 @@ Association-271
 \begin{figure}[t]
 \centerline{
 \includegraphics[width=0.75\textwidth]{chap10/figs/associations}}
-\caption{\small\label{fig:associations} 
+\caption{\label{fig:associations} 
 Top: Two lexical associations have become active (association-259 and association-234) to cover the distinctive 
 feature-set ([VISIB v-411] [VER v-431]) resulting from discrimination and perception. Bottom: 
 The group of words and the meanings match with schemas forming part of a grammatical association that combines the words. }
 \end{figure}
-An application of these schemas in producing the utterance "(W O) (W U)" is represented in Figure \ref{fig:associations} and shown 
+An application of these schemas in producing the utterance "(W O) (W U)" is represented in \figref{fig:associations} and shown 
 here: 
 \begin{verbatim}
 127 ++> Speaker: head-40 Topic: 2 Context: 6 5 4 3 1 0
@@ -517,7 +517,7 @@ language games? How did the vision system work? And what grammatical formalism w
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.60\textwidth]{chap10/figs/peract-setup}}
-\caption{\small\label{fig:peract-setup} 
+\caption{\label{fig:peract-setup} 
 The installation for the case grammar experiments used a more sophisticated vision system and objects that 
 could be moved around. We see the two Talking Heads cameras in 
 the background. They are oriented towards objects on the table or situations in the 
@@ -526,23 +526,23 @@ Talking Heads experiment.
 }
 \end{figure}
 
-We used a similar set-up as the Talking Heads experiment (see Figure \ref{fig:peract-setup}), but 
+We used a similar set-up as the Talking Heads experiment (see \figref{fig:peract-setup}), but 
 the world had to be made more complex, involving dynamical scenes in which 
 different animate objects performed actions. So I decided to use 
-puppets and enacted little scenes before the cameras (see Figure \ref{fig:adam-eve} middle and bottom). 
+puppets and enacted little scenes before the cameras (see \figref{fig:adam-eve} middle and bottom). 
 There were two puppets, named Jack and Jill. They were actually sold at that time as puppet versions of Harry 
 Potter and Hermelien Griffel inspired by the famous Harry Potter book series. 
 The puppets appeared and disappeared within the field of view of the cameras. 
 They manipulated small objects, for example pushing a green cube, picking it up, sliding the cube
 towards the other puppet, putting it in a box, etc. To make the simulation more lively and easier to follow for 
 a lay public, the agents engaging in a language game were also visually animated (see 
-Figure \ref{fig:adam-eve} top).\footnote{The animations were developed by Veronique Caraux in Paris.}
+\figref{fig:adam-eve} top).\footnote{The animations were developed by Veronique Caraux in Paris.}
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.40\textwidth]{chap10/figs/adam-eve}}
 \centerline{\includegraphics[width=.70\textwidth]{chap10/figs/jack-give}}
 \centerline{\includegraphics[width=.80\textwidth]{chap10/figs/push-jill}}
-\caption{\small\label{fig:adam-eve} 
+\caption{\label{fig:adam-eve} 
 Top: Computer animation of the speaking and hearing agent used in public demonstrations 
 of the case experiment. 
 Middle: Example of a puppet scene, where Jill gives a block to Jack. It shows the source image (left) and a (partial) 
@@ -569,10 +569,10 @@ between internal symbols and external objects. Tracking not only takes place for
 an open-ended set of objects at different hierarchical levels, as long as they are part of the same spatio-temporal context. 
 
 The detection and tracking of units at different hierarchical levels starts in a bottom-up manner from the images captured by the camera, and goes through various processing steps: figure/ground separation based on color perception, creation of a cellular occupancy grid, spatial region growing to identify spatial regions, and construction of spatio-temporal continuities based on 
-color histograms of the objects (Figure \ref{fig:peract-images}). 
+color histograms of the objects (\figref{fig:peract-images}). 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.80\textwidth]{chap10/figs/peract-images}}
-\caption{\small\label{fig:peract-images} 
+\caption{\label{fig:peract-images} 
 Top: Some of the images recorded during the action of picking up a cylinder. 
 Middle: Results of segmentation algorithms. 
 Bottom: The spatio-temporal continuity of objects is tracked. 
@@ -590,7 +590,7 @@ two objects, the approaching of two objects, the positioning of an object with r
 \item Detect micro-events by grouping image subsequences during which the same configuration 
 of qualitative descriptors holds. 
 \item Detect events which are defined as sequences of micro-events recognised using probabilistic state machines. 
-For example a pick-up event (as in Figure \ref{fig:peract-images}) involves three micro-events: (1) the hand 
+For example a pick-up event (as in \figref{fig:peract-images}) involves three micro-events: (1) the hand 
 moves towards the object, (2) the hand touches the object, and (3) both move away together. Processes 
 concerned with recovering such events use a library of event definitions which is matched against the stream of micro-events.
 \end{enumerate}
@@ -875,7 +875,7 @@ Once the analogy established, the marker already available for the walk-to-1 eve
 re-used for marking the move-inside-1 relation. 
 
 Here are some results from comparative experiments using real world data. 
-The graph in Figure \ref{fig:comparison} compares the number of markers that have been derived by the agents for two experiments, 
+The graph in \figref{fig:comparison} compares the number of markers that have been derived by the agents for two experiments, 
 each using data from the same series of 1300 language games. The first experiment (top graph) does not 
 use analogy, hence new markers are created for every argument in every predicate
 that needs to be expressed. The grammars basically stabilise after about 700 games with 28 markers. In the second 
@@ -888,7 +888,7 @@ a more compact grammar with more expressive power, but also in a grammar that is
 easier to learn.  
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap10/figs/comparison}}
-\caption{\small\label{fig:comparison} 
+\caption{\label{fig:comparison} 
 Comparison between two different strategies: The top-graph shows the growth in the average number of 
 markers for the event-specific marker strategy. 
 The bottom two graphs show the average size of the set of markers when analogy is used. Overall, 

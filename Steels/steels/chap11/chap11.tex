@@ -79,7 +79,7 @@ lateral inhibition strategy of the Talking Heads experiment was entirely adequat
 identify and consistently recognise objects as individuals and to figure out how language could help agents to do so. 
 
 The general set-up for the Proper Naming Game experiment
-is shown in Figure \ref{fig:grounded}. We see two QRIO robots and an environment consisting of objects of various 
+is shown in \figref{fig:grounded}. We see two QRIO robots and an environment consisting of objects of various 
 sizes and shapes. At any time a new object can be added or the position of an object can be changed. So the world is 
 entirely open and robots do not know how many individuals there are. 
 Importantly, the robots had to recognise an object as an individual, independently of its position. If 
@@ -118,10 +118,10 @@ cameras yield images at a rate of 30 images/sec. Each image must be
 analysed in quasi-real time to detect regions that may correspond to objects
 and track them over time. Once object regions are found, feature detectors can compute values for color,
 brightness, position, width, size, texture, speed of movement,
-direction of movement, etc., but these will always be very noisy (see Figure \ref{fig:png-perception}). 
+direction of movement, etc., but these will always be very noisy (see \figref{fig:png-perception}). 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.85\textwidth]{chap10/figs/png-perception}}
-\caption{\small\label{fig:png-perception} 
+\caption{\label{fig:png-perception} 
 A robot is looking at consecutive scenes (from top to bottom) and tracking the objects in the scene. One object (labeled $O_{716}$)
 is moved by a human experimenter.  We see from left to right: the original source image, results of region detection and 
 color segmentation, the (average) value for one dimension of one object ($O_{716}$), the segmented and labeled objects, 
@@ -131,7 +131,7 @@ and the world model, including the position of the other robot (indicated by a p
 We call the feature vector for each object a {\it sensory experience}. \is{sensory experience}
 It is represented using a spiking 
 diagram, with a spike for each dimension and the value on that dimension marked (see 
-Figure \ref{fig:prototypes-identifiers-words}, left-most column). Real
+\figref{fig:prototypes-identifiers-words}, left-most column). Real
 world vision is difficult enough, but because the robots look at the
 scene from different points of view, they often do not carve out the
 same regions and they will certainly see different views of the
@@ -149,7 +149,7 @@ capture the invariant properties of a particular view of an object in
 terms of prototypes. A prototype has for each sensory dimension a typical value and a tolerated variance
 within which the certainty of recognising the prototype decreases. Prototypes are also displayed using a spiking 
 diagram, with a spike for each dimension and an indication of the best value as well as the minimum and maximum
-(see figure \ref{fig:prototypes-identifiers-words}). Internally, agents store a set of cases 
+(see \figref{fig:prototypes-identifiers-words}). Internally, agents store a set of cases 
 and compute the mean value for each dimension as the typical value and the variance as a way to determine 
 minimum and maximum cut-off points. So the learning and adjustment of categories is statistical in nature. 
 
@@ -207,7 +207,7 @@ in the methodology of conceiving and carrying out language game experiments.
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.95\textwidth]{chap10/figs/prototypes-identifiers-words}}
-\caption{\small\label{fig:prototypes-identifiers-words} 
+\caption{\label{fig:prototypes-identifiers-words} 
 In the Proper Naming Game experiment the memory of the agents is conceived in terms of a semiotic network that 
 spans the full semiotic cycle from sensory experience and conceptualisation to naming.}
 \end{figure}
@@ -217,7 +217,7 @@ ${\cal S}_a = O_a \times V_a \times I_a \times N_a$ where $O_a$ is the set of
 sensory experiences of the agent grouped per scene, $V_a$ the set of
 prototypical views maintained by $a$, $I_a$ the set of individuals
  known to $a$, and $N_a$ the set of names in $a$'s vocabulary
-(see Figure \ref{fig:prototypes-identifiers-words}
+(see \figref{fig:prototypes-identifiers-words}
 ). Each link in the network is weighted (with a real number between 0.0 and 1.0). The
 weight of the link between a sensory experience and a prototypical
 view is based on nearest neighbor computation. The other weights are
@@ -304,7 +304,7 @@ identity. }
 With these mechanisms, the population reaches a high level of communicative success (above 90 \%). 
 However the average number of individuals in the agents' semiotic networks
 is much larger than the number of distinctive objects
-introduced in the experiment (see Figure \ref{fig:png-results}, left). Apparently, agents are naming prototypical views of
+introduced in the experiment (see \figref{fig:png-results}, left). Apparently, agents are naming prototypical views of
 individual objects instead of the individuals themselves. So we did not adequately address 
 how a robot learns to interrelate different views. To do this, various heuristics need to be added. 
 
@@ -317,10 +317,10 @@ This system is described in-depth in \cite{Spranger:2012vision}.} is able to tra
 regions across different images, enriched with top-down predictions of
 how an object region will change over time based on Recursive Bayesian
 estimation using Kalman filters. The object being moved by 
-the experimenter in Figure \ref{fig:png-perception} 
+the experimenter in \figref{fig:png-perception} 
 yields two quite different sensory experiences when standing up or lying down which match with 
 two different prototypes, but thanks to the tracking heuristic, the semiotic network can 
-be rearranged to reflect that they are two views of the same object (see Figure \ref{fig:png-optimisation}). 
+be rearranged to reflect that they are two views of the same object (see \figref{fig:png-optimisation}). 
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.75\textwidth]{chap11/figs/adjust-id}}
@@ -331,9 +331,9 @@ links to their names intact.
 }
 \end{figure}
 
-Figure \ref{fig:png-results}, right shows what happens when the robots use this heuristic. The population
+\figref{fig:png-results}, right shows what happens when the robots use this heuristic. The population
 exhibits still the same capacity to achieve communicative success as
-in Figure \ref{fig:png-results}, left, but now the number of individuals
+in \figref{fig:png-results}, left, but now the number of individuals
 has significantly lowered, becoming equal to the number of distinct objects 
 that were introduced (i.e. 15). So the heuristic has done its work. 
 
@@ -357,7 +357,7 @@ It was first designed and carried out with the QRIO robot in 2007/2008 by Luc St
 Michael Spranger with considerable help from Martin Loetzsch\footnote{Papers describing this experiment more fully are: 
 \cite{Steels:2008spatial} and \cite{Steels:2008b}.} and 
 then ported in 2010 to the MYON, a robot developed by Manfred Hild and his team at the Humboldt 
-University in Berlin (see Figure \ref{fig:myon-action}).\cite{Steels:2012b}
+University in Berlin (see \figref{fig:myon-action}).\cite{Steels:2012b}
 A BBC video clip of the experiment can be seen here: https://www.youtube.com/watch?v=lmoXByLkK14
 The porting exercise showed that once we discover how to do a certain type of language game on one robot 
 we can relatively easily port it to another one, after adapting the lowest level sensing and actuation routines. 
@@ -398,7 +398,7 @@ Moments are a global description of shape, capturing the statistical regularitie
 of its pixels for area, centre of mass, and orientation. Centralised moments are invariant to translation and 
 normalised moments are invariant to translation and scale. Here we use seven moments, so that an image schema of 
 the upper torso is captured in terms of a feature vector with seven data points, represented as a graph, 
-although it could also be represented using the spike diagram used in the Proper Naming Game (figure \ref{vision}, right). 
+although it could also be represented using the spike diagram used in the Proper Naming Game (\figref{vision}, right). 
 These feature vectors are then classified using the same prototype-based approach as in the Propert Naming Game. A prototype of a posture 
 consists of typical points for the seven moments, as well as a minimum and maximum deviation from 
 each point. The best matching prototype is found by nearest neighbor computation. New prototypes are created 
@@ -422,7 +422,7 @@ However the fact that such cells are discovered in the brain
 does not yet tell us how mirror systems are being learned or how they operate. For the action language game, we tried 
 several approaches.
 
-In one of them, the robot stands before the mirror (Figure \ref{robot-mirror}) and observes its own 
+In one of them, the robot stands before the mirror (\figref{robot-mirror}) and observes its own 
 postures, which generates the data for learning the association between body postures and prototypes. 
 The robot selects a posture, and activates the corresponding motor behavior. This motor behavior generates a sensory image and 
 hence a sensory experience categorised with a particular prototype. Through standard Hebbian learning (which enforces the 
@@ -444,7 +444,7 @@ the canonical body position of itself.
 lateral inhibition dynamics used in the Proper Naming Game can easily solve the task of evolving 
 a shared vocabulary. The score of the association between a word and a posture prototype is increased in a successful 
 game and synonyms decreased. In an unsuccessful game, the score of the used association is decreased. 
-Figure \ref{commsuccess} 
+\figref{commsuccess} 
 shows the global behavior of a population of 10 agents after each individual has coordinated motor 
 behavior and visual body-image through the mirror for 10 postures. 100 \% success is reached easily after about 
 2000 games. After 1000 games, which means 200 games/agent, there is already more than 90 \% success. 
@@ -464,7 +464,7 @@ are shown.}}
 This experiment shows that other language games, which do not rely on feedback through pointing, can be set up easily. 
 Here the feedback happens through the actions of the hearer. The experiment also shows
 that the same technique of setting up a semiotic network can be applied to other domains. 
-The network used here is shown in Figure \ref{network}. Compared to the Proper Naming Game, we see the same relation between 
+The network used here is shown in \figref{network}. Compared to the Proper Naming Game, we see the same relation between 
 sensory experiences, visual prototypes, postures (instead of nodes for individuals), 
 and words. But now there is an extra dimension because motor behaviors 
 achieving a posture are also linked with the posture nodes. This suggests also another approach besides the use of a mirror 
@@ -512,7 +512,7 @@ the art in color language research in two ways:
 \begin{itemize}
 \item To use more realistic circumstances of object perception. Because 
 robots are moving around in three dimensions and see the situation from different points of view, the reflection 
-of light changes and is different for speaker and hearer (see Figure \ref{f:scene-example}). This difference did not 
+of light changes and is different for speaker and hearer (see \figref{f:scene-example}). This difference did not 
 play a role in earlier experiments but 
 it certainly plays an important role in the stabilisation and choice of color prototypes. 
 \item To focus on color descriptions beyond basic color terms, i.e. descriptions like 
@@ -547,10 +547,10 @@ above lexical and grammatical constructions.
 \end{figure}
 
 Together with Joris Bleys and using the vision system developed by Michael Spranger, we 
-performed language game experiments both for the same set-up as shown in Figure \ref{fig:grounded}, 
+performed language game experiments both for the same set-up as shown in \figref{fig:grounded}, 
 i.e. geometric objects in an environment but now ignoring all dimensions except those related to color, 
 and from a set-up that was similar to the Munsell chips used
-in psychological experiments (see Figure \ref{fig:munsell}). The color space used by the agents was the CIE L*a*b* space, where 
+in psychological experiments (see \figref{fig:munsell}). The color space used by the agents was the CIE L*a*b* space, where 
 L stands for lightness and a* and b* are the two opponent channel dimensions (yellow-blue and red-green). 
 
 A language strategy has two components: (i) a particular way of conceptualising reality (and learning the categories involved
@@ -735,7 +735,7 @@ green (denoted as [green]).
 \begin{verbatim}
 (bind color-category ?cc [green])
 \end{verbatim}
-A graphical representation of this network is shown in Figure \ref{fig:basic-strat}. 
+A graphical representation of this network is shown in \figref{fig:basic-strat}. 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/basic-strat}}
 \caption{\footnotesize\label{fig:basic-strat} 
@@ -747,7 +747,7 @@ similarity to the prototype computed, and the one with the highest similarity is
 a basic color but then qualifies how well its color fits with the prototype. For example, we can say ``greenish" or
 ``very green". Some languages (such as Tarahumara spoken in Northern Mexico) obligatory mark graded membership using 
 suffixes. The core of the constraint network is defined as follows. A graphical representation of the network is shown
-in Figure \ref{fig:graded}. 
+in \figref{fig:graded}. 
 \begin{verbatim}
 (equal-to-context ?s1) 
 (profile-color-dimensions ?s2 ?s1)
@@ -785,7 +785,7 @@ expressions like ``greenish blue" or ``red orange". This compounding is not a si
 that are ``greenish blue" is not found by taking all the ones that are green and all the ones that are blue and then 
 the intersection of the two. Rather, it appears that the discretisation of the color landscape is scaled with respect 
 to the color which appears as head of the phrase and then categorisation is done. This is achieved with the IRL network 
-shown in figure \ref{fig:combi}. 
+shown in \figref{fig:combi}. 
 %http://www.workwithcolor.com/red-orange-color-hue-range-01.htm
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/combi}}
@@ -798,7 +798,7 @@ and there is a draw-category-set-to-category operation that rescales the basic c
 4. The next strategy is the {\bf Basic Modification Strategy} which modifies a color along the brightness dimension, as in 
 ``light green", ``dull yellow", etc. It is implemented by projecting the modifying dimension onto the basic color space 
 whereby the color being modified lies on the projecting vector and a new discretisation of the color space can be 
-performed. The network for this strategy is shown in Figure \ref{fig:modi}. 
+performed. The network for this strategy is shown in \figref{fig:modi}. 
 %http://www.workwithcolor.com/red-orange-color-hue-range-01.htm
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/modi}}
@@ -823,8 +823,8 @@ features. The features can be about any layer of linguistic analysis, from phone
 forms of syntactic description (constituent structure, functional structure, argument structure, information structure), 
 semantic categorisations or meaning. 
 The syntactic structure to express the basic color strategy involves three levels of hierarchy. Units are built 
-and expanded by three types of constructions (see for example Figure \ref{fig:syntactic-graded}, left, which is an instantiation of 
-the Basic Color strategy in Figure \ref{fig:basic-strat}). 
+and expanded by three types of constructions (see for example \figref{fig:syntactic-graded}, left, which is an instantiation of 
+the Basic Color strategy in \figref{fig:basic-strat}). 
 
 1. There are first {\it lexical constructions} that associate a word with the introduction of a semantic entity  
 such as a color category or a qualifier for indicating graded membership. So the meaning for the word ``yellow" 
@@ -833,7 +833,7 @@ introduces a BIND-operation, as in:
 ((bind color-category ?c [yellow]))
 \end{verbatim}
 When the word ``yellow" is encountered, a unit for this word is created with this BIND-operation as meaning and the 
-word-string itself as the form. It is the unit called Yellow-unit in Figure \ref{fig:syntactic-graded}. 
+word-string itself as the form. It is the unit called Yellow-unit in \figref{fig:syntactic-graded}. 
 The construction also introduces a lexical category (part of speech) for the word (in this case the lexical category 
 is color-category) and specifies which variables in the meaning can be linked with other variables in other
 units. The variables are typed. In this case there is one variable ?c which is of type color-category. 
@@ -857,8 +857,8 @@ lexical category, for example, ``walk" can be a verb (``He walks home") as well 
 constructions}
 
 Functional constructions create a unit on top of the word. For example, in the Basic Color Strategy, 
-the color-category is used in the filter-by-color-lenient operation (see Figure \ref{fig:basic-strat}). 
-The new unit is called color-unit in Figure \ref{fig:syntactic-graded}, left. 
+the color-category is used in the filter-by-color-lenient operation (see \figref{fig:basic-strat}). 
+The new unit is called color-unit in \figref{fig:syntactic-graded}, left. 
 The meaning specifies the operations to be added to the network, which is in this case: 
 \begin{verbatim}
 ((filter-by-color-lenient ?s3 ?s2 ?c))
@@ -868,7 +868,7 @@ On the syntactic side, the unit is categorised as a constituent named color-cate
 
 3. Finally there are {\it phrasal constructions} that pull together the functional units in order to create a phrase. 
 \is{phrasal construction}
-The phrase usually has additional semantic operations as well. Figure \ref{fig:syntactic-graded},left shows an example. 
+The phrase usually has additional semantic operations as well. \figref{fig:syntactic-graded},left shows an example. 
 The ColorPhrase-Unit is constructed on-top of the Color-Unit. It adds three additional operations to the meaning: 
 \begin{verbatim}
 ((equal-to-context ?s1)
@@ -879,7 +879,7 @@ It links to the variables supplied by Color-unit (namely ?s3 and ?s2) and the un
 be linked further, namely ?t, which is the topic of the whole utterance. 
 The constituent is called Color-Phrase. 
 
-Figure \ref{fig:syntactic-graded}, right shows another example, namely the structure for an instantiation of the 
+\figref{fig:syntactic-graded}, right shows another example, namely the structure for an instantiation of the 
 graded-membership strategy for the Tarahumara utterance ``sita kame". It is again a Color-Phrase.
 We see that there are now 4 levels of hierarchy. The ColorMembership-Unit pulls together a color-category and 
 a membership-category to form a new color-category which then becomes a ColorPhrase-Unit again.\\
@@ -896,12 +896,12 @@ The details of these experiments are published in the ph.D dissertation of Joris
 \is{influence of embodiment}
 
 I report here just briefly one additional experiment, relevant for understanding 
-the impact of embodiment on language. The experiment compares three conditions (see Figure \ref{fig:grounding-comparison}): 
+the impact of embodiment on language. The experiment compares three conditions (see \figref{fig:grounding-comparison}): 
 (i) simulated perception (left column), (ii) shared grounded perception (middle column), meaning that both robots 
 are given the same perception, and (iii) individual grounded 
 perception (right column). The latter is the normal case when two robots are looking at the scene. 
 It furthermore compares results for the Basic Naming Strategy (implemented with the IRL constraint network in 
-figure \ref{fig:modi}) for four experimental conditions: 
+\figref{fig:modi}) for four experimental conditions: 
 \begin{enumerate}
 \item There is a {\it baseline} experiment which starts out with the basic English color categories provided 
 by design to the agents. 
