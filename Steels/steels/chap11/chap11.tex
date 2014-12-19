@@ -19,12 +19,12 @@ scope of this book. Instead we only look here at developments that directly pert
 
 While introducing these experiments I will highlight two conceptual breakthroughs: semiotic networks and language strategies. 
 \begin{itemize}
-\item A {\it semiotic network} consists of a weighted network that links words to concepts, concepts to prototypes, and prototypes to 
+\item A {\itshape semiotic network} consists of a weighted network that links words to concepts, concepts to prototypes, and prototypes to 
 sensory experiences. Each agent constructs his own semiotic network but through consecutive 
 interactions these networks become progressively similar. From this perspective, setting up a language game requires a definition and 
 operationalisation how new nodes are created in this network, how new links are made between 
 the nodes, and how the weights between nodes are adjusted. 
-\item A {\it language strategy} is helpful to think about how we can go beyond individual words and towards 
+\item A {\itshape language strategy} is helpful to think about how we can go beyond individual words and towards 
 more complex grammatical expressions. It was already introduced in the previous chapter. 
 A language strategy is a particular way to deal syntactically and semantically 
 with one domain of meaning. It includes ways for conceptualising, expressing, acquiring and expanding a specific domain. 
@@ -86,12 +86,12 @@ Importantly, the robots had to recognise an object as an individual, independent
 a specific object disappeared from the world and was put back later, the same name would still have to be used. \\ 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.80\textwidth]{chap11/figs/grounded-naming-game}}
-\caption{\footnotesize\label{fig:grounded} 
+\caption{\label{fig:grounded} 
 Set-up for the Grounded Proper Naming Game. Two Qrio robots are playing a game of reference about individual objects 
 in their environment. They are using proper names and hence have to recognise objects as individuals.}
 \end{figure}
 
-{\bf Challenges} \\
+{\bfshape Challenges} \\
 
 It is useful to emphasise how extraordinary difficult this task is, even though the Talking Heads experiment and 
 earlier experiments with the AIBO already 
@@ -128,7 +128,7 @@ color segmentation, the (average) value for one dimension of one object ($O_{716
 and the world model, including the position of the other robot (indicated by a pointing arrow). }
 \end{figure}
 
-We call the feature vector for each object a {\it sensory experience}. \is{sensory experience}
+We call the feature vector for each object a {\itshape sensory experience}. \is{sensory experience}
 It is represented using a spiking 
 diagram, with a spike for each dimension and the value on that dimension marked (see 
 \figref{fig:prototypes-identifiers-words}, left-most column). Real
@@ -196,13 +196,13 @@ the level of the population without central control or telepathy,
 which will require mechanisms for damping synonymy and homonymy at the
 individual and population level.\\
 
-{\bf Semiotic networks}\\
+{\bfshape Semiotic networks}\\
 
 We have already seen from earlier experiments that the solution to these various issues lies in setting up
 the right kind of 'semiotic dynamics'. In the present case, this dynamics should gradually coordinate
 sensory experiences, prototypical views, individuals, 
 and names, both within a single individual and across the
-population. This lead to the notion of a {\it semiotic network}, which was a significant conceptual advance 
+population. This lead to the notion of a {\itshape semiotic network}, which was a significant conceptual advance 
 in the methodology of conceiving and carrying out language game experiments.
 
 \begin{figure}[htbp]
@@ -291,12 +291,12 @@ mean value and variance.
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.95\textwidth]{chap11/figs/png-results}}
-\caption{\footnotesize\label{fig:png-results} 
-{\it Left:} Results for Proper Naming games in a population of 10 agents that have to name 15 individual objects. 
+\caption{\label{fig:png-results} 
+{\itshape Left:} Results for Proper Naming games in a population of 10 agents that have to name 15 individual objects. 
 We see that a vocabulary establishes
 itself after agents have played a few hundred games. There is again the typical peak until alignment kicks in. 
 The number of individuals is larger than 15, implying that agents name prototypical views rather than 
-individuals. {\it Right:} Results after the addition  
+individuals. {\itshape Right:} Results after the addition  
 of a heuristic based on tracking an object over time. We see that there are fewer individuals 
 than stored prototypical views, which means that agents have improved their ability to recognise object 
 identity. }
@@ -324,7 +324,7 @@ be rearranged to reflect that they are two views of the same object (see \figref
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.75\textwidth]{chap11/figs/adjust-id}}
-\caption{\footnotesize\label{fig:png-optimisation} 
+\caption{\label{fig:png-optimisation} 
 When the identity of two objects is discovered (because two prototypical views have been established 
 as belonging to the same individual object), the former nodes for identities can be merged while keeping the 
 links to their names intact. 
@@ -363,11 +363,11 @@ The porting exercise showed that once we discover how to do a certain type of la
 we can relatively easily port it to another one, after adapting the lowest level sensing and actuation routines. 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/myon-action-game}}
-\caption{\footnotesize
+\caption{
 Two Myon robots playing an action game. One robot (the speaker) names an action and the other robot (the hearer) 
 has to perform the action. When the hearer performs the right action the speaker signals success by nodding the head, 
-otherwise he performs the action himself so that the hearer can adjust his semiotic network accordingly. {\it Left:} the speaker
-requests an action. {\it Middle:} the hearer interprets this as moving up both arms. {\it Right:} correction by the speaker. 
+otherwise he performs the action himself so that the hearer can adjust his semiotic network accordingly. {\itshape Left:} the speaker
+requests an action. {\itshape Middle:} the hearer interprets this as moving up both arms. {\itshape Right:} correction by the speaker. 
 }\label{fig:myon-action} 
 \end{figure}
 
@@ -375,7 +375,7 @@ The basic goal of the experiment is to simulate the emergence of a repertoire of
 `move up your left arm', or `stretch out both arms'. As often, a seemingly straightforward semantic domain generates 
 a set of fundamental subproblems that need to be solved and integrated so that the solutions work together: 
 
-1. The robots need a {\it repertoire of actions}. So they need a sensori-motor system that allows them to carry out 
+1. The robots need a {\itshape repertoire of actions}. So they need a sensori-motor system that allows them to carry out 
 repeatedly and reliably an action. They can themselves observe the action both in the visual domain,  
 looking at their own body or looking at their body in the mirror, or through proprioception, using sensors attached 
 to the motors and joints on the body. There are many ways in which an action repertoire can be built up. One way 
@@ -408,12 +408,12 @@ in the world.
 
 \begin{figure}
 \centerline{\includegraphics[width=0.2\linewidth]{chap11/figs/postures.pdf}\includegraphics[width=0.75\linewidth]{chap11/figs/vision_2.pdf}}
-\caption{\label{vision} \footnotesize{{\it Left:} Example postures of the robot (which is the QRIO in this case).
-{\it Right:} Visual analysis. From left to right we see the source image, the foreground/background distinction and object segmentation (focusing on the upper torso), and the feature signature of this posture represented as a graph connecting the values (on the y-axis)
+\caption{\label{vision} \footnotesize{{\itshape Left:} Example postures of the robot (which is the QRIO in this case).
+{\itshape Right:} Visual analysis. From left to right we see the source image, the foreground/background distinction and object segmentation (focusing on the upper torso), and the feature signature of this posture represented as a graph connecting the values (on the y-axis)
 of the seven centralized normalized moments (on the x-axis).}}
 \end{figure}
 
-3. The robots need a {\it mirror system} that relates perceived actions carried out by others with their own actions. 
+3. The robots need a {\itshape mirror system} that relates perceived actions carried out by others with their own actions. 
 The topic of mirror systems has received a lot of attention the past decade because cells where discovered in the brain 
 that serve this purpose.\footnote{
 An overview of mirror system research and its relevance to the question of the origins of language is given here: 
@@ -476,7 +476,7 @@ Experiments show that this method indeed also works to achieve a coherent mirror
 
 \begin{figure}
 \centerline{\includegraphics[width=0.6\linewidth]{chap11/figs/network}}
-\caption{\footnotesize \label{network} Semiotic network linking sensory experiences, visual prototypes of postures, nodes for postures acting as mirror neurons, and nodes triggering the motor behavior that achieves the posture. Nodes for words (shown as squares) 
+\caption{ \label{network} Semiotic network linking sensory experiences, visual prototypes of postures, nodes for postures acting as mirror neurons, and nodes triggering the motor behavior that achieves the posture. Nodes for words (shown as squares) 
 are associated with the posture nodes.}
 \end{figure}
 
@@ -501,7 +501,7 @@ universal trends in color categorisation.\footnote{Most notably: \cite{Puglisi:2
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap11/figs/color-qrio}}
-\caption{\footnotesize\label{fig:munsell} 
+\caption{\label{fig:munsell} 
 Set-up with two QRIO humanoids, similar to Munsell chip tests used in psychology. The same game as the Talking 
 Heads was used, but only color chips were provided as input and the robots use pointing and head movements to 
 provide feedback.}
@@ -562,7 +562,7 @@ and provides the contents to execute the strategy. For example, in the phrase ``
 the conceptual aspect of a language strategy is defined using a procedural semantics system called IRL and then how the 
 linguistic aspect is defined, using Fluid Construction Grammar. \\ 
 
-{\bf Compositional Procedural Semantics with IRL}\\
+{\bfshape Compositional Procedural Semantics with IRL}\\
 
 Procedural semantics, dating back to research on natural language understanding in the 
 early seventies by Philip Johnson-Laird, Terry Winograd and Bill Woods, argues that the meaning of an utterance is 
@@ -652,7 +652,7 @@ programming are also important. The constraint network planner can be used for c
 the constraint network matcher is highly useful in parsing an incomplete language fragment or in learning the 
 meaning of a new grammatical construction. \\
 
-{\bf Building Blocks for Natural Language Semantics }\\
+{\bfshape Building Blocks for Natural Language Semantics }\\
 
 What is the nature of the constraints that we will need for the semantics of natural language? 
 Take a phrase like ``the ball behind the block". It invokes the following constraints, also called 
@@ -701,8 +701,8 @@ use the network to identify an object in a set. It could not only use the networ
 the weights in the network. Another operation could implement categorisation based 
 on discrimination trees (as discussed in chapter 4) and would not only do it, but also expand the discrimination trees 
 when necessary. Other operations could implement set-theoretic operations, 
-for the semantics of connectives like {\it and}, {\it or}, and {\it not}, by carrying out
-{\it union}, {\it intersection} and {\it complement} operations over sets. There is no 
+for the semantics of connectives like {\itshape and}, {\itshape or}, and {\itshape not}, by carrying out
+{\itshape union}, {\itshape intersection} and {\itshape complement} operations over sets. There is no 
 limit to the possible semantic operations, except that they have to terminate in finite time, possibly giving up when 
 they cannot reach a valid result. IRL just provides a framework to define these operations and make them available 
 to be recruited by the constraint network planner. IRL uses LISP as the host language, which means that all 
@@ -716,12 +716,12 @@ functions are 'chunked' into higher order units that then can be used as units i
 complexity. These chunked networks become associated with stereotyped grammatical expression, so that there is a very 
 fast retrieval and semantic execution. \\
 
-{\bf Strategies for Color} \\
+{\bfshape Strategies for Color} \\
 
 Let us now look at concrete examples from the color domain as worked out by Joris Bleys, studying the following 
 strategies: \is{color strategies}
 
-1. The first strategy is the {\bf Basic Color Strategy} which implements a prototype-based approach to 
+1. The first strategy is the {\bfshape Basic Color Strategy} which implements a prototype-based approach to 
 the basic color categories. This approach is similar to the one used in the Proper Naming Game, except that 
 only the three color-dimensions are profiled (the opponent channels red-green, yellow-blue and the brightness channel). 
 The strategy is similar to the one shown earlier. 
@@ -739,12 +739,12 @@ green (denoted as [green]).
 A graphical representation of this network is shown in \figref{fig:basic-strat}. 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/basic-strat}}
-\caption{\footnotesize\label{fig:basic-strat} 
+\caption{\label{fig:basic-strat} 
 Constraint network for the Basic Color strategy. The colors of each object in the context are retrieved, their 
 similarity to the prototype computed, and the one with the highest similarity is chosen.}
 \end{figure}
 
-2. The second strategy is the {\bf Graded Membership Strategy} which categorises the topic first using 
+2. The second strategy is the {\bfshape Graded Membership Strategy} which categorises the topic first using 
 a basic color but then qualifies how well its color fits with the prototype. For example, we can say ``greenish" or
 ``very green". Some languages (such as Tarahumara spoken in Northern Mexico) obligatory mark graded membership using 
 suffixes. The core of the constraint network is defined as follows. A graphical representation of the network is shown
@@ -768,7 +768,7 @@ a context and a referent ?t that needs to be identified.
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/graded}}
-\caption{\footnotesize\label{fig:graded} 
+\caption{\label{fig:graded} 
 Constraint network implementing the Graded Membership Strategy. It builds further on the network for Basic Color
 Categorisation but adds a constraint to handle graded membership. }
 \end{figure}
@@ -781,7 +781,7 @@ case by specifying the semantic entities involved using the bind operation. For 
 (bind membership-category ?mc [kame]) 
 \end{verbatim}
 
-3. The third strategy is the {\bf Category Combination Strategy} which compounds a category into two new ones, in 
+3. The third strategy is the {\bfshape Category Combination Strategy} which compounds a category into two new ones, in 
 expressions like ``greenish blue" or ``red orange". This compounding is not a simple intersection. The set of objects  
 that are ``greenish blue" is not found by taking all the ones that are green and all the ones that are blue and then 
 the intersection of the two. Rather, it appears that the discretisation of the color landscape is scaled with respect 
@@ -790,20 +790,20 @@ shown in \figref{fig:combi}.
 %http://www.workwithcolor.com/red-orange-color-hue-range-01.htm
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/combi}}
-\caption{\footnotesize\label{fig:combi} 
+\caption{\label{fig:combi} 
 Constraint network implementing the Color Combination strategy leading to expressions like ``greenish blue". 
 The filter-by-color operation now has an extra argument, namely category-sets,  
 and there is a draw-category-set-to-category operation that rescales the basic color category set.}
 \end{figure}
 
-4. The next strategy is the {\bf Basic Modification Strategy} which modifies a color along the brightness dimension, as in 
+4. The next strategy is the {\bfshape Basic Modification Strategy} which modifies a color along the brightness dimension, as in 
 ``light green", ``dull yellow", etc. It is implemented by projecting the modifying dimension onto the basic color space 
 whereby the color being modified lies on the projecting vector and a new discretisation of the color space can be 
 performed. The network for this strategy is shown in \figref{fig:modi}. 
 %http://www.workwithcolor.com/red-orange-color-hue-range-01.htm
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/modi}}
-\caption{\footnotesize\label{fig:modi} 
+\caption{\label{fig:modi} 
 Constraint network for the basic modification strategy, for expressions like ``light green".}
 \end{figure}
 
@@ -811,7 +811,7 @@ Many other strategies for color can be imagined and some of them are found in hu
 These strategies always involve operations over the color space (such as rescaling, dimensionality reduction, etc.) alongside 
 additional operations (such as getting the context, picking out a referent, computing the intersection of two sets, etc.). \\
 
-{\bf Translation to Grammar} \\
+{\bfshape Translation to Grammar} \\
 
 The Color Description Game used the Fluid Construction Grammar (FCG) formalism which was meanwhile being developed by our 
 group with the explicit aim of supporting experiments in language emergence and evolution. A full exposition of this 
@@ -827,7 +827,7 @@ The syntactic structure to express the basic color strategy involves three level
 and expanded by three types of constructions (see for example \figref{fig:syntactic-graded}, left, which is an instantiation of 
 the Basic Color strategy in \figref{fig:basic-strat}). 
 
-1. There are first {\it lexical constructions} that associate a word with the introduction of a semantic entity  
+1. There are first {\itshape lexical constructions} that associate a word with the introduction of a semantic entity  
 such as a color category or a qualifier for indicating graded membership. So the meaning for the word ``yellow" 
 introduces a BIND-operation, as in: 
 \begin{verbatim}
@@ -841,14 +841,14 @@ units. The variables are typed. In this case there is one variable ?c which is o
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=0.3\textwidth]{chap11/figs/syntactic-basic} $~~~~$ 
 \includegraphics[width=0.6\textwidth]{chap11/figs/syntactic-graded}}
-\caption{\footnotesize\label{fig:syntactic-graded} 
-{\it Left:} Example of structure for the Basic Color strategy. It involves three levels of hierarchy: for the word 
+\caption{\label{fig:syntactic-graded} 
+{\itshape Left:} Example of structure for the Basic Color strategy. It involves three levels of hierarchy: for the word 
 itself, the function of the word, and the combination of the different functions into a Color-Phrase. Each box 
 shows the name of the unit, and some of the key features of the syntactic and semantic pole.
-{\it Right:} Example of structure for the graded color strategy.}
+{\itshape Right:} Example of structure for the graded color strategy.}
 \end{figure}
 
-2. Next there are {\it functional constructions} that determine in which semantic operation the meaning of a word 
+2. Next there are {\itshape functional constructions} that determine in which semantic operation the meaning of a word 
 will play a role. It is necessary to have this layer above lexical categories because the same word/category can have many 
 different functions. The choice is determined by the lexical category, and the syntactic and semantic context as 
 defined in functional and phrasal constructions. For example, an adjective can appear both in an adjectival 
@@ -867,7 +867,7 @@ The meaning specifies the operations to be added to the network, which is in thi
 There are two variables that can be linked to other operations with this meaning: ?s3 and ?s2 both of type object-set. 
 On the syntactic side, the unit is categorised as a constituent named color-category. 
 
-3. Finally there are {\it phrasal constructions} that pull together the functional units in order to create a phrase. 
+3. Finally there are {\itshape phrasal constructions} that pull together the functional units in order to create a phrase. 
 \is{phrasal construction}
 The phrase usually has additional semantic operations as well. \figref{fig:syntactic-graded},left shows an example. 
 The ColorPhrase-Unit is constructed on-top of the Color-Unit. It adds three additional operations to the meaning: 
@@ -885,7 +885,7 @@ graded-membership strategy for the Tarahumara utterance ``sita kame". It is agai
 We see that there are now 4 levels of hierarchy. The ColorMembership-Unit pulls together a color-category and 
 a membership-category to form a new color-category which then becomes a ColorPhrase-Unit again.\\
 
-{\bf Influence of embodiment}\\
+{\bfshape Influence of embodiment}\\
 
 Bleys conducted two types of experiments for each of these strategies, both in computer simulations and on 
 real robots. The first type of experiment demonstrated that an agent could learn the color vocabulary of another agent, 
@@ -904,19 +904,19 @@ perception (right column). The latter is the normal case when two robots are loo
 It furthermore compares results for the Basic Naming Strategy (implemented with the IRL constraint network in 
 \figref{fig:modi}) for four experimental conditions: 
 \begin{enumerate}
-\item There is a {\it baseline} experiment which starts out with the basic English color categories provided 
+\item There is a {\itshape baseline} experiment which starts out with the basic English color categories provided 
 by design to the agents. 
-\item An {\it acquisition} experiment, where one agent (the tutor) is initialised with a set of basic color categories and 
+\item An {\itshape acquisition} experiment, where one agent (the tutor) is initialised with a set of basic color categories and 
 the other agent (the learning) has to acquire them. 
-\item A {\it formation} experiment which involves a population of ten agents which develop a 
+\item A {\itshape formation} experiment which involves a population of ten agents which develop a 
 color ontology and lexicon from scratch. 
-\item And an {\it adaptation} experiment that starts with agents that are initialised with the 
+\item And an {\itshape adaptation} experiment that starts with agents that are initialised with the 
 English categories but then are allowed to further adapt their lexicons depending on the challenges of the situations 
 they encounter. 
 \end{enumerate}
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=0.6\textwidth]{chap11/figs/grounding-comparison}}
-\caption{\footnotesize Comparison of three different environmental set-ups (left, right, and middle columns)
+\caption{ Comparison of three different environmental set-ups (left, right, and middle columns)
 and four different learning conditions. Communicative success is shown on the y-axis.}
 \label{fig:grounding-comparison} 
 \end{figure}

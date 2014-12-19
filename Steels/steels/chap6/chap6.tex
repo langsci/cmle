@@ -72,7 +72,7 @@ ontologies and lexicons.
 \section{Defining the Guessing Game}
 
 The guessing game was already introduced in chapter 2. Here is a first example game, game 500.\is{Guessing Game}
-{\bf a2} plays the role of speaker and {\bf a1} the role of hearer. The game is about the scene in
+{\bfshape  a2} plays the role of speaker and {\bfshape  a1} the role of hearer. The game is about the scene in
 \figref{rect1}. The topic is the rectangle labeled 1. The grayscale channel is the most 
 salient channel. The different sensory values (after sensor-scaling)
 for the segments in \figref{rect1} are shown in 
@@ -82,7 +82,7 @@ the topic segment 1.  Clearly the grayscale channel is the most salient.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l }
 \lsptoprule
-{\it obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
+{\itshape obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
 0 & 0.66 & 0.95 & 0.01 & 0.71 & 0.19 & 0.27\\ 
 1 & 0.69 & 0.83 & 0.07 & 0.33 & 0.97 & 0.21\\ 
 2 & 0.99 & 0.87 & 0.54 & 0.72 & 0.22 & 0.57\\ 
@@ -111,12 +111,12 @@ real world are assumed to be identical.}
 
 The speaker first plays a Discrimination Game traversing the 
 semantic side of the square going from the referent 
-{\it rectangle-1} to a possible meaning [GRAY 0.5-1.0]. 
+{\itshape rectangle-1} to a possible meaning [GRAY 0.5-1.0]. 
 He then plays a Naming Game traversing the lexical side of 
 of the square to find the word "pokuneso" for this chosen meaning. 
 The hearer traverses the lexical side of the triangle in 
 the other direction to interpret the word "pokuneso" as
-[GRAY 0.5-1.0], and then identifies the referent by 
+{}[GRAY 0.5-1.0], and then identifies the referent by 
 filtering the objects in the context with this meaning. 
 Only rectangle-1 remains, so the game succeeds. 
 The whole game is reported by the commentator as follows: 
@@ -134,7 +134,7 @@ Game 500
 \end{verbatim}
 The game is perfectly successful because both 
 agents associate the word "pokuneso" with 
-[GRAY 0.5-1.0] (dark) and they perceive the scene 
+{}[GRAY 0.5-1.0] (dark) and they perceive the scene 
 in the same way.
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.40\textwidth]{chap6/figs/recscene}}
@@ -151,7 +151,7 @@ underlying game 500.}
 Before examining the architecture behind these
 games in more detail, we can 
 already see from \figref{gsuccess1} that
-{\bf a1} and {\bf a2} clearly manage to build autonomously 
+{\bfshape  a1} and {\bfshape  a2} clearly manage to build autonomously 
 a communication system and its underlying ontology
 from scratch by playing the 
 guessing game. The communicative success 
@@ -184,7 +184,7 @@ explains some of the delay before the communicativesuccess curve starts to climb
 
 \tabref{tab:lex100} displays the complete lexicon of the two agents after 100 games, 
 together with the score for each assocation for 
-{\bf a1} and {\bf a2}. Only associations where the 
+{\bfshape  a1} and {\bfshape  a2}. Only associations where the 
 score is above 0.0 for at least one agent are shown. 
 A dash (-) indicates that the agent has not stored 
 this association yet. 
@@ -192,20 +192,20 @@ this association yet.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-{\it Meaning}&{\it Word}&{\it Translation} & {\bf a1}&{\bf a2} \\ \midrule
-[HPOS 0.0-0.5] & vapola&left&-&0.1\\ 
-[HPOS 0.5-1.0]& gonapa&right &0.1&-\\ 
-[HEIGHT 0.0-0.5]&suwaxugo&short &0.6&0.8\\ 
-[HEIGHT 0.5-1.0]& kusone&tall &0.4&0.5\\ 
-[WIDTH 0.0-0.5]&bepupepa&narrow &0.1&0.1\\ 
-[WIDTH 0.0-0.25]&kutaki&very narrow &-&0.1\\ 
-[WIDTH 0.5-1.0]& zikorika&wide &0.0&0.3\\ 
-[GRAY 0.0-0.5]& fesasado&light &0.5&0.7\\ 
-[GRAY 0.5-1.0]& pokuneso&dark &0.8&0.9\\ 
-[AREA 0.5-1.0]& mafanoda&large &0.1&0.1\\ 
+{\itshape Meaning}&{\itshape Word}&{\itshape Translation} & {\bfshape  a1}&{\bfshape  a2} \\ \midrule
+{}[HPOS 0.0-0.5] & vapola&left&-&0.1\\ 
+{}[HPOS 0.5-1.0]& gonapa&right &0.1&-\\ 
+{}[HEIGHT 0.0-0.5]&suwaxugo&short &0.6&0.8\\ 
+{}[HEIGHT 0.5-1.0]& kusone&tall &0.4&0.5\\ 
+{}[WIDTH 0.0-0.5]&bepupepa&narrow &0.1&0.1\\ 
+{}[WIDTH 0.0-0.25]&kutaki&very narrow &-&0.1\\ 
+{}[WIDTH 0.5-1.0]& zikorika&wide &0.0&0.3\\ 
+{}[GRAY 0.0-0.5]& fesasado&light &0.5&0.7\\ 
+{}[GRAY 0.5-1.0]& pokuneso&dark &0.8&0.9\\ 
+{}[AREA 0.5-1.0]& mafanoda&large &0.1&0.1\\ 
 \lspbottomrule
 \end{tabular}
-\caption{\label{tab:lex100}. Complete lexicon of {\bf a1} and {\bf a2} after 100 games.}
+\caption{\label{tab:lex100}. Complete lexicon of {\bfshape  a1} and {\bfshape  a2} after 100 games.}
 \end{center}
 \end{table}
 We see that, at this point, the agents have lexicalised 
@@ -222,20 +222,20 @@ other distinctions would be more successful.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-{\it Meaning}&{\it Word}&{\it Translation} & {\bf a1}&{\bf a2} \\ \midrule
-[HPOS 0.0-0.5]&vapola&left &0.7&1.0\\ 
-[HPOS 0.5-1.0]&gonapa&right &0.6&0.5\\ 
-[VPOS 0.0-0.5]&rixuzime& up & 0.2&0.7\\ 
-[VPOS 0.5-1.0]&gofugage& down &0.6&1.0\\ 
-[HEIGHT 0.0-0.5]&suwaxugo&short & 1.0&1.0\\ 
- [HEIGHT 0.0-0.25]&tawube&very short & 0.4&0.5\\ 
- [HEIGHT 0.25-0.5]&narofi&medium short&0.1&0.4\\ 
-[HEIGHT 0.5-1.0]&kusone&tall&1.0&1.0\\ 
- [HEIGHT 0.5-0.75]&wuruzo&medium tall&0.3&0.6\\ 
- [HEIGHT 0.75-1.0]&bowaluro&very tall&0.6&0.2\\ 
+{\itshape Meaning}&{\itshape Word}&{\itshape Translation} & {\bfshape  a1}&{\bfshape  a2} \\ \midrule
+{}[HPOS 0.0-0.5]&vapola&left &0.7&1.0\\ 
+{}[HPOS 0.5-1.0]&gonapa&right &0.6&0.5\\ 
+{}[VPOS 0.0-0.5]&rixuzime& up & 0.2&0.7\\ 
+{}[VPOS 0.5-1.0]&gofugage& down &0.6&1.0\\ 
+{}[HEIGHT 0.0-0.5]&suwaxugo&short & 1.0&1.0\\ 
+{}[HEIGHT 0.0-0.25]&tawube&very short & 0.4&0.5\\ 
+{}[HEIGHT 0.25-0.5]&narofi&medium short&0.1&0.4\\ 
+{}[HEIGHT 0.5-1.0]&kusone&tall&1.0&1.0\\ 
+{}[HEIGHT 0.5-0.75]&wuruzo&medium tall&0.3&0.6\\ 
+{}[HEIGHT 0.75-1.0]&bowaluro&very tall&0.6&0.2\\ 
 \lspbottomrule
 \end{tabular}
-\caption{\label{tab:lex500a} Lexicon of {\bf a1} and {\bf a2} after 500 games.}
+\caption{\label{tab:lex500a} Lexicon of {\bfshape  a1} and {\bfshape  a2} after 500 games.}
 \end{center}
 \end{table}
 
@@ -243,23 +243,23 @@ other distinctions would be more successful.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-[WIDTH 0.0-0.5]&bepupepa&narrow & 1.0&1.0\\ 
- [WIDTH 0.0-0.25]&kutaki&very narrow & 0.1&0.5\\ 
- [WIDTH 0.25-0.5]&wukogo&medium narrow & 0.2&-\\ 
-[WIDTH 0.5-1.0]&zikorika&wide & 1.0&1.0\\ 
- [WIDTH 0.5-0.75]&mitula&medium wide &0.1&-\\ 
- [WIDTH 0.75-1.0]&wupixo&very wide & -&0.2\\ 
-[GRAY 0.0-0.5]&fesasado&light & 1.0&1.0\\ 
- [GRAY 0.0-0.25]&sanize&very light & -&0.1\\ 
-[GRAY 0.5-1.0]&pokuneso&dark &0.9&1.0\\ 
- [GRAY 0.5-0.75]&wavosoru&medium dark & 0.2&0.5\\ 
- [GRAY 0.75-1.0]&kuragoni&very dark &0.3&0.2\\ 
-[AREA 0.0-0.5]&babifewa&small & -&0.1\\ 
- [AREA 0.25-0.5]&togule&medium small & 0.1&0.1\\ 
-[AREA 0.5-1.0]&mafanoda&large & 0.2&0.5\\ 
+{}[WIDTH 0.0-0.5]&bepupepa&narrow & 1.0&1.0\\ 
+{}[WIDTH 0.0-0.25]&kutaki&very narrow & 0.1&0.5\\ 
+{}[WIDTH 0.25-0.5]&wukogo&medium narrow & 0.2&-\\ 
+{}[WIDTH 0.5-1.0]&zikorika&wide & 1.0&1.0\\ 
+{}[WIDTH 0.5-0.75]&mitula&medium wide &0.1&-\\ 
+{}[WIDTH 0.75-1.0]&wupixo&very wide & -&0.2\\ 
+{}[GRAY 0.0-0.5]&fesasado&light & 1.0&1.0\\ 
+{}[GRAY 0.0-0.25]&sanize&very light & -&0.1\\ 
+{}[GRAY 0.5-1.0]&pokuneso&dark &0.9&1.0\\ 
+{}[GRAY 0.5-0.75]&wavosoru&medium dark & 0.2&0.5\\ 
+{}[GRAY 0.75-1.0]&kuragoni&very dark &0.3&0.2\\ 
+{}[AREA 0.0-0.5]&babifewa&small & -&0.1\\ 
+{}[AREA 0.25-0.5]&togule&medium small & 0.1&0.1\\ 
+{}[AREA 0.5-1.0]&mafanoda&large & 0.2&0.5\\ 
 \lspbottomrule
 \end{tabular}
-\caption{\label{tab:lex500b} Lexicon of {\bf a1} and {\bf a2} after 1000 games.}
+\caption{\label{tab:lex500b} Lexicon of {\bfshape  a1} and {\bfshape  a2} after 1000 games.}
 \end{center}
 \end{table}
 
@@ -279,8 +279,8 @@ of development because even though they prefer to expand
 the salient channel, the agents have encountered 
 different environmental situations in which different
 channels were salient. For example, after 100 
-games, {\bf a1} has less refinements for the 
-WIDTH channel than {\bf a2}. 
+games, {\bfshape  a1} has less refinements for the 
+WIDTH channel than {\bfshape  a2}. 
 After 500 games, all trees 
 have at least one level of refinement. Not all 
 categories have been lexicalised. For example, the 
@@ -290,7 +290,7 @@ level.
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap6/figs/gdis}}
 \caption{\label{gdis1} Evolution of the discrimination
-trees of {\bf a1} (left) and {\bf a2} (right).
+trees of {\bfshape  a1} (left) and {\bfshape  a2} (right).
 Snapshots have been taken after 100 games (top) and 500 
 games (bottom).} 
 \end{figure}
@@ -403,14 +403,14 @@ one of this whole lot is chosen by the speaker and used
 for the utterance transmitted to the hearer. We have 
 seen that it is important for the hearer to use lateral
 inhibition based on the outcome of a game. But although 
-the speaker is considering {\it all} the possible 
+the speaker is considering {\itshape all} the possible 
 conceptualisations, lateral
 inhibition should only take place between the 
 lexicalisations of the meaning that was finally chosen. 
 So when the game was successful, 
 the speaker increases the association that was used with $\delta$
 and decreases all the other associations
-{\it with the same meaning}. $delta$ is still set to a reasonable
+{\itshape with the same meaning}. $delta$ is still set to a reasonable
 low value, namely $delta = 0.1$. 
 The hearer does the same as explained earlier in 
 the Naming Game. The score of all
@@ -483,7 +483,7 @@ is shown in \tabref{tab:game77}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l }
 \lsptoprule
-{\it Obj} & Hpos & Vpos & Height & Width & Gray & Area \\ \midrule
+{\itshape Obj} & Hpos & Vpos & Height & Width & Gray & Area \\ \midrule
 0 & 0.51 & 0.98 & 0.90 & 0.47 & 0.79 & 0.60\\ 
 1 & 0.75 & 0.68 & 0.26 & 0.09 & 0.14 & 0.20\\ 
 2 & 0.76 & 0.54 & 0.56 & 0.26 & 0.94 & 0.36\\ 
@@ -492,9 +492,9 @@ is shown in \tabref{tab:game77}.
 \caption{\label{tab:game77} Sensory data for game 77 after sensor-scaling.}
 \end{center}
 \end{table}
-The speaker is again {\bf a2}. HEIGHT is the most salient channel. 
-{\bf a2} has a word for [HEIGHT 0.75-1.0] (very tall), namely
-"bowaluro", and uses it. The hearer {\bf a1} 
+The speaker is again {\bfshape  a2}. HEIGHT is the most salient channel. 
+{\bfshape  a2} has a word for [HEIGHT 0.75-1.0] (very tall), namely
+"bowaluro", and uses it. The hearer {\bfshape  a1} 
 does not know the 
 word, conceptualises the scene, and arrives at the 
 same category, so the hearer stores the new word
@@ -513,7 +513,7 @@ Game 77
   a1 categorises the topic as [HEIGHT 0.75-1.0]
   a1 stores "bowaluro" as [HEIGHT 0.75-1.0]
 \end{verbatim}
-The reason why {\bf a1} has guessed the right 
+The reason why {\bfshape  a1} has guessed the right 
 meaning of "bowaluro" is because both agents use
 only the most salient channel and they both share
 the same perception of reality. We will soon see 
@@ -531,7 +531,7 @@ have the characteristics (after sensor-scaling) shown in \tabref{tab:279}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l }
 \lsptoprule
-{\it Obj}&Hpos&Vpos&Height&Width&Gray&Area \\ \midrule
+{\itshape Obj}&Hpos&Vpos&Height&Width&Gray&Area \\ \midrule
 0 &0.51 & 0.71 & 0.64 & 0.61 & 0.80 & 0.56\\ 
 1 & 0.51 & 0.91 & 0.53 & 0.41 & 0.42 & 0.41 \\ 
 \lspbottomrule
@@ -610,25 +610,25 @@ example "numefuli" for [GRAY 0.5-1.0] (dark).
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l  }
 \lsptoprule
-{\it Meaning}&{\it Word}&{\bf a1}&{\bf a2}&{\bf a3}&{\bf a4}&{\bf a5} \\ \midrule
-[HPOS 0.5-1.0]&rutaxese& &0.1& & &\\ 
+{\itshape Meaning}&{\itshape Word}&{\bfshape  a1}&{\bfshape  a2}&{\bfshape  a3}&{\bfshape  a4}&{\bfshape  a5} \\ \midrule
+{}[HPOS 0.5-1.0]&rutaxese& &0.1& & &\\ 
  & xomupovi&0.1& &0.2& &0.1\\ 
-[VPOS 0.5-1.0]&wavone& & &0.3& &\\ 
+{}[VPOS 0.5-1.0]&wavone& & &0.3& &\\ 
  & zaxawe& & & &0.1& \\ 
  & dazofo&0.1& & &0.2&\\ 
-[WIDTH 0.0-0.5]&buxevo& & & & & \\ 
+{}[WIDTH 0.0-0.5]&buxevo& & & & & \\ 
  & vubupo&1.0&0.6&1.0&0.1&1.0\\ 
-[WIDTH 0.5-1.0]&pawixona& & &0.1& & \\ 
+{}[WIDTH 0.5-1.0]&pawixona& & &0.1& & \\ 
  & rikepule&1.0&0.8&1.0&1.0&1.0\\ 
-[WIDTH 0.5-0.75]&gowinoge& & &0.1& &  \\ 
+{}[WIDTH 0.5-0.75]&gowinoge& & &0.1& &  \\ 
  & wesurodi& & & &0.2&\\ 
-[WIDTH 0.75-1.0]&besabi& & &0.2& & \\ 
+{}[WIDTH 0.75-1.0]&besabi& & &0.2& & \\ 
  & lituvi&0.1& & & & \\ 
-[GRAY 0.5-0.75]&goxomixe& &0.1& & & \\ 
+{}[GRAY 0.5-0.75]&goxomixe& &0.1& & & \\ 
  & korufo& & & &0.2&\\ 
-[GRAY 0.0-0.5]&numefuli&1.0&0.7&1.0&1.0&1.0\\ 
-[GRAY 0.0-0.25]&rekemaxi&0.2& & & & \\ 
-[GRAY 0.5-1.0]&faluleru&0.6&0.6&1.0&1.0&1.0\\ 
+{}[GRAY 0.0-0.5]&numefuli&1.0&0.7&1.0&1.0&1.0\\ 
+{}[GRAY 0.0-0.25]&rekemaxi&0.2& & & & \\ 
+{}[GRAY 0.5-1.0]&faluleru&0.6&0.6&1.0&1.0&1.0\\ 
  & nupanu& & & & &0.2 \\ 
 \lspbottomrule
 \end{tabular}
@@ -666,8 +666,8 @@ Game 100
 \end{verbatim}
 The semiotic triangles existing at this point in the population are 
 summarised in \figref{triangle6}. 
-Agent {\bf a4} is now already in a dilemma because he has created
-"notabefe" and picked up "faluleru" from {\bf a7}. 
+Agent {\bfshape  a4} is now already in a dilemma because he has created
+"notabefe" and picked up "faluleru" from {\bfshape  a7}. 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.50\textwidth]{chap6/figs/triangle6}}
 \caption{\label{triangle6} In the case of synonymy, 
@@ -702,12 +702,12 @@ Because there are synonyms, agents must now choose
 which word to use. The one with the highest
 score should clearly be preferred because based on the
 evidence the agent has gathered so far, this
-gives the highest chance of success in the game. {\bf a4}
+gives the highest chance of success in the game. {\bfshape  a4}
 is faced with this kind of choice in 
 the next game in the series involving the meaning
-[GRAY 0.5-1.0]. {\bf a4} chooses "faluleru" because this 
+{}[GRAY 0.5-1.0]. {\bfshape  a4} chooses "faluleru" because this 
 word has the highest score. It is immediately picked up by 
-{\bf a1}: 
+{\bfshape  a1}: 
 \begin{verbatim}
 Game 101
   a4 is the speaker. a1 is the hearer. 
@@ -726,8 +726,8 @@ Game 101
   a1 stores "faluleru" as [GRAY 0.5-1.0]
 \end{verbatim}
 After this game, three agents `know' the word 
-"faluleru" for [GRAY 0.5-1.0]: {\bf a4}, {\bf a1}, 
-and {\bf a7}. When we continue to inspect the
+"faluleru" for [GRAY 0.5-1.0]: {\bfshape  a4}, {\bfshape  a1}, 
+and {\bfshape  a7}. When we continue to inspect the
 simulation we see that "notabefe" takes a bit of 
 a revenge. The next games with the 
 meaning [GRAY 0.5-1.0] all involve the word "notabefe": 
@@ -748,10 +748,10 @@ Game 135
  Speaker a1 uses "faluleru" for [GRAY 0.5-1.0]
  Hearer a2 adopts "faluleru" for [GRAY 0.5-1.0]
 \end{verbatim}
-And now {\bf a6}, which has not been involved 
+And now {\bfshape  a6}, which has not been involved 
 yet in any interaction concerning the 
 meaning [GRAY 0.5-1.0], further confuses the situation by 
-creating a new word, "sopine", which {\bf a5}, playing
+creating a new word, "sopine", which {\bfshape  a5}, playing
 the role of hearer, adopts. 
 \begin{verbatim}
 Game 140
@@ -833,7 +833,7 @@ are shown in \tabref{tab:game3}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l }
 \lsptoprule
-{\it Obj} & Hpos & Vpos & Height & Width & Gray & Area \\ \midrule
+{\itshape Obj} & Hpos & Vpos & Height & Width & Gray & Area \\ \midrule
 0 & 0.37 & 0.44 & 0.92 & 0.92 & 0.69 & 0.10\\ 
 1 & 0.98 & 0.55 & 0.25 & 0.11 & 0.78 & 0.88\\ 
 \lspbottomrule
@@ -860,7 +860,7 @@ Game 3
   a1 categorises the topic as [HEIGHT 0.0-0.5]
   a1 stores "mibati" as [HEIGHT 0.0-0.5]
 \end{verbatim}
-[HEIGHT 0.0-0.5] has been chosen by the speaker
+{}[HEIGHT 0.0-0.5] has been chosen by the speaker
 because HEIGHT was one of the salient channels (even 
 though clearly not the only salient one) and 
 because a successful distinction already existed in 
@@ -870,14 +870,14 @@ could just as well have chosen a distinction based on
 the AREA, WIDTH or HPOS. 
 
 In the next game of the simulation series, "mibati"
-is used again, now by {\bf a2} as speaker. It is 
+is used again, now by {\bfshape  a2} as speaker. It is 
 based on a scene with a triangle and a rectangle.
 The data for game 4 are shown in \tabref{tab:mibati} (after scaling).  
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l }
 \lsptoprule
-{\it obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
+{\itshape obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
 0 & 0.47 & 0.23 & 0.90 & 0.83 & 0.49 & 0.34\\ 
 1 & 0.21 & 0.22 & 0.67 & 0.79 & 0.86 & 0.63\\ 
 \lspbottomrule
@@ -886,7 +886,7 @@ The data for game 4 are shown in \tabref{tab:mibati} (after scaling).
 \end{center}
 \end{table}
 The rectangle is chosen as topic. Two alternative
-categories can be used by {\bf a2} (and are listed
+categories can be used by {\bfshape  a2} (and are listed
 by the commentator) but the one preferred
 is the one with the strongest lexicalisation, which is 
 "mibati".
@@ -898,7 +898,7 @@ Game 4
   a2 chooses rectangle-1 as the topic 
   a2 considers as salient AREA GRAY HEIGHT HPOS 
   a2 categorises the topic as [HEIGHT 0.0-0.5] 
-        [GRAY 0.5-1.0]
+{}[GRAY 0.5-1.0]
   a2 has the word
        mibati for [HEIGHT 0.0-0.5] (1.0)
   a2 says: "mibati"
@@ -948,7 +948,7 @@ shown in \tabref{tab:different}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l }
 \lsptoprule
-{\it obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
+{\itshape obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
 0 & 0.92 & 0.38 & 0.59 & 0.83 & 0.36 & 0.61\\ 
 1 & 0.32 & 0.88 & 0.54 & 0.54 & 0.12 & 0.42\\ 
 \lspbottomrule
@@ -964,7 +964,7 @@ a word for it "puxazi", and transmits this to the hearer.
 The hearer does not know the word,
 conceptualises the scene based on this non-verbal
 hint from the speaker, and identifies the category
-[GRAY 0.0-0.5] (light) as distinctive. So this 
+{}[GRAY 0.0-0.5] (light) as distinctive. So this 
 meaning is stored and it is different from the one used by 
 speaker. The current constellation of meanings
 is summarised in \figref{triangle4}. 
@@ -990,8 +990,8 @@ Game 9
 \caption{\label{triangle4} Semiotic triangles
 underlying game 9. For the same referent and the same word, 
 there are two different meanings. Dashed lines indicate
-the relations used by the speaker {\bf a2}. Straight lines
-indicate those used by the hearer {\bf a1}.}
+the relations used by the speaker {\bfshape  a2}. Straight lines
+indicate those used by the hearer {\bfshape  a1}.}
 \end{figure}
 
 A subsequent game (game 11) illustrates that despite 
@@ -1017,12 +1017,12 @@ Game 11
   \centerline{\includegraphics[width=.60\textwidth]{chap6/figs/triangle3}}
 \caption{\label{triangle3} Semiotic triangles used in
 game 14. Dashed lines are the relations used by 
-the hearer {\bf a2}. Straight lines those of the 
-speaker {\bf a1}. After this game, {\bf a1}
+the hearer {\bfshape  a2}. Straight lines those of the 
+speaker {\bfshape  a1}. After this game, {\bfshape  a1}
 adopts yet another meaning for "puxazi", namely 
-[HEIGHT 0.5-1.0].}
+{}[HEIGHT 0.5-1.0].}
 \end{figure}
-Here is next a game (game 14) where {\bf a2} comes to adopt 
+Here is next a game (game 14) where {\bfshape  a2} comes to adopt 
 the other meaning of "puxazi", because the first
 meaning does not work in the present context. 
 The game involves three objects: two rectangles and a 
@@ -1033,7 +1033,7 @@ shown in \tabref{tab:game14}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l  l  l }
 \lsptoprule
-{\it obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
+{\itshape obj} & HPOS & VPOS & HEIGHT & WIDTH & GRAY & AREA \\ \midrule
 0 & 0.60 & 0.49 & 0.12 & 0.09 & 0.78 & 0.06\\ 
 1 & 0.95 & 0.71 & 0.51 & 0.60 & 0.07 & 0.15\\ 
 2 & 0.29 & 0.31 & 0.29 & 0.65 & 0.03 & 0.33\\ 
@@ -1043,9 +1043,9 @@ shown in \tabref{tab:game14}.
 \end{center}
 \end{table}
 
-{\bf a1} conceptualises the scene using 
-[VPOS 0.5-1.0], which he has lexicalised as "puxazi". 
-For {\bf a2}, "puxazi" means [GRAY 0.0-0.5] (light), but this 
+{\bfshape  a1} conceptualises the scene using 
+{}[VPOS 0.5-1.0], which he has lexicalised as "puxazi". 
+For {\bfshape  a2}, "puxazi" means [GRAY 0.0-0.5] (light), but this 
 meaning identifies both rectangle-2 and
 triangle-1 (\figref{triangle3}). The game therefore
 fails and the speaker points to the topic. The hearer
@@ -1060,7 +1060,7 @@ Game 14
   a1 chooses triangle-1 as the topic 
   a1 considers as salient HEIGHT VPOS HPOS 
   a1 categorises the topic as 
-        [VPOS 0.5-1.0] [HEIGHT 0.5-1.0]
+{}[VPOS 0.5-1.0] [HEIGHT 0.5-1.0]
   a1 says: "puxazi"
   a2 interprets "puxazi" as [GRAY 0.0-0.5]
   a2 identifies rectangle-2 triangle-1
@@ -1075,10 +1075,10 @@ also have categorised the
 scene using VPOS and HPOS, because they are
 equally salient. So there was absolutely no 
 guarantee that "puxazi" would have been associated 
-with [HEIGHT 0.5-1.0] by {\bf a2}. Moreover {\bf a2} stores
+with [HEIGHT 0.5-1.0] by {\bfshape  a2}. Moreover {\bfshape  a2} stores
 an association between "puxazi" and [HEIGHT 0.5-1.0], even though 
 there is already another word for 
-[HEIGHT 0.5-1.0] in his lexicon. The fact that 
+{}[HEIGHT 0.5-1.0] in his lexicon. The fact that 
 several meanings are possible to distinguish the topic in a given 
 context has not only the consequence that ambiguity
 arises but also that synonyms may enter into the lexicon, 
@@ -1107,22 +1107,22 @@ same word, thus damping ambiguity.
 \caption{\label{triangle5} Semiotic triangles used 
 in game 25. The score of the relation between [GRAY 0.0-0.5] and 
 "puxazi" is increased in both agents. The relation between "puxazi" and 
-[GRAY 0.0-0.5] gets damped.}
+{}[GRAY 0.0-0.5] gets damped.}
 \end{figure}
 
 Game 25 illustrates this effect of 
 lateral inhibition. The situation before the game is 
 as depicted in \figref{triangle5}. 
-Two words (with different meanings) are competing in {\bf a2} to 
+Two words (with different meanings) are competing in {\bfshape  a2} to 
 identify the referent: "puxazi" (meaning 
-[GRAY 0.0-0.5], i.e. light) and "torigusu"
+{}[GRAY 0.0-0.5], i.e. light) and "torigusu"
 (meaning [VPOS 0.0-0.5], i.e. lower).  "puxazi" has
 a higher score and wins the competition. Because the game 
 was successful, the score
 of "puxazi" goes up. The score of "torigusu" 
 does not change because it concerns another 
 meaning. Two meanings for "puxazi"
-are competing in {\bf a1}: [GRAY 0.0-0.5] (light)
+are competing in {\bfshape  a1}: [GRAY 0.0-0.5] (light)
 and [VPOS 0.0-0.5] (down). [VPOS 0.0-0.5] gets damped and 
 the score of [GRAY 0.0-0.5] goes up, thus helping to 
 further disambiguate "puxazi". 
@@ -1134,14 +1134,14 @@ Game 25
   a2 chooses rectangle-1 as the topic 
   a2 considers as salient GRAY VPOS
   a2 categorises the topic as [VPOS 0.0-0.5] 
-       [GRAY 0.0-0.5] [GRAY 0.0-0.25]
+{}[GRAY 0.0-0.5] [GRAY 0.0-0.25]
   a2 has the words
        puxazi for [GRAY 0.0-0.5] (0.20)
        torigusu for [VPOS 0.0-0.5] (0.0)
   a2 says: "puxazi"
   a1 interprets "puxazi" as
-       [GRAY 0.0-0.5] (0.20)
-       [VPOS 0.0-0.5] (0.0)
+{}[GRAY 0.0-0.5] (0.20)
+{}[VPOS 0.0-0.5] (0.0)
   a1 points to rectangle-1
   a2 signals OK
 \end{verbatim}
@@ -1153,7 +1153,7 @@ in the hearer is decreased, but because it was already
 
 Note that the speaker not only conceptualises the scene using 
 the most generic distinctions ([GRAY 0.0-0.5], 
-[VPOS 0.0-0.5]) but also
+{}[VPOS 0.0-0.5]) but also
 with more specific ones ([GRAY 0.0-0.25]). Indeed it 
 may happen that there is no word for a more generic 
 distinction, but there is one for a more specific 
@@ -1208,36 +1208,36 @@ than 0.0 for at least one agent) is as in \tabref{tab:after30}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-{\it Meaning}&{\it Word}&{\it Translation} & {\bf a1}&{\bf a2} \\ \midrule
-[VPOS 0.0-0.5] &torigusu&left&0.4&0.3\\ 
-[HEIGHT 0.0-0.5]&mibati&short &0.6&0.6\\ 
-[HEIGHT 0.5-1.0]&puxazi&tall &0.2&0.0\\ 
-[GRAY 0.0-0.5]& puxazi&light &0.6&0.7\\ 
-[GRAY 0.25-0.5]&turawa&medium light&0.1&0.0\\ 
-[GRAY 0.5-1.0]& xubevilo&dark &0.0&0.1\\ 
+{\itshape Meaning}&{\itshape Word}&{\itshape Translation} & {\bfshape  a1}&{\bfshape  a2} \\ \midrule
+{}[VPOS 0.0-0.5] &torigusu&left&0.4&0.3\\ 
+{}[HEIGHT 0.0-0.5]&mibati&short &0.6&0.6\\ 
+{}[HEIGHT 0.5-1.0]&puxazi&tall &0.2&0.0\\ 
+{}[GRAY 0.0-0.5]& puxazi&light &0.6&0.7\\ 
+{}[GRAY 0.25-0.5]&turawa&medium light&0.1&0.0\\ 
+{}[GRAY 0.5-1.0]& xubevilo&dark &0.0&0.1\\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:after30} Group lexicon after 30 games.}
 \end{center}
 \end{table}
 Note that there are two meanings for "puxazi": 
-[GRAY 0.0-0.5] (light) and [HEIGHT 0.5-1.0] (tall). 
+{}[GRAY 0.0-0.5] (light) and [HEIGHT 0.5-1.0] (tall). 
 
 The lexicon after 200 games is shown in \tabref{tab:after200}. 
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-{\it Meaning}&{\it Word}&{\it Translation} & {\bf a1}&{\bf a2} \\ \midrule
-[HPOS 0.0-0.5] &lefividi&left&0.2&0.2\\ 
-[HPOS 0.5-1.0] &vuvovo&right&0.2&0.4\\ 
-[VPOS 0.0-0.5] &torigusu&left&0.8&0.2\\ 
-[VPOS 0.5-1.0] &rugomoto&right&1.0&1.0\\ 
-[HEIGHT 0.0-0.5]&mibati&short &1.0&0.9\\ 
-[GRAY 0.0-0.5]& puxazi&light &0.3&0.6\\ 
-[GRAY 0.25-0.5]&turawa&medium light&0.4&0.4\\ 
-[GRAY 0.5-1.0]& xubevilo&dark &0.4&0.5\\ 
-[GRAY 0.5-0.75]& visuxa&very dark &0.3&0.3\\ 
+{\itshape Meaning}&{\itshape Word}&{\itshape Translation} & {\bfshape  a1}&{\bfshape  a2} \\ \midrule
+{}[HPOS 0.0-0.5] &lefividi&left&0.2&0.2\\ 
+{}[HPOS 0.5-1.0] &vuvovo&right&0.2&0.4\\ 
+{}[VPOS 0.0-0.5] &torigusu&left&0.8&0.2\\ 
+{}[VPOS 0.5-1.0] &rugomoto&right&1.0&1.0\\ 
+{}[HEIGHT 0.0-0.5]&mibati&short &1.0&0.9\\ 
+{}[GRAY 0.0-0.5]& puxazi&light &0.3&0.6\\ 
+{}[GRAY 0.25-0.5]&turawa&medium light&0.4&0.4\\ 
+{}[GRAY 0.5-1.0]& xubevilo&dark &0.4&0.5\\ 
+{}[GRAY 0.5-0.75]& visuxa&very dark &0.3&0.3\\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:after200} Group lexicon after 200 games.}
@@ -1290,7 +1290,7 @@ frequency is larger than 0.8.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-{\it Word}&{\it Meaning}& {\it Translation} & {\it Frequency} \\ \midrule
+{\itshape Word}&{\itshape Meaning}& {\itshape Translation} & {\itshape Frequency} \\ \midrule
 larubo & [HPOS 0.0-0.5] & left & 1.00 \\ 
 tituroxu & [HPOS 0.5-1.0] & right & 1.00 \\ 
 fumetese & [VPOS 0.0-0.5] & top & 1.00 \\ 
@@ -1317,7 +1317,7 @@ in \tabref{tab:freq}.
 \begin{center}
 \begin{tabular}{ l  l  l  l }
 \lsptoprule
-{\it Word}&{\it Meaning}& {\it Translation} & {\it Frequency} \\ \midrule
+{\itshape Word}&{\itshape Meaning}& {\itshape Translation} & {\itshape Frequency} \\ \midrule
 nifavipa & (HPOS 0.0-0.25) & very left & 0.55 \\ 
 nodanova & (VPOS 0.0-0.25) & very top & 0.58  \\ 
 texiraxi & (HEIGHT 0.5-1.0) & tall & 0.69  \\ 
@@ -1355,9 +1355,9 @@ agents for the AREA and HEIGHT categories is as in \tabref{tab:texiraxi}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-{\it Agent} & 
-\multicolumn{2}{c }{\it Scores "texiraxi"} &
-\multicolumn{2}{c }{\it Scores "wixizode"}\\ 
+{\itshape Agent} & 
+\multicolumn{2}{c }{\itshape Scores "texiraxi"} &
+\multicolumn{2}{c }{\itshape Scores "wixizode"}\\ 
  & HEIGHT & AREA  & HEIGHT & AREA \\ \midrule
 a1 & 0.00 & 0.9 & 0.6 & 0.4\\  
 a2 & 0.0 & 1.0  & 1.0 & 0.0\\ 
@@ -1383,10 +1383,10 @@ Game 10008
   a2 chooses square-1 as the topic 
   a2 considers as salient AREA WIDTH HEIGHT
   a2 categorises the topic as 
-      [HEIGHT 0.5-1.0] [HEIGHT 0.75-1.0] 
-      [WIDTH 0.5-1.0] [WIDTH 0.75-1.0] 
-      [AREA 0.5-1.0] [AREA 0.75-1.0] 
-      [HEIGHT 0.5-1.0] [HEIGHT 0.75-1.0] 
+{}[HEIGHT 0.5-1.0] [HEIGHT 0.75-1.0] 
+{}[WIDTH 0.5-1.0] [WIDTH 0.75-1.0] 
+{}[AREA 0.5-1.0] [AREA 0.75-1.0] 
+{}[HEIGHT 0.5-1.0] [HEIGHT 0.75-1.0] 
   a2 has the words
       wixizode for [HEIGHT 0.5-1.0] (1.0)
       kilokawe for [WIDTH 0.5-1.0] (1.0)
@@ -1398,9 +1398,9 @@ Game 10008
       lisexese for [HEIGHT 0.75-1.0] (0.1)
   a2 says: "wixizode"
   a7 interprets "wixizode" as
-       [AREA 0.5-1.0] (1.0)
-       [WIDTH 0.0-0.5] (0.0)
-       [HEIGHT 0.5-1.0] (0.0)
+{}[AREA 0.5-1.0] (1.0)
+{}[WIDTH 0.0-0.5] (0.0)
+{}[HEIGHT 0.5-1.0] (0.0)
   a7 identifies square-1
   a2 signals OK
 \end{verbatim}
@@ -1433,7 +1433,7 @@ more clearly several synonyms in heavy competition, for example
 \begin{center}
 \begin{tabular}{ l  l  l }
 \lsptoprule
-{\it Word}&{\it Meaning} & {\it Frequency} \\ \midrule
+{\itshape Word}&{\itshape Meaning} & {\itshape Frequency} \\ \midrule
 lovifo & [HPOS 0.5-0.75] & 0.21 \\ 
 petenuga & [HPOS 0.5-0.75] & 0.25 \\ 
 gafizuru & [WIDTH 0.25-0.5] & 0.24 \\ 
@@ -1486,7 +1486,7 @@ games by the agent) are shown in \tabref{tab:first}.
 \begin{center}
 \begin{tabular}{ l  l  l  l  l }
 \lsptoprule
-{\it Word} & {\it Meaning} & {\it Score} \\ \midrule
+{\itshape Word} & {\itshape Meaning} & {\itshape Score} \\ \midrule
 larubo  & [HPOS 0.0-0.5] & 0.30 \\ 
 sakezomo &  [HPOS 0.0-0.5] & 0.00 \\ 
 tituroxu &  [HPOS 0.5-1.0] & 0.50 \\ 
@@ -1522,7 +1522,7 @@ concerning the origins of hierarchical structure, \cite{Kirby:1999}.}
 
 For example, the new agent
 has solidly associated the word "texiraxi" with 
-[HEIGHT 0.5-1.0] and "wixizode" with [AREA 0.5-1.0]
+{}[HEIGHT 0.5-1.0] and "wixizode" with [AREA 0.5-1.0]
 as the majority of the population. Thus resolving the 
 incoherence shown in \figref{triangle7}. 
 
@@ -1542,7 +1542,7 @@ in which the new agent was involved).
 \begin{center}
 \begin{tabular}{ l  l  l }
 \lsptoprule
-{\it Word} & {\it Meaning} & {\it Score} \\ \midrule
+{\itshape Word} & {\itshape Meaning} & {\itshape Score} \\ \midrule
 texiraxi &  [HEIGHT 0.5-1.0] & 0.80 \\ 
 lepowaxu &  [HEIGHT 0.25-0.5] & 0.50 \\ 
 kewenoku &  [GREY 0.5-1.0] & 0.80 \\ 
@@ -1596,6 +1596,6 @@ the perception of the scene was identical for
 the speaker and the hearer. The next chapter takes away 
 this assumption and thus sets the final step to test 
 whether a perceptually grounded lexicon may 
-emerge in a population of {\it embodied} distributed 
+emerge in a population of {\itshape embodied} distributed 
 autonomous agents. 
 

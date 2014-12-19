@@ -3,12 +3,12 @@
 
 The semiotic square captures the four entities in 
 a linguistic interaction: 
-the {\it referent}, which is the object in the physical world that the 
-speaker wants to communicate, the {\it segmented image}, which is 
-the internal perception of the referent, the {\it meaning}, which is a 
+the {\itshape referent}, which is the object in the physical world that the 
+speaker wants to communicate, the {\itshape segmented image}, which is 
+the internal perception of the referent, the {\itshape meaning}, which is a 
 category or combination of categories that picks out the 
 referent in the present context, and 
-the {\it utterance}, which is the word form 
+the {\itshape utterance}, which is the word form 
 or set of word forms transmitted by the speaker. In the previous 
 chapters we looked at two sides of the semiotic
 square. The relation between the real world and the
@@ -143,7 +143,7 @@ a new one.
 \subsection{Representing lexical associations}
 
 What cognitive architecture do agents need to engage in naming 
-games? Clearly they need some sort of {\it associative memory} to\is{lexical memory}
+games? Clearly they need some sort of {\itshape associative memory} to\is{lexical memory}
 store their individual lexicons.
 Let us assume that agents 
 can construct and recognise arbitrary consonant-vowel combinations, 
@@ -156,9 +156,10 @@ be displayed in a table as follows:
 \begin{center}
 \begin{tabular}{ l  l }
 \lsptoprule
-{\it meaning} & {\it form} \\ \midrule
-[DARK] & coba \\ 
-[LARGE] & wabidu \\ 
+{\itshape meaning} & {\itshape form} \\ 
+\midrule{}
+{}[DARK] & coba \\ 
+{}[LARGE] & wabidu \\ 
 ... & ... \\ 
 \lspbottomrule
 \end{tabular}
@@ -185,7 +186,7 @@ To estimate this success,
 each agent should monitor for each form-meaning association
 how successful it has been, which could be implemented 
 by associating with every form-meaning pair 
-a {\it score}.\is{score} The score of a form-meaning pair
+a {\itshape score}.\is{score} The score of a form-meaning pair
 is specific to an agent and based only on his own 
 local interactions with other agents, in line with the 
 principle that no single agent has a complete overview of 
@@ -195,9 +196,10 @@ association is illustrated in \tabref{tab:mem2}.
 \begin{table}
 \begin{center}
 \begin{tabular}{c c c c  c  c  c } \lsptoprule 
-& coba & zapo & bila & pama & wabidu & limiri \\ \midrule 
-[DARK] & 0.3 & 0.2 & 0.1 & 0.8 & - & - \\ 
-[LARGE] & - & - & - & 0.5 & 0.3 & 0.6 \\ 
+& coba & zapo & bila & pama & wabidu & limiri \\ 
+\midrule {}		
+{}[DARK] & 0.3 & 0.2 & 0.1 & 0.8 & - & - \\ 
+{}[LARGE] & - & - & - & 0.5 & 0.3 & 0.6 \\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:mem2} Example lexicon with multiple associations.}
@@ -298,14 +300,14 @@ consonants) and add that to his
 lexicon. Agents are assumed to have a 
 shared repertoire of syllables which they can all 
 produce and recognise. This happens with a certain 
-probability, the {\it word creation rate} $w_{c}$. 
+probability, the {\itshape word creation rate} $w_{c}$. 
 This rate reflects how `free' the agent feels to 
 extend the lexicon. 
 \item 
 When an agent hears a word he has 
 never heard before, he may add this new word to his 
 repertoire. Again this happens with a certain
-probability, the {\it word absorption rate} $w_{a}$. 
+probability, the {\itshape word absorption rate} $w_{a}$. 
 This rate reflects the critical attitude with which an 
 agent accepts the linguistic authority of other agents. 
 \end{itemize}
@@ -318,8 +320,8 @@ and always absorb the word of the other ($w_{a}=1$).
  
 To become more familiar with the Naming Game, I will now 
 go through a few examples of its application, assuming 
-a group of five agents: ${\cal A}$ = $\{${\bf a1},{\bf a2},
-{\bf a3}, {\bf a4}, {\bf a5}$\}$ and five possible shared meanings: 
+a group of five agents: ${\cal A}$ = $\{${\bfshape a1},{\bfshape a2},
+{\bfshape a3}, {\bfshape a4}, {\bfshape a5}$\}$ and five possible shared meanings: 
 \newline 
 ${\cal M}$ = $\{[DARK],[LARGE],[LIGHT],[SMALL],[RED]\}$. 
 \newline
@@ -340,8 +342,8 @@ $w_{c}=0.1$): the game has failed. In the beginning
 most games fail if the word creation rate has been set to a low rate.
 
 In the next game shown below, the speaker is 
-{\bf a4}, the hearer {\bf a5} and the topic
-[SMALL]. Now the speaker is successful in creating a word, namely 
+{\bfshape a4}, the hearer {\bfshape a5} and the topic
+{}[SMALL]. Now the speaker is successful in creating a word, namely 
 "di". The hearer receives the word, does not know it,
 but stores it in association with [SMALL]. The game still fails. 
 \begin{verbatim}
@@ -354,8 +356,8 @@ Game 29
    a5 categorizes the topic as [SMALL]
    a5 stores "di" as [SMALL]
 \end{verbatim}
-In game 32, something similar happens. This time {\bf a5} creates
-a new word "pida" for [LARGE]. {\bf a3} does not know 
+In game 32, something similar happens. This time {\bfshape a5} creates
+a new word "pida" for [LARGE]. {\bfshape a3} does not know 
 the word but stores it. 
 \begin{verbatim}
 Game 32
@@ -368,8 +370,8 @@ Game 32
    a3 categorizes the topic as [LARGE]
    a3 stores "pida" as [LARGE]
 \end{verbatim}
-A first success occurs in game 43, when {\bf a5} uses again 
-"pida" for [LARGE]. {\bf a3} hears "pida", has associated it 
+A first success occurs in game 43, when {\bfshape a5} uses again 
+"pida" for [LARGE]. {\bfshape a3} hears "pida", has associated it 
 in his lexicon with [LARGE], and so the game succeeds. 
 \begin{verbatim}
 Game 43
@@ -394,16 +396,16 @@ experiments with the Talking Heads.
 \subsection{Characterising the Lexicon}
 
 The individual lexicon of one
-agent, {\bf a5}, after 100 games is shown in \ref{tab:t-mem3}. 
+agent, {\bfshape a5}, after 100 games is shown in \ref{tab:t-mem3}. 
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  l }
 \lsptoprule 
-{\it Meaning} & {\it Word} & {\it Score} \\ \midrule
-[LARGE]& pida& 0.20\\ 
+{\itshape Meaning} & {\itshape Word} & {\itshape Score} \\ \midrule
+{}[LARGE]& pida& 0.20\\ 
   & fobu& 0.1\\ 
-[LIGHT]& gi& 0.0\\ 
-[SMALL]& di & 0.10\\ 
+{}[LIGHT]& gi& 0.0\\ 
+{}[SMALL]& di & 0.10\\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem3} Associative memory of a single agent after 100 games.}
@@ -411,7 +413,7 @@ agent, {\bf a5}, after 100 games is shown in \ref{tab:t-mem3}.
 \end{table}
 Both the words "di" and "pida" are present but with 
 weak scores. There are two synonyms for 
-[LARGE]: "pida" and "fobu", but "pida" is 
+{}[LARGE]: "pida" and "fobu", but "pida" is 
 preferred. There is a word "gi" who is available 
 for [LIGHT] but does not have a positive score,
 because successive trials failed to yield a successful game. 
@@ -423,7 +425,7 @@ had different encounters and hence different language
 experiences. A picture of the lexicon of the group from the 
 viewpoint of an outside observer can be obtained by
 inspecting the internal states of each agent to 
-construct the {\it group lexicon}. It groups the 
+construct the {\itshape group lexicon}. It groups the 
 dominating meaning-form associations for all possible
 meanings and the frequency of each association. 
 It gives a picture of "the" lexicon 
@@ -434,10 +436,10 @@ is shown in \tabref{tab:t-mem4}.
 \begin{center}
 \begin{tabular}{l  l  l }
 \lsptoprule 
-{\it Meaning}& {\it Word} & {\it Frequency} \\ \midrule 
-[LARGE]& pida& 0.40\\ 
-[LIGHT]& gi & 0.60\\ 
-[SMALL]& di & 0.40\\ 
+{\itshape Meaning}& {\itshape Word} & {\itshape Frequency} \\ \midrule 
+{}[LARGE]& pida& 0.40\\ 
+{}[LIGHT]& gi & 0.60\\ 
+{}[SMALL]& di & 0.40\\ 
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem4} Population lexicon after 50 games}
@@ -453,9 +455,9 @@ Note that the group lexicon is not known by the agents
 and is not stored anywhere in the 
 total system. The only information which is locally stored in each 
 agent is his own lexicon, which might be quite different from that 
-of the group lexicon. For example, the lexicon of {\bf a5} shown earlier
+of the group lexicon. For example, the lexicon of {\bfshape a5} shown earlier
 is different from the group lexicon.
-{\bf a5}'s score for "gi" is 0.0
+{\bfshape a5}'s score for "gi" is 0.0
 even though the word is already preferred by 60 \% of 
 the agents according to the group lexicon. 
 The group lexicon is a macroscopic structure that we
@@ -463,8 +465,8 @@ as observers construct from inspecting the internal
 states of the agents. 
 
 Let us now continue the simulation. Here are two additional
-games showing how "ga" propagates from {\bf a4} to {\bf a2} in 
-game 101 and from {\bf a2} to {\bf a1} in game 104. 
+games showing how "ga" propagates from {\bfshape a4} to {\bfshape a2} in 
+game 101 and from {\bfshape a2} to {\bfshape a1} in game 104. 
 \begin{verbatim}
 Game 104
    a4 is the speaker. a2 is the hearer. 
@@ -490,10 +492,10 @@ The group lexicon is shown in \tabref{tab:t-mem5}.
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  c  l  l  c } \midrule 
-{\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency}\\  
-[DARK]& go & 1.00 & [LARGE]& pida & 1.00 \\  
-[LIGHT]& gi & 1.00 & [SMALL]& di & 1.00 \\  
-[RED]& ga & 1.00 & - & - & -  \\  
+{\itshape meaning} & {\itshape form} & {\itshape frequency} & {\itshape meaning} & {\itshape form} & {\itshape frequency}\\  
+{}[DARK]& go & 1.00 & [LARGE]& pida & 1.00 \\  
+{}[LIGHT]& gi & 1.00 & [SMALL]& di & 1.00 \\  
+{}[RED]& ga & 1.00 & - & - & -  \\  
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem5} Consensus in group lexicon, reached after 250 games.}
@@ -519,8 +521,8 @@ function has not been explored yet in our experiments.
 I use various measures both for actual lexicon use and for 
 the coherence and evolution of the lexicons of
 the individuals to see better what is happening. 
-The first and easiest measure is the {\it average game success}, 
-also called the {\it communicative success}, \is{communicative success}
+The first and easiest measure is the {\itshape average game success}, 
+also called the {\itshape communicative success}, \is{communicative success}
 of a population of agents ${\cal A}$ in a set of $n$ language games. 
 When this measure is graphed continuously for consecutive sets of 
 games, the progress in the population
@@ -575,7 +577,7 @@ of biological models with similar properties, see \cite{May:1976}.}
 \subsection{Measuring lexical coherence} 
 
 To monitor to what extent the agents share the same
-lexicon, I propose a second measure, the {\it lexical
+lexicon, I propose a second measure, the {\itshape lexical
 coherence}. The lexical coherence is 
 defined as the average of the frequencies of
 all the form-meaning pairs in the group lexicon.
@@ -589,17 +591,17 @@ previous simulation (with 20 agents), shown in \tabref{tab:t-mem3000}.
 \begin{center}
 \begin{tabular}{l  l  l  l  l  l }
 \lsptoprule 
-{\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency} \\ \midrule
-[DARK]& dato & 1.00 & [LARGE]& biti & 0.80 \\  
-[LIGHT]& pitu & 0.60 & [SMALL]& dopu & 1.00 \\  
-[RED]& gabi & 1.00 & [GREEN]& gu & 0.85 \\  
-[SQUARE]& koti & 0.50 & [RECTANGLE]& totu & 0.65 \\  
-[LEFT]& toga & 0.90 & [BLUE]& ku & 0.80 \\  
-[YELLOW]& gubo & 0.55 & [CHARMING]& ge & 1.00 \\  
-[TRIANGLE]& bu & 0.85 & [SQUARE]& ba & 0.60 \\  
-[FAST]& beke & 1.00 & [SLOW]& tu & 0.95 \\  
-[CIRCLE]& ke & 0.75 & [RIGHT]& gaba & 0.95 \\  
-[UP]& butu & 1.00 & [DOWN]& ki & 0.95 \\  
+{\itshape meaning} & {\itshape form} & {\itshape frequency} & {\itshape meaning} & {\itshape form} & {\itshape frequency} \\ \midrule
+{}[DARK]& dato & 1.00 & [LARGE]& biti & 0.80 \\  
+{}[LIGHT]& pitu & 0.60 & [SMALL]& dopu & 1.00 \\  
+{}[RED]& gabi & 1.00 & [GREEN]& gu & 0.85 \\  
+{}[SQUARE]& koti & 0.50 & [RECTANGLE]& totu & 0.65 \\  
+{}[LEFT]& toga & 0.90 & [BLUE]& ku & 0.80 \\  
+{}[YELLOW]& gubo & 0.55 & [CHARMING]& ge & 1.00 \\  
+{}[TRIANGLE]& bu & 0.85 & [SQUARE]& ba & 0.60 \\  
+{}[FAST]& beke & 1.00 & [SLOW]& tu & 0.95 \\  
+{}[CIRCLE]& ke & 0.75 & [RIGHT]& gaba & 0.95 \\  
+{}[UP]& butu & 1.00 & [DOWN]& ki & 0.95 \\  
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:t-mem3000} Group lexicon after 3000 games.}
@@ -692,17 +694,17 @@ is now as in \tabref{tab:gphase1}.
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  c  l  l  c } \lsptoprule 
-{\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency}\\ \midrule 
-[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\  
-[M3]& koto & 0.70 & [M4]& da & 1.00 \\  
-[M5]& peko & 1.00 & [M6]& ki & 1.00 \\  
-[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\  
-[M9]& do & 1.00 & [M10]& gige & 1.00 \\  
-[M11]& pi & 1.00 & [M12]& bu & 1.00 \\  
-[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\  
-[M15]& depi & 0.95 & [M16]& pudi & 1.00 \\  
-[M17]& tegi & 1.00 & [M18]& ba & 0.90 \\  
-[M19]& ko & 1.00 & [M20]& guda & 1.00 \\  
+{\itshape meaning} & {\itshape form} & {\itshape frequency} & {\itshape meaning} & {\itshape form} & {\itshape frequency}\\ \midrule 
+{}[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\  
+{}[M3]& koto & 0.70 & [M4]& da & 1.00 \\  
+{}[M5]& peko & 1.00 & [M6]& ki & 1.00 \\  
+{}[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\  
+{}[M9]& do & 1.00 & [M10]& gige & 1.00 \\  
+{}[M11]& pi & 1.00 & [M12]& bu & 1.00 \\  
+{}[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\  
+{}[M15]& depi & 0.95 & [M16]& pudi & 1.00 \\  
+{}[M17]& tegi & 1.00 & [M18]& ba & 0.90 \\  
+{}[M19]& ko & 1.00 & [M20]& guda & 1.00 \\  
  \lspbottomrule
 \end{tabular}
 \caption{\label{tab:gphase1} Group lexicon after first phase.}
@@ -719,21 +721,21 @@ new meanings, [M28] and [M29], still have low frequencies.
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  c  l  l  c } \lsptoprule 
-{\it meaning} & {\it form} & {\it frequency} & {\it meaning} & {\it form} & {\it frequency}\\ \midrule 
-[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\  
-[M3]& koto & 1.00 & [M4]& da & 1.00 \\  
-[M5]& peko & 1.00 & [M6]& ki & 1.00 \\  
-[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\  
-[M9]& do & 1.00 & [M10]& gige & 1.00 \\  
-[M11]& pi & 1.00 & [M12]& bu & 1.00 \\  
-[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\  
-[M15]& depi & 1.00 & [M16]& pudi & 1.00 \\  
-[M17]& tegi & 1.00 & [M18]& ba & 1.00 \\  
-[M19]& ko & 1.00 & [M20]& guda & 1.00 \\  
-[M22]& to & 1.00 & [M23]& de & 0.85 \\  
-[M24]& tabo & 0.95 & [M25]& piku & 1.00 \\  
-[M26]& ku & 1.00 & [M27]& pugu & 1.00 \\  
-[M28]& tete & 0.35 & [M29]& todu & 0.35 \\  
+{\itshape meaning} & {\itshape form} & {\itshape frequency} & {\itshape meaning} & {\itshape form} & {\itshape frequency}\\ \midrule 
+{}[M1]& gebo & 1.00 & [M2]& goge & 1.00 \\  
+{}[M3]& koto & 1.00 & [M4]& da & 1.00 \\  
+{}[M5]& peko & 1.00 & [M6]& ki & 1.00 \\  
+{}[M7]& gipe & 1.00 & [M8]& kedo & 1.00 \\  
+{}[M9]& do & 1.00 & [M10]& gige & 1.00 \\  
+{}[M11]& pi & 1.00 & [M12]& bu & 1.00 \\  
+{}[M13]& pa & 1.00 & [M14]& kipa & 1.00 \\  
+{}[M15]& depi & 1.00 & [M16]& pudi & 1.00 \\  
+{}[M17]& tegi & 1.00 & [M18]& ba & 1.00 \\  
+{}[M19]& ko & 1.00 & [M20]& guda & 1.00 \\  
+{}[M22]& to & 1.00 & [M23]& de & 0.85 \\  
+{}[M24]& tabo & 0.95 & [M25]& piku & 1.00 \\  
+{}[M26]& ku & 1.00 & [M27]& pugu & 1.00 \\  
+{}[M28]& tete & 0.35 & [M29]& todu & 0.35 \\  
 \lspbottomrule
 \end{tabular}
 \caption{\label{tab:phase1} Group lexicon after second phase.}
@@ -819,7 +821,7 @@ score of these words goes up quickly.
 Here is a computer simulation testing whether this 
 is indeed the case (see \figref{birth}). 
 We begin with a population of 20 agents and let them develop a 
-shared lexicon for 20 meanings (phase 1). Then I {\it add}
+shared lexicon for 20 meanings (phase 1). Then I {\itshape add}
 new virgin agents at regular time intervals, at a rate 
 of 1 every 1000 games (phase 2). A new 
 agent has no knowledge of the existing lexicon and
@@ -881,7 +883,7 @@ in the Naming Game model.
 The simulation starts with a population of 20 agents who 
 are left to develop a shared lexicon for 
 20 meanings (phase 1). 
-Then an in- {\it and} out-flux is introduced (phase 2 in 
+Then an in- {\itshape and} out-flux is introduced (phase 2 in 
 \figref{birth+death}) with one
 new virgin agent coming in 
 and another agent leaving the population every 1000 games. 
@@ -997,7 +999,7 @@ the updating processes to weed out wrong hypotheses.
 
 The most remarkable and at first mysterious property of the 
 Naming Game model is that the agents somehow reach a consensus
-without any central supervisor. They do {\it not} do this by 
+without any central supervisor. They do {\itshape not} do this by 
 having a general overview or by changing their internal 
 parameters so as to become more conservative as the lexicon
 solidifies. It is solely due to the subtle interaction between
@@ -1013,7 +1015,7 @@ and the more it will be used. This effect is still enforced
 by lateral inhibition. The scores of competing associations 
 decrease, making it less likely that they will win in the future. 
 This positive feedback therefore introduces an\is{autocatalysis} 
-{\it autocatalytic} (self-enforcing) effect until the population
+{\itshape autocatalytic} (self-enforcing) effect until the population
 locks into an equilibrium state.\footnote{
 Such positive feedback loops and the stability criteria
 associated with them have been widely studied in non-linear
@@ -1022,7 +1024,7 @@ processes. See \cite{Babloyantz:1986}.}
 
 To follow better how a consensus gradually emerges, I will visualise
 the competition between different words for the same meaning
-in a {\it meaning-form (MF) competition diagram}, 
+in a {\itshape meaning-form (MF) competition diagram}, 
 such as the one in \figref{competition}, which monitors 
 the frequencies of the different forms in use for one meaning.
 The diagram shows clearly the struggle between different forms until
@@ -1299,7 +1301,7 @@ communication reaches total success.
 However inspection of the agent lexicons reveals that
 agents will develop a stable
 language within their cluster, but also a
-second language, an {\it interlingua}, which is weaker but
+second language, an {\itshape interlingua}, which is weaker but
 shared among the different clusters. This interlingua will
 become stronger as more agents interact between clusters.
 Thus we observe language diversity due to
@@ -1312,62 +1314,62 @@ leftmost cluster in \figref{figure-agent-distribution}.
 All the words associated with a particular meaning are 
 shown together with their score. 
 \begin{verbatim}
-[M0]: kube[0.88] gutida[0.00] moko[0.00]
-[M1]: nugini[0.97] gi[0.83] majiba[0.00]
-[M2]: go[0.98] ta[0.00]
-[M3]: moma[0.98] ti[0.00] nudo[0.00] kene[0.00]
-[M4]: nebu[0.98] me[0.83]
-[M5]: tine[0.98]
+{}[M0]: kube[0.88] gutida[0.00] moko[0.00]
+{}[M1]: nugini[0.97] gi[0.83] majiba[0.00]
+{}[M2]: go[0.98] ta[0.00]
+{}[M3]: moma[0.98] ti[0.00] nudo[0.00] kene[0.00]
+{}[M4]: nebu[0.98] me[0.83]
+{}[M5]: tine[0.98]
 \end{verbatim}
 \begin{verbatim}
-[M6]: bo[0.94] babige[0.82]
-[M7]: mepabo[0.97] jabeto[0.71] di[0.00]
-[M8]: kude[0.90] nado[0.00]
-[M9]: pe[0.94] da[0.00]
-[M10]: na[0.94] nuguge[0.90] pa[0.80] ne[0.00]
+{}[M6]: bo[0.94] babige[0.82]
+{}[M7]: mepabo[0.97] jabeto[0.71] di[0.00]
+{}[M8]: kude[0.90] nado[0.00]
+{}[M9]: pe[0.94] da[0.00]
+{}[M10]: na[0.94] nuguge[0.90] pa[0.80] ne[0.00]
 \end{verbatim}
 \begin{verbatim}
-[M11]: mu[0.98] gite[0.00] paku[0.00]
-[M12]: gema[0.96] do[0.33] gapu[0.00]
-[M13]: ja[0.67] jo[0.00]
-[M14]: dodine[0.88] pibo[0.83] gije[0.00] pupeto[0.00]
-[M15]: jiti[0.94] gato[0.64]
+{}[M11]: mu[0.98] gite[0.00] paku[0.00]
+{}[M12]: gema[0.96] do[0.33] gapu[0.00]
+{}[M13]: ja[0.67] jo[0.00]
+{}[M14]: dodine[0.88] pibo[0.83] gije[0.00] pupeto[0.00]
+{}[M15]: jiti[0.94] gato[0.64]
 \end{verbatim}
 \begin{verbatim}
-[M16]: bimogu[0.98] ba[0.00]
-[M17]: bapi[0.96] ki[0.81] damuti[1,0,0.00]
-[M18]: kutume [0.94] bu [0.00] ni[0.00]
-[M19]: mugu[0.95] NINU[0.50] pi[0.43] ji[0.00] tu[0.00]
+{}[M16]: bimogu[0.98] ba[0.00]
+{}[M17]: bapi[0.96] ki[0.81] damuti[1,0,0.00]
+{}[M18]: kutume [0.94] bu [0.00] ni[0.00]
+{}[M19]: mugu[0.95] NINU[0.50] pi[0.43] ji[0.00] tu[0.00]
 \end{verbatim}
 This is the vocabulary for an agent taken from the
 rightmost cluster in \figref{figure-agent-distribution}:
 \begin{verbatim}
-[M0]: gutida[0.79] kube[0.00]
-[M1]: gi[0.89] matu[0.85] pumoni[0.00]
-[M2]: go[0.95] ta[0.20]
-[M3]: kene[0.89] moma[0.82] nudo[0.00] koko[0.00]
-[M4]: nebu[0.97] me[0.00] bukugo[0.00]
-[M5]: tine[0.90]
+{}[M0]: gutida[0.79] kube[0.00]
+{}[M1]: gi[0.89] matu[0.85] pumoni[0.00]
+{}[M2]: go[0.95] ta[0.20]
+{}[M3]: kene[0.89] moma[0.82] nudo[0.00] koko[0.00]
+{}[M4]: nebu[0.97] me[0.00] bukugo[0.00]
+{}[M5]: tine[0.90]
 \end{verbatim}
 \begin{verbatim}
-[M6]: babige[0.93] bo[0.00]
-[M7]: mepabo[0.90] junipe[0.75] di[0.00]
-[M8]: nado[0.96] kude[0.80] puto[0.00]
-[M9]: da[0.86] nine[0.71]
-[M10]: pa[0.87]
+{}[M6]: babige[0.93] bo[0.00]
+{}[M7]: mepabo[0.90] junipe[0.75] di[0.00]
+{}[M8]: nado[0.96] kude[0.80] puto[0.00]
+{}[M9]: da[0.86] nine[0.71]
+{}[M10]: pa[0.87]
 \end{verbatim}
 \begin{verbatim}
-[M11]: gite[0.88]
-[M12]: gema[0.90] gapu[0.87]
-[M13]: jo[0.96] ji[0.89] ja[0.00]
-[M14]: dodine[0.96] pupeto[0.56] pibo[0.00] gije[0.00]
-[M15]: jiti[0.97] gato[0.46]
+{}[M11]: gite[0.88]
+{}[M12]: gema[0.90] gapu[0.87]
+{}[M13]: jo[0.96] ji[0.89] ja[0.00]
+{}[M14]: dodine[0.96] pupeto[0.56] pibo[0.00] gije[0.00]
+{}[M15]: jiti[0.97] gato[0.46]
 \end{verbatim}
 \begin{verbatim}
-[M16]: bimogu[0.97] ba[0.83] pipebe[0.00]
-[M17]: ki[0.97] bapi[0.00] ke[,0.00]
-[M18]: ni[0.94] kutume[0.80] moko[0.80] mekami[0.00]
-[M19]: ninu[0.81] mugu[0.00] pi[0.00]
+{}[M16]: bimogu[0.97] ba[0.83] pipebe[0.00]
+{}[M17]: ki[0.97] bapi[0.00] ke[,0.00]
+{}[M18]: ni[0.94] kutume[0.80] moko[0.80] mekami[0.00]
+{}[M19]: ninu[0.81] mugu[0.00] pi[0.00]
 \end{verbatim}
 Some words (for example "tine" for [M5] or "go" for [M2]) are
 shared. But generally 
