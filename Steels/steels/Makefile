@@ -2,8 +2,8 @@
 all: book pod cover
 
 # specify thh main file and all the files that you are including
-SOURCE= lsp-skeleton.tex chapters/01.tex chapters/02.tex chapters/03.tex\
-localbibliography.bib\
+SOURCE= lsp-skeleton.tex \
+references.bib\
 LSP/langsci.cls
 	 
 lsp-skeleton.pdf: lsp-skeleton.tex $(SOURCE)
