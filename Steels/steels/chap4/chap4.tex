@@ -14,8 +14,8 @@ language meaning and focus only on the most
 simple type of conceptualisation one can
 imagine, namely categories, which logicians refer 
 to as unary predicates, as well as conjunctive 
-combinations of categories. Words like "blue", "light" or
-"square" name such categories. We not only need a way 
+combinations of categories. Words like ``blue'', ``light'' or
+``square'' name such categories. We not only need a way 
 that the Talking Heads can use such categories to conceptualise
 a scene based on visual perception, but we also need 
 mechanisms that can explain how such categories might 
@@ -296,7 +296,7 @@ for basic perceptually grounded categories, such as colour or
 space. However, more detailed observations show
 that the acquisition of categories in children goes 
 in fact very slowly. For example, concepts like cause-effect
-and the correct use of the word "because", the proper
+and the correct use of the word ``because'', the proper
 use of tenses, etc. all take years to develop. 
 Adults keep acquiring
 new categories through out their lifetime, which makes 
@@ -863,6 +863,7 @@ to a region between 0.0 and
 between 0.25 and 0.5 for [MEDIUM-SMALL]. The total set of
 distinctions using values of the same sensory channel
 can be organised in a discrimination tree (\figref{trees}). 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap4/figs/tree}}
 \caption{\label{trees} A discrimination tree contains
@@ -895,6 +896,7 @@ but I will restrict my attention to conjunctive
 combinations. Conjunctive combinations of categories 
 will be written between curly brackets (\{,\}) as in 
 \{[AREA 0.0-0.25] [GRAY 0.5-1.0]\}. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap4/figs/disnet}}
 \caption{\label{disnet} More complex categorizers
@@ -926,6 +928,7 @@ other object in the context. The discrimination game succeeds if
 the agent has found distinctive categories, otherwise the game
 fails. When the game succeeds, the success counter
 of the categorizers involved go up. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.40\textwidth]{chap4/figs/game5}}
 \caption{\footnotesize \label{geom} A computer generated scene 
@@ -978,6 +981,7 @@ one category and those that fall into the range of the other
 category. In this case, the left bin contains \{$O2$\} 
 (category [GRAY 0.0-0.5]) 
 and the right bin \{$O1$, $O3$\} (category [GRAY 0.5-1.0]). 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap4/figs/balls}}
 \caption{\footnotesize \label{balls} Balls containing
@@ -1139,6 +1143,7 @@ topic. Only two channels have top level
 categorizers: HEIGHT and WIDTH. 
 The data on these channels for the scene in Figure
 \ref{scene2} are shown in \tabref{tab:t-game8}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l }
@@ -1157,6 +1162,7 @@ HEIGHT and WIDTH have been scaled with respect to the
 minimum and maximum height and width of a 
 figure (sensor-scaling) but no context-scaling has 
 been performed. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.40\textwidth]{chap4/figs/scene8}}
 \caption{\label{scene2} Top: The scene used in game 8. 
@@ -1180,6 +1186,7 @@ the discrimination network to expand, but any node,
 including a top node of some of the other sensory channels 
 can be chosen for further expansion. 
 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.40\textwidth]{chap4/figs/scene22}}
 \caption{\label{scene3} Top: The scene used in game 22. 
@@ -1193,6 +1200,7 @@ HEIGHT and WIDTH have already more than one level and
 a discrimination tree for HPOS has developed.
 The relevant sensor-scaled data for these three sensory
 channels is shown in \tabref{tab:t-game22}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l  l }
@@ -1245,6 +1253,7 @@ other object. It gives us an indication why
 a certain sensory channel should be preferred
 over another. For the scene in game 22, the saliency for each channel with 
 respect to the triangle is as in \tabref{tab:t-game22-sal}: 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l }
@@ -1271,6 +1280,7 @@ therefore much easier and much more
 stable, but the information on saliency is lost and so 
 it is no longer clear which channel is to be preferred
 for reasons of saliency. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l  l }
@@ -1312,12 +1322,14 @@ Game 24
  a1 categorizes the topic as {[HEIGHT 0.0-0.5] [WIDTH 0.5-1.0]}
  The discrimination game succeeds
 \end{verbatim}
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.40\textwidth]{chap4/figs/game24}}
 \caption{\label{scene4} The scene used in game 24.}
 \end{figure}
 The relevant data after sensor-scaling for the 
 two sensory channels involved are shown in \tabref{tab:t-game24}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l  l }
@@ -1351,6 +1363,7 @@ captured the image shown in \figref{f:plate-10}
 gathering of sensory characteristics. The resulting sensory
 values (after sensor-scaling) for the segments are shown
 in \tabref{tab:t-real}. Object-0 has been selected as the topic. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  l  l }
@@ -1534,6 +1547,7 @@ cases but focuses on finding what is distinctive between the topic
 and the other objects. This enables the agent to make
 such a gigantic abstraction leap and to make it at an amazingly 
 rapid speed. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap4/figs/avsuc}}
 \caption{\label{avsuc} The graph displays the 
@@ -1564,6 +1578,7 @@ expansions, contractions, and shifts in the constitution of the
 discrimination trees but gradually there are fewer and 
 fewer changes (compare for example (c) and (d)) as a
 stable core emerges. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.75\textwidth]{chap4/figs/dynatrees}}
 \caption{\label{dyna-trees} Some snapshots of an evolving 
@@ -1623,6 +1638,7 @@ principle to the generation of sensory channels.
 The categorization process gives feedback to 
 the sensory processing on the adequacy of particular sensory 
 channels. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap4/figs/adptwrl1}}
 \caption{\label{adptwrl1} Two snapshots 
@@ -1639,6 +1655,7 @@ process is adaptive, the RATIO and GRAY channels should
 start to expand because these channels now contain
 significant data. This is indeed the case as shown 
 in \figref{adptwrl2}. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap4/figs/adptwrl2}}
 \caption{\label{adptwrl2} Two snapshots from 
@@ -1669,6 +1686,7 @@ Existing categories will of course still be adequate for
 many cases. After 500 more games, a new equilibrium
 is reached. Steady discrimination success is seen with an 
 enlarged repertoire.
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap4/figs/adptwrlglo}}
 \caption{\label{adptwrlglo} Evolution of success and ontology
@@ -1691,6 +1709,7 @@ be made easily. Note that the HEIGHT and WIDTH channels have not
 developed yet because no clear cases emerged 
 in the environment where those channels provided 
 salient data. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap4/figs/discri200}}
 \caption{\label{discri200a} The discrimination trees 

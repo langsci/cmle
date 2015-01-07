@@ -47,7 +47,7 @@ language games, where agents cannot inspect each others'
 brain states nor transmit meanings directly, 
 there is no feedback about the 
 meaning of a word, only about the referent. For example, 
-when a speaker says "wabo" and the hearer has correctly pointed 
+when a speaker says ``wabo'' and the hearer has correctly pointed 
 to the referent that the speaker intended, neither the 
 speaker nor the hearer can know whether they were 
 using the same meaning. They can only know that they 
@@ -63,7 +63,7 @@ I will call this the gavagai-problem, because Quine
 used this word to illustrate exactly this difficulty.\footnote{See \cite{Quine:1960}, p. 29,30.}
 Quine evoked the problem of an anthropologist
 trying to figure out what a native speaking an unknown
-language might mean when he utters "gavagai" while pointing
+language might mean when he utters ``gavagai'' while pointing
 to a white rabbit scurrying by. 
 
 In this chapter, I will bypass the gavagai-problem by assuming
@@ -147,11 +147,12 @@ games? Clearly they need some sort of {\itshape associative memory} to\is{lexica
 store their individual lexicons.
 Let us assume that agents 
 can construct and recognise arbitrary consonant-vowel combinations, 
-like "coba" or "wabidu", for forming words, and that they 
+like ``coba'' or ``wabidu'', for forming words, and that they 
 have a repertoire of possible meanings in the form of 
 categories, for example [LEFT], [DARK], [LARGE], etc. 
 The contents of the associative memory of a single agent can
 be displayed in a table as follows: 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l }
@@ -193,6 +194,7 @@ principle that no single agent has a complete overview of
 the lexicon nor controls the others. An example of 
 a lexicon with multiple associations and a score for every 
 association is illustrated in \tabref{tab:mem2}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{c c c c  c  c  c } \lsptoprule 
@@ -206,7 +208,7 @@ association is illustrated in \tabref{tab:mem2}.
 \end{center}
 \end{table}
 From this table we see that the agent prefers to use the 
-word "pama" for [DARK] and "limiri" for [LARGE]. 
+word ``pama'' for [DARK] and ``limiri'' for [LARGE]. 
 
 \subsection{Updating the score}
 
@@ -251,7 +253,7 @@ use both the score table above (in reality they of
 course always have different score tables). 
 The speaker collects all possible
 forms for a given meaning [DARK], chooses the one with the
-highest score ("pama"), and transmits that form. 
+highest score (``pama''), and transmits that form. 
 The hearer collects all possible meanings for 
 the transmitted form ([DARK], [LARGE]) and again chooses the one with
 the highest score. If the hearer's meaning is equal to that
@@ -267,6 +269,7 @@ theoretical investigation easier and makes it possible
 to better follow the simulations and experimentations.  
 An example of a neural network solution to lexical
 memory is discussed in \cite{Cangelosi:1996}.}
+
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.60\textwidth]{chap5/figs/incr-decr}}
@@ -344,41 +347,41 @@ most games fail if the word creation rate has been set to a low rate.
 In the next game shown below, the speaker is 
 {\bfshape a4}, the hearer {\bfshape a5} and the topic
 {}[SMALL]. Now the speaker is successful in creating a word, namely 
-"di". The hearer receives the word, does not know it,
+``di''. The hearer receives the word, does not know it,
 but stores it in association with [SMALL]. The game still fails. 
 \begin{verbatim}
 Game 29
    a4 is the speaker. a5 is the hearer. 
    a4 categorizes the topic as [SMALL]
-   a4 creates a new word: "di"
-   a5 does not know "di"
+   a4 creates a new word: ``di''
+   a5 does not know ``di''
    a4 points to the topic
    a5 categorizes the topic as [SMALL]
-   a5 stores "di" as [SMALL]
+   a5 stores ``di'' as [SMALL]
 \end{verbatim}
 In game 32, something similar happens. This time {\bfshape a5} creates
-a new word "pida" for [LARGE]. {\bfshape a3} does not know 
+a new word ``pida'' for [LARGE]. {\bfshape a3} does not know 
 the word but stores it. 
 \begin{verbatim}
 Game 32
    a5 is the speaker. a3 is the hearer. 
    a5 categorizes the topic as [LARGE]
-   a5 creates a new word: "pida"
-   a5 says: "pida"
-   a3 does not know "pida"
+   a5 creates a new word: ``pida''
+   a5 says: ``pida''
+   a3 does not know ``pida''
    a5 points to the topic
    a3 categorizes the topic as [LARGE]
-   a3 stores "pida" as [LARGE]
+   a3 stores ``pida'' as [LARGE]
 \end{verbatim}
 A first success occurs in game 43, when {\bfshape a5} uses again 
-"pida" for [LARGE]. {\bfshape a3} hears "pida", has associated it 
+``pida'' for [LARGE]. {\bfshape a3} hears ``pida'', has associated it 
 in his lexicon with [LARGE], and so the game succeeds. 
 \begin{verbatim}
 Game 43
    a5 is the speaker. a3 is the hearer. 
    a5 categorizes the topic as [LARGE]
-   a5 says: "pida"
-   a3 interprets "pida" as [LARGE]
+   a5 says: ``pida''
+   a3 interprets ``pida'' as [LARGE]
    a3 points to the topic 
    a5 signals OK
 \end{verbatim}
@@ -397,6 +400,7 @@ experiments with the Talking Heads.
 
 The individual lexicon of one
 agent, {\bfshape a5}, after 100 games is shown in \ref{tab:t-mem3}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  l }
@@ -411,10 +415,10 @@ agent, {\bfshape a5}, after 100 games is shown in \ref{tab:t-mem3}.
 \caption{\label{tab:t-mem3} Associative memory of a single agent after 100 games.}
 \end{center}
 \end{table}
-Both the words "di" and "pida" are present but with 
+Both the words ``di'' and ``pida'' are present but with 
 weak scores. There are two synonyms for 
-{}[LARGE]: "pida" and "fobu", but "pida" is 
-preferred. There is a word "gi" who is available 
+{}[LARGE]: ``pida'' and ``fobu'', but ``pida'' is 
+preferred. There is a word ``gi'' who is available 
 for [LIGHT] but does not have a positive score,
 because successive trials failed to yield a successful game. 
 
@@ -428,10 +432,11 @@ inspecting the internal states of each agent to
 construct the {\itshape group lexicon}. It groups the 
 dominating meaning-form associations for all possible
 meanings and the frequency of each association. 
-It gives a picture of "the" lexicon 
+It gives a picture of ``the'' lexicon 
 in the group. The group lexicon
 for the complete population of five agents after 50 language games
 is shown in \tabref{tab:t-mem4}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  l }
@@ -447,8 +452,8 @@ is shown in \tabref{tab:t-mem4}.
 \end{table}
 This reflects a situation where 40 \%
 of the agents prefers to name [LARGE] with
-"pida". 60 \% of the agents
-use "gi" for [LIGHT], and 40 \% "di" for [SMALL]. 
+``pida''. 60 \% of the agents
+use ``gi'' for [LIGHT], and 40 \% ``di'' for [SMALL]. 
 The other meanings ([DARK] and [RED]) do not have names yet. 
 
 Note that the group lexicon is not known by the agents
@@ -457,7 +462,7 @@ total system. The only information which is locally stored in each
 agent is his own lexicon, which might be quite different from that 
 of the group lexicon. For example, the lexicon of {\bfshape a5} shown earlier
 is different from the group lexicon.
-{\bfshape a5}'s score for "gi" is 0.0
+{\bfshape a5}'s score for ``gi'' is 0.0
 even though the word is already preferred by 60 \% of 
 the agents according to the group lexicon. 
 The group lexicon is a macroscopic structure that we
@@ -465,30 +470,31 @@ as observers construct from inspecting the internal
 states of the agents. 
 
 Let us now continue the simulation. Here are two additional
-games showing how "ga" propagates from {\bfshape a4} to {\bfshape a2} in 
+games showing how ``ga'' propagates from {\bfshape a4} to {\bfshape a2} in 
 game 101 and from {\bfshape a2} to {\bfshape a1} in game 104. 
 \begin{verbatim}
 Game 104
    a4 is the speaker. a2 is the hearer. 
    a4 categorizes the topic as [RED]
-   a4 says: "ga"
-   a2 does not know "ga"
+   a4 says: ``ga''
+   a2 does not know ``ga''
    a4 points to the topic
    a2 categorizes the topic as [RED]
-   a2 stores "ga" as [RED]
+   a2 stores ``ga'' as [RED]
 \end{verbatim}
 \begin{verbatim}
 Game 104
    a2 is the speaker. a1 is the hearer. 
    a2 categorizes the topic as [RED]
-   a1 says: "ga"
-   a1 does not know "ga"
+   a1 says: ``ga''
+   a1 does not know ``ga''
    a2 points to the topic
    a1 categorizes the topic as [RED]
-   a1 stores "ga" as [RED]
+   a1 stores ``ga'' as [RED]
 \end{verbatim}
 After a total of 250 games, the consensus is complete. 
 The group lexicon is shown in \tabref{tab:t-mem5}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  c  l  l  c } \midrule 
@@ -532,6 +538,7 @@ games discussed in the previous paragraphs. We see at once that
 average success climbs from a starting point of zero
 to a maximum of 1.0. This can only be because a shared lexicon 
 emerged in the population. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap5/figs/success}}
 \caption{ \label{success} 
@@ -546,6 +553,7 @@ about 180 games.}
 When the population (both of meanings and agents) is larger, 
 one would expect that it takes longer to reach total average
 success. This is indeed the case (\figref{larger}). 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap5/figs/larger}}
 \caption{\footnotesize \label{larger} 
@@ -587,6 +595,7 @@ on none, it is 0.0.\is{lexical coherence}
 
 Consider the following group lexicon after 3000 games for the
 previous simulation (with 20 agents), shown in \tabref{tab:t-mem3000}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  l  l  l  l }
@@ -614,6 +623,7 @@ average success (see \figref{suc-coh}). As expected,
 lexical coherence increases 
 and we can see that as coherence increases the success
 rate increases.
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap5/figs/suc-coh}}
 \caption{\label{suc-coh}This figure shows the evolution of both average
@@ -628,9 +638,9 @@ must associate the form used by the speaker
 with the same meaning. But it is not required that the
 hearer himself prefers to use the same form for the same meaning, 
 synonyms may occur.  
-A speaker of British English typically uses the word "pavement", 
-whereas an American prefers "sidewalk", even though he
-understands "pavement". Thus there can 
+A speaker of British English typically uses the word ``pavement'', 
+whereas an American prefers ``sidewalk'', even though he
+understands ``pavement''. Thus there can 
 be several forms active in the same population, even though 
 the outcome of a game is always successful. We will see 
 later that synonyms do get damped, as is the case in 
@@ -691,6 +701,7 @@ In a first phase, the system is closed
 and a shared lexicon emerges for the initial set 
 of 20 meanings, as expected. The group's lexicon
 is now as in \tabref{tab:gphase1}. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{l  l  c  l  l  c } \lsptoprule 
@@ -718,6 +729,7 @@ propagate in the population. The following group lexicon
 shows that for newcomers like [M22] or [M25] a total 
 consensus has emerged. Words for the latest
 new meanings, [M28] and [M29], still have low frequencies. 
+
 \begin{table}
 \begin{center}
 \begin{tabular}{ l  l  c  l  l  c } \lsptoprule 
@@ -752,6 +764,7 @@ Coherence is based on the average for all
 meanings, thus only the new ones are therefore affecting overall coherence. 
 Success drops more rapidly 
 because of the high rate of failure of new meanings. 
+
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap5/figs/in+out}}
@@ -833,6 +846,7 @@ picks up the lexicon of the community and success
 moves back up. The lexicon does not change, it is 
 stable against minor perturbations. 
 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap5/figs/birth}}
 \caption{\label{birth} Evolution of communicative 
@@ -897,6 +911,7 @@ not only explains the formation of
 a lexicon but also its transmission: This transmission is 
 entirely cultural. New agents enter the population with no 
 prior knowledge. 
+
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap5/figs/birth+death}}
@@ -1028,7 +1043,7 @@ in a {\itshape meaning-form (MF) competition diagram},
 such as the one in \figref{competition}, which monitors 
 the frequencies of the different forms in use for one meaning.
 The diagram shows clearly the struggle between different forms until
-one form ("pe") emerges as the winner. When we later study 
+one form (``pe'') emerges as the winner. When we later study 
 grounded lexicon formation processes, we will see that the 
 competition becomes much more complex and the whole system 
 is in constant evolution. A form-meaning pair which is 
@@ -1037,13 +1052,14 @@ fails to pick up the right
 referent in a new context. 
 This in turn may trigger the creation of new words or the 
 resurgence of existing words. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.70\textwidth]{chap5/figs/comp1}}
 \caption{\label{competition} Simulation with 
 a population of 20 agents. The meaning-form competition 
 diagram shows the frequency of all competing forms for a 
 single meaning. We see a winner-take-all situation
-with one word ("pe") dominating.}
+with one word (``pe'') dominating.}
 \end{figure}
 
 \subsection{Collective Behavior and Self-organisation}
@@ -1273,6 +1289,7 @@ several of these alternate dimensions. The physical
 Talking Heads network connecting installations in 
 different geographical locations allows to do these 
 experiments for real. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.40
 \textwidth]{chap5/figs/fig-agent-distribution}}
@@ -1371,17 +1388,17 @@ rightmost cluster in \figref{figure-agent-distribution}:
 {}[M18]: ni[0.94] kutume[0.80] moko[0.80] mekami[0.00]
 {}[M19]: ninu[0.81] mugu[0.00] pi[0.00]
 \end{verbatim}
-Some words (for example "tine" for [M5] or "go" for [M2]) are
+Some words (for example ``tine'' for [M5] or ``go'' for [M2]) are
 shared. But generally 
 there are at least two words. One word is used preferentially inside the cluster,
 the other is known but preferentially used by members of another cluster. Thus
-the word "mugu" for [M19] is preferred for the first object in the first
+the word ``mugu'' for [M19] is preferred for the first object in the first
 cluster and known but not preferentially used by the agent in the second cluster.
-Conversely, "ninu" is preferred for the same meaning by the agent in the second
-cluster, although he also knows "mugu".
-"mepabo" for [M7] belongs to the interlingua. Both agents
-know and use it but they have a strong alternative "jabeto" for 
-the first and "junipe" for the second agent. 
+Conversely, ``ninu'' is preferred for the same meaning by the agent in the second
+cluster, although he also knows ``mugu''.
+``mepabo'' for [M7] belongs to the interlingua. Both agents
+know and use it but they have a strong alternative ``jabeto'' for 
+the first and ``junipe'' for the second agent. 
 
 \subsection{Language Contact}
 
@@ -1399,6 +1416,7 @@ The interaction between clusters is initially
 very weak. At some point (after 4000 games) the intercluster communication is
 increased drastically. At first there is a drop in communicative
 success but then total communicative success is again reached.
+
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap5/figs/comm-succ}}
@@ -1421,6 +1439,7 @@ cluster are in the process of accomodating to the global lexicon.
 This means that the
 languages of the different groups are in the process of
 merging due to the increased language contact.
+
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.80\textwidth]{chap5/figs/coherence}}

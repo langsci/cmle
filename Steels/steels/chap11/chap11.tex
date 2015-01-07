@@ -84,6 +84,7 @@ sizes and shapes. At any time a new object can be added or the position of an ob
 entirely open and robots do not know how many individuals there are. 
 Importantly, the robots had to recognise an object as an individual, independently of its position. If 
 a specific object disappeared from the world and was put back later, the same name would still have to be used. \\ 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.80\textwidth]{chap11/figs/grounded-naming-game}}
 \caption{\label{fig:grounded} 
@@ -119,6 +120,7 @@ analysed in quasi-real time to detect regions that may correspond to objects
 and track them over time. Once object regions are found, feature detectors can compute values for color,
 brightness, position, width, size, texture, speed of movement,
 direction of movement, etc., but these will always be very noisy (see \figref{fig:png-perception}). 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.85\textwidth]{chap10/figs/png-perception}}
 \caption{\label{fig:png-perception} 
@@ -205,6 +207,7 @@ and names, both within a single individual and across the
 population. This lead to the notion of a {\itshape semiotic network}, which was a significant conceptual advance 
 in the methodology of conceiving and carrying out language game experiments.
 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.95\textwidth]{chap10/figs/prototypes-identifiers-words}}
 \caption{\label{fig:prototypes-identifiers-words} 
@@ -289,6 +292,7 @@ prototypical views and link them to newly introduced individuals.
 Prototypes are later adjusted to better reflect invariant properties by updating their 
 mean value and variance. 
 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.95\textwidth]{chap11/figs/png-results}}
 \caption{\label{fig:png-results} 
@@ -321,6 +325,7 @@ the experimenter in \figref{fig:png-perception}
 yields two quite different sensory experiences when standing up or lying down which match with 
 two different prototypes, but thanks to the tracking heuristic, the semiotic network can 
 be rearranged to reflect that they are two views of the same object (see \figref{fig:png-optimisation}). 
+
 
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.75\textwidth]{chap11/figs/adjust-id}}
@@ -361,6 +366,7 @@ University in Berlin (see \figref{fig:myon-action}).\cite{Steels:2012b}
 A BBC video clip of the experiment can be seen here: https://www.youtube.com/watch?v=lmoXByLkK14
 The porting exercise showed that once we discover how to do a certain type of language game on one robot 
 we can relatively easily port it to another one, after adapting the lowest level sensing and actuation routines. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/myon-action-game}}
 \caption{
@@ -406,6 +412,7 @@ when there is no prototype that matches distinctively with the sensory experienc
 slightly adjusted to integrate new instances, so that the prototype progressively and adaptively reflects the body postures observed
 in the world. 
 
+
 \begin{figure}
 \centerline{\includegraphics[width=0.2\linewidth]{chap11/figs/postures.pdf}\includegraphics[width=0.75\linewidth]{chap11/figs/vision_2.pdf}}
 \caption{\label{vision} \footnotesize{{\itshape Left:} Example postures of the robot (which is the QRIO in this case).
@@ -428,6 +435,7 @@ The robot selects a posture, and activates the corresponding motor behavior. Thi
 hence a sensory experience categorised with a particular prototype. Through standard Hebbian learning (which enforces the 
 connection between nodes that are simultaneously active) the link between the posture prototype and the motor action gets 
 established and progressively enforced. 
+
 
 \begin{figure}
 \centerline{\includegraphics[width=0.6\linewidth]{chap11/figs/robot-mirror}}
@@ -452,6 +460,7 @@ The graph shows the typical overshoot of the lexicon in the early stage
 as new words are invented in a distributed fashion followed by a phase 
 of alignment as the agents converge on an optimal lexicon. 
 
+
 \begin{figure}
 \centerline{\includegraphics[width=0.6\linewidth]{chap11/figs/commsuccess}}
 \caption{\label{commsuccess} \footnotesize{Results of the Action Game played by a population of 10 agents 
@@ -473,6 +482,7 @@ posture node through the visual prototype of this posture, he can later get feed
 associated with the same posture node, or, vice-versa, he can first learn the association between a motor behavior and 
 a word (when the speaker asks to perform the posture) and then learn what visual prototype corresponds to that. 
 Experiments show that this method indeed also works to achieve a coherent mirror system \cite{Steels:2008}.
+
 
 \begin{figure}
 \centerline{\includegraphics[width=0.6\linewidth]{chap11/figs/network}}
@@ -499,6 +509,7 @@ a thesis defended in 2010.\footnote{This thesis is published as another volume i
 The color domain has attracted several other language game researchers, attempting to explain 
 universal trends in color categorisation.\footnote{Most notably: \cite{Puglisi:2008}, \cite{Baronchelli:2010}.}
 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=.65\textwidth]{chap11/figs/color-qrio}}
 \caption{\label{fig:munsell} 
@@ -512,7 +523,7 @@ the art in color language research in two ways:
 \begin{itemize}
 \item To use more realistic circumstances of object perception. Because 
 robots are moving around in three dimensions and see the situation from different points of view, the reflection 
-of light changes and is different for speaker and hearer (see \figref{f:scene-example}). This difference did not 
+of light changes and is different for speaker and hearer (see \tabref{f:scene-example}). This difference did not 
 play a role in earlier experiments but 
 it certainly plays an important role in the stabilisation and choice of color prototypes. 
 \item To focus on color descriptions beyond basic color terms, i.e. descriptions like 
@@ -524,19 +535,32 @@ also require the introduction of language strategies as a layer of abstraction
 above lexical and grammatical constructions. 
 \end{itemize}
 
-\begin{figure}[htbp]
+
+\begin{table}[htbp]
   \centering\small
-  \begin{tabular}{c|ccc|ccc}
-    \multicolumn{1}{c}{}
-    & \multicolumn{3}{c}{\includegraphics[width=0.37\textwidth]{chap11/figs/grounding-scene-a}}
-    & \multicolumn{3}{c}{\includegraphics[width=0.37\textwidth]{chap11/figs/grounding-scene-b}} \\
-    & obj-9 & obj-11 & obj-17 & obj-7 & obj-10 & obj-15 \\
+\begin{tabular}{ccc}
+ \lsptoprule 
+
+    &\includegraphics[width=0.37\textwidth]{chap11/figs/grounding-scene-a}
+	&\includegraphics[width=0.37\textwidth]{chap11/figs/grounding-scene-b}\\
+  \multicolumn{2}{c}{
+    \begin{tabular}{lrrr}
+	      & obj-9 & obj-11 & obj-17 \\
     \midrule
-    \emph{L*} & 35.5 & 51.2 & 50.5 & 35.6 & 52.8 & 62.2 \\
-    \emph{a*} & 7.7 & -17.1 & 26.7 & 7.2 & -20.1 & 27.9 \\
-    \emph{b*} & -40.7 & -14.0 & 39.6 & -39.0 & -11.3 & 52.5 \\
-    
-  \lspbottomrule
+    \emph{L*} &  35.5 &  51.2 & 50.5 \\
+    \emph{a*} &   7.7 & -17.1 & 26.7 \\
+    \emph{b*} & -40.7 & -14.0 & 39.6 \\
+    \end{tabular}
+  }
+&
+  \begin{tabular}{rrr}
+ obj-7 & obj-10 & obj-15 \\
+\midrule
+      35.6 & 52.8 & 62.2 \\
+      7.2 & -20.1 & 27.9 \\
+      -39.0 & -11.3 & 52.5 \\ 
+  \end{tabular} \\
+\lspbottomrule
 \end{tabular}
   \caption[Comparison between the color perceptions of two robots for
   an example scene]{Color perceptions of two
@@ -545,7 +569,7 @@ above lexical and grammatical constructions.
     different sides and distances and thus perceive very different color values on 
     the \emph{a*} and \emph{b*} color dimensions for the same object.}
   \label{f:scene-example}
-\end{figure}
+\end{table}
 
 Together with Joris Bleys and using the vision system developed by Michael Spranger, we 
 performed language game experiments both for the same set-up as shown in \figref{fig:grounded}, 
@@ -737,6 +761,7 @@ green (denoted as [green]).
 (bind color-category ?cc [green])
 \end{verbatim}
 A graphical representation of this network is shown in \figref{fig:basic-strat}. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/basic-strat}}
 \caption{\label{fig:basic-strat} 
@@ -766,6 +791,7 @@ constructing ?s4. And then the select-most-activated operation picks out the bes
 Other data flows within the same network are possible, for example to find the bindings of ?mc and ?cc given 
 a context and a referent ?t that needs to be identified. 
 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/graded}}
 \caption{\label{fig:graded} 
@@ -788,6 +814,7 @@ the intersection of the two. Rather, it appears that the discretisation of the c
 to the color which appears as head of the phrase and then categorisation is done. This is achieved with the IRL network 
 shown in \figref{fig:combi}. 
 %http://www.workwithcolor.com/red-orange-color-hue-range-01.htm
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/combi}}
 \caption{\label{fig:combi} 
@@ -801,6 +828,7 @@ and there is a draw-category-set-to-category operation that rescales the basic c
 whereby the color being modified lies on the projecting vector and a new discretisation of the color space can be 
 performed. The network for this strategy is shown in \figref{fig:modi}. 
 %http://www.workwithcolor.com/red-orange-color-hue-range-01.htm
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=1.0\textwidth]{chap11/figs/modi}}
 \caption{\label{fig:modi} 
@@ -838,6 +866,7 @@ word-string itself as the form. It is the unit called Yellow-unit in \figref{fig
 The construction also introduces a lexical category (part of speech) for the word (in this case the lexical category 
 is color-category) and specifies which variables in the meaning can be linked with other variables in other
 units. The variables are typed. In this case there is one variable ?c which is of type color-category. 
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=0.3\textwidth]{chap11/figs/syntactic-basic} $~~~~$ 
 \includegraphics[width=0.6\textwidth]{chap11/figs/syntactic-graded}}
@@ -914,6 +943,7 @@ color ontology and lexicon from scratch.
 English categories but then are allowed to further adapt their lexicons depending on the challenges of the situations 
 they encounter. 
 \end{enumerate}
+
 \begin{figure}[htbp]
   \centerline{\includegraphics[width=0.6\textwidth]{chap11/figs/grounding-comparison}}
 \caption{ Comparison of three different environmental set-ups (left, right, and middle columns)
