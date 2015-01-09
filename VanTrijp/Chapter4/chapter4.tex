@@ -20,82 +20,108 @@ She looks nothing {\em like} her father.
 
 In the following subsection I will briefly touch upon some phenomena of grammaticalization involving pattern formation\is{pattern formation} and offer an analysis which is somewhat different from the traditional linguistic approach. I will support my analysis through other examples of patterns and idiom\is{idiom}s in language. In the next subsection, I will then offer an operationalization of my analysis in terms of diagnostic\is{learning strategies!diagnostics}s and repair\is{learning strategies!repair strategies} strategies for the artificial agents that will be used in the experiments in this chapter.
 
+
+
 \subsection{Pattern formation\is{pattern formation} in language}
 
 A very good example of the development of a lexical item into a part of a grammatical structure can be found in French\is{French} negation\is{negation}. Traditionally, the development of negation\is{negation} particles (also known as `Jespersen's cycle\is{Jespersen's cycle}') is defined in terms of a cycle of reanalysis\is{reanalysis} -- analog\is{analogy}y (generalization) -- reanalysis\is{reanalysis} \cite[65--66]{hopper93grammaticalization}:
 
-\begin{enumerate}
+\begin{enumerate}  \item[1.]   Negation in French\is{French} originally only involved {\em ne} before the verb\is{verb}:
+\end{enumerate}
+ 
 
-\item Negation in French\is{French} originally only involved {\em ne} before the verb\is{verb}:
+
+
 \ea
 \gll Il ne va.\\
-he NEG go.3SG.PRES\\
+he {\textsc{neg}} go.3{\sg}.{\prs}\\
 \glt `He doesn't go.'\\
 \z
 
-\item In the context of motion verb\is{verb}s, {\em ne} could optionally be reinforc\is{reinforcement}ed by the noun\is{noun} {\em pas} `step':
+ \begin{enumerate}  \item[2.]   In the context of motion verb\is{verb}s, {\em ne} could optionally be reinforc\is{reinforcement}ed by the noun\is{noun} {\em pas} `step':
+ \end{enumerate}
+
 
 \ea
 \gll Il ne va (pas).\\
-he NEG go.3SG.PRES (step)\\
+he {\textsc{neg}} go.3{\sg}.{\prs} (step)\\
 \glt `He doesn't go (a step).'\\
 \z
+\begin{enumerate}  \item[3.]  The word {\em pas} is reanalyzed as a negator particle in the construction [{\em ne} Vmotion {\em pas}];
+\end{enumerate}
 
-\item The word {\em pas} is reanalyzed as a negator particle in the construction [{\em ne} Vmotion {\em pas}];
+\begin{enumerate}  \item[4.]   The particle {\em pas} is exten\is{extension}ded analog\is{analogy}ically to non-motion verb\is{verb}s as well:
+\end{enumerate}
 
-\item The particle {\em pas} is exten\is{extension}ded analog\is{analogy}ically to non-motion verb\is{verb}s as well:
+ 
 
 \ea
 \gll Il ne sait pas.\\
-he NEG know.3SG.PRES NEG\\
+he {\textsc{neg}} know.3{\sg}.{\prs} {\textsc{neg}}\\
 \glt `He doesn't know.'\\
 \z
 
-\item The particle {\em pas} is then reanalyzed as an obligatory part of the construction [{\em ne} V {\em pas}];
 
-\item In spoken French\is{French}, {\em ne} is reanalyzed to become optional and is eventually lost:
-
-\ea
-\gll Il sait pas.\\
-he know.3SG.PRES NEG\\
-\glt `He doesn't know.'\\
-\z
+\begin{enumerate}  \item[5.]  The particle {\em pas} is then reanalyzed as an obligatory part of the construction [{\em ne} V {\em pas}];
 \end{enumerate}
 
-\noindent{\bfseries Reanalysis versus pattern formation\is{formation}\is{pattern formation}.} Reanalysis is essentially a hearer-based analysis of this developmental cycle in which the hearer interprets the underlying structure of an utterance in another way than was intended by the speaker. Reanalysis is traditionally understood as {\em ``change in the structure of an expression or class of expressions that does not involve any immediate or intrinsic modification of its surface manifestation''} \citep[58]{langacker77syntactic}. Even though reanalysis\is{reanalysis} is a plausible mechanism for step 3, its main problem is that it is invisible from the outside. \citet{hopper93grammaticalization} write that for {\em ``the French\is{French} negator {\em pas}, we would not know that reanalysis\is{reanalysis} had taken place at stage [3] without the evidence of the working generalization at stage [4]''} (p. 66). As \citet{haspelmath98does} points out, however, this means that reanalysis\is{reanalysis} cannot explain how the new use of {\em pas} got propagat\is{propagation}ed and accepted in the speech community\is{speech population} unless all speakers are assumed to make the same reanalysis\is{reanalysis} at roughly the same time, which is very implausible. As I will explain more thoroughly in section \ref{s:actualization}, reanalysis\is{reanalysis} needs to be accompanied by other mechanisms in order to account for the empirical data.
+
+\begin{enumerate}  \item[6.]  In spoken French\is{French}, {\em ne} is reanalyzed to become optional and is eventually lost:
+\end{enumerate}
+ 
+\ea
+\gll Il sait pas.\\
+he know.3{\sg}.{\prs} {\textsc{neg}}\\
+\glt `He doesn't know.'\\
+\z 
+
+\subsubsection{Reanalysis versus pattern formation\is{formation}\is{pattern formation}}
+ Reanalysis is essentially a hearer-based analysis of this developmental cycle in which the hearer interprets the underlying structure of an utterance in another way than was intended by the speaker. Reanalysis is traditionally understood as {\em ``change in the structure of an expression or class of expressions that does not involve any immediate or intrinsic modification of its surface manifestation''} \citep[58]{langacker77syntactic}. Even though reanalysis\is{reanalysis} is a plausible mechanism for step 3, its main problem is that it is invisible from the outside. \citet{hopper93grammaticalization} write that for {\em ``the French\is{French} negator {\em pas}, we would not know that reanalysis\is{reanalysis} had taken place at stage [3] without the evidence of the working generalization at stage [4]''} (p. 66). As \citet{haspelmath98does} points out, however, this means that reanalysis\is{reanalysis} cannot explain how the new use of {\em pas} got propagat\is{propagation}ed and accepted in the speech community\is{speech population} unless all speakers are assumed to make the same reanalysis\is{reanalysis} at roughly the same time, which is very implausible. As I will explain more thoroughly in section \ref{s:actualization}, reanalysis\is{reanalysis} needs to be accompanied by other mechanisms in order to account for the empirical data.
 
 I propose a different and simpler mechanism for step 3 that is in line with the general approach of usage-based model\is{usage-based model}s of language: pattern formation\is{formation}\is{pattern formation}. If a certain group of words occur frequently enough together, they are stored as a new unit in the linguistic inventor\is{linguistic inventory}y. This means that the language user now knows two {\bfseries competing} constructions in the case of motion verb\is{verb}s: [{\em ne} V] and [{\em ne} Vmotion {\em pas}]. This approach of pattern formation\is{pattern formation} may seem redundant from the point of view of inventory size, but it may optimize linguistic processing because a pattern is a `pre-compiled' chunk that is readily available for use, whereas otherwise the language user needs to compose the structure over and over again. Since pattern formation\is{pattern formation} is a relatively `simple' operation for optimizing processing, we can assume within a usage-based model\is{usage-based model} that most language users will do this spontaneously for all recurrent patterns in the language as opposed to a collective operation of reanalysis\is{reanalysis}. Once a pattern is stored in memory, it can start a life on its own and diverge from its original usage. Steps 1--5 in the negation\is{negation} cycle can thus be reinterpreted as follows in a more speaker-based analysis:
 
-\begin{enumerate}
 
-\item Negation in French\is{French} originally only involved {\em ne} before the verb\is{verb}:
+\begin{enumerate}  \item[1.]  Negation in French\is{French} originally only involved {\em ne} before the verb\is{verb}:
+\end{enumerate}
+ 
 \ea
 \gll Il ne va.\\
-he NEG go.3SG.PRES\\
+he {\textsc{neg}} go.3{\sg}.{\prs}\\
 \glt `He doesn't go.'\\
 \z
 
-\item The speakers of French\is{French} start to reinforc\is{reinforcement}e the negation\is{negation} particle {\em ne} in some situations to put more emphasis on the negation\is{negation} or to solve communicative problems. In the context of motion verb\is{verb}s, the reinforc\is{reinforcement}ement is achieved through the noun\is{noun} {\em pas} `step', whereas in other contexts such as verb\is{verb}s of visual perception, negation\is{negation} is reinforc\is{reinforcement}ed through {\em point} `point':
+\begin{enumerate}  \item[2.]  The speakers of French\is{French} start to reinforc\is{reinforcement}e the negation\is{negation} particle {\em ne} in some situations to put more emphasis on the negation\is{negation} or to solve communicative problems. In the context of motion verb\is{verb}s, the reinforc\is{reinforcement}ement is achieved through the noun\is{noun} {\em pas} `step', whereas in other contexts such as verb\is{verb}s of visual perception, negation\is{negation} is reinforc\is{reinforcement}ed through {\em point} `point':
 
+\end{enumerate}
+  
 \ea
 \gll Il ne va (pas).\\
-he NEG go.3SG.PRES (step)\\
+he {\textsc{neg}} go.3{\sg}.{\prs} (step)\\
 \glt `He doesn't go (a step).'\\
 
 \item
 \gll Il ne voit (point).\\
-he NEG see.3SG.PRES (point)\\
+he {\textsc{neg}} see.3{\sg}.{\prs} (point)\\
 \glt `He doesn't see (a point).'\\
 \z
 
-\item The frequent use of these reinforc\is{reinforcement}ement noun\is{noun}s leads to the creation of readily available patterns which co-exist\is{co-existence} (and compete with) the standard negation\is{negation} construction;
-
-\item The new patterns are exten\is{extension}ded analog\is{analogy}ically to non-motion verb\is{verb}s as well and start to compete with each other and with the old negation\is{negation} construction for becoming the new default negation\is{negation};
-
-\item The construction [{\em ne} V {\em pas}] wins the competit\is{competition}ion and becomes the new default construction for negation\is{negation}. Other competit\is{competition}ors using different particles either disappear or take up their own semantic niche ({\em ne ... point} `nothing' (old-fashioned), {\em ne ... plus} `no more', {\em ne ... rien} `nothing', {\em ne ... jamais} `never', {\em ne ... gu\`{e}re} `almost nothing', etc.). The old negation\is{negation} construction gets lost except for some archaic uses in writing.
+\begin{enumerate}  \item[3.]   The frequent use of these reinforc\is{reinforcement}ement noun\is{noun}s leads to the creation of readily available patterns which co-exist\is{co-existence} (and compete with) the standard negation\is{negation} construction;
 \end{enumerate}
 
-\noindent{\bfseries Idioms.} Evidence for pattern formation\is{pattern formation} as opposed to reanalysis\is{reanalysis} can be found in idiom\is{idiom}s. Idiomatic expressions have always been problematic for traditional linguistic theories that take a modular approach to language and assume a sharp distinction between convention\is{convention}al-lexical items and systematic-syntactic rules. Faced with such problematic issues, usage-based model\is{usage-based model}s and particularly construction grammars {\em ``grew out of a concern to find a place for idiom\is{idiom}atic expressions in the speaker's knowledge of a grammar of their language''} \citep[225]{croft04cognitive}. Idioms range from highly idiom\is{idiom}atic expressions to more schematic constructions \citep[][chapter 9]{croft04cognitive}:
+
+\begin{enumerate}  \item[4.]  The new patterns are exten\is{extension}ded analog\is{analogy}ically to non-motion verb\is{verb}s as well and start to compete with each other and with the old negation\is{negation} construction for becoming the new default negation\is{negation};
+
+\end{enumerate}
+
+
+
+\begin{enumerate}  \item[5.]  The construction [{\em ne} V {\em pas}] wins the competit\is{competition}ion and becomes the new default construction for negation\is{negation}. Other competit\is{competition}ors using different particles either disappear or take up their own semantic niche ({\em ne ... point} `nothing' (old-fashioned), {\em ne ... plus} `no more', {\em ne ... rien} `nothing', {\em ne ... jamais} `never', {\em ne ... gu\`{e}re} `almost nothing', etc.). The old negation\is{negation} construction gets lost except for some archaic uses in writing.
+\end{enumerate}
+
+ 
+
+\subsubsection{Idioms}
+ Evidence for pattern formation\is{pattern formation} as opposed to reanalysis\is{reanalysis} can be found in idiom\is{idiom}s. Idiomatic expressions have always been problematic for traditional linguistic theories that take a modular approach to language and assume a sharp distinction between convention\is{convention}al-lexical items and systematic-syntactic rules. Faced with such problematic issues, usage-based model\is{usage-based model}s and particularly construction grammars {\em ``grew out of a concern to find a place for idiom\is{idiom}atic expressions in the speaker's knowledge of a grammar of their language''} \citep[225]{croft04cognitive}. Idioms range from highly idiom\is{idiom}atic expressions to more schematic constructions \citep[][chapter 9]{croft04cognitive}:
 
 \ea
 by and large; no can do; be that as it may; make believe; so far so good
@@ -115,6 +141,7 @@ One problem with the alternative hypothesis is that it is invisible from the out
 \label{s:operationalizing-patterns}
 
 The above idea of pattern formation\is{formation}\is{pattern formation} needs to be implemented in terms of diagnostic\is{learning strategies!diagnostics}s and repair\is{learning strategies!repair strategies} strategies that make use of information that is locally available to the agents. Consider the reaction network\is{reaction network} of Figure \ref{f:reaction1} in which an agent used two constructions which subsequently license\is{license}d node-2 and node-3 in the network and which license\is{license}s the utterance {\em jack -bo push block -ka}:
+
 \begin{figure}[htb]
 \centerline{\includegraphics[width=0.8\textwidth]{Chapter4/figs/reaction1}}
   \caption[A reaction network\is{reaction network} as a source for pattern formation\is{formation}\is{pattern formation}]{An agent's reaction network\is{reaction network} is the source for pattern formation\is{pattern formation}. If the agents have to apply two constructions to license\is{license} an utterance (production) or a meaning (parsing), they will create a pattern based on the applied constructions. This pattern has the same functionality as the constructions but only requires one step.}
@@ -136,34 +163,35 @@ The new construction is stored in the linguistic inventor\is{linguistic inventor
 \end{figure}
 
 Apart from creating the new pattern, not much needs to be changed in the linguistic inventor\is{linguistic inventory}y apart from the fact that the agents have to link the new construction to the lexical entries that are compatible with it. The agents will not do this in one sweep but postpone this task until processing: lexical entries are only linked to the new construction instance by instance if this is required during a language game\is{language game}. The mechanism works entirely the same: the agent wants to unify\is{unify and merge} and merge two constructions and wants to optimize processing by creating a pattern. This time, however, no new pattern needs to be created because there is already one. The pattern thus exten\is{extension}ds its use to a new verb\is{verb} as well. The newly-made construction looks as follows:
-\\
-\\
-{\footnotesize{\tt <Construction: construction-3
-\\ ((?top-unit
-\\ \hspace*{5mm} (sem-subunits (== ?unit-a ?unit-b ?unit-c)))
-\\ \hspace*{2mm}(?unit-a
-\\ \hspace*{5mm} (sem-frame (== (sem-role-1 ?unit-b ?obj-x)
-\\ \hspace*{36mm}(sem-role-2 ?unit-c ?obj-y))))
-\\ \hspace*{2mm}(?unit-b
-\\ \hspace*{5mm} (referent ?obj-x))
-\\ \hspace*{2mm}(?unit-c
-\\ \hspace*{5mm} (referent ?obj-y))
-\\ \hspace*{2mm}((J ?unit-b NIL)
-\\ \hspace*{5mm} (sem-role sem-role-1))
-\\ \hspace*{2mm}((J ?unit-c NIL)
-\\ \hspace*{5mm} (sem-role sem-role-2)))
-\\ <==>
-\\ ((?top-unit
-\\ \hspace*{5mm} (syn-subunits (== ?unit-a ?unit-b ?unit-c)))
-\\ \hspace*{2mm}(?unit-a
-\\ \hspace*{5mm} (syn-frame (== (syn-role-1 ?unit-b)
-\\ \hspace*{36mm}(syn-role-2 ?unit-c))))
-\\ \hspace*{2mm}(?unit-b
-\\ \hspace*{5mm} (syn-role syn-role-1))
-\\ \hspace*{2mm}(?unit-c
-\\ \hspace*{5mm} (syn-role syn-role-2)))>}}
-\\
-\\
+
+\begin{lstlisting}
+<Construction: construction-3
+((?top-unit
+   (sem-subunits (== ?unit-a ?unit-b ?unit-c)))
+ (?unit-a
+   (sem-frame (== (sem-role-1 ?unit-b ?obj-x)
+                  (sem-role-2 ?unit-c ?obj-y))))
+ (?unit-b
+   (referent ?obj-x))
+ (?unit-c
+   (referent ?obj-y))
+ ((J ?unit-b NIL)
+   (sem-role sem-role-1))
+ ((J ?unit-c NIL)
+   (sem-role sem-role-2)))
+<==>
+((?top-unit
+   (syn-subunits (== ?unit-a ?unit-b ?unit-c)))
+ (?unit-a
+   (syn-frame (== (syn-role-1 ?unit-b)
+                  (syn-role-2 ?unit-c))))
+ (?unit-b
+   (syn-role syn-role-1))
+ (?unit-c
+   (syn-role syn-role-2)))>
+\end{lstlisting}
+
+
 \noindent To summarize, the agents are equipped with the following diagnostic\is{learning strategies!diagnostics} and repair\is{learning strategies!repair strategies} strategy in all the experiments in this chapter:
 
 \begin{enumerate}
@@ -209,7 +237,8 @@ From the above follows that the agents will have to create and converge on one c
    \label{f:effort1}
 \end{figure}
 
-\noindent{\bfseries Results.} The experimental set-up was tested in ten series of 16.000 language game\is{language game}s. By looking at the same measures as in the baseline experiments, the simulations seem to yield successful results at first sight. Figure \ref{f:size1} plots the average number of constructions in the population\is{speech population}. Here, the agents have almost reached the optimal state in terms of linguistic inventor\is{linguistic inventory}y. Only in the case of two-argument constructions there are additional language game\is{language game}s needed for deciding on the competit\is{competition}ion between one or two surviving constructions. Acquiring the constructions happens quite fast (in less than 3.000 games), but alignment takes much more time than was needed in the baseline experiments. This is due to the individual selection alignment strateg\is{alignment strategy}y: if a pattern was used, only competing patterns are punished through lateral inhibition\is{lateral inhibition}. The individual marker\is{case!case marking}s or rather the single-argument constructions they occur in are not considered during consolidation\is{consolidation}.
+\subsubsection{Results}
+ The experimental set-up was tested in ten series of 16.000 language game\is{language game}s. By looking at the same measures as in the baseline experiments, the simulations seem to yield successful results at first sight. Figure \ref{f:size1} plots the average number of constructions in the population\is{speech population}. Here, the agents have almost reached the optimal state in terms of linguistic inventor\is{linguistic inventory}y. Only in the case of two-argument constructions there are additional language game\is{language game}s needed for deciding on the competit\is{competition}ion between one or two surviving constructions. Acquiring the constructions happens quite fast (in less than 3.000 games), but alignment takes much more time than was needed in the baseline experiments. This is due to the individual selection alignment strateg\is{alignment strategy}y: if a pattern was used, only competing patterns are punished through lateral inhibition\is{lateral inhibition}. The individual marker\is{case!case marking}s or rather the single-argument constructions they occur in are not considered during consolidation\is{consolidation}.
 \begin{figure}[p]
 \centerline{\includegraphics[width=0.7\textwidth]{Chapter4/figs/direct-coherence-no-analogy-1000}}
   \caption[Experiment 1: snapshot after 1.000 games]{This diagram gives a snapshot of the average coherence in a population\is{speech population} of 10 agents after 1.000 language game\is{language game}s using the direct selection alignment strateg\is{alignment strategy}y. Each circle stands for a particular meaning (see the Appendix), for example circles 4 and 5 stand for `appear-1' and `appear-2'. The lines between circles means that the meanings combine into compositional meanings, for example circle 31 means the combination `appear-1 appear-2'. The darker the circle is colour\is{colour}ed, the more agents prefer the same case marker\is{case!case marking}(s) for covering this meaning. A full line between circles means that both meanings are covered using the same marker\is{case!case marking}s (= systematic), a dotted line means that a different form is preferred for the same meaning (= unrelated). The diagram shows that for most meanings only half of the population\is{speech population} prefer the same form and that in many cases there is no systematic choice for a certain case marker\is{case!case marking}.}
@@ -245,9 +274,10 @@ jill approach-2 jack approach-1 approach\\
 \end{figure}
 
 Figure \ref{f:1-coherence-7000} shows that after 7.000 language game\is{language game}s, the agents have almost converged on a form for every meaning, but the problem of systematicity\is{systematicity} remains: in half of the cases, a different case marker\is{case!case marking} is winning the competit\is{competition}ion on the level of single-argument constructions than the one(s) winning on the other levels. The figure also shows that in most of the cases where there is no systematic use of a form for the same meaning, convergence is also still not complete. This is in contrast to the meanings which (accidentally) arrived at the same form across constructions. Here we see mostly black circles meaning that all agents prefer the same convention\is{convention}.
-\\
-\\
-\noindent{\bfseries Discussion.} The results clearly indicate that the agents are not capable of constructing a systematic language. The reason for this is that all constructions are basically treated as independent linguistic items. This means that once a larger pattern is created, it starts living its own life without influencing or being influenced by the constructions that were used to create it. This results in some case marker\is{case!case marking}s losing the competit\is{competition}ion for marking a certain participant role on the level of single-argument constructions but still becoming the most successful one as part of a larger pattern. In all the simulations, this happened in 40 to 60\% of the cases (see Figure \ref{f:systematicity2}).
+
+
+\subsubsection{Discussion}
+ The results clearly indicate that the agents are not capable of constructing a systematic language. The reason for this is that all constructions are basically treated as independent linguistic items. This means that once a larger pattern is created, it starts living its own life without influencing or being influenced by the constructions that were used to create it. This results in some case marker\is{case!case marking}s losing the competit\is{competition}ion for marking a certain participant role on the level of single-argument constructions but still becoming the most successful one as part of a larger pattern. In all the simulations, this happened in 40 to 60\% of the cases (see Figure \ref{f:systematicity2}).
 
 The fact that in more than half of the cases the same marker\is{case!case marking} wins the competit\is{competition}ion on all levels is due to the small meaning space of the experiment and the fact that patterns are always created by combining the most successful constructions at a given point in the simulation. In fact, the agents can continue to create new patterns for a certain combination of participant roles even if they already know other patterns for it. For example, it may happen that on a lower level the average confidence\is{confidence} scores of a new combination becomes more successful than the confidence\is{confidence} score of the patterns. In this case the agents will still innovat\is{innovation}e which gives a slight advantage to those patterns that are in line with the most successful constructions of a lower level. As the results show, however, this is not enough.
 
@@ -259,9 +289,10 @@ This leaves us the question of how systematicity\is{systematicity} can be achiev
 \label{s:problem-systematicity}
 
 As to my knowledge, the problem of systematicity\is{systematicity} has never been reported before in the field of the origins\is{origins} and evolution\is{evolution!cultural evolution} of language. This does not mean, however, that the problem never existed. In this section, I will give a brief overview of some prior work in the field in which the problem was either overlooked or in which it could not occur due to experimental assumption\is{assumption}s.
-\\
-\\
-\noindent{\bfseries Exemplar-based\is{exemplar-based models} simulations.} One computational simulation which is closely related to the work in this book is presented by \citet{batali02negotiation}. Batali investigates how a multi-agent population\is{speech population} can form a recursi\is{recursion}ve communication system by using exemplars stored in memory. This work can be categorized as a `problem-solving\is{problem-solving} model' because these exemplars have to be agreed upon in locally situated interactions. Each exemplar has a confidence\is{confidence} score which is increased and decreased according to similar lateral inhibition\is{lateral inhibition} dynamics as in the simulations of the previous section. The type of learner is thus the same one as the agents in this book: they build their language instance by instance in a bottom-up and redundant fashion. Batali's agents only keep exemplars and all generalization in the model is captured by directly manipulating these exemplars during processing. Figure \ref{f:batali} gives an example of an exemplar composed of two smaller ones \citep[exemplar 5.1.2.a]{batali02negotiation}.
+
+
+\subsubsection{Exemplar-based\is{exemplar-based models} simulations}
+ One computational simulation which is closely related to the work in this book is presented by \citet{batali02negotiation}. Batali investigates how a multi-agent population\is{speech population} can form a recursi\is{recursion}ve communication system by using exemplars stored in memory. This work can be categorized as a `problem-solving\is{problem-solving} model' because these exemplars have to be agreed upon in locally situated interactions. Each exemplar has a confidence\is{confidence} score which is increased and decreased according to similar lateral inhibition\is{lateral inhibition} dynamics as in the simulations of the previous section. The type of learner is thus the same one as the agents in this book: they build their language instance by instance in a bottom-up and redundant fashion. Batali's agents only keep exemplars and all generalization in the model is captured by directly manipulating these exemplars during processing. Figure \ref{f:batali} gives an example of an exemplar composed of two smaller ones \citep[exemplar 5.1.2.a]{batali02negotiation}.
 \begin{figure}[h]
 \centerline{\includegraphics[width=0.75\textwidth]{Chapter4/figs/batali}}
   \caption[An exemplar \citep{batali02negotiation}]{A complex exemplar from \citet{batali02negotiation}. The exemplar features a compositional meaning with `argument maps' to the smaller exemplars that take care of variable equal\is{variable equality}ities in the meaning.}
@@ -273,11 +304,13 @@ Batali does not use event-specific variables as I do in this book but assumes a 
 The agents then engage in a series of description game\is{language game!description game}s. They are able to invent new words for new meanings and they are capable of combining existing words into larger patterns or breaking up a pattern again into smaller parts. The ultimate goal of the agents is two-fold: (a) agree on a shared lexicon\is{lexicon} for all the single meanings (e.g. cat, fox, chase, etc.) and (b) agree on a way to mark event structure\is{event structure} through the argument maps (i.e. marking the difference between arguments 1, 2 and 3). The simulations make use of a single generation of agents.
 
 The results indicate that the agents gradually reach communicative success\is{communicative success} and that they agree on the same exemplars. Goal (a) is therefore definitely reached. However, the results show that event structure\is{event structure} is not always marked in the same way: all the simulations end up using specific ordering for each exemplar (even though they may involve the same meanings) and using `empty' words that accidentally evolved into marker\is{case!case marking}s for argument mappings. The agents thus do not succeed in agreeing on a systematic way of distinguishing participant `1' from participants `2' and `3'. The agents thus cannot generaliz\is{generalization}e argument mapping to new predicates such as (give 1 2 3) and have to negotiat\is{negotiation}e event structure\is{event structure} for each word separately. This lack of systematicity\is{systematicity} is not noted by Batali as a problem and the use of the empty words is wrongly interpreted as corresponding to argument marker\is{case!case marking}s in natural languages.
-\\
-\\
-\noindent{\bfseries Probabilistic grammars.} Another experiment in which the systematicity\is{systematicity} problem is overlooked is reported by \citet[chapter 10]{depauw02grael}. De Pauw investigates how rudimentary principles of syntax can emerge from distributional aspects of communication rather than from the interface\is{syntax-semantics interface} between syntax and semantics. This exclusive focus on syntax is different from the work in this book (even though some semantics is smuggled into De Pauw's simulations in the disctinction between animate\is{animacy} and non-animate\is{animacy} objects which results in different distributional patterns). Similar assumption\is{assumption}s to this book are the heavy use of memory (even more so by De Pauw), a bottom-up and redundant formation\is{formation} of the language and a predefined lexicon\is{lexicon} in order to focus exclusively on the topic of interest. The population\is{speech population} in De Pauw's simulations is dynamic in the sense that there is a generational turn-over, but no linguistic information is transmitted genetically from one generation to the next.
+
+
+\subsubsection{Probabilistic grammars}
+ Another experiment in which the systematicity\is{systematicity} problem is overlooked is reported by \citet[chapter 10]{depauw02grael}. De Pauw investigates how rudimentary principles of syntax can emerge from distributional aspects of communication rather than from the interface\is{syntax-semantics interface} between syntax and semantics. This exclusive focus on syntax is different from the work in this book (even though some semantics is smuggled into De Pauw's simulations in the disctinction between animate\is{animacy} and non-animate\is{animacy} objects which results in different distributional patterns). Similar assumption\is{assumption}s to this book are the heavy use of memory (even more so by De Pauw), a bottom-up and redundant formation\is{formation} of the language and a predefined lexicon\is{lexicon} in order to focus exclusively on the topic of interest. The population\is{speech population} in De Pauw's simulations is dynamic in the sense that there is a generational turn-over, but no linguistic information is transmitted genetically from one generation to the next.
 
 The agents engage in a series of language game\is{language game}s in which they communicate about objects or events. If there are several objects, the agents can choose between six word orders: SVO, SOV, VSO, VOS, OSV or OVS. De Pauw therefore does not distinguish between verb\is{verb}-specific participant roles, but only assumes a two-way contrast between the subject\is{syntactic role!subject} (S) and the object\is{syntactic role!object} (O). The agents start without any preference for a particular word order so variation\is{variation} naturally occurs in the population\is{speech population}. The alignment strateg\is{alignment strategy}y of the agents is simply storing bigrams or frequencies of co-occur\is{co-occurrence}rences and performing statistical inducti\is{induction}on on top of those bigrams \citep[362]{depauw02grael}:
+
 \begin{figure}[h]
 \centerline{\includegraphics[width=\textwidth]{Chapter4/figs/depauw}}
   \caption[Bigram probabilities \citep{depauw02grael}]{The agents in \citet{depauw02grael} store co-occur\is{co-occurrence}rence frequencies and use these bigram-probabilities to decide on a preferred ordering.}
@@ -289,16 +322,18 @@ During the simulations, the agents rapidly converge on fixed word order on simpl
 There are however no such chaotic elements present in De Pauw's model which should prevent the agents from reaching complete coherence. The degree of randomness in his simulations seems to stem from the systematicity\is{systematicity} problem: by only looking at bigram probabilities, it is to be expected that there is an arbitrary word order which is verb\is{verb}-specific. In the case of more complex predicates, the preferred order depends on a combination of various bigrams which increases the randomness because the probabilities of these bigrams are constantly changing so it becomes much harder to agree on a fixed order for these complex meanings. De Pauw dismisses the possibility that the degree of convergence is the maximum that can be expected from the population\is{speech population}, but this is in fact the only correct conclusion. Given the cognitive capabilities of the agents, convergence could only increase if the input would be more structured. In certain machine learning\is{machine learning} tasks, there is already a lot of structure present in the learning data so bigrams can be successfully used for making some predictions. In the case of language formation\is{formation}, however, agents have to start from scratch so there is no structure spanning multiple levels yet that can be induced.
 
 De Pauw's concluding remark is that it is empirically impossible to know whether the agents succeed in {\em ``expressing the proper (agent, patient) relationship, or if it is just a side-effect of beneficial bigram probability distributions''} (p. 376). I would argue, however, that since the agents are not endowed with the capacity of relating bigrams to each other but solely rely on these probabilities, all tendencies in word order are in fact a side-effect of the bigrams. The conclusion is that \citet{depauw02grael}, just like \citet{batali02negotiation}, misinterpreted experimental results because the problem of systematicity\is{systematicity} was not noticed.
-\\
-\\
-\noindent{\bfseries Iterated Learning Model\is{Iterated Learning Model (ILM)}s.} So far I only discussed models that featured lazy learner\is{lazy learner}s: agents which postpone generalization until processing time and which shape their language in a step-by-step fashion. As opposed to lazy learner\is{lazy learner}s there are `eager learner\is{eager learner}s'. Eager learner\is{eager learner}s try to look for generalizations (and abstraction\is{abstraction}s) before it is actually needed in processing and work on the complete inventory. Eager learner\is{eager learner}s typically discard the examples that can be deriv\is{derivation}ed from a rule and thus try to optimize the inventory size. If the problem of systematicity\is{systematicity} also occurs with eager learner\is{eager learner}s, then we know that the problem is not exclusive to the usage-based approach\is{usage-based model} proposed in this book. 
+
+
+\subsubsection{Iterated Learning Model\is{Iterated Learning Model (ILM)}s}
+ So far I only discussed models that featured lazy learner\is{lazy learner}s: agents which postpone generalization until processing time and which shape their language in a step-by-step fashion. As opposed to lazy learner\is{lazy learner}s there are `eager learner\is{eager learner}s'. Eager learner\is{eager learner}s try to look for generalizations (and abstraction\is{abstraction}s) before it is actually needed in processing and work on the complete inventory. Eager learner\is{eager learner}s typically discard the examples that can be deriv\is{derivation}ed from a rule and thus try to optimize the inventory size. If the problem of systematicity\is{systematicity} also occurs with eager learner\is{eager learner}s, then we know that the problem is not exclusive to the usage-based approach\is{usage-based model} proposed in this book. 
 
 In the field of artificial language evolution\is{artificial language evolution}, especially Iterated Learning Model\is{Iterated Learning Model (ILM)}s feature agents that loop through their inventory after each interaction in order to make abstraction\is{abstraction}s. In section \ref{s:impact} I will draw a thorough comparison between my experimental results and those of \citet{moy06case}, who investigated the same topic using the Iterated Learning Model\is{Iterated Learning Model (ILM)} so I will not go into details here. As a quick preview, I can already give away one of the conclusions which is that the problem of systematicity\is{systematicity} also occurs in Iterated Learning Model\is{Iterated Learning Model (ILM)}s. This does not only happen in Moy's experiments, but also in the simulations reported by \citet{kirby00syntax} and \citet{smith03iterated} even though these models feature complete meaning transfer and a population\is{speech population} of only two agents.
 
 The conclusion is the same as for the other simulations reported in this section: the problem of systematicity\is{systematicity} goes by unnoticed in most Iterated Learning Model\is{Iterated Learning Model (ILM)}s, but becomes very apparent in \citet{moy06case}. The problem occurs for the same reasons as in all the other experiments: the agents only behave `systematic' during innovat\is{innovation}ion and learning, but then treat all linguistic items as an unstructured list of unrelated elements. So either there is no adequate model yet that avoids the problem of systematicity\is{systematicity} or the problem is {\bfseries not restricted to the type of learner}. In the latter case, the problem seems to be caused by the fact that the linguistic inventor\is{linguistic inventory}y is unstructured.
-\\
-\\
-\noindent{\bfseries Other models.} Finally, there are many models that investigate certain aspects of grammar in which the problem of systematicity\is{systematicity} does not occur such as \citet{debeule07compositionality, debeule06emergence, nowak99evolution, steels06how-grammar}; etc. I will take the simulations by \citet{debeule06emergence} as an example of why these models don't have the problem. The conclusions of this brief discussion extend to all the other models on grammar as well.
+
+
+\subsubsection{Other models}
+ Finally, there are many models that investigate certain aspects of grammar in which the problem of systematicity\is{systematicity} does not occur such as \citet{debeule07compositionality, debeule06emergence, nowak99evolution, steels06how-grammar}; etc. I will take the simulations by \citet{debeule06emergence} as an example of why these models don't have the problem. The conclusions of this brief discussion extend to all the other models on grammar as well.
 
 De Beule \& Bergen investigate the competit\is{competition}ion between holistic and compositional utterances. In case of compositional utterances, one could expect the problem of systematicity\is{systematicity} to pop up, but it doesn't. The reason is that De Beule \& Bergen designed their experiment in such a way that the agents had prior knowledge about what kind of categories and constructions to expect: individual words are immediately tagged with a certain syntactic category and grammatical constructions are fully schematic from the start. One construction can hence be used for all possible combinations of competing individual words that are tagged with the same category and remains agnostic as to which words should win the competit\is{competition}ion. The experiment thus made a clear separation between the lexicon\is{lexicon} on the one hand and grammatical constructions on the other; and it did not offer the agents the possibility of in-between patterns or idiom\is{idiom}s.
 
@@ -341,11 +376,13 @@ During processing, only the scores of the applied constructions are taken into a
 \end{figure}
 
 The three alignment strateg\is{alignment strategy}ies were compared to each other and to experiment 1 in ten series of 10.000 language game\is{language game}s.
-\\
-\\
-\noindent{\bfseries Results.} Figure \ref{f:systematicity2} illustrates the amount of systematicity\is{systematicity} in all four alignment strateg\is{alignment strategy}ies. The graph shows that the three alignment strateg\is{alignment strategy}ies involving multiple levels all improve on the baseline of individual selection of experiment 1. With the alignment strateg\is{alignment strategy}y of individual selection, systematicity\is{systematicity} fluctuates between 40 and 60\% depending on how `lucky' the agents were. The behaviour of the other three strategies is much more consistent over the ten series. The graph shows that bottom-up selection allows the agents to improve systematicity\is{systematicity} to 80\% but there they are faced with `frozen accidents' as well. The top-down selection improves systematicity\is{systematicity} even further and allows the agents to reach full systematicity\is{systematicity} in some of the runs. However, in most cases, there were still two or three unsystematic patterns left. Only the multi-level selection\is{multi-level selection} strategy led to full systematicity\is{systematicity} in all the simulations.
+
+
+\subsubsection{Results}
+ Figure \ref{f:systematicity2} illustrates the amount of systematicity\is{systematicity} in all four alignment strateg\is{alignment strategy}ies. The graph shows that the three alignment strateg\is{alignment strategy}ies involving multiple levels all improve on the baseline of individual selection of experiment 1. With the alignment strateg\is{alignment strategy}y of individual selection, systematicity\is{systematicity} fluctuates between 40 and 60\% depending on how `lucky' the agents were. The behaviour of the other three strategies is much more consistent over the ten series. The graph shows that bottom-up selection allows the agents to improve systematicity\is{systematicity} to 80\% but there they are faced with `frozen accidents' as well. The top-down selection improves systematicity\is{systematicity} even further and allows the agents to reach full systematicity\is{systematicity} in some of the runs. However, in most cases, there were still two or three unsystematic patterns left. Only the multi-level selection\is{multi-level selection} strategy led to full systematicity\is{systematicity} in all the simulations.
 
 Since the measure of systematicity\is{systematicity} only looks at the most frequent forms floating in a population\is{speech population}, it needs to be complemented with meaning-form coherence to verify whether {\em all} the agents converge on the same preferences. Figure \ref{f:coherence2} therefore compares the performance\is{performance} of the four alignment strateg\is{alignment strategy}ies in terms of coherence. From the results of experiment 1 we already knew that in the case of individual selection, alignment takes longer than 10.000 language game\is{language game}s. The coherence line for bottom-up selection runs almost parallel with it and does not improve on it in terms of convergence speed. The only two strategies that reach convergence within 10.000 games are top-down and multi-level selection\is{multi-level selection}. Full coherence in the case of top-down selection however does not mean full systematicity\is{systematicity}, as was shown in Figure \ref{f:systematicity2}.
+
 \begin{figure}[t]
 \centerline{\includegraphics[width=0.87\textwidth]{Chapter4/figs/size2d}}
   \caption[Experiment 2: number of constructions with multi-level selection\is{multi-level selection}]{This graph shows the average number of constructions known by an agent using the multi-level selection\is{multi-level selection} alignment strateg\is{alignment strategy}y. Compared to individual selection, multi-level selection\is{multi-level selection} allows the agents to discard competit\is{competition}ors much more rapidly: there are significantly less variation\is{variation}s floating around in the population\is{speech population}. For example, the peak of single-argument constructions is about 60 instead of 80 in experiment 1. Also the alignment phase happens much faster.}
@@ -365,9 +402,10 @@ Figures \ref{f:2d-coherence-1000} and \ref{f:2d-coherence-7000} offer a snapshot
   \caption[Experiment 2: snapshot after 7.000 games (multi-level selection\is{multi-level selection})]{This diagram gives a snapshot of the average coherence in a population\is{speech population} of 10 agents after 7.000 language game\is{language game}s using the multi-level selection\is{multi-level selection} alignment strateg\is{alignment strategy}y. All the circles are black which means that the entire population\is{speech population} prefers the same meaning-form mappings. The language is also fully systematic so the agents have converged on 30 case marker\is{case!case marking}s which can be combined into 51 different constructions. The results indicate that even for instance-based\is{exemplar-based models} learners/innovat\is{innovation}ors systematicity\is{systematicity} can be reached by keeping a link between newly acquired constructions and the constructions that were used for learning or creating them.}
    \label{f:2d-coherence-7000}
 \end{figure}
-\\
-\\
-\noindent{\bfseries Discussion.} The results show that the agents reach full systematicity\is{systematicity} if each level in the linguistic inventor\is{linguistic inventory}y can have an influence on the competit\is{competition}ion in other levels. It is now important to understand why this is the case and why the other alignment strateg\is{alignment strategy}ies did not yield full systematicity\is{systematicity}.
+
+
+\subsubsection{Discussion}
+ The results show that the agents reach full systematicity\is{systematicity} if each level in the linguistic inventor\is{linguistic inventory}y can have an influence on the competit\is{competition}ion in other levels. It is now important to understand why this is the case and why the other alignment strateg\is{alignment strategy}ies did not yield full systematicity\is{systematicity}.
 
 First of all, bottom-up selection doesn't improve on the results of experiment 1 in terms of convergence speed and it doesn't lead to a systematic mapping of meaning to form across patterns. A closer examination of the the alignment strateg\is{alignment strategy}y reveals that the relatively high systematicity\is{systematicity} of 80\% is due to the higher frequency\is{frequency} of single-argument constructions. The frequent use of these constructions each time has repercussions for the competit\is{competition}ion between larger constructions whereas this is not the case in the other direction. If there would be more patterns than single-argument constructions, the improvement would therefore be less high. The patterns that resist the bottom-up selection can do so because the competit\is{competition}ion is not fully decided yet on a lower level (each time reinforc\is{reinforcement}ing competing patterns) and there is additional competit\is{competition}ion on the level of the patterns themselves which may have different winners than those on lower levels. In the end, though, the bottom-up strategy should lead to full systematicity\is{systematicity} but only very slowly and because the smaller constructions are more frequent.
 
@@ -407,14 +445,17 @@ In all five set-ups, the speaker will use the co-occur\is{co-occurrence}rence li
 \subsection{Results and discussion}
 
 In this section, the first four set-ups are again compared to each other to demonstrate the reoccurrence of the problem of systematicity\is{systematicity}. The fourth set-up (multi-level selection\is{multi-level selection} with lateral inhibition\is{lateral inhibition}) is then compared more thoroughly to the fifth set-up using multi-level selection\is{multi-level selection} and memory decay\is{memory decay}. Finally, this section offers a closer look at one language evolved using the fifth set-up.
+
 \begin{figure}[p]
 \centerline{\includegraphics[width=\textwidth]{Chapter4/figs/systematicity3}}
   \caption[Experiment 3: systematicity]{This graph compares systematicity\is{systematicity} in the first four experimental set-ups of experiment 3. The results confirm those of experiment 2. Even though there is potentially less variation\is{variation} because of the reuse\is{reuse} of existing marker\is{case!case marking}s, individual selection stagnates at 50\% systematicity\is{systematicity}. Bottom-up selection increases systematicity\is{systematicity} beyond 80\% but also gets stuck. Top-down selection manages to reach full systematicity\is{systematicity} in more simulations than in experiment 2 because of the smaller variation\is{variation} space, but does not guarantee full systematicity\is{systematicity}. Only multi-level selection\is{multi-level selection} reaches systematicity\is{systematicity} in all the simulations and does so significantly faster than the other alignment strateg\is{alignment strategy}ies.}
    \label{f:systematicity3}
 \end{figure}
-\\
-\\
-\noindent{\bfseries Results.} Figure \ref{f:systematicity3} compares the first four experimental set-ups to each other in terms of systematicity\is{systematicity}. The lines indicating systematicity\is{systematicity} for each set-up show the same behaviour as those in experiment 2 (Figure \ref{f:systematicity2}). The first set-up using the alignment strateg\is{alignment strategy}y of individual selection fluctuates between 45 and 60\% systematicity\is{systematicity} and stops evolving after 6.000 language game\is{language game}s. The bottom-up strategy reaches more than 80\% systematicity\is{systematicity} after 8.000 language game\is{language game}s. In some simulations, this strategy leads up to 90\% but never to maximum systematicity\is{systematicity}. Top-down selection performs a bit better than in experiment 2 due to the fact that the agent's capacity of reusing\is{reuse} existing marker\is{case!case marking}s leads to a smaller variation\is{variation} space so `frozen accidents' are less likely. Yet, as the results show, some simulations still involve an unsystematic convention\is{convention} and reaching systematicity\is{systematicity} takes a longer time than the multi-level selection\is{multi-level selection} strategy. The latter strategy is again the only one which leads to full systematicity\is{systematicity} in all the simulations.
+
+
+\subsubsection{Results}
+ Figure \ref{f:systematicity3} compares the first four experimental set-ups to each other in terms of systematicity\is{systematicity}. The lines indicating systematicity\is{systematicity} for each set-up show the same behaviour as those in experiment 2 (Figure \ref{f:systematicity2}). The first set-up using the alignment strateg\is{alignment strategy}y of individual selection fluctuates between 45 and 60\% systematicity\is{systematicity} and stops evolving after 6.000 language game\is{language game}s. The bottom-up strategy reaches more than 80\% systematicity\is{systematicity} after 8.000 language game\is{language game}s. In some simulations, this strategy leads up to 90\% but never to maximum systematicity\is{systematicity}. Top-down selection performs a bit better than in experiment 2 due to the fact that the agent's capacity of reusing\is{reuse} existing marker\is{case!case marking}s leads to a smaller variation\is{variation} space so `frozen accidents' are less likely. Yet, as the results show, some simulations still involve an unsystematic convention\is{convention} and reaching systematicity\is{systematicity} takes a longer time than the multi-level selection\is{multi-level selection} strategy. The latter strategy is again the only one which leads to full systematicity\is{systematicity} in all the simulations.
+
 \begin{figure}[p]
 \centerline{\includegraphics[width=\textwidth]{Chapter4/figs/coherence3}}
   \caption[Experiment 3: coherence]{This graph compares the first four set-ups of experiment 3 in terms of meaning-form coherence. The graph shows that multi-level and top-down selection perform equally well and reach 100\% between 6.000 and 8.000 language game\is{language game}s. Bottom-up and individual selection again run almost parallel and reach coherence faster than in experiment 2 because of the smaller variation\is{variation} space.}
@@ -422,6 +463,7 @@ In this section, the first four set-ups are again compared to each other to demo
 \end{figure}
 
 The four set-ups also confirm the results of experiment 2 in terms of coherence. Figure \ref{f:coherence3} shows that bottom-up selection and individual selection again run almost parallel in terms of convergence. This time the agents reach coherence faster because of the smaller variation\is{variation} space. Multi-level and top-down selection also perform equally well and reach coherence between 6.000 and 8.000 language game\is{language game}s.
+
 \begin{figure}[t]
 \centerline{\includegraphics[width=\textwidth]{Chapter4/figs/markers3}}
   \caption[Experiment 3: number of markers]{This graph shows the average number of marker\is{case!case marking}s known by each agent using the strategy of multi-level selection\is{multi-level selection} with lateral inhibition\is{lateral inhibition} (the fourth set-up of experiment 3). The results show that the generalization rate of the agents is not impressive: only 3-5 semantic roles survive the competit\is{competition}ion as opposed to 18-25 specific marker\is{case!case marking}s.}
@@ -429,6 +471,7 @@ The four set-ups also confirm the results of experiment 2 in terms of coherence.
 \end{figure}
 
 Figure \ref{f:markers3} gives an indication of the kinds of languages that are formed in the population\is{speech population} if the agents use the fourth set-up (multi-level selection\is{multi-level selection} with lateral inhibition\is{lateral inhibition}). The graph shows that the generalization rate of the agents is not really impressive: only three to five generaliz\is{generalization}ed roles survive the competit\is{competition}ion. Moreover, these roles only cover two or maximally three participant roles. This is clear from the fact that there are still 18 to 25 specific marker\is{case!case marking}s floating around in the population\is{speech population}.
+
 \begin{figure}[p]
 \centering
 \begin{tabular}{c}
@@ -441,8 +484,8 @@ Figure \ref{f:markers3} gives an indication of the kinds of languages that are f
 \end{figure}
 
 These results can be compared to the performance\is{performance} of the fifth set-up (multi-level selection\is{multi-level selection} with decay) which is illustrated in Figure \ref{f:multi-level-decay}. The top graph shows the results for communicative success\is{communicative success}, cognitive effort\is{cognitive effort}, meaning-form coherence and systematicity\is{systematicity}. As the graph indicates, the agents succeed in reaching full systematicity\is{systematicity} somewhere between 8.000 and 12.000 language game\is{language game}s, which is a bit slower than the alignment strateg\is{alignment strategy}y using lateral inhibition\is{lateral inhibition}. The bottom graph shows the average number of marker\is{case!case marking}s floating around in the population\is{speech population}. Here, we see that the average number of specific marker\is{case!case marking}s has made a significant drop from 18-25 marker\is{case!case marking}s to only 9. The number of semantic roles shifts from simulation to simulation between 4 and 6. The semantic roles also tend to be more general categories than in the simulations using lateral inhibition\is{lateral inhibition}.
-\\
-\\
+
+
 Here is a list of marker\is{case!case marking}s and the participant roles they cover in one of the simulations (from more general to more specific):
 
 \begin{itemize}
@@ -472,9 +515,10 @@ The above marker\is{case!case marking}s occur systematically across patterns for
 \end{figure}
 
 Finally, Figure \ref{f:network} looks inside the linguistic inventor\is{linguistic inventory}y of a single agent and offers a partial network of the agent's knowledge of its language. The figure concentrates on three constructions (in the middle) which are related to each other (indicated by the dotted line). The relation between the constructions indicate that construction-27 was created as a pattern of construction-2 and construction-10. The figure also shows all the lexical entries that are convention\is{convention}ally associated with these constructions. The links between the lexical entries and the constructions are used for optimizing processing: instead of trying out all the constructions in memory, only the linked constructions are considered. Links can be added as part of a problem-solving\is{problem-solving} process during communication or pruned if the co-occur\is{co-occurrence}rence is not a successful one. Some redundant co-occur\is{co-occurrence}rence links may survive in the inventory. The links can also be seen as fusion\is{fusion} links: they are annotated with information on how the participant roles can be fused with the semantic roles of the construction. This annotation is however not used by the agents themselves but for the clarity of interpretation for the experimenter. The actual fusion\is{fusion} is taken care of by the unification\is{unification} of the potential valents of the lexical entry with the actual valency of the construction.
-\\
-\\
-\noindent{\bfseries Discussion.} The results of experiment 3 confirm the problem of systematicity\is{systematicity} that was uncovered in the other experiments. Here too, the strategy using multi-level selection\is{multi-level selection} was the only one to yield fully systematic languages. The systematicity\is{systematicity} rate was in each of the first four set-ups comparable to the rates in experiment 2. This may come as a surprise since the variation\is{variation} space is potentially smaller because the agents can exten\is{extension}d the use of existing marker\is{case!case marking}s rather than inventing new ones all the time.
+
+
+\subsubsection{Discussion}
+ The results of experiment 3 confirm the problem of systematicity\is{systematicity} that was uncovered in the other experiments. Here too, the strategy using multi-level selection\is{multi-level selection} was the only one to yield fully systematic languages. The systematicity\is{systematicity} rate was in each of the first four set-ups comparable to the rates in experiment 2. This may come as a surprise since the variation\is{variation} space is potentially smaller because the agents can exten\is{extension}d the use of existing marker\is{case!case marking}s rather than inventing new ones all the time.
 
 A closer look at the number of marker\is{case!case marking}s in the fourth set-up (multi-level selection\is{multi-level selection} with lateral inhibition\is{lateral inhibition}), however, pointed to the reason for the small differences in systematicity\is{systematicity} rates: only a very small number of semantic roles survived the competit\is{competition}ion compared to a large number of specific marker\is{case!case marking}s. This means that the generalization rate is not really impressive so the number of variation\is{variation}s is not much smaller in these simulations than was the case in experiment 2. The resulting number of specific mar\-kers versus semantic roles corresponds to the results obtained in baseline experiment 3c and also the reason for the result is the same: since the competit\is{competition}ion is held at the level of co-occur\is{co-occurrence}rence links and not at the level of constructions, the type frequency\is{type frequency}\is{frequency} of a marker\is{case!case marking} does not translate into a larger category gravity\is{category gravity}. Competition is held only in a local context so specific mar\-kers have an equally high chance of winning as more generaliz\is{generalization}ed semantic roles.
 
@@ -505,9 +549,10 @@ The experiments so far have dealt with stages 1 to 3 in the development of case 
 \subsection{A first experiment}
 
 As I argued in sections \ref{s:stage3} and \ref{s:stage4}, syntactic roles impose even more abstraction\is{abstraction} on the conceptualization\is{conceptualization} of specific events than semantic roles do. In natural languages, syntactic roles typically emerge when a category gradually starts exten\is{extension}ding its use until two cases merge into one class. In this first tentative experiment, I will scaffold\is{scaffold} the merger of cases and assume that a case marker\is{case!case marking} can exten\is{extension}d its use by subcategorization rather than by merging two roles. I will make this assumption\is{assumption} more clear in the following paragraphs.
-\\
-\\
-\noindent{\bfseries Experimental set-up.} The experiment features the exact same set-up as the fourth set-up in experiment 3: the agents are capable of reusing\is{reuse} a marker\is{case!case marking} through analog\is{analogy}y and combining the marker\is{case!case marking}s into larger patterns. They employ the alignment strateg\is{alignment strategy}y of multi-level selection\is{multi-level selection} using lateral inhibition\is{lateral inhibition}. The main question of the experiment is whether the agents are capable of aligning their grammars, which form an abstract intermediary layer of semantic and syntactic roles which are not directly observable by the other agents.
+
+
+\subsubsection{Experimental set-up}
+ The experiment features the exact same set-up as the fourth set-up in experiment 3: the agents are capable of reusing\is{reuse} a marker\is{case!case marking} through analog\is{analogy}y and combining the marker\is{case!case marking}s into larger patterns. They employ the alignment strateg\is{alignment strategy}y of multi-level selection\is{multi-level selection} using lateral inhibition\is{lateral inhibition}. The main question of the experiment is whether the agents are capable of aligning their grammars, which form an abstract intermediary layer of semantic and syntactic roles which are not directly observable by the other agents.
 
 The novelty of this particular set-up involves the idea of `reusing\is{reuse} as much as possible'. Roughly speaking, a speaker will reuse\is{reuse} an existing marker\is{case!case marking} even if it is not analog\is{analogy}ous to the target role, on the condition that the marker\is{case!case marking} does not cover a conflicting participant role yet. The algorithm is operationalized as follows:
 
@@ -538,9 +583,10 @@ The main idea behind this innovat\is{innovation}ion and learning strategy is tha
   \caption[Syntactic roles: the mapping for two agents]{This diagram shows the mapping between participant roles and semantic roles; and between semantic roles and syntactic roles in the two-agent simulation on the emergence\is{emergence} of syntactic roles. Since there are no variation\is{variation}s in the simulation, both agents align their grammars perfectly. The results are taken as the baseline for the multi-agent simulations.}
    \label{f:two-agent}
 \end{figure}
-\\
-\\
-\noindent{\bfseries Results.} The two-agent simulation features no variation\is{variation} in the population\is{speech population} so the agents have no problems in aligning their grammars since they are endowed with the same algorithm of analog\is{analogy}ical reasoning. The resulting grammar is illustrated in Figure \ref{f:two-agent} which shows the mapping between participant, semantic and syntactic roles.
+
+
+\subsubsection{Results}
+ The two-agent simulation features no variation\is{variation} in the population\is{speech population} so the agents have no problems in aligning their grammars since they are endowed with the same algorithm of analog\is{analogy}ical reasoning. The resulting grammar is illustrated in Figure \ref{f:two-agent} which shows the mapping between participant, semantic and syntactic roles.
 
 The diagram shows that the two agents indeed agree upon three case marker\is{case!case marking}s for covering all thirty participant roles. The results even seem to improve on the marker\is{case!case marking}s that were formed in baseline experiment 3a: ten semantic roles have been formed as opposed to six specific roles (which are also called `sem-roles' in the experiment for convenience's sake). On the other hand, the baseline experiment featured two semantic roles which covered six and four participant roles respectively, whereas the semantic roles in this case reach a maximum of four.
 
@@ -561,16 +607,18 @@ A closer look at the two diagrams shows that the agents have converged on five d
 \end{figure}
 
 A comparison of the semantic roles of both agents also shows that they do not align their internal categorization. For example, the agent in Figure \ref{f:multi-agent} groups `move-outside-2', `walk-to-1', `fall-2' and `grasp-2' together. The other agent has a similar category but has constructed a separate role for `fall-2'. The other agent has also created a semantic role for covering `move-inside-2' and `move', whereas these are two distinct categories for the first agent.
-\\
-\\
-\noindent{\bfseries Discussion of the two-agent simulation.} The agents in the two-agent simulation were capable of improving over baseline experiment 3a in terms of semantic roles, single-argument constructions and the number of marker\is{case!case marking}s. The improvement is due to the fact that the limited use of marker\is{case!case marking}s guides the search space more strongly during innovat\is{innovation}ion. In the previous experiments, each semantic role had its own case marker\is{case!case marking} so the chances that they had the same type frequency\is{type frequency}\is{frequency} were quite high. In this case, the speaker would always randomly choose which semantic role to exten\is{extension}d. In this new simulation, the type frequency\is{type frequency}\is{frequency} of the syntactic role was more important which led to a faster divergence between the productivity\is{productivity} rate of the cases. This means that semantic roles which would otherwise miss exten\is{extension}sion due to random choice now have more weight to categorize new participant roles.
+
+
+\subsubsection{Discussion of the two-agent simulation}
+ The agents in the two-agent simulation were capable of improving over baseline experiment 3a in terms of semantic roles, single-argument constructions and the number of marker\is{case!case marking}s. The improvement is due to the fact that the limited use of marker\is{case!case marking}s guides the search space more strongly during innovat\is{innovation}ion. In the previous experiments, each semantic role had its own case marker\is{case!case marking} so the chances that they had the same type frequency\is{type frequency}\is{frequency} were quite high. In this case, the speaker would always randomly choose which semantic role to exten\is{extension}d. In this new simulation, the type frequency\is{type frequency}\is{frequency} of the syntactic role was more important which led to a faster divergence between the productivity\is{productivity} rate of the cases. This means that semantic roles which would otherwise miss exten\is{extension}sion due to random choice now have more weight to categorize new participant roles.
 
 An interesting side-effect of the innovat\is{innovation}ion algorithm is that there are two syntactic roles which cover almost exclusively semantic roles while a third role acts as a waste basket category for three participant roles which are all three part of events featuring three participants. This maps onto the distinction between agents and patients (and subject\is{syntactic role!subject}s and object\is{syntactic role!object}s) that is made by most of the languages in the world. Most theories of language assume a (near-)universal distinction between agents and patients to be given (either based on a universal conceptual space or on Universal Grammar\is{Universal Grammar}). This first tentative experiment suggests an alternative hypothesis: the distinction could emerge as a side-effect of communicative goals because language users want to make grammatically and communicatively relevant distinctions. In most of the cases, two or three syntactic roles suffice. The exten\is{extension}sion of case marker\is{case!case marking}s and the merger of semantic role could thus spontaneously lead to `core' cases.
 
 A final remark considering the two-agent simulation is that there is no gain in terms of inventory size with respect to larger constructions. This is due to the fact that only a couple of constructions share the same semantic roles which combine into the same larger construction. As I suggested during the discussion of experiment 3, the newly formed patterns themselves should be considered by the analog\is{analogy}y as well. This could further increase the generalization and productivity\is{productivity} rate of the agents and could be an additional drive towards a prototypical agent-patient distinction.
 \\
 \\
-\noindent{\bfseries Discussion of the multi-agent simulation.} The results of the multi-agent simulation shows that the alignment of an indirect and multilayered grammatical mapping is no trivial issue: the number of semantic roles constructed by each agent drops significantly and there are differences in how the internal mapping of each agent is organized. This is basically a problem of feedback: there is too much variation\is{variation} floating around in the population\is{speech population} for the agents to successfully retrieve the analog\is{analogy}y meant by the speaker. Additional feedback could consist of alternative agnat\is{agnation}ing structures that could be exploited for constructing semantic roles. This, however, would require the capacity of dynamically updating the function or meaning of the semantic roles, which the agents do not have (also see the concluding remarks in section \ref{s:base3}).
+\subsubsection{Discussion of the multi-agent simulation}
+ The results of the multi-agent simulation shows that the alignment of an indirect and multilayered grammatical mapping is no trivial issue: the number of semantic roles constructed by each agent drops significantly and there are differences in how the internal mapping of each agent is organized. This is basically a problem of feedback: there is too much variation\is{variation} floating around in the population\is{speech population} for the agents to successfully retrieve the analog\is{analogy}y meant by the speaker. Additional feedback could consist of alternative agnat\is{agnation}ing structures that could be exploited for constructing semantic roles. This, however, would require the capacity of dynamically updating the function or meaning of the semantic roles, which the agents do not have (also see the concluding remarks in section \ref{s:base3}).
 
 \subsection{The grammar square\is{grammatical square}: a roadmap for further work}
 \label{s:future}
@@ -582,9 +630,10 @@ A final remark considering the two-agent simulation is that there is no gain in 
 \end{figure}
 
 The first experiments towards syntax showed that once the mapping between semantic roles and syntactic roles becomes indirect and polysemous, the agents are faced with a complex coordination problem\is{coordination problem}: the abstract layer of semantic and syntactic roles is not directly observable from the outside and the agents have no means of finding a shared categorization. Yet the alignment of this internal categorization is crucial in order to preserve a good productivity\is{productivity} and generalization rate for reaching communicative success\is{communicative success} in future interactions. In order to take this step, the experimental set-up needs to be expanded. We can use the grammar square (repeated in Figure \ref{f:square-bis}), as a guidance for identifying which efforts need to be made in order to solve this coordination problem.
-\\
-\\
-\noindent{\bfseries Mapping participant roles onto semantic roles.} Participant roles of a particular event can map onto several semantic roles in natural languages. This is clear in the following sentences, in which {\em the window} first plays the role of patient, then some entity which undergoes a change of state, and finally some stative entity:
+
+
+\subsubsection{Mapping participant roles onto semantic roles}
+ Participant roles of a particular event can map onto several semantic roles in natural languages. This is clear in the following sentences, in which {\em the window} first plays the role of patient, then some entity which undergoes a change of state, and finally some stative entity:
 
 \ea
 He broke the window.
@@ -598,14 +647,16 @@ He broke the window.
 In the experiments presented in this book, such functional variation\is{variation} was impossible: during conceptualization\is{conceptualization}, the agents always profile \is{event profile}the complete participant role in the event structure\is{event structure}. This could lead to sentences similar as example \ref{e:aspect-1}. However, in the other two sentences, only a subpart of the participant role is profiled\is{event profile}: example \ref{e:aspect-2} profiles the change of state whereas example \ref{e:aspect-3} profiles the resulting state of the participant.
 
 In order to achieve the same functional variation\is{variation}, the agents would thus have to be able to include aspect\is{aspect} (and tense\is{tense}) distinctions in their conceptualization\is{conceptualization}. For this, the conceptualization\is{conceptualization} algorithm and the algorithm for analog\is{analogy}y would have to be changed in order to include the hierarchical structure of the event descriptions and the time stamps provided by the event recognition\is{event recognition} system. On the level of the interaction pattern, the agents would somehow have to be able to get sufficient feedback in order to recognize and learn the relevant aspect\is{aspect}ual distinctions. The emergence\is{emergence} of grammatical marker\is{case!case marking}s for aspect\is{aspect} (and tense\is{tense}) is no trivial matter and goes well beyond the scope of this book.
-\\
-\\
-\noindent{\bfseries Mapping semantic roles onto syntactic roles.} The mapping between semantic roles and syntactic roles can already be multilayered in nature without taking information structure\is{information structure} into account: in examples \ref{e:aspect-2} and \ref{e:aspect-3}, the distinction is not one of active\is{construction!active construction} versus passive\is{construction!passive construction}, but rather one of aspect\is{aspect}. In order to see such alternations emerging, the idea of reuse\is{reuse} can be exploited again. As the agents develop their grammars, they increase their expressive power. From the moment they want to express aspect\is{aspect}ual distinctions as well, they could try to reuse\is{reuse} the existing grammatical system instead of inventing some new strategy. This puts pressure on the existing convention\is{convention}s and may lead to additional abstraction\is{abstraction}s in the form of syntactic roles.
+
+
+\subsubsection{Mapping semantic roles onto syntactic roles}
+ The mapping between semantic roles and syntactic roles can already be multilayered in nature without taking information structure\is{information structure} into account: in examples \ref{e:aspect-2} and \ref{e:aspect-3}, the distinction is not one of active\is{construction!active construction} versus passive\is{construction!passive construction}, but rather one of aspect\is{aspect}. In order to see such alternations emerging, the idea of reuse\is{reuse} can be exploited again. As the agents develop their grammars, they increase their expressive power. From the moment they want to express aspect\is{aspect}ual distinctions as well, they could try to reuse\is{reuse} the existing grammatical system instead of inventing some new strategy. This puts pressure on the existing convention\is{convention}s and may lead to additional abstraction\is{abstraction}s in the form of syntactic roles.
 
 Another way to investigate the emergence\is{emergence} of syntactic roles would be to endow the agents with the capacity of dynamically updating the representation of their categories. If categories are not fixed but dynamic, there is a risk of `category leakage\is{category leakage}' as observed in natural languages: some categories start expanding their use which could lead to the merger of two semantic roles into one case. Typically, the more frequent cases would start exten\is{extension}ding their usage which could gradually lead to prototypical agent and patient categories.
-\\
-\\
-\noindent{\bfseries Mapping syntactic roles onto case marker\is{case!case marking}s.} In the experiments, there is a one-to-one relation between syntactic roles and case marker\is{case!case marking}s. In natural case grammar\is{case!case grammar}s, however, there are often paradigms\is{case!case paradigm} of related marker\is{case!case marking}s that together cover a particular case. These marker\is{case!case marking} alternations typically indicate grammatical distinctions in terms of gender\is{gender} and number\is{number}. Evolving this kind of variation\is{variation} would thus require a need for marking grammatically relevant distinctions between arguments.
+
+
+\subsubsection{Mapping syntactic roles onto case marker\is{case!case marking}s}
+ In the experiments, there is a one-to-one relation between syntactic roles and case marker\is{case!case marking}s. In natural case grammar\is{case!case grammar}s, however, there are often paradigms\is{case!case paradigm} of related marker\is{case!case marking}s that together cover a particular case. These marker\is{case!case marking} alternations typically indicate grammatical distinctions in terms of gender\is{gender} and number\is{number}. Evolving this kind of variation\is{variation} would thus require a need for marking grammatically relevant distinctions between arguments.
 
 Even more intriguing are case systems\is{case!case system} where the same marker\is{case!case marking}s can be used to indicate different cases. For example, Latin\is{Latin} uses the inflection\is{inflection} {\em -um} to mark nominative case in neuter singular\is{number!singular} words ({\em bellum} `war') and accusative case in masculine singular\is{number!singular} words ({\em dominum} `master') \citep[4--5]{blake94case}. This means that case marker\is{case!case marking}s somehow manage to grow a paradigmatic\is{case!case paradigm} case system\is{case!case system} which goes beyond the borders of individual cases. Applied to the experiments, this would mean lifting the present assumption\is{assumption} that competing case marker\is{case!case marking}s are always competing with each other for marking a particular participant role. Instead, agents should be allowed to accept competit\is{competition}ion and variation\is{variation} at each possible mapping in the grammatical square\is{grammatical square}. This may lead to a credit assignment problem\is{credit assignment problem} in which the agents can never have complete certainty about which mapping in the grammatical square\is{grammatical square} was relevant during a particular innovat\is{innovation}ion.
 

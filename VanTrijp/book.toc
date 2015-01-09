@@ -86,7 +86,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.3}Results and discussion of set-up 3b}{98}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Results and discussion of set-up 3c}{101}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.4}Results and discussion of set-up 3c}{102}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.5}Results and discussion of set-up 3d}{104}{subsection.3.4.5}
 \defcounter {refsection}{0}\relax 
@@ -102,7 +102,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.2}Experiment 1: individual selection without analog\p@index [sbj]{analogy}y}{121}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Experimental set-up}{122}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.1}Experimental set-up}{121}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}Results and discussion}{122}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
@@ -160,16 +160,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.2}Thematic hierarchies in case systems\p@index [sbj]{case!case system}}{198}{subsection.5.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.3}A redundant approach to grammaticalization\p@index [sbj]{grammaticalization}}{201}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.3}A redundant approach to grammaticalization\p@index [sbj]{grammaticalization}}{200}{subsection.5.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Postscriptum}{208}{Item.187}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Acknowledgements}{211}{section*.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendix: Measures}{213}{section*.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Name index}{217}{section*.13}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Language index}{225}{section*.14}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Subject index}{225}{section*.15}
