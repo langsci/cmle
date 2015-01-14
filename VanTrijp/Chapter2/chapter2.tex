@@ -375,11 +375,13 @@ In line with its definition in section \ref{s:stage4}, a syntactic case marker\i
 
 The morph-rule specifies that, during parsing, there needs to be a unit which contains in its form-feature the string ``off-'' and a word order\is{word order} constraint that says that the marker\is{case!case marking} immediately precedes (`meets') some other unit. If this unifies (and it does with the right pole of node-5), the left pole merges with the syntactic pole of the current node in the reaction network\is{reaction network}. The information added here is that the role of oblique\is{syntactic role!oblique} is assigned to the other unit (which immediately followed the marker\is{case!case marking}). Note that this other unit should already be present in the current node as a sub-unit of the top-unit. This is indeed the case: the variable `?some-unit' can be bound to `floor-unit' which was already present after unify\is{unify and merge}ing and merging the lexical entr\is{lexical entry}y of {\em floor}.
 
-The morph-rule also contains a two-legged operation using the J-operator\is{structure building!J-operator}: in a first step, a new unit is created for {\em off-}, and in a second step the J-operator\is{structure building!J-operator} specifies that the newly-made unit must become a sub-unit of the other unit that immediately followed it (floor-unit). Without repeating the entire coupled feature structure\is{feature structure!coupled feature structure}, the syntactic structure now looks as follows:
+The morph-rule also contains a two-legged operation using the J-operator\is{structure building!J-operator}: in a first step, a new unit is created for {\em off-}, and in a second step the J-operator\is{structure building!J-operator} specifies that the newly-made unit must become a sub-unit of the other unit that immediately followed it (floor-unit). Without repeating the entire coupled feature structure\is{feature structure!coupled feature structure}, the syntactic structure now looks as in \figref{fig:2:jacksweepdust}.
 
-
+\begin{figure}[h]
 \centerline{\Tree [ .top-unit jack-unit sweep-unit dust-unit [ .floor-unit off-unit ] ]}
-
+\caption{Please provide a caption}
+\label{fig:2:jacksweepdust}
+\end{figure}
 
 The morphological rule itself looks as follows:
 

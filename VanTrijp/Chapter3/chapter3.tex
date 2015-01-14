@@ -11,7 +11,22 @@ In this Chapter I will present three baseline experiments which first replicate 
 \section{Experimental set-up}
 
 \begin{table}[t]
-\centerline{\includegraphics[width=\linewidth]{Chapter3/figs/repairs}}
+% \centerline{\includegraphics[width=\linewidth]{Chapter3/figs/repairs}}
+
+\begin{tabular}[c]{p{2.5cm}ccc}
+ \lsptoprule
+ & \parbox{3cm}{\raggedright Detecting and resolving variable equalities} 
+	&\parbox{2.5cm}{\raggedright Invention and adoption of new markers}
+		&\parbox{3cm}{\raggedright Reuse and generalisation of existing markers} \\
+		\midrule
+\raggedright Baseline experiment 1 & \cellcolor[gray]{0.9}\raisebox{-.5\height}{$+$}& \raisebox{-.5\height}{$-$} &\raisebox{-.5\height}{$-$} \\
+\raggedright Baseline experiment 2 & \cellcolor[gray]{0.9}\raisebox{-.5\height}{$+$}& \cellcolor[gray]{0.9}\raisebox{-.5\height}{$+$} &\raisebox{-.5\height}{$-$} \\
+\raggedright Baseline experiment 3 & \cellcolor[gray]{0.9}\raisebox{-.5\height}{$+$} & \cellcolor[gray]{0.9}\raisebox{-.5\height}{$+$} &\cellcolor[gray]{0.9}\raisebox{-.5\height}{$+$}\\
+ \lspbottomrule
+\end{tabular}
+
+
+
 \caption[Key cognitive abilities in the baseline experiments]{This table shows the key cognitive abilities which are given to the agents in the baseline experiments. In the first experiment, agents are `intelligent' enough to resolve variable equal\is{variable equality}ities by using their world model but they cannot express these equal\is{variable equality}ities in their language. In experiment 2, the agents can decide to invent new marker\is{case!case marking}s to indicate the linking of equal\is{variable equality} variables but they cannot generalize or abstract. In the third experiment, the agents can perform analog\is{analogy}ical reasoning over event structure\is{event structure}s to generalize existing marker\is{case!case marking}s.}
 \label{t:repairs}
 \end{table}
@@ -118,7 +133,6 @@ The meaning of events is a simple copy of the facts in the memory of the agent, 
 \ea
 \label{facts2}
 \begin{lstlisting}
- 
 (move-inside event-163190 true)
 (move-inside-1 event-163190 jill)
 (move-inside-2 event-163190 house-1)
@@ -129,7 +143,6 @@ For those objects that have to be expressed explicitly according to the event pr
 
 \ea
 \begin{lstlisting}
- 
 (ball object-1) (blue object-1)
 (ball object-2) (green object-2)
 \end{lstlisting}
@@ -230,83 +243,56 @@ In the baseline experiments 20 different scenes were recorded featuring 15 disti
 Besides the words for event type\is{event type}s, the agents are given 11 unambiguous words for referring to objects. These words map in a one-to-one relationship to facts about objects in the memories of the agents. The words are: {\em blue, block, boy, girl, green, ground, house, jack, jill, table} and {\em yellow}. These words can be used for referring to the seven objects that occur in the twenty recorded scenes (a puppet called `Jill', a puppet called `Jack', a blue block, a green block, a table, a yellow house and the ground).
 
 \begin{table}[htp]
-\centering
-\begin{tabular}{ c  c  c  c }
+\small \centering
+\begin{tabular}{llll}
 \lsptoprule
 {\bfseries Event-types} & {\bfseries Participant role\is{participant role}s} & {\bfseries Truth} & {\bfseries Words}\\
 & & {\bfseries values} & \\
 \midrule
-borderscreen & object-1& false & ``disappear''\\
-  
-\multirow{2}{*}{move } & \multirow{2}{*}{ move-1}& true & ``move''
+borderscreen & object-1& false & ``disappear''\\[.3em]\multirow{2}{*}{move } & \multirow{2}{*}{ move-1}& true & ``move''
 \\
  & & false & ``rest''
-\\
-  
-\multirow{2}{*}{visible } & \multirow{2}{*}{ visible-1}& true & ``visible''
+\\[.3em]\multirow{2}{*}{visible } & \multirow{2}{*}{ visible-1}& true & ``visible''
 \\
   & & false & ``invisible''
-\\
-  
-\multirow{2}{*}{approach } &  approach-1 & true & ``approach''
+\\[.3em]\multirow{2}{*}{approach } &  approach-1 & true & ``approach''
 \\
   & approach-2 & false & ``no-approach''
-\\
-  
-\multirow{2}{*}{distance-decreasing }  &  distance-decreasing-1  & true & ``get-closer''
+\\[.3em]\multirow{2}{*}{distance-decreasing }  &  distance-decreasing-1  & true & ``get-closer''
 \\
    & distance-decreasing-2 & false & ``separate''
-\\
-  
-\multirow{2}{*}{fall } &   fall-1  & \multirow{2}{*}{true} & \multirow{2}{*}{``fall''}
+\\[.3em]\multirow{2}{*}{fall } &   fall-1  & \multirow{2}{*}{true} & \multirow{2}{*}{``fall''}
 \\
  & fall-2 & &
-\\
-  
-\multirow{2}{*}{grasp } &  grasp-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``grasp''}
+\\[.3em]\multirow{2}{*}{grasp } &  grasp-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``grasp''}
 \\
  & grasp-2 & &
-\\
-  
-\multirow{2}{*}{hide } &  hide-1  & \multirow{2}{*}{true} & \multirow{2}{*}{``hide''}
+\\[.3em]\multirow{2}{*}{hide } &  hide-1  & \multirow{2}{*}{true} & \multirow{2}{*}{``hide''}
 \\
  & hide-2 & &
-\\
-  
-\multirow{2}{*}{move-inside } &  move-inside-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``move-inside''}
+\\[.3em]\multirow{2}{*}{move-inside } &  move-inside-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``move-inside''}
 \\
  & move-inside-2 & &
-\\
-  
-\multirow{2}{*}{move-outside } &  move-outside-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``move-outside''}
+\\[.3em]\multirow{2}{*}{move-outside } &  move-outside-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``move-outside''}
 \\
   &  move-outside-2 & &
-\\
-  
-\multirow{2}{*}{touch } &   touch-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``touch''}
+\\[.3em]\multirow{2}{*}{touch } &   touch-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``touch''}
 \\
  &  touch-2 & &
-\\
-  
-\multirow{2}{*}{walk-to } &  walk-to-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``walk-to''}
+\\[.3em]\multirow{2}{*}{walk-to } &  walk-to-1 & \multirow{2}{*}{true} & \multirow{2}{*}{``walk-to''}
 \\
  &  walk-to-2 & &
-\\
-   
-\multirow{3}{*}{cause-move-on } &  cause-move-on-1 & \multirow{3}{*}{true} & \multirow{3}{*}{``cause-move-on''}
+\\[.3em]\multirow{3}{*}{cause-move-on } &  cause-move-on-1 & \multirow{3}{*}{true} & \multirow{3}{*}{``cause-move-on''}
 \\
   &  cause-move-on-2  & &
 \\
   &  cause-move-on-3  & &
-\\
-\multirow{3}{*}{   give } &  give-1 & \multirow{3}{*}{true} & \multirow{3}{*}{``give''}
+\\[.3em]\multirow{3}{*}{   give } &  give-1 & \multirow{3}{*}{true} & \multirow{3}{*}{``give''}
 \\
  &   give-2 & &
 \\
   &  give-3  & &
-\\
-   
-\multirow{3}{*}{take } & take-1 & \multirow{3}{*}{true} & \multirow{3}{*}{``take''}
+\\[.3em]\multirow{3}{*}{take } & take-1 & \multirow{3}{*}{true} & \multirow{3}{*}{``take''}
 \\
   &   take-2  & &
 \\
@@ -443,7 +429,6 @@ Note that the hearer does not know from this meaning which participant played wh
 
 \ea
 \begin{lstlisting}
- 
 ((?event-x . event-1) (?object-x . object-1)
  (?object-y . object-2) (?object-a . object-1)
  (?object-b . object-2))
@@ -929,16 +914,18 @@ The source event (move-inside) is made up of eight micro-events. The event start
 \end{lstlisting}
 \end{itemize} 
 
-Analog\is{analogy}y is commonly defined as a mapping from a source domain to a new target domain. The next step in the algorithm is therefore to check how the existing role maps onto the target event structure\is{event structure}. This can be achieved by selecting all the micro-events of the source event that involve the source filler and map them onto the corresponding micro-events of the target. If the micro-events do not exist in the target event, they are ignored. Other information such as time-stamps and hierarchical structure is also ignored. This yields the following mapping:
+Analog\is{analogy}y is commonly defined as a mapping from a source domain to a new target domain. The next step in the algorithm is therefore to check how the existing role maps onto the target event structure\is{event structure}. This can be achieved by selecting all the micro-events of the source event that involve the source filler and map them onto the corresponding micro-events of the target. If the micro-events do not exist in the target event, they are ignored. Other information such as time-stamps and hierarchical structure is also ignored. This yields mapping in \figref{fig:3:mapping}.
 
 \begin{figure}[h]
 \footnotesize
- \begin{tabular}{>{\tt}l >{\tt}l >{\tt}l} 
+ \begin{tabular}{lll} 
 {\bfseries source event} & {\bfseries ==>} & {\bfseries target event} \\
-\hline
+\midrule
 (touch-1 event-162493 jill) &  ==> & (touch-1 event-165633 jill)\\
 (touch-1 event-161801 jill) & ==> &  (touch-1 event-165633 jill)\\
 \end{tabular} 
+\caption{Please provide a caption}
+\label{fig:3:mapping}
 \end{figure}
 
 \subsubsection{A good mapping}
@@ -979,25 +966,29 @@ The agents in this experiment can thus be characterized as (incremental) instan-
 Co-occurring items are locally observable to the agents since they form one chain in the reaction network\is{reaction network} during processing. The general idea is reminiscient of Hebbian learning\is{Hebbian learning} (`what fires together, wires together'): a link is kept between co-occur\is{co-occurrence}ring items and a confidence\is{confidence} score is kept for this link based on the successful co-occur\is{co-occurrence}rence of both items. Suppose that the agent has the case marker\is{case!case marking} {\em -ma} (see the example earlier in this section) which may cover either the participant role\is{participant role} walk-to-2 or the role move-inside-1. The idea is now that the agents keep a link between co-occur\is{co-occurrence}ring linguistic items, so the agent would now have a link between construction-x one the one hand and the two lexical entr\is{lexical entry}ies {\em walk-to} and {\em move-inside} on the other. Instead of positing a score on the complete construction, each co-occur\is{co-occurrence}rence link has its own confidence\is{confidence} score: 
 
 \ea
-\begin{align*}
-\text{<Construction-x>} & \leftarrow  
-\begin{array}{ll} 
-0.5 \rightarrow & \text{<move-inside> (for move-inside-1) }\\
-0.5 \rightarrow & \text{<walk-to> (for walk-to-2)}
-\end{array}
-\end{align*}
+\parbox{\textwidth}{
+  \begin{align*}
+  \text{<Construction-x>} & \leftarrow  
+  \begin{array}{ll} 
+  0.5 \rightarrow & \text{<move-inside> (for move-inside-1) }\\
+  0.5 \rightarrow & \text{<walk-to> (for walk-to-2)}
+  \end{array}
+  \end{align*}
+}
 \z
 
 Suppose that the speaker also has the marker\is{case!case marking} {\em -bo} which can be used for marking `move-1' and `move-inside-2':
 
 \ea
-\begin{align*}
-\text{<Construction-y>} & \leftarrow  
-\begin{array}{ll} 
-0.5 \rightarrow & \text{<move-inside> (for move-inside-1)} \\
-0.5 \rightarrow & \text{<move> (for move-1)}
-\end{array}
-\end{align*}
+\parbox{\textwidth}{
+  \begin{align*}
+  \text{<Construction-y>} & \leftarrow  
+  \begin{array}{ll} 
+  0.5 \rightarrow & \text{<move-inside> (for move-inside-1)} \\
+  0.5 \rightarrow & \text{<move> (for move-1)}
+  \end{array}
+  \end{align*}
+  }
 \z
 
 If the agent then observes the co-occur\is{co-occurrence}rence of construction-x and {\em move-inside} (i.e. the agent analyzes an utterance in which {\em -ma} was used for marking move-inside-1), the score of the link is increased with 0.1 and the score of competing links (here the link between {\em move-inside} and construction-y) is decreased by 0.1. The other confidence\is{confidence} scores based on co-occur\is{co-occurrence}rence remain untouched:
@@ -1112,6 +1103,8 @@ The lack of convergence on a preferred set of marker\is{case!case marking}s clea
 
 I will go through an example to explain why the single confidence\is{confidence} score cannot be sufficient for polysemous form-meaning mappings. Suppose that an agent knows three marker\is{case!case marking}s: {\em -ma}, {\em -bo} and {\em -li} and that the first two are generalized to cover two roles each whereas {\em -li} is still a verb\is{verb}-specific marker\is{case!case marking}. For convenience's sake, I will not include all the linguistic items involved but treat the marker\is{case!case marking}s as if they were lexical items:
 
+\ea
+\parbox{\textwidth}{
 \begin{align*}
 \begin{array}{ll} 
 \text{<move-inside-1>} & \leftarrow \\
@@ -1119,7 +1112,11 @@ I will go through an example to explain why the single confidence\is{confidence}
 \end{array}
 & \text{(0.5)}\rightarrow \text{-ma}
 \end{align*}
+}
+\z
 
+\ea
+\parbox{\textwidth}{
 \begin{align*}
 \begin{array}{ll} 
 \text{<move-inside-1>} & \leftarrow \\
@@ -1127,16 +1124,24 @@ I will go through an example to explain why the single confidence\is{confidence}
 \end{array}
 & \text{(0.5)}\rightarrow \text{-bo}
 \end{align*}
+}
+\z
 
+\ea
+\parbox{\textwidth}{
 \begin{align*}
 \begin{array}{ll}
 \text{<move-1>}\hspace{1,05cm} & \leftarrow
 \end{array}
 & \text{(0.5)}\rightarrow \text{-li}
 \end{align*}
+}
+\z
 
 Suppose now that the agent observes the utterance {\em boy -ma move-inside} in which the marker\is{case!case marking} {\em -ma} was successfully used for marking `move-inside-1'. The score for {\em -ma} is thus increased and the score for its competit\is{competition}or {\em -bo} is decreased. The consequences for {\em -bo} are far-reaching, because it is now not only less successful than {\em -ma} for covering `move-inside-1', but also than {\em -li} for marking `move-1':
 
+\ea
+\parbox{\textwidth}{
 \begin{align*}
 \begin{array}{ll} 
 \text{<move-inside-1>} & \leftarrow \\
@@ -1144,7 +1149,11 @@ Suppose now that the agent observes the utterance {\em boy -ma move-inside} in w
 \end{array}
 & \text{(0.6)}\rightarrow \text{-ma}
 \end{align*}
+}
+\z
 
+\ea
+\parbox{\textwidth}{
 \begin{align*}
 \begin{array}{ll} 
 \text{<move-inside-1>} & \leftarrow \\
@@ -1152,13 +1161,19 @@ Suppose now that the agent observes the utterance {\em boy -ma move-inside} in w
 \end{array}
 & \text{(0.4)}\rightarrow \text{-bo}
 \end{align*}
+}
+\z
 
+\ea
+\parbox{\textwidth}{
 \begin{align*}
 \begin{array}{ll}
 \text{<move-1>}\hspace{1,05cm} & \leftarrow
 \end{array}
 & \text{(0.5)}\rightarrow \text{-li}
 \end{align*}
+}
+\z
 
 In another game, the same damage can be done for the marker\is{case!case marking} {\em -ma} so {\em -bo} can recover from its score decrease. Generalization thus tends to be harmful for the marker\is{case!case marking}s if only one score is used: the more general a role marker\is{case!case marking} gets, the more competit\is{competition}ors it has and thus the more chances that its score will be decreased. Specific marker\is{case!case marking}s can escape punishment through lateral inhibition\is{lateral inhibition} much more easily. On the other hand, if it has competing marker\is{case!case marking}s which are generalized, they can get punished too even if a different participant role\is{participant role} was involved. Suppose that {\em -bo} was observed for marking `move-inside-1' this time, then not only {\em -ma} is seen as a competit\is{competition}or, but also {\em -li} because it overlaps with {\em -bo} for marking `move-1'.
 
