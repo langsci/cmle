@@ -342,4 +342,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Name index}{229}{section*.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Subject index}{237}{section*.17}
+\contentsline {section}{Subject index}{232}{section*.17}

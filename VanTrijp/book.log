@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.6.25)  14 JAN 2015 12:11
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.6.25)  14 JAN 2015 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4021,699 +4021,23 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 102.
 
 (./book.and
-Overfull \hbox (3.94948pt too wide) in paragraph at lines 3--4
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Sign-Based Construction Grammar\EU1/L
-inLibertine_R_B.otf(0)/m/n/10.95 , []23[] 
- []
-
-
-Overfull \hbox (4.3647pt too wide) in paragraph at lines 9--11
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 A Comparison Between Fluid Construc-
- []
-
-
-Overfull \hbox (8.96786pt too wide) in paragraph at lines 9--11
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 tion Grammar and Sign-Based
- []
-
-
-Overfull \hbox (1.14539pt too wide) in paragraph at lines 11--13
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 A Comparison of Analogical Modeling
- []
-
-
-Overfull \hbox (9.27449pt too wide) in paragraph at lines 11--13
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 of Language to Memory-Based
- []
-
-
-Overfull \hbox (5.79913pt too wide) in paragraph at lines 13--15
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 A Constraint-Based Model of Grounded
- []
-
-
-Overfull \hbox (1.13864pt too wide) in paragraph at lines 13--15
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Compositional Semantics\EU1/LinLibertin
-e_R_B.otf(0)/m/n/10.95 , []21[] 
- []
-
-
-Overfull \hbox (1.85715pt too wide) in paragraph at lines 15--18
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 A Construction Grammar Approach to
- []
-
-
-Overfull \hbox (8.06636pt too wide) in paragraph at lines 15--18
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Argument Structure\EU1/LinLibertine_R_B
-.otf(0)/m/n/10.95 , []9[], []40[], []177[],
- []
-
-
-Overfull \hbox (15.39552pt too wide) in paragraph at lines 21--23
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Language Processing and Learn-
- []
-
-
-Overfull \hbox (1.14903pt too wide) in paragraph at lines 23--25
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 A Self-Organizing Spatial Vocabulary\
-EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (4.45683pt too wide) in paragraph at lines 29--31
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 An Agent-Based Evolutionary Comput-
- []
-
-
-Overfull \hbox (13.76399pt too wide) in paragraph at lines 29--31
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 ing Approach to Memory-Based
- []
-
-
-Overfull \hbox (0.7813pt too wide) in paragraph at lines 35--37
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Analogical Modeling of Language\EU1/L
-inLibertine_R_B.otf(0)/m/n/10.95 , []151[],
- []
-
-
-Overfull \hbox (7.76706pt too wide) in paragraph at lines 37--39
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 the Formation of a Case Gram-
- []
-
-
-Overfull \hbox (3.43846pt too wide) in paragraph at lines 40--42
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Argument Structure Constructions and
- []
-
-
-Overfull \hbox (6.02597pt too wide) in paragraph at lines 40--42
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 the Argument-Adjunt Distinc-
- []
-
-
-Overfull \hbox (0.1787pt too wide) in paragraph at lines 42--44
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 struction Grammar\EU1/LinLibertine_R_B.
-otf(0)/m/n/10.95 , []176[], []207[] 
+Overfull \hbox (0.66457pt too wide) in paragraph at lines 95--98
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Haspelmath, Martin, []60[], []113[], [
+]116[], []191[]–
  []
 
 [229
 
 
 ]
-Overfull \hbox (2.11353pt too wide) in paragraph at lines 65--66
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Bootstrapping Grounded Word Seman-
- []
-
-
-Overfull \hbox (9.80411pt too wide) in paragraph at lines 78--80
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Can Iterated Learning Explain the Eme
-r-
- []
-
-
-Overfull \hbox (5.86176pt too wide) in paragraph at lines 78--80
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 gence of Case Marking in Lan-
- []
-
-
-Overfull \hbox (3.97507pt too wide) in paragraph at lines 91--93
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Cognitive Linguistics\EU1/LinLibertin
-e_R_B.otf(0)/m/n/10.95 , []115[], []184[], []185[], []188[],
- []
-
-
-Overfull \hbox (5.2376pt too wide) in paragraph at lines 99--101
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Languages: The Case for Case\EU1/LinLib
-ertine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (5.72337pt too wide) in paragraph at lines 101--103
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Complementation by Construction\EU1/L
-inLibertine_R_B.otf(0)/m/n/10.95 , []177[],
- []
-
-
-Overfull \hbox (7.9353pt too wide) in paragraph at lines 106--108
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Computational Issues in Fluid Constru
-c-
- []
-
-
-Overfull \hbox (9.66539pt too wide) in paragraph at lines 108--110
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Computational Simulations of the Emer
--
- []
-
-
-Overfull \hbox (11.27136pt too wide) in paragraph at lines 112--114
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Constraint-Based Compositional Seman-
-
- []
-
-
-Overfull \hbox (12.48317pt too wide) in paragraph at lines 117--120
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Constructivist Development of Grounde
-d
- []
-
-
-Overfull \hbox (8.02983pt too wide) in paragraph at lines 120--122
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Categories Through Language:
- []
-
-
-Overfull \hbox (9.69093pt too wide) in paragraph at lines 122--124
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Coping with Combinatorial Uncertainty
-
- []
-
-
-Overfull \hbox (0.69008pt too wide) in paragraph at lines 128--130
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Crucial Factors in the Origins of Wor
-d-
- []
-
-
-Overfull \hbox (13.15477pt too wide) in paragraph at lines 132--134
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Cultural Selection for Learnability: 
-Three
- []
-
-
-Overfull \hbox (10.09573pt too wide) in paragraph at lines 132--134
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Principles Underlying the View
- []
-
-[230]
-Overfull \hbox (30.52513pt too wide) in paragraph at lines 143--145
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Design and Performance of Pre-Grammat
-ical
- []
-
-
-Overfull \hbox (6.70157pt too wide) in paragraph at lines 156--159
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Does Grammaticalization Need Reanal-
- []
-
-
-Overfull \hbox (19.91095pt too wide) in paragraph at lines 163--165
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Emergent Action Language on Real Robo
-ts\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (2.55519pt too wide) in paragraph at lines 172--174
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Explaining Language Change: An Evo-
- []
-
-
-Overfull \hbox (10.99767pt too wide) in paragraph at lines 177--179
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Factors Influencing the Origins of Co
-lour
- []
-
-
-Overfull \hbox (1.10214pt too wide) in paragraph at lines 180--182
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Case Study for German Case\EU1/LinLiber
-tine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (13.12558pt too wide) in paragraph at lines 185--187
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Fitness Landscapes in Cultural Langua
-ge
- []
-
-
-Overfull \hbox (5.47118pt too wide) in paragraph at lines 185--187
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 German Definite Articles\EU1/LinLiberti
-ne_R_B.otf(0)/m/n/10.95 , []209[] 
- []
-
-
-Overfull \hbox (10.13136pt too wide) in paragraph at lines 190--192
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Foundations of Cognitive Grammar. Vol
--
- []
-
-
-Overfull \hbox (9.263pt too wide) in paragraph at lines 193--195
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 From UG to Universals: Linguistic Ada
-p-
- []
-
-
-Overfull \hbox (5.19012pt too wide) in paragraph at lines 193--195
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 tation through Iterated Learn-
- []
-
-
-Overfull \hbox (13.44312pt too wide) in paragraph at lines 210--212
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Grammatical Acquisition: Inductive Bi
-as
- []
-
-
-Overfull \hbox (3.94183pt too wide) in paragraph at lines 210--212
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 and Coevolution of Language
- []
-
-
-Overfull \hbox (6.84358pt too wide) in paragraph at lines 210--212
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 and the Language Acquisition
- []
-
-
-Overfull \hbox (1.30928pt too wide) in paragraph at lines 212--214
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 What’s X Doing Y? Construc-
- []
-
-
-Overfull \hbox (0.24478pt too wide) in paragraph at lines 218--220
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Grammaticalization\EU1/LinLibertine_R
-_B.otf(0)/m/n/10.95 , []112[], []113[], []115[], []200[] 
- []
-
-
-Overfull \hbox (13.5234pt too wide) in paragraph at lines 220--222
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Grammaticalization and Semantic Maps:
-
- []
-
-
-Overfull \hbox (1.13863pt too wide) in paragraph at lines 220--222
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Evidence from Artificial Lan-
- []
-
-
-Overfull \hbox (2.80336pt too wide) in paragraph at lines 223--225
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Grounding Adaptive Language Games
- []
-
-[231]
-Overfull \hbox (6.83296pt too wide) in paragraph at lines 225--227
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Grounding Symbols Through Evolution-
- []
-
-
-Overfull \hbox (0.66457pt too wide) in paragraph at lines 232--235
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Haspelmath, Martin, []60[], []113[], [
-]116[], []191[]–
- []
-
-
-Overfull \hbox (3.34724pt too wide) in paragraph at lines 238--240
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Hierarchy in Fluid Construction Gram-
-
- []
-
-
-Overfull \hbox (5.56242pt too wide) in paragraph at lines 247--250
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Combinatorial Search in Pars-
- []
-
-
-Overfull \hbox (6.38371pt too wide) in paragraph at lines 251--253
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Sail a Boat?(Or, What can Ma-
- []
-
-
-Overfull \hbox (1.67886pt too wide) in paragraph at lines 251--253
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 the Evolution of Language\EU1/LinLibert
-ine_R_B.otf(0)/m/n/10.95 , []4[],
- []
-
-
-Overfull \hbox (7.68672pt too wide) in paragraph at lines 253--255
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Language Evolution and Why\EU1/LinLiber
-tine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (0.89445pt too wide) in paragraph at lines 255--257
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 How to Make Construction Grammars
- []
-
-
-Overfull \hbox (16.58217pt too wide) in paragraph at lines 263--265
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Intelligent Meaning Creation in a Clu
-mpy
- []
-
-
-Overfull \hbox (3.90167pt too wide) in paragraph at lines 263--265
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 World Helps Communication\EU1/LinLibert
-ine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (0.8105pt too wide) in paragraph at lines 271--272
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Joint Attention as Social Cognition\E
-U1/LinLibertine_R_B.otf(0)/m/n/10.95 , []53[] 
- []
-
-
-Overfull \hbox (5.6212pt too wide) in paragraph at lines 293--295
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Language Evolution in Populations: Ex
--
- []
-
-
-Overfull \hbox (3.40529pt too wide) in paragraph at lines 293--295
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 tending the Iterated Learning
- []
-
-
-Overfull \hbox (3.31075pt too wide) in paragraph at lines 295--297
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Language Evolution: The Hardest Prob-
-
- []
-
-
-Overfull \hbox (15.31558pt too wide) in paragraph at lines 297--298
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Language Games for Autonomous Robots\
-EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (6.43513pt too wide) in paragraph at lines 299--300
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Language Learning and Language Con-
- []
-
-[232]
-Overfull \hbox (6.0811pt too wide) in paragraph at lines 315--317
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Linking as Constraints on Word Classe
-s
- []
-
-
-Overfull \hbox (4.08786pt too wide) in paragraph at lines 315--317
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 in a Hierarchical Lexicon\EU1/LinLibert
-ine_R_B.otf(0)/m/n/10.95 , []183[] 
- []
-
-
-Overfull \hbox (3.93852pt too wide) in paragraph at lines 322--324
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Logical and Typological Arguments for
-
- []
-
-
-Overfull \hbox (31.97292pt too wide) in paragraph at lines 324--326
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Filler-Gaps: A Cognitive-Functional
- []
-
-
-Overfull \hbox (4.57695pt too wide) in paragraph at lines 324--326
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Alternative in Fluid Construc-
- []
-
-
-Overfull \hbox (3.45674pt too wide) in paragraph at lines 340--342
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Multi-Level Selection in the Emergenc
-e
- []
-
-
-Overfull \hbox (7.47504pt too wide) in paragraph at lines 340--342
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 of Language Systematicity\EU1/LinLibert
-ine_R_B.otf(0)/m/n/10.95 , []19[],
- []
-
-
-Overfull \hbox (14.47574pt too wide) in paragraph at lines 349--351
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 putational Experiments in Fluid
- []
-
-
-Overfull \hbox (0.39073pt too wide) in paragraph at lines 351--353
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Noun Phrase Accessibility and Univer-
-
- []
-
-
-Overfull \hbox (3.19724pt too wide) in paragraph at lines 373--375
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Semantics for Fluid Construc-
- []
-
-
-Overfull \hbox (0.9346pt too wide) in paragraph at lines 376--378
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Protolanguage as a Holistic System fo
-r
- []
-
-[233]
-Overfull \hbox (0.44917pt too wide) in paragraph at lines 383--385
+Overfull \hbox (0.44917pt too wide) in paragraph at lines 169--171
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Rappaport Hovav, Malka, []25[], []183[
 ], []197[] 
  []
 
+[230] [231
 
-Overfull \hbox (9.38034pt too wide) in paragraph at lines 387--389
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 About Language Evolution\EU1/LinLiberti
-ne_R_B.otf(0)/m/n/10.95 , []50[],
- []
-
-
-Overfull \hbox (4.09882pt too wide) in paragraph at lines 397--399
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 ing the Autotelic Principle\EU1/LinLibe
-rtine_R_B.otf(0)/m/n/10.95 , []19[],
- []
-
-
-Overfull \hbox (5.58833pt too wide) in paragraph at lines 403--404
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Self-organisation in Vowel Systems\EU
-1/LinLibertine_R_B.otf(0)/m/n/10.95 , []167[] 
- []
-
-
-Overfull \hbox (0.84299pt too wide) in paragraph at lines 407--409
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 tions by Autonomous Robots\EU1/LinLiber
-tine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (6.82169pt too wide) in paragraph at lines 409--411
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 cabularies in Multi-Agent Sys-
- []
-
-
-Overfull \hbox (5.82071pt too wide) in paragraph at lines 411--413
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Sign-Based Construction Grammar. An
- []
-
-
-Overfull \hbox (3.44215pt too wide) in paragraph at lines 417--418
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Situated Grounded Word Semantics\EU1/
-LinLibertine_R_B.otf(0)/m/n/10.95 , []18[] 
- []
-
-
-Overfull \hbox (17.73553pt too wide) in paragraph at lines 432--434
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Spontaneous Evolution of Linguistic S
-truc-
- []
-
-
-Overfull \hbox (18.0929pt too wide) in paragraph at lines 432--434
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 ture: An Iterated Learning Model
- []
-
-
-Overfull \hbox (1.31783pt too wide) in paragraph at lines 446--448
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Stochasticity as a Source of Innovati
-on
- []
-
-
-Overfull \hbox (9.80376pt too wide) in paragraph at lines 448--450
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 of Spanish Leísmo, Laísmo and
- []
-
-
-Overfull \hbox (3.25963pt too wide) in paragraph at lines 450--452
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Structural Coupling of Cognitive Mem-
-
- []
-
-
-Overfull \hbox (2.19347pt too wide) in paragraph at lines 453--455
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Organization of Information\EU1/LinLibe
-rtine_R_B.otf(0)/m/n/10.95 ,
- []
-
-[234]
-Overfull \hbox (1.74088pt too wide) in paragraph at lines 457--459
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Evolution of Structured Com-
- []
-
-
-Overfull \hbox (0.12758pt too wide) in paragraph at lines 457--459
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 of Induction Algorithms\EU1/LinLibertin
-e_R_B.otf(0)/m/n/10.95 , []166[] 
- []
-
-
-Overfull \hbox (4.54808pt too wide) in paragraph at lines 459--461
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Syntax without Natural Selection: How
-
- []
-
-
-Overfull \hbox (14.66553pt too wide) in paragraph at lines 459--461
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Compositionality Emerges from
- []
-
-
-Overfull \hbox (20.66248pt too wide) in paragraph at lines 461--463
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 and Meaning Using Co-evolution,
- []
-
-
-Overfull \hbox (4.2922pt too wide) in paragraph at lines 469--471
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Intelligence: Building Embod-
- []
-
-
-Overfull \hbox (0.9346pt too wide) in paragraph at lines 475--476
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Development of Case in Germanic\E
-U1/LinLibertine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (5.446pt too wide) in paragraph at lines 478--480
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Emergence of Compositionality, Hi
--
- []
-
-
-Overfull \hbox (6.83994pt too wide) in paragraph at lines 478--480
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 erarchy and Recursion in Peer-
- []
-
-
-Overfull \hbox (19.50542pt too wide) in paragraph at lines 480--482
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 municating Autonomous Robotic
- []
-
-
-Overfull \hbox (0.30315pt too wide) in paragraph at lines 482--484
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Emergence of Linguistic Structure
-:
- []
-
-
-Overfull \hbox (9.28214pt too wide) in paragraph at lines 484--486
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Emergence of Morphosyntactic Case
-
- []
-
-
-Overfull \hbox (4.89812pt too wide) in paragraph at lines 486--488
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Fluid Construction Grammar\EU1/LinLiber
-tine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (7.45715pt too wide) in paragraph at lines 488--490
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Evolution of Case Systems for Mar
-k-
- []
-
-
-Overfull \hbox (0.94556pt too wide) in paragraph at lines 490--492
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Evolution of Conventions in Multi
--
- []
-
-
-Overfull \hbox (4.6576pt too wide) in paragraph at lines 492--494
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Evolution of Grounded Spatial Lan
--
- []
-
-
-Overfull \hbox (8.02983pt too wide) in paragraph at lines 495--497
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 ing: Semantic Maps and Cross-
- []
-
-
-Overfull \hbox (0.51848pt too wide) in paragraph at lines 499--501
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Negotiation and Acquisition of Re
--
- []
-
-
-Overfull \hbox (7.35405pt too wide) in paragraph at lines 503--505
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Origins of Recursive Rules: A Usa
-ge-
- []
-
-
-Overfull \hbox (22.95142pt too wide) in paragraph at lines 505--507
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Origins of Syntax in Visually Gro
-unded
- []
-
-
-Overfull \hbox (8.1835pt too wide) in paragraph at lines 510--512
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Relevance of an Evolutionary Mode
-l
- []
-
-[235]
-Overfull \hbox (24.81291pt too wide) in paragraph at lines 512--514
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Role of Language in Learning Grou
-nded
- []
-
-
-Overfull \hbox (8.03381pt too wide) in paragraph at lines 516--518
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Self-Organization of Speech Sound
-s\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (13.76799pt too wide) in paragraph at lines 520--522
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 The Syntactic Development of the Geru
-nd
- []
-
-
-Overfull \hbox (1.95622pt too wide) in paragraph at lines 527--529
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 els of Biological and Cultural
- []
-
-
-Overfull \hbox (4.58458pt too wide) in paragraph at lines 539--541
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Two Structures for Compositionally De
--
- []
-
-
-Overfull \hbox (3.14651pt too wide) in paragraph at lines 567--568
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 What Triggers the Emergence of Gram-
- []
-
-
-Overfull \hbox (6.82167pt too wide) in paragraph at lines 570--572
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 What Categories Reveal about
- []
-
-
-Overfull \hbox (2.39462pt too wide) in paragraph at lines 572--575
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Word Order and Case in Models of Sim-
-
- []
-
-
-Overfull \hbox (5.51137pt too wide) in paragraph at lines 572--575
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 131[], []164[], []166[]–[]168[], []171
-[]–[]173[], []175[] 
- []
-
-[236]) (./book.snd
+]) (./book.snd
 Overfull \hbox (3.83604pt too wide) in paragraph at lines 18--27
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 99[]–[]103[], []106[]–[]108[], []111[]
 , []120[], []121[],
@@ -4755,7 +4079,7 @@ Overfull \hbox (2.63354pt too wide) in paragraph at lines 94--97
 ]–[]168[], []172[],
  []
 
-[237
+[232
 
 
 ]
@@ -4820,7 +4144,7 @@ Overfull \hbox (0.49823pt too wide) in paragraph at lines 189--190
 [] 
  []
 
-[238]
+[233]
 Overfull \hbox (5.11548pt too wide) in paragraph at lines 195--196
 []| \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 vanilla construction grammar, []20[]
  
@@ -4874,7 +4198,7 @@ Overfull \hbox (5.09895pt too wide) in paragraph at lines 301--309
 ], []116[], []120[],
  []
 
-[239]
+[234]
 Overfull \hbox (2.62453pt too wide) in paragraph at lines 309--311
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 function independence principle, []164
 [],
@@ -4921,7 +4245,7 @@ Overfull \hbox (3.75208pt too wide) in paragraph at lines 390--398
 95[], []98[], []101[]–
  []
 
-[240]
+[235]
 Overfull \hbox (6.14647pt too wide) in paragraph at lines 425--431
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 107[]–[]110[], []167[], []173[], []177
 []–[]179[], []181[],
@@ -4956,7 +4280,7 @@ Overfull \hbox (6.00082pt too wide) in paragraph at lines 514--518
 17[], []119[], []120[],
  []
 
-[241]
+[236]
 Overfull \hbox (0.47112pt too wide) in paragraph at lines 525--528
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 preposition, []5[], []6[], []10[], []1
 12[], []191[]–[]194[], []200[],
@@ -4985,7 +4309,7 @@ Overfull \hbox (4.51859pt too wide) in paragraph at lines 596--603
 ], []166[], []169[],
  []
 
-[242]
+[237]
 Overfull \hbox (11.33678pt too wide) in paragraph at lines 632--644
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 113[], []120[]–[]125[], []127[], []129
 []–[]131[], []136[]–
@@ -5009,7 +4333,7 @@ Overfull \hbox (6.78893pt too wide) in paragraph at lines 739--751
 7[], []171[], []177[]–
  []
 
-[243] [244
+[238] [239
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
@@ -5038,4 +4362,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  66i,38n,90p,10499b,1855s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book.pdf (258 pages).
+Output written on book.pdf (253 pages).
