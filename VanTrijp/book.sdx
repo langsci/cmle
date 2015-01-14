@@ -7,9 +7,9 @@
 \indexentry {displacement|hyperpage}{2}
 \indexentry {case!case marking|hyperpage}{2}
 \indexentry {event structure|hyperpage}{2}
-\indexentry {case!case marking|hyperpage}{2}
-\indexentry {information structure|hyperpage}{2}
-\indexentry {case!accusative|hyperpage}{2}
+\indexentry {case!case marking|hyperpage}{3}
+\indexentry {information structure|hyperpage}{3}
+\indexentry {case!accusative|hyperpage}{3}
 \indexentry {case!case marking|hyperpage}{3}
 \indexentry {case!case marking|hyperpage}{3}
 \indexentry {number|hyperpage}{3}
@@ -139,8 +139,8 @@
 \indexentry {gender|hyperpage}{9}
 \indexentry {number|hyperpage}{9}
 \indexentry {information structure|hyperpage}{9}
-\indexentry {case!case marking|hyperpage}{10}
-\indexentry {extension|hyperpage}{10}
+\indexentry {case!case marking|hyperpage}{9}
+\indexentry {extension|hyperpage}{9}
 \indexentry {dissociation|hyperpage}{10}
 \indexentry {case!case marking|hyperpage}{10}
 \indexentry {case!case system|hyperpage}{10}
@@ -168,6 +168,7 @@
 \indexentry {crossover|hyperpage}{11}
 \indexentry {mutation|hyperpage}{11}
 \indexentry {variation|hyperpage}{11}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{11}
 \indexentry {negotiation|hyperpage}{12}
 \indexentry {problem-solving|hyperpage}{12}
 \indexentry {problem-solving|hyperpage}{12}
@@ -195,7 +196,7 @@
 \indexentry {emergence|hyperpage}{13}
 \indexentry {English|hyperpage}{13}
 \indexentry {Russian|hyperpage}{13}
-\indexentry {artificial language evolution|hyperpage}{14}
+\indexentry {artificial language evolution|hyperpage}{13}
 \indexentry {tense|hyperpage}{14}
 \indexentry {aspect|hyperpage}{14}
 \indexentry {modality|hyperpage}{14}
@@ -264,9 +265,9 @@
 \indexentry {lexicon|hyperpage}{17}
 \indexentry {lexicon|hyperpage}{17}
 \indexentry {robot|hyperpage}{17}
-\indexentry {structural coupling|hyperpage}{18}
-\indexentry {lexicon|hyperpage}{18}
-\indexentry {colour|hyperpage}{18}
+\indexentry {structural coupling|hyperpage}{17}
+\indexentry {lexicon|hyperpage}{17}
+\indexentry {colour|hyperpage}{17}
 \indexentry {lexicon|hyperpage}{18}
 \indexentry {emergence|hyperpage}{18}
 \indexentry {lexicon|hyperpage}{18}
@@ -292,8 +293,8 @@
 \indexentry {multiple word utterances|hyperpage}{18}
 \indexentry {multiple word utterances|hyperpage}{18}
 \indexentry {language game!multiword naming game|hyperpage}{18}
-\indexentry {lexicon|hyperpage}{19}
-\indexentry {emergence|hyperpage}{19}
+\indexentry {lexicon|hyperpage}{18}
+\indexentry {emergence|hyperpage}{18}
 \indexentry {language game|hyperpage}{19}
 \indexentry {emergence|hyperpage}{19}
 \indexentry {emergence|hyperpage}{19}
@@ -313,6 +314,7 @@
 \indexentry {verb|hyperpage}{19}
 \indexentry {re-entrance|hyperpage}{19}
 \indexentry {negotiation|hyperpage}{19}
+\indexentry {autotelic principle|hyperpage}{19}
 \indexentry {unification|hyperpage}{20}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{20}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{20}
@@ -337,15 +339,16 @@
 \indexentry {event recognition|hyperpage}{20}
 \indexentry {conceptualization|hyperpage}{20}
 \indexentry {emergence|hyperpage}{20}
-\indexentry {emergence|hyperpage}{21}
-\indexentry {propagation|hyperpage}{21}
-\indexentry {conceptualization|hyperpage}{21}
+\indexentry {emergence|hyperpage}{20}
+\indexentry {propagation|hyperpage}{20}
+\indexentry {conceptualization|hyperpage}{20}
 \indexentry {prototype|hyperpage}{21}
 \indexentry {determiner|hyperpage}{21}
 \indexentry {number!singular|hyperpage}{21}
 \indexentry {second-order semantics|hyperpage}{21}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{21}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{21}
+\indexentry {Embodied Construction Grammar|hyperpage}{23}
 \indexentry {English|hyperpage}{24}
 \indexentry {English|hyperpage}{24}
 \indexentry {word order|hyperpage}{24}
@@ -390,6 +393,7 @@
 \indexentry {feature structure|hyperpage}{27}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{27}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{28}
+\indexentry {Minimalist Program|hyperpage}{28}
 \indexentry {feature structure|hyperpage}{28}
 \indexentry {reaction network|hyperpage}{28}
 \indexentry {unify and merge|hyperpage}{28}
@@ -417,7 +421,7 @@
 \indexentry {structure building!J-operator|hyperpage}{30}
 \indexentry {structure building!J-operator|hyperpage}{30}
 \indexentry {feature structure!coupled feature structure|hyperpage}{30}
-\indexentry {unification|hyperpage}{30}
+\indexentry {unification|hyperpage}{31}
 \indexentry {structure building!J-operator|hyperpage}{31}
 \indexentry {unification|hyperpage}{31}
 \indexentry {structure building!J-operator|hyperpage}{31}
@@ -426,7 +430,7 @@
 \indexentry {structure building!J-operator|hyperpage}{31}
 \indexentry {structure building!J-operator|hyperpage}{31}
 \indexentry {structure building!J-operator|hyperpage}{31}
-\indexentry {unification|hyperpage}{31}
+\indexentry {unification|hyperpage}{32}
 \indexentry {feature structure!coupled feature structure|hyperpage}{32}
 \indexentry {feature structure!coupled feature structure|hyperpage}{32}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{32}
@@ -555,9 +559,9 @@
 \indexentry {syntactic role!subject|hyperpage}{40}
 \indexentry {syntactic role!object|hyperpage}{40}
 \indexentry {syntactic role!oblique|hyperpage}{40}
-\indexentry {reaction network|hyperpage}{40}
-\indexentry {word order|hyperpage}{40}
-\indexentry {syntactic role|hyperpage}{40}
+\indexentry {reaction network|hyperpage}{41}
+\indexentry {word order|hyperpage}{41}
+\indexentry {syntactic role|hyperpage}{41}
 \indexentry {syntactic role!oblique|hyperpage}{41}
 \indexentry {syntactic role!subject|hyperpage}{41}
 \indexentry {syntactic role!oblique|hyperpage}{41}
@@ -679,10 +683,10 @@
 \indexentry {innovation|hyperpage}{50}
 \indexentry {convention|hyperpage}{50}
 \indexentry {alignment strategy|hyperpage}{50}
-\indexentry {speech population|hyperpage}{51}
-\indexentry {measure!local measure|hyperpage}{51}
-\indexentry {communicative success|hyperpage}{51}
-\indexentry {cognitive effort|hyperpage}{51}
+\indexentry {speech population|hyperpage}{50}
+\indexentry {measure!local measure|hyperpage}{50}
+\indexentry {communicative success|hyperpage}{50}
+\indexentry {cognitive effort|hyperpage}{50}
 \indexentry {self-assessment|hyperpage}{51}
 \indexentry {language game|hyperpage}{51}
 \indexentry {learning strategies!repair strategies|hyperpage}{51}
@@ -704,35 +708,35 @@
 \indexentry {analogy|hyperpage}{51}
 \indexentry {event structure|hyperpage}{51}
 \indexentry {case!case marking|hyperpage}{51}
-\indexentry {participant role|hyperpage}{52}
+\indexentry {participant role|hyperpage}{51}
+\indexentry {semiotic cycle|hyperpage}{52}
+\indexentry {language game|hyperpage}{52}
+\indexentry {sensory-motor system|hyperpage}{52}
+\indexentry {conceptual/intentional system|hyperpage}{52}
+\indexentry {conceptualization|hyperpage}{52}
+\indexentry {conceptualization|hyperpage}{52}
 \indexentry {hierarchy|hyperpage}{52}
 \indexentry {communicative success|hyperpage}{52}
 \indexentry {convention|hyperpage}{52}
 \indexentry {speech population|hyperpage}{52}
 \indexentry {self-assessment|hyperpage}{52}
 \indexentry {language faculty|hyperpage}{52}
-\indexentry {event structure|hyperpage}{52}
-\indexentry {language game!description game|hyperpage}{52}
-\indexentry {semiotic cycle|hyperpage}{52}
-\indexentry {speech population|hyperpage}{52}
-\indexentry {language game|hyperpage}{52}
-\indexentry {joint attention|hyperpage}{52}
+\indexentry {event structure|hyperpage}{53}
+\indexentry {language game!description game|hyperpage}{53}
 \indexentry {semiotic cycle|hyperpage}{53}
+\indexentry {speech population|hyperpage}{53}
 \indexentry {language game|hyperpage}{53}
-\indexentry {sensory-motor system|hyperpage}{53}
-\indexentry {conceptual/intentional system|hyperpage}{53}
-\indexentry {conceptualization|hyperpage}{53}
-\indexentry {conceptualization|hyperpage}{53}
+\indexentry {joint attention|hyperpage}{53}
 \indexentry {event profile|hyperpage}{53}
 \indexentry {verb|hyperpage}{53}
-\indexentry {communicative success|hyperpage}{54}
+\indexentry {communicative success|hyperpage}{53}
 \indexentry {linguistic inventory|hyperpage}{54}
 \indexentry {semiotic cycle|hyperpage}{54}
 \indexentry {sensory-motor system|hyperpage}{54}
 \indexentry {conceptualization|hyperpage}{54}
 \indexentry {concept formation|hyperpage}{54}
 \indexentry {formation|hyperpage}{54}
-\indexentry {sensory-motor system|hyperpage}{55}
+\indexentry {sensory-motor system|hyperpage}{54}
 \indexentry {event token|hyperpage}{55}
 \indexentry {event token|hyperpage}{55}
 \indexentry {event token|hyperpage}{55}
@@ -758,9 +762,9 @@
 \indexentry {colour|hyperpage}{56}
 \indexentry {colour|hyperpage}{56}
 \indexentry {colour|hyperpage}{56}
-\indexentry {conceptualization|hyperpage}{57}
-\indexentry {event recognition|hyperpage}{57}
-\indexentry {PERACT system|hyperpage}{57}
+\indexentry {conceptualization|hyperpage}{56}
+\indexentry {event recognition|hyperpage}{56}
+\indexentry {PERACT system|hyperpage}{56}
 \indexentry {PERACT system|hyperpage}{57}
 \indexentry {event structure|hyperpage}{57}
 \indexentry {participant role|hyperpage}{57}
@@ -774,8 +778,8 @@
 \indexentry {aspect|hyperpage}{57}
 \indexentry {event profile|hyperpage}{57}
 \indexentry {argument realization|hyperpage}{57}
-\indexentry {participant role|hyperpage}{58}
-\indexentry {participant role|hyperpage}{58}
+\indexentry {participant role|hyperpage}{57}
+\indexentry {participant role|hyperpage}{57}
 \indexentry {discrimination game|hyperpage}{58}
 \indexentry {colour|hyperpage}{58}
 \indexentry {assumption|hyperpage}{59}
@@ -792,11 +796,11 @@
 \indexentry {scaffold|hyperpage}{59}
 \indexentry {case!case marking|hyperpage}{59}
 \indexentry {case!case marking|hyperpage}{59}
-\indexentry {adposition|hyperpage}{60}
-\indexentry {case!case marking|hyperpage}{60}
-\indexentry {German|hyperpage}{60}
-\indexentry {scaffold|hyperpage}{60}
-\indexentry {lexicon|hyperpage}{60}
+\indexentry {adposition|hyperpage}{59}
+\indexentry {case!case marking|hyperpage}{59}
+\indexentry {German|hyperpage}{59}
+\indexentry {scaffold|hyperpage}{59}
+\indexentry {lexicon|hyperpage}{59}
 \indexentry {lexicon|hyperpage}{60}
 \indexentry {case!case grammar|hyperpage}{60}
 \indexentry {formation|hyperpage}{60}
@@ -817,7 +821,7 @@
 \indexentry {Ockham's razor|hyperpage}{60}
 \indexentry {grammaticalization|hyperpage}{60}
 \indexentry {holistic versus compositional languages|hyperpage}{60}
-\indexentry {case!case marking|hyperpage}{61}
+\indexentry {case!case marking|hyperpage}{60}
 \indexentry {event structure|hyperpage}{61}
 \indexentry {case!case marking|hyperpage}{61}
 \indexentry {grammaticalization|hyperpage}{61}
@@ -838,11 +842,11 @@
 \indexentry {participant role|hyperpage}{62}
 \indexentry {event type|hyperpage}{62}
 \indexentry {event type|hyperpage}{62}
+\indexentry {holistic versus compositional languages|hyperpage}{62}
 \indexentry {event type|hyperpage}{63}
 \indexentry {event type|hyperpage}{63}
 \indexentry {participant role|hyperpage}{63}
 \indexentry {participant role|hyperpage}{63}
-\indexentry {holistic versus compositional languages|hyperpage}{64}
 \indexentry {situatedness|hyperpage}{64}
 \indexentry {language game|hyperpage}{64}
 \indexentry {communicative success|hyperpage}{64}
@@ -868,8 +872,8 @@
 \indexentry {variable equality|hyperpage}{67}
 \indexentry {participant role|hyperpage}{67}
 \indexentry {participant role|hyperpage}{67}
-\indexentry {communicative success|hyperpage}{68}
-\indexentry {language game|hyperpage}{68}
+\indexentry {communicative success|hyperpage}{67}
+\indexentry {language game|hyperpage}{67}
 \indexentry {lexicon|hyperpage}{68}
 \indexentry {speech population|hyperpage}{68}
 \indexentry {speech population|hyperpage}{68}
@@ -889,21 +893,22 @@
 \indexentry {cognitive effort|hyperpage}{68}
 \indexentry {frequency|hyperpage}{68}
 \indexentry {event type|hyperpage}{68}
+\indexentry {communicative success|hyperpage}{68}
 \indexentry {cognitive effort|hyperpage}{69}
 \indexentry {communicative success|hyperpage}{69}
 \indexentry {language game|hyperpage}{69}
 \indexentry {speech population|hyperpage}{69}
 \indexentry {cognitive effort|hyperpage}{69}
 \indexentry {communicative success|hyperpage}{69}
-\indexentry {communicative success|hyperpage}{69}
 \indexentry {event token|hyperpage}{69}
 \indexentry {event type|hyperpage}{69}
 \indexentry {communicative success|hyperpage}{69}
-\indexentry {dialogue|hyperpage}{70}
-\indexentry {assumption|hyperpage}{70}
-\indexentry {negotiation|hyperpage}{70}
-\indexentry {ambiguity|hyperpage}{70}
-\indexentry {cognitive effort|hyperpage}{70}
+\indexentry {dialogue|hyperpage}{69}
+\indexentry {assumption|hyperpage}{69}
+\indexentry {negotiation|hyperpage}{69}
+\indexentry {ambiguity|hyperpage}{69}
+\indexentry {cognitive effort|hyperpage}{69}
+\indexentry {learning strategies!repair strategies|hyperpage}{70}
 \indexentry {communicative success|hyperpage}{70}
 \indexentry {linguistic inventory|hyperpage}{70}
 \indexentry {ambiguity|hyperpage}{70}
@@ -911,24 +916,23 @@
 \indexentry {case!case marking|hyperpage}{70}
 \indexentry {communicative success|hyperpage}{70}
 \indexentry {innovation|hyperpage}{70}
-\indexentry {innovation|hyperpage}{70}
-\indexentry {case!case marking|hyperpage}{70}
-\indexentry {innovation|hyperpage}{70}
-\indexentry {case!case marking|hyperpage}{70}
-\indexentry {consolidation|hyperpage}{70}
-\indexentry {case!case marking|hyperpage}{70}
-\indexentry {re-entrance|hyperpage}{70}
-\indexentry {lexicon|hyperpage}{70}
-\indexentry {learning strategies!repair strategies|hyperpage}{71}
+\indexentry {innovation|hyperpage}{71}
+\indexentry {case!case marking|hyperpage}{71}
+\indexentry {innovation|hyperpage}{71}
+\indexentry {case!case marking|hyperpage}{71}
+\indexentry {consolidation|hyperpage}{71}
+\indexentry {case!case marking|hyperpage}{71}
+\indexentry {re-entrance|hyperpage}{71}
+\indexentry {lexicon|hyperpage}{71}
 \indexentry {scaffold|hyperpage}{71}
 \indexentry {communicative success|hyperpage}{71}
 \indexentry {re-entrance|hyperpage}{71}
 \indexentry {re-entrance|hyperpage}{71}
 \indexentry {monitoring|hyperpage}{71}
 \indexentry {re-entrance|hyperpage}{71}
-\indexentry {re-entrance|hyperpage}{72}
-\indexentry {inferential coding system|hyperpage}{72}
-\indexentry {innovation|hyperpage}{72}
+\indexentry {re-entrance|hyperpage}{71}
+\indexentry {inferential coding system|hyperpage}{71}
+\indexentry {innovation|hyperpage}{71}
 \indexentry {entrenchment|hyperpage}{72}
 \indexentry {convention|hyperpage}{72}
 \indexentry {case!case marking|hyperpage}{72}
@@ -953,10 +957,10 @@
 \indexentry {variable equality|hyperpage}{73}
 \indexentry {variable equality|hyperpage}{73}
 \indexentry {case!case marking|hyperpage}{73}
-\indexentry {case!case marking|hyperpage}{74}
-\indexentry {verb|hyperpage}{74}
-\indexentry {construction!verb-specific construction|hyperpage}{74}
-\indexentry {case!case marking|hyperpage}{74}
+\indexentry {case!case marking|hyperpage}{73}
+\indexentry {verb|hyperpage}{73}
+\indexentry {construction!verb-specific construction|hyperpage}{73}
+\indexentry {case!case marking|hyperpage}{73}
 \indexentry {case!case marking|hyperpage}{74}
 \indexentry {case!case marking|hyperpage}{74}
 \indexentry {verb|hyperpage}{74}
@@ -970,12 +974,12 @@
 \indexentry {unify and merge|hyperpage}{75}
 \indexentry {license|hyperpage}{75}
 \indexentry {reaction network|hyperpage}{75}
-\indexentry {unify and merge|hyperpage}{76}
+\indexentry {unify and merge|hyperpage}{75}
 \indexentry {reaction network|hyperpage}{76}
 \indexentry {feature structure!coupled feature structure|hyperpage}{76}
 \indexentry {case!case marking|hyperpage}{76}
 \indexentry {innovation|hyperpage}{76}
-\indexentry {analogy|hyperpage}{77}
+\indexentry {analogy|hyperpage}{76}
 \indexentry {variable equality|hyperpage}{77}
 \indexentry {case!case marking|hyperpage}{77}
 \indexentry {case!case marking|hyperpage}{77}
@@ -988,11 +992,11 @@
 \indexentry {ambiguity|hyperpage}{77}
 \indexentry {variable equality|hyperpage}{77}
 \indexentry {learning strategies!repair strategies|hyperpage}{77}
-\indexentry {variable equality|hyperpage}{78}
-\indexentry {verb|hyperpage}{78}
-\indexentry {construction!verb-specific construction|hyperpage}{78}
-\indexentry {case!case marking|hyperpage}{78}
-\indexentry {variable equality|hyperpage}{78}
+\indexentry {variable equality|hyperpage}{77}
+\indexentry {verb|hyperpage}{77}
+\indexentry {construction!verb-specific construction|hyperpage}{77}
+\indexentry {case!case marking|hyperpage}{77}
+\indexentry {variable equality|hyperpage}{77}
 \indexentry {variable equality|hyperpage}{78}
 \indexentry {consolidation|hyperpage}{78}
 \indexentry {consolidation|hyperpage}{78}
@@ -1010,10 +1014,10 @@
 \indexentry {speech population|hyperpage}{78}
 \indexentry {competition|hyperpage}{78}
 \indexentry {lateral inhibition|hyperpage}{78}
+\indexentry {speech population|hyperpage}{78}
 \indexentry {communicative success|hyperpage}{79}
 \indexentry {cognitive effort|hyperpage}{79}
 \indexentry {case!case marking|hyperpage}{79}
-\indexentry {speech population|hyperpage}{80}
 \indexentry {language game!description game|hyperpage}{80}
 \indexentry {learning strategies!diagnostics|hyperpage}{80}
 \indexentry {learning strategies!repair strategies|hyperpage}{80}
@@ -1037,6 +1041,11 @@
 \indexentry {case!case marking|hyperpage}{80}
 \indexentry {variation|hyperpage}{80}
 \indexentry {case!case marking|hyperpage}{80}
+\indexentry {speech population|hyperpage}{80}
+\indexentry {variation|hyperpage}{80}
+\indexentry {speech population|hyperpage}{80}
+\indexentry {case!case marking|hyperpage}{80}
+\indexentry {language game|hyperpage}{80}
 \indexentry {case!case marking|hyperpage}{81}
 \indexentry {language game|hyperpage}{81}
 \indexentry {speech population|hyperpage}{81}
@@ -1056,17 +1065,16 @@
 \indexentry {language game|hyperpage}{82}
 \indexentry {language game|hyperpage}{82}
 \indexentry {linguistic inventory|hyperpage}{82}
-\indexentry {speech population|hyperpage}{82}
-\indexentry {variation|hyperpage}{82}
-\indexentry {speech population|hyperpage}{82}
-\indexentry {case!case marking|hyperpage}{82}
-\indexentry {language game|hyperpage}{82}
 \indexentry {case!case marking|hyperpage}{82}
 \indexentry {case!case marking|hyperpage}{82}
 \indexentry {case!case marking|hyperpage}{82}
 \indexentry {frequency|hyperpage}{82}
 \indexentry {event type|hyperpage}{82}
 \indexentry {case!case marking|hyperpage}{82}
+\indexentry {propagation|hyperpage}{82}
+\indexentry {case!case marking|hyperpage}{82}
+\indexentry {communicative success|hyperpage}{82}
+\indexentry {cognitive effort|hyperpage}{82}
 \indexentry {competition|hyperpage}{83}
 \indexentry {participant role|hyperpage}{83}
 \indexentry {case!case marking|hyperpage}{83}
@@ -1077,17 +1085,16 @@
 \indexentry {case!case marking|hyperpage}{83}
 \indexentry {speech population|hyperpage}{83}
 \indexentry {confidence|hyperpage}{83}
-\indexentry {propagation|hyperpage}{83}
-\indexentry {case!case marking|hyperpage}{83}
-\indexentry {communicative success|hyperpage}{83}
-\indexentry {cognitive effort|hyperpage}{83}
 \indexentry {event type|hyperpage}{83}
 \indexentry {frequency|hyperpage}{83}
 \indexentry {language game|hyperpage}{83}
-\indexentry {language game!multiword naming game|hyperpage}{84}
-\indexentry {innovation|hyperpage}{84}
-\indexentry {case!case marking|hyperpage}{84}
-\indexentry {language game|hyperpage}{84}
+\indexentry {language game!multiword naming game|hyperpage}{83}
+\indexentry {innovation|hyperpage}{83}
+\indexentry {case!case marking|hyperpage}{83}
+\indexentry {language game|hyperpage}{83}
+\indexentry {speech population|hyperpage}{84}
+\indexentry {communicative success|hyperpage}{84}
+\indexentry {cognitive effort|hyperpage}{84}
 \indexentry {case!case marking|hyperpage}{84}
 \indexentry {case!case marking|hyperpage}{84}
 \indexentry {frequency|hyperpage}{84}
@@ -1107,32 +1114,29 @@
 \indexentry {competition|hyperpage}{84}
 \indexentry {communicative success|hyperpage}{84}
 \indexentry {cognitive effort|hyperpage}{84}
-\indexentry {communicative success|hyperpage}{84}
-\indexentry {case!case marking|hyperpage}{84}
-\indexentry {cognitive effort|hyperpage}{84}
-\indexentry {formation|hyperpage}{84}
-\indexentry {learning strategies!repair strategies|hyperpage}{84}
-\indexentry {consolidation|hyperpage}{84}
-\indexentry {case!case marking|hyperpage}{84}
-\indexentry {case!case marking|hyperpage}{84}
-\indexentry {language game|hyperpage}{84}
-\indexentry {case!case marking|hyperpage}{84}
-\indexentry {participant role|hyperpage}{84}
-\indexentry {case!case marking|hyperpage}{84}
-\indexentry {case!case marking|hyperpage}{84}
-\indexentry {participant role|hyperpage}{84}
-\indexentry {speech population|hyperpage}{85}
 \indexentry {communicative success|hyperpage}{85}
+\indexentry {case!case marking|hyperpage}{85}
 \indexentry {cognitive effort|hyperpage}{85}
+\indexentry {formation|hyperpage}{85}
+\indexentry {learning strategies!repair strategies|hyperpage}{85}
+\indexentry {consolidation|hyperpage}{85}
+\indexentry {case!case marking|hyperpage}{85}
+\indexentry {case!case marking|hyperpage}{85}
+\indexentry {language game|hyperpage}{85}
+\indexentry {case!case marking|hyperpage}{85}
+\indexentry {participant role|hyperpage}{85}
+\indexentry {case!case marking|hyperpage}{85}
+\indexentry {case!case marking|hyperpage}{85}
+\indexentry {participant role|hyperpage}{85}
 \indexentry {case!case marking|hyperpage}{85}
 \indexentry {semantic role|hyperpage}{85}
 \indexentry {ambiguity|hyperpage}{85}
 \indexentry {cognitive effort|hyperpage}{85}
 \indexentry {innovation|hyperpage}{85}
 \indexentry {case!case marking|hyperpage}{85}
-\indexentry {learning strategies!repair strategies|hyperpage}{86}
-\indexentry {communicative success|hyperpage}{86}
-\indexentry {analogy|hyperpage}{86}
+\indexentry {learning strategies!repair strategies|hyperpage}{85}
+\indexentry {communicative success|hyperpage}{85}
+\indexentry {analogy|hyperpage}{85}
 \indexentry {event structure|hyperpage}{86}
 \indexentry {productivity|hyperpage}{86}
 \indexentry {case!case marking|hyperpage}{86}
@@ -1155,8 +1159,8 @@
 \indexentry {event structure|hyperpage}{86}
 \indexentry {event structure|hyperpage}{86}
 \indexentry {event structure|hyperpage}{86}
-\indexentry {analogy|hyperpage}{87}
-\indexentry {entrenchment|hyperpage}{87}
+\indexentry {analogy|hyperpage}{86}
+\indexentry {entrenchment|hyperpage}{86}
 \indexentry {analogy|hyperpage}{87}
 \indexentry {participant role|hyperpage}{87}
 \indexentry {reuse|hyperpage}{87}
@@ -1175,9 +1179,9 @@
 \indexentry {participant role|hyperpage}{87}
 \indexentry {participant role|hyperpage}{87}
 \indexentry {case!case marking|hyperpage}{87}
+\indexentry {event structure|hyperpage}{87}
+\indexentry {analogy|hyperpage}{88}
 \indexentry {event structure|hyperpage}{88}
-\indexentry {analogy|hyperpage}{89}
-\indexentry {event structure|hyperpage}{89}
 \indexentry {analogy|hyperpage}{89}
 \indexentry {case!case marking|hyperpage}{89}
 \indexentry {reuse|hyperpage}{89}
@@ -1197,14 +1201,14 @@
 \indexentry {type frequency|hyperpage}{89}
 \indexentry {frequency|hyperpage}{89}
 \indexentry {inflection|hyperpage}{89}
-\indexentry {extension|hyperpage}{90}
-\indexentry {type frequency|hyperpage}{90}
-\indexentry {frequency|hyperpage}{90}
-\indexentry {type frequency|hyperpage}{90}
-\indexentry {frequency|hyperpage}{90}
-\indexentry {productivity|hyperpage}{90}
-\indexentry {type frequency|hyperpage}{90}
-\indexentry {frequency|hyperpage}{90}
+\indexentry {extension|hyperpage}{89}
+\indexentry {type frequency|hyperpage}{89}
+\indexentry {frequency|hyperpage}{89}
+\indexentry {type frequency|hyperpage}{89}
+\indexentry {frequency|hyperpage}{89}
+\indexentry {productivity|hyperpage}{89}
+\indexentry {type frequency|hyperpage}{89}
+\indexentry {frequency|hyperpage}{89}
 \indexentry {analogy|hyperpage}{90}
 \indexentry {case!case marking|hyperpage}{90}
 \indexentry {case!case marking|hyperpage}{90}
@@ -1229,6 +1233,14 @@
 \indexentry {re-entrance|hyperpage}{90}
 \indexentry {analogy|hyperpage}{90}
 \indexentry {analogy|hyperpage}{90}
+\indexentry {exemplar-based models|hyperpage}{90}
+\indexentry {innovation|hyperpage}{90}
+\indexentry {lazy learner|hyperpage}{90}
+\indexentry {eager learner|hyperpage}{90}
+\indexentry {abstraction|hyperpage}{90}
+\indexentry {innovation|hyperpage}{90}
+\indexentry {innovation|hyperpage}{90}
+\indexentry {usage-based model|hyperpage}{90}
 \indexentry {lexical entry|hyperpage}{91}
 \indexentry {verb|hyperpage}{91}
 \indexentry {unify and merge|hyperpage}{91}
@@ -1241,14 +1253,6 @@
 \indexentry {frame!semantic frame|hyperpage}{91}
 \indexentry {frame!semantic frame|hyperpage}{91}
 \indexentry {variable equality|hyperpage}{91}
-\indexentry {exemplar-based models|hyperpage}{92}
-\indexentry {innovation|hyperpage}{92}
-\indexentry {lazy learner|hyperpage}{92}
-\indexentry {eager learner|hyperpage}{92}
-\indexentry {abstraction|hyperpage}{92}
-\indexentry {innovation|hyperpage}{92}
-\indexentry {innovation|hyperpage}{92}
-\indexentry {usage-based model|hyperpage}{92}
 \indexentry {consolidation|hyperpage}{92}
 \indexentry {alignment strategy|hyperpage}{92}
 \indexentry {consolidation|hyperpage}{92}
@@ -1264,15 +1268,15 @@
 \indexentry {co-occurrence|hyperpage}{92}
 \indexentry {reaction network|hyperpage}{92}
 \indexentry {Hebbian learning|hyperpage}{92}
-\indexentry {co-occurrence|hyperpage}{93}
-\indexentry {confidence|hyperpage}{93}
-\indexentry {co-occurrence|hyperpage}{93}
-\indexentry {case!case marking|hyperpage}{93}
-\indexentry {participant role|hyperpage}{93}
-\indexentry {co-occurrence|hyperpage}{93}
-\indexentry {lexical entry|hyperpage}{93}
-\indexentry {co-occurrence|hyperpage}{93}
-\indexentry {confidence|hyperpage}{93}
+\indexentry {co-occurrence|hyperpage}{92}
+\indexentry {confidence|hyperpage}{92}
+\indexentry {co-occurrence|hyperpage}{92}
+\indexentry {case!case marking|hyperpage}{92}
+\indexentry {participant role|hyperpage}{92}
+\indexentry {co-occurrence|hyperpage}{92}
+\indexentry {lexical entry|hyperpage}{92}
+\indexentry {co-occurrence|hyperpage}{92}
+\indexentry {confidence|hyperpage}{92}
 \indexentry {case!case marking|hyperpage}{93}
 \indexentry {co-occurrence|hyperpage}{93}
 \indexentry {confidence|hyperpage}{93}
@@ -1287,7 +1291,7 @@
 \indexentry {token frequency|hyperpage}{93}
 \indexentry {frequency|hyperpage}{93}
 \indexentry {memory decay|hyperpage}{93}
-\indexentry {frequency|hyperpage}{94}
+\indexentry {frequency|hyperpage}{93}
 \indexentry {frequency|hyperpage}{94}
 \indexentry {memory decay|hyperpage}{94}
 \indexentry {frequency|hyperpage}{94}
@@ -1299,27 +1303,27 @@
 \indexentry {speech population|hyperpage}{94}
 \indexentry {frequency|hyperpage}{94}
 \indexentry {participant role|hyperpage}{94}
+\indexentry {variation|hyperpage}{94}
 \indexentry {speech population|hyperpage}{94}
-\indexentry {reuse|hyperpage}{94}
-\indexentry {case!case marking|hyperpage}{94}
-\indexentry {semantic role|hyperpage}{94}
 \indexentry {language game|hyperpage}{94}
 \indexentry {case!case marking|hyperpage}{94}
-\indexentry {participant role|hyperpage}{94}
-\indexentry {participant role|hyperpage}{94}
+\indexentry {semantic role|hyperpage}{94}
 \indexentry {case!case marking|hyperpage}{94}
 \indexentry {participant role|hyperpage}{94}
 \indexentry {semantic role|hyperpage}{94}
 \indexentry {participant role|hyperpage}{94}
-\indexentry {participant role|hyperpage}{94}
-\indexentry {variation|hyperpage}{95}
 \indexentry {speech population|hyperpage}{95}
-\indexentry {language game|hyperpage}{95}
+\indexentry {reuse|hyperpage}{95}
 \indexentry {case!case marking|hyperpage}{95}
 \indexentry {semantic role|hyperpage}{95}
+\indexentry {language game|hyperpage}{95}
+\indexentry {case!case marking|hyperpage}{95}
+\indexentry {participant role|hyperpage}{95}
+\indexentry {participant role|hyperpage}{95}
 \indexentry {case!case marking|hyperpage}{95}
 \indexentry {participant role|hyperpage}{95}
 \indexentry {semantic role|hyperpage}{95}
+\indexentry {participant role|hyperpage}{95}
 \indexentry {participant role|hyperpage}{95}
 \indexentry {case!case marking|hyperpage}{95}
 \indexentry {participant role|hyperpage}{95}
@@ -1340,6 +1344,8 @@
 \indexentry {analogy|hyperpage}{96}
 \indexentry {analogy|hyperpage}{96}
 \indexentry {speech population|hyperpage}{96}
+\indexentry {speech population|hyperpage}{96}
+\indexentry {variation|hyperpage}{96}
 \indexentry {alignment strategy|hyperpage}{97}
 \indexentry {lexicon|hyperpage}{97}
 \indexentry {formation|hyperpage}{97}
@@ -1347,8 +1353,6 @@
 \indexentry {participant role|hyperpage}{97}
 \indexentry {variation|hyperpage}{97}
 \indexentry {participant role|hyperpage}{97}
-\indexentry {speech population|hyperpage}{97}
-\indexentry {variation|hyperpage}{97}
 \indexentry {variation|hyperpage}{97}
 \indexentry {speech population|hyperpage}{97}
 \indexentry {participant role|hyperpage}{97}
@@ -1357,23 +1361,23 @@
 \indexentry {case!case marking|hyperpage}{97}
 \indexentry {case!case marking|hyperpage}{97}
 \indexentry {participant role|hyperpage}{97}
+\indexentry {participant role|hyperpage}{97}
+\indexentry {case!case marking|hyperpage}{97}
+\indexentry {case!case marking|hyperpage}{97}
+\indexentry {participant role|hyperpage}{97}
+\indexentry {case!case marking|hyperpage}{97}
 \indexentry {communicative success|hyperpage}{98}
 \indexentry {cognitive effort|hyperpage}{98}
 \indexentry {case!case marking|hyperpage}{98}
 \indexentry {language game|hyperpage}{98}
 \indexentry {participant role|hyperpage}{98}
-\indexentry {case!case marking|hyperpage}{98}
-\indexentry {case!case marking|hyperpage}{98}
-\indexentry {participant role|hyperpage}{98}
-\indexentry {case!case marking|hyperpage}{98}
-\indexentry {participant role|hyperpage}{98}
 \indexentry {language game|hyperpage}{98}
 \indexentry {communicative success|hyperpage}{98}
 \indexentry {cognitive effort|hyperpage}{98}
-\indexentry {case!case marking|hyperpage}{99}
-\indexentry {communicative success|hyperpage}{99}
-\indexentry {variation|hyperpage}{99}
-\indexentry {speech population|hyperpage}{99}
+\indexentry {case!case marking|hyperpage}{98}
+\indexentry {communicative success|hyperpage}{98}
+\indexentry {variation|hyperpage}{98}
+\indexentry {speech population|hyperpage}{98}
 \indexentry {case!case marking|hyperpage}{99}
 \indexentry {alignment strategy|hyperpage}{99}
 \indexentry {alignment strategy|hyperpage}{99}
@@ -1408,15 +1412,15 @@
 \indexentry {confidence|hyperpage}{100}
 \indexentry {case!case marking|hyperpage}{100}
 \indexentry {linguistic inventory|hyperpage}{100}
-\indexentry {variation|hyperpage}{100}
-\indexentry {participant role|hyperpage}{100}
-\indexentry {case!case marking|hyperpage}{100}
-\indexentry {participant role|hyperpage}{100}
 \indexentry {alignment strategy|hyperpage}{101}
 \indexentry {participant role|hyperpage}{101}
 \indexentry {semantic role|hyperpage}{101}
 \indexentry {participant role|hyperpage}{101}
 \indexentry {case!case marking|hyperpage}{101}
+\indexentry {variation|hyperpage}{101}
+\indexentry {participant role|hyperpage}{101}
+\indexentry {case!case marking|hyperpage}{101}
+\indexentry {participant role|hyperpage}{101}
 \indexentry {case!case marking|hyperpage}{101}
 \indexentry {language game|hyperpage}{101}
 \indexentry {case!case marking|hyperpage}{101}
@@ -1430,27 +1434,27 @@
 \indexentry {case!case marking|hyperpage}{101}
 \indexentry {semantic role|hyperpage}{101}
 \indexentry {participant role|hyperpage}{101}
-\indexentry {language game|hyperpage}{101}
-\indexentry {variation|hyperpage}{101}
-\indexentry {communicative success|hyperpage}{101}
-\indexentry {cognitive effort|hyperpage}{101}
 \indexentry {alignment strategy|hyperpage}{102}
 \indexentry {communicative success|hyperpage}{102}
 \indexentry {cognitive effort|hyperpage}{102}
 \indexentry {convention|hyperpage}{102}
+\indexentry {language game|hyperpage}{102}
+\indexentry {variation|hyperpage}{102}
+\indexentry {communicative success|hyperpage}{102}
+\indexentry {cognitive effort|hyperpage}{102}
 \indexentry {case!case marking|hyperpage}{102}
 \indexentry {participant role|hyperpage}{102}
 \indexentry {participant role|hyperpage}{102}
 \indexentry {semantic role|hyperpage}{102}
 \indexentry {confidence|hyperpage}{102}
-\indexentry {consolidation|hyperpage}{102}
-\indexentry {frequency|hyperpage}{102}
-\indexentry {verb|hyperpage}{102}
-\indexentry {case!case marking|hyperpage}{102}
-\indexentry {competition|hyperpage}{102}
-\indexentry {semantic role|hyperpage}{102}
-\indexentry {case!case marking|hyperpage}{102}
-\indexentry {semantic role|hyperpage}{102}
+\indexentry {consolidation|hyperpage}{103}
+\indexentry {frequency|hyperpage}{103}
+\indexentry {verb|hyperpage}{103}
+\indexentry {case!case marking|hyperpage}{103}
+\indexentry {competition|hyperpage}{103}
+\indexentry {semantic role|hyperpage}{103}
+\indexentry {case!case marking|hyperpage}{103}
+\indexentry {semantic role|hyperpage}{103}
 \indexentry {competition|hyperpage}{103}
 \indexentry {case!case marking|hyperpage}{103}
 \indexentry {type frequency|hyperpage}{103}
@@ -1458,44 +1462,44 @@
 \indexentry {productivity|hyperpage}{103}
 \indexentry {alignment strategy|hyperpage}{103}
 \indexentry {case!case marking|hyperpage}{103}
+\indexentry {confidence|hyperpage}{103}
+\indexentry {lateral inhibition|hyperpage}{103}
+\indexentry {token frequency|hyperpage}{103}
 \indexentry {frequency|hyperpage}{103}
-\indexentry {semantic role|hyperpage}{103}
+\indexentry {innovation|hyperpage}{103}
+\indexentry {case!case marking|hyperpage}{103}
+\indexentry {variation|hyperpage}{103}
+\indexentry {case!case marking|hyperpage}{103}
+\indexentry {variation|hyperpage}{103}
+\indexentry {participant role|hyperpage}{103}
+\indexentry {innovation|hyperpage}{103}
+\indexentry {innovation|hyperpage}{103}
+\indexentry {memory decay|hyperpage}{103}
+\indexentry {memory decay|hyperpage}{103}
+\indexentry {language game|hyperpage}{103}
 \indexentry {case!case marking|hyperpage}{103}
 \indexentry {semantic role|hyperpage}{103}
+\indexentry {case!case marking|hyperpage}{103}
+\indexentry {participant role|hyperpage}{103}
+\indexentry {semantic role|hyperpage}{103}
+\indexentry {case!case marking|hyperpage}{103}
 \indexentry {participant role|hyperpage}{103}
 \indexentry {variation|hyperpage}{103}
-\indexentry {communicative success|hyperpage}{104}
-\indexentry {cognitive effort|hyperpage}{104}
-\indexentry {case!case marking|hyperpage}{104}
-\indexentry {confidence|hyperpage}{104}
-\indexentry {lateral inhibition|hyperpage}{104}
-\indexentry {token frequency|hyperpage}{104}
+\indexentry {language game|hyperpage}{103}
+\indexentry {communicative success|hyperpage}{103}
+\indexentry {cognitive effort|hyperpage}{103}
 \indexentry {frequency|hyperpage}{104}
-\indexentry {innovation|hyperpage}{104}
+\indexentry {semantic role|hyperpage}{104}
 \indexentry {case!case marking|hyperpage}{104}
-\indexentry {variation|hyperpage}{104}
-\indexentry {case!case marking|hyperpage}{104}
-\indexentry {variation|hyperpage}{104}
+\indexentry {semantic role|hyperpage}{104}
 \indexentry {participant role|hyperpage}{104}
-\indexentry {innovation|hyperpage}{104}
-\indexentry {innovation|hyperpage}{104}
-\indexentry {memory decay|hyperpage}{104}
-\indexentry {memory decay|hyperpage}{104}
-\indexentry {language game|hyperpage}{104}
+\indexentry {variation|hyperpage}{104}
+\indexentry {speech population|hyperpage}{104}
 \indexentry {case!case marking|hyperpage}{104}
-\indexentry {semantic role|hyperpage}{105}
-\indexentry {case!case marking|hyperpage}{105}
-\indexentry {participant role|hyperpage}{105}
-\indexentry {semantic role|hyperpage}{105}
-\indexentry {case!case marking|hyperpage}{105}
-\indexentry {participant role|hyperpage}{105}
-\indexentry {variation|hyperpage}{105}
-\indexentry {language game|hyperpage}{105}
+\indexentry {participant role|hyperpage}{104}
 \indexentry {communicative success|hyperpage}{105}
 \indexentry {cognitive effort|hyperpage}{105}
-\indexentry {speech population|hyperpage}{105}
 \indexentry {case!case marking|hyperpage}{105}
-\indexentry {participant role|hyperpage}{105}
 \indexentry {case!case marking|hyperpage}{106}
 \indexentry {case!case marking|hyperpage}{106}
 \indexentry {semantic role|hyperpage}{106}
@@ -1540,8 +1544,8 @@
 \indexentry {case!case marking|hyperpage}{106}
 \indexentry {verb|hyperpage}{106}
 \indexentry {memory decay|hyperpage}{106}
-\indexentry {analogy|hyperpage}{106}
-\indexentry {event structure|hyperpage}{106}
+\indexentry {analogy|hyperpage}{107}
+\indexentry {event structure|hyperpage}{107}
 \indexentry {reuse|hyperpage}{107}
 \indexentry {case!case marking|hyperpage}{107}
 \indexentry {analogy|hyperpage}{107}
@@ -1570,11 +1574,6 @@
 \indexentry {case!case marking|hyperpage}{107}
 \indexentry {innovation|hyperpage}{107}
 \indexentry {entrenchment|hyperpage}{107}
-\indexentry {lexical entry|hyperpage}{107}
-\indexentry {assumption|hyperpage}{107}
-\indexentry {inferential coding system|hyperpage}{107}
-\indexentry {convention|hyperpage}{107}
-\indexentry {innovation|hyperpage}{107}
 \indexentry {alignment strategy|hyperpage}{108}
 \indexentry {alignment strategy|hyperpage}{108}
 \indexentry {variation|hyperpage}{108}
@@ -1599,16 +1598,21 @@
 \indexentry {innovation|hyperpage}{108}
 \indexentry {frequency|hyperpage}{108}
 \indexentry {memory decay|hyperpage}{108}
+\indexentry {lexical entry|hyperpage}{108}
+\indexentry {assumption|hyperpage}{108}
+\indexentry {inferential coding system|hyperpage}{108}
+\indexentry {convention|hyperpage}{108}
+\indexentry {innovation|hyperpage}{108}
 \indexentry {case!case marking|hyperpage}{108}
 \indexentry {analogy|hyperpage}{108}
 \indexentry {abstraction|hyperpage}{108}
 \indexentry {scaffold|hyperpage}{108}
 \indexentry {case!case marking|hyperpage}{108}
-\indexentry {analogy|hyperpage}{108}
-\indexentry {serial verb|hyperpage}{108}
-\indexentry {verb|hyperpage}{108}
-\indexentry {case!case marking|hyperpage}{108}
-\indexentry {syntactic role!subject|hyperpage}{108}
+\indexentry {analogy|hyperpage}{109}
+\indexentry {serial verb|hyperpage}{109}
+\indexentry {verb|hyperpage}{109}
+\indexentry {case!case marking|hyperpage}{109}
+\indexentry {syntactic role!subject|hyperpage}{109}
 \indexentry {analogy|hyperpage}{109}
 \indexentry {case!case marking|hyperpage}{109}
 \indexentry {participant role|hyperpage}{109}
@@ -1630,8 +1634,8 @@
 \indexentry {verb|hyperpage}{109}
 \indexentry {phonological reduction|hyperpage}{109}
 \indexentry {polysemy|hyperpage}{109}
-\indexentry {lexical entry|hyperpage}{109}
-\indexentry {case!case marking|hyperpage}{109}
+\indexentry {lexical entry|hyperpage}{110}
+\indexentry {case!case marking|hyperpage}{110}
 \indexentry {formation|hyperpage}{110}
 \indexentry {pattern formation|hyperpage}{110}
 \indexentry {multi-level selection|hyperpage}{111}
@@ -1680,9 +1684,9 @@
 \indexentry {reanalysis|hyperpage}{112}
 \indexentry {French|hyperpage}{112}
 \indexentry {verb|hyperpage}{112}
-\indexentry {verb|hyperpage}{112}
-\indexentry {reinforcement|hyperpage}{112}
-\indexentry {noun|hyperpage}{112}
+\indexentry {verb|hyperpage}{113}
+\indexentry {reinforcement|hyperpage}{113}
+\indexentry {noun|hyperpage}{113}
 \indexentry {extension|hyperpage}{113}
 \indexentry {analogy|hyperpage}{113}
 \indexentry {verb|hyperpage}{113}
@@ -1696,7 +1700,7 @@
 \indexentry {propagation|hyperpage}{113}
 \indexentry {speech population|hyperpage}{113}
 \indexentry {reanalysis|hyperpage}{113}
-\indexentry {reanalysis|hyperpage}{113}
+\indexentry {reanalysis|hyperpage}{114}
 \indexentry {usage-based model|hyperpage}{114}
 \indexentry {formation|hyperpage}{114}
 \indexentry {pattern formation|hyperpage}{114}
@@ -1719,10 +1723,10 @@
 \indexentry {verb|hyperpage}{114}
 \indexentry {negation|hyperpage}{114}
 \indexentry {reinforcement|hyperpage}{114}
-\indexentry {reinforcement|hyperpage}{114}
-\indexentry {noun|hyperpage}{114}
-\indexentry {co-existence|hyperpage}{114}
-\indexentry {negation|hyperpage}{114}
+\indexentry {reinforcement|hyperpage}{115}
+\indexentry {noun|hyperpage}{115}
+\indexentry {co-existence|hyperpage}{115}
+\indexentry {negation|hyperpage}{115}
 \indexentry {extension|hyperpage}{115}
 \indexentry {analogy|hyperpage}{115}
 \indexentry {verb|hyperpage}{115}
@@ -1781,17 +1785,17 @@
 \indexentry {unify and merge|hyperpage}{116}
 \indexentry {reaction network|hyperpage}{116}
 \indexentry {reaction network|hyperpage}{116}
-\indexentry {linguistic inventory|hyperpage}{116}
 \indexentry {reaction network|hyperpage}{117}
 \indexentry {pattern formation|hyperpage}{117}
 \indexentry {license|hyperpage}{117}
+\indexentry {linguistic inventory|hyperpage}{117}
 \indexentry {reaction network|hyperpage}{117}
 \indexentry {unify and merge|hyperpage}{117}
 \indexentry {reaction network|hyperpage}{117}
-\indexentry {linguistic inventory|hyperpage}{117}
 \indexentry {reaction network|hyperpage}{118}
 \indexentry {feature structure!coupled feature structure|hyperpage}{118}
 \indexentry {unify and merge|hyperpage}{118}
+\indexentry {linguistic inventory|hyperpage}{118}
 \indexentry {language game|hyperpage}{118}
 \indexentry {unify and merge|hyperpage}{118}
 \indexentry {extension|hyperpage}{118}
@@ -1809,8 +1813,8 @@
 \indexentry {case!case marking|hyperpage}{119}
 \indexentry {learning strategies!diagnostics|hyperpage}{119}
 \indexentry {learning strategies!repair strategies|hyperpage}{119}
-\indexentry {formation|hyperpage}{119}
-\indexentry {pattern formation|hyperpage}{119}
+\indexentry {formation|hyperpage}{120}
+\indexentry {pattern formation|hyperpage}{120}
 \indexentry {speech population|hyperpage}{120}
 \indexentry {language game!description game|hyperpage}{120}
 \indexentry {event type|hyperpage}{120}
@@ -1831,12 +1835,12 @@
 \indexentry {linguistic inventory|hyperpage}{120}
 \indexentry {language game|hyperpage}{120}
 \indexentry {competition|hyperpage}{120}
-\indexentry {alignment strategy|hyperpage}{120}
-\indexentry {lateral inhibition|hyperpage}{120}
-\indexentry {case!case marking|hyperpage}{120}
 \indexentry {speech population|hyperpage}{121}
 \indexentry {competition|hyperpage}{121}
 \indexentry {language game|hyperpage}{121}
+\indexentry {alignment strategy|hyperpage}{121}
+\indexentry {lateral inhibition|hyperpage}{121}
+\indexentry {case!case marking|hyperpage}{121}
 \indexentry {consolidation|hyperpage}{121}
 \indexentry {communicative success|hyperpage}{121}
 \indexentry {cognitive effort|hyperpage}{121}
@@ -1847,18 +1851,17 @@
 \indexentry {variation|hyperpage}{121}
 \indexentry {speech population|hyperpage}{121}
 \indexentry {alignment strategy|hyperpage}{121}
-\indexentry {competition|hyperpage}{121}
-\indexentry {competition|hyperpage}{121}
-\indexentry {language game|hyperpage}{121}
 \indexentry {communicative success|hyperpage}{122}
 \indexentry {cognitive effort|hyperpage}{122}
 \indexentry {speech population|hyperpage}{122}
 \indexentry {communicative success|hyperpage}{122}
 \indexentry {cognitive effort|hyperpage}{122}
 \indexentry {competition|hyperpage}{122}
+\indexentry {competition|hyperpage}{122}
+\indexentry {competition|hyperpage}{122}
+\indexentry {language game|hyperpage}{122}
 \indexentry {language game|hyperpage}{122}
 \indexentry {colour|hyperpage}{122}
-\indexentry {speech population|hyperpage}{122}
 \indexentry {speech population|hyperpage}{123}
 \indexentry {language game|hyperpage}{123}
 \indexentry {alignment strategy|hyperpage}{123}
@@ -1867,6 +1870,7 @@
 \indexentry {case!case marking|hyperpage}{123}
 \indexentry {speech population|hyperpage}{123}
 \indexentry {case!case marking|hyperpage}{123}
+\indexentry {speech population|hyperpage}{124}
 \indexentry {case!case marking|hyperpage}{124}
 \indexentry {speech population|hyperpage}{124}
 \indexentry {case!case marking|hyperpage}{124}
@@ -1903,8 +1907,8 @@
 \indexentry {abstraction|hyperpage}{126}
 \indexentry {scaffold|hyperpage}{126}
 \indexentry {systematicity|hyperpage}{126}
-\indexentry {innovation|hyperpage}{126}
-\indexentry {systematicity|hyperpage}{126}
+\indexentry {innovation|hyperpage}{127}
+\indexentry {systematicity|hyperpage}{127}
 \indexentry {multi-level selection|hyperpage}{127}
 \indexentry {systematicity|hyperpage}{127}
 \indexentry {systematicity|hyperpage}{127}
@@ -1918,8 +1922,8 @@
 \indexentry {confidence|hyperpage}{127}
 \indexentry {lateral inhibition|hyperpage}{127}
 \indexentry {event structure|hyperpage}{127}
-\indexentry {language game!description game|hyperpage}{127}
 \indexentry {variable equality|hyperpage}{128}
+\indexentry {language game!description game|hyperpage}{128}
 \indexentry {lexicon|hyperpage}{128}
 \indexentry {event structure|hyperpage}{128}
 \indexentry {communicative success|hyperpage}{128}
@@ -1930,8 +1934,8 @@
 \indexentry {event structure|hyperpage}{128}
 \indexentry {systematicity|hyperpage}{128}
 \indexentry {case!case marking|hyperpage}{128}
-\indexentry {systematicity|hyperpage}{128}
-\indexentry {syntax-semantics interface|hyperpage}{128}
+\indexentry {systematicity|hyperpage}{129}
+\indexentry {syntax-semantics interface|hyperpage}{129}
 \indexentry {animacy|hyperpage}{129}
 \indexentry {animacy|hyperpage}{129}
 \indexentry {assumption|hyperpage}{129}
@@ -1948,9 +1952,9 @@
 \indexentry {co-occurrence|hyperpage}{129}
 \indexentry {induction|hyperpage}{129}
 \indexentry {co-occurrence|hyperpage}{129}
-\indexentry {synchronic|hyperpage}{129}
-\indexentry {diachronic|hyperpage}{129}
-\indexentry {systematicity|hyperpage}{129}
+\indexentry {synchronic|hyperpage}{130}
+\indexentry {diachronic|hyperpage}{130}
+\indexentry {systematicity|hyperpage}{130}
 \indexentry {verb|hyperpage}{130}
 \indexentry {speech population|hyperpage}{130}
 \indexentry {machine learning|hyperpage}{130}
@@ -1966,11 +1970,11 @@
 \indexentry {derivation|hyperpage}{130}
 \indexentry {systematicity|hyperpage}{130}
 \indexentry {eager learner|hyperpage}{130}
-\indexentry {usage-based model|hyperpage}{130}
-\indexentry {artificial language evolution|hyperpage}{130}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{130}
-\indexentry {abstraction|hyperpage}{130}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{130}
+\indexentry {usage-based model|hyperpage}{131}
+\indexentry {artificial language evolution|hyperpage}{131}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{131}
+\indexentry {abstraction|hyperpage}{131}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{131}
 \indexentry {systematicity|hyperpage}{131}
 \indexentry {Iterated Learning Model (ILM)|hyperpage}{131}
 \indexentry {speech population|hyperpage}{131}
@@ -1984,10 +1988,10 @@
 \indexentry {systematicity|hyperpage}{131}
 \indexentry {competition|hyperpage}{131}
 \indexentry {lexicon|hyperpage}{131}
-\indexentry {idiom|hyperpage}{131}
-\indexentry {competition|hyperpage}{131}
-\indexentry {competition|hyperpage}{131}
-\indexentry {formation|hyperpage}{131}
+\indexentry {idiom|hyperpage}{132}
+\indexentry {competition|hyperpage}{132}
+\indexentry {competition|hyperpage}{132}
+\indexentry {formation|hyperpage}{132}
 \indexentry {idiom|hyperpage}{132}
 \indexentry {multi-level selection|hyperpage}{132}
 \indexentry {analogy|hyperpage}{132}
@@ -2003,7 +2007,7 @@
 \indexentry {multi-level selection|hyperpage}{132}
 \indexentry {idiom|hyperpage}{132}
 \indexentry {multi-level selection|hyperpage}{132}
-\indexentry {multi-level selection|hyperpage}{132}
+\indexentry {multi-level selection|hyperpage}{133}
 \indexentry {multi-level selection|hyperpage}{133}
 \indexentry {alignment strategy|hyperpage}{133}
 \indexentry {confidence|hyperpage}{133}
@@ -2018,9 +2022,6 @@
 \indexentry {consolidation|hyperpage}{133}
 \indexentry {alignment strategy|hyperpage}{133}
 \indexentry {language game|hyperpage}{133}
-\indexentry {systematicity|hyperpage}{133}
-\indexentry {alignment strategy|hyperpage}{133}
-\indexentry {alignment strategy|hyperpage}{133}
 \indexentry {performance|hyperpage}{134}
 \indexentry {systematicity|hyperpage}{134}
 \indexentry {systematicity|hyperpage}{134}
@@ -2035,6 +2036,9 @@
 \indexentry {alignment strategy|hyperpage}{135}
 \indexentry {multi-level selection|hyperpage}{135}
 \indexentry {language game|hyperpage}{135}
+\indexentry {systematicity|hyperpage}{136}
+\indexentry {alignment strategy|hyperpage}{136}
+\indexentry {alignment strategy|hyperpage}{136}
 \indexentry {alignment strategy|hyperpage}{136}
 \indexentry {systematicity|hyperpage}{136}
 \indexentry {systematicity|hyperpage}{136}
@@ -2530,6 +2534,7 @@
 \indexentry {case!case grammar|hyperpage}{164}
 \indexentry {recursion|hyperpage}{164}
 \indexentry {transmission|hyperpage}{164}
+\indexentry {function independence principle|hyperpage}{164}
 \indexentry {speech population|hyperpage}{164}
 \indexentry {innovation|hyperpage}{164}
 \indexentry {holistic versus compositional languages|hyperpage}{164}
@@ -2540,9 +2545,9 @@
 \indexentry {convention|hyperpage}{164}
 \indexentry {speech population|hyperpage}{164}
 \indexentry {speech population|hyperpage}{164}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{164}
-\indexentry {Poverty of the Stimulus|hyperpage}{164}
-\indexentry {bottleneck|hyperpage}{164}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{165}
+\indexentry {Poverty of the Stimulus|hyperpage}{165}
+\indexentry {bottleneck|hyperpage}{165}
 \indexentry {linguistic inventory|hyperpage}{165}
 \indexentry {word order|hyperpage}{165}
 \indexentry {Universal Grammar|hyperpage}{165}
@@ -2635,10 +2640,10 @@
 \indexentry {case!case grammar|hyperpage}{168}
 \indexentry {word order|hyperpage}{168}
 \indexentry {case!case grammar|hyperpage}{168}
-\indexentry {transmission|hyperpage}{168}
-\indexentry {word order|hyperpage}{168}
-\indexentry {bottleneck|hyperpage}{168}
-\indexentry {word order|hyperpage}{168}
+\indexentry {transmission|hyperpage}{169}
+\indexentry {word order|hyperpage}{169}
+\indexentry {bottleneck|hyperpage}{169}
+\indexentry {word order|hyperpage}{169}
 \indexentry {linguistic inventory|hyperpage}{169}
 \indexentry {induction|hyperpage}{169}
 \indexentry {semantic role|hyperpage}{169}
@@ -2659,11 +2664,11 @@
 \indexentry {Universal Grammar|hyperpage}{169}
 \indexentry {transmission|hyperpage}{169}
 \indexentry {event structure|hyperpage}{169}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{169}
-\indexentry {speech population|hyperpage}{169}
-\indexentry {alignment strategy|hyperpage}{169}
-\indexentry {innovation|hyperpage}{169}
-\indexentry {generalization|hyperpage}{169}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{170}
+\indexentry {speech population|hyperpage}{170}
+\indexentry {alignment strategy|hyperpage}{170}
+\indexentry {innovation|hyperpage}{170}
+\indexentry {generalization|hyperpage}{170}
 \indexentry {abstraction|hyperpage}{170}
 \indexentry {performance|hyperpage}{170}
 \indexentry {abstraction|hyperpage}{170}
@@ -2686,12 +2691,12 @@
 \indexentry {learning bias|hyperpage}{170}
 \indexentry {selection!utterance-based selection|hyperpage}{170}
 \indexentry {selection|hyperpage}{170}
-\indexentry {selection|hyperpage}{170}
-\indexentry {analogy|hyperpage}{170}
-\indexentry {selection|hyperpage}{170}
-\indexentry {multi-level selection|hyperpage}{170}
-\indexentry {case!case grammar|hyperpage}{170}
-\indexentry {word order|hyperpage}{170}
+\indexentry {selection|hyperpage}{171}
+\indexentry {analogy|hyperpage}{171}
+\indexentry {selection|hyperpage}{171}
+\indexentry {multi-level selection|hyperpage}{171}
+\indexentry {case!case grammar|hyperpage}{171}
+\indexentry {word order|hyperpage}{171}
 \indexentry {ambiguity|hyperpage}{171}
 \indexentry {noun|hyperpage}{171}
 \indexentry {semantic role|hyperpage}{171}
@@ -2704,7 +2709,7 @@
 \indexentry {Iterated Learning Model (ILM)|hyperpage}{171}
 \indexentry {innovation|hyperpage}{171}
 \indexentry {case!case grammar|hyperpage}{171}
-\indexentry {re-entrance|hyperpage}{171}
+\indexentry {re-entrance|hyperpage}{172}
 \indexentry {induction|hyperpage}{172}
 \indexentry {convention|hyperpage}{172}
 \indexentry {speech population|hyperpage}{172}
@@ -2718,14 +2723,14 @@
 \indexentry {case!case marking|hyperpage}{172}
 \indexentry {syntactic role!subject|hyperpage}{172}
 \indexentry {syntactic role!object|hyperpage}{172}
-\indexentry {semantic role|hyperpage}{172}
-\indexentry {semantic role!patient|hyperpage}{172}
-\indexentry {case!case marking|hyperpage}{172}
-\indexentry {lexical entry|hyperpage}{172}
-\indexentry {case!case marking|hyperpage}{172}
-\indexentry {case!case marking|hyperpage}{172}
-\indexentry {noun|hyperpage}{172}
-\indexentry {semantic role|hyperpage}{172}
+\indexentry {semantic role|hyperpage}{173}
+\indexentry {semantic role!patient|hyperpage}{173}
+\indexentry {case!case marking|hyperpage}{173}
+\indexentry {lexical entry|hyperpage}{173}
+\indexentry {case!case marking|hyperpage}{173}
+\indexentry {case!case marking|hyperpage}{173}
+\indexentry {noun|hyperpage}{173}
+\indexentry {semantic role|hyperpage}{173}
 \indexentry {noun|hyperpage}{173}
 \indexentry {inflection|hyperpage}{173}
 \indexentry {case!case marking|hyperpage}{173}
@@ -2735,10 +2740,10 @@
 \indexentry {case!case marking|hyperpage}{173}
 \indexentry {lexical entry|hyperpage}{173}
 \indexentry {noun|hyperpage}{173}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{173}
-\indexentry {learning bias|hyperpage}{173}
-\indexentry {emergence|hyperpage}{173}
-\indexentry {semantic role|hyperpage}{173}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{174}
+\indexentry {learning bias|hyperpage}{174}
+\indexentry {emergence|hyperpage}{174}
+\indexentry {semantic role|hyperpage}{174}
 \indexentry {learning bias|hyperpage}{174}
 \indexentry {Iterated Learning Model (ILM)|hyperpage}{174}
 \indexentry {selection|hyperpage}{174}
@@ -2754,18 +2759,6 @@
 \indexentry {bottleneck|hyperpage}{174}
 \indexentry {variation|hyperpage}{174}
 \indexentry {cognitive-functional approach|hyperpage}{174}
-\indexentry {alignment strategy|hyperpage}{174}
-\indexentry {case!case marking|hyperpage}{174}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{174}
-\indexentry {problem-solving|hyperpage}{174}
-\indexentry {evolution!cultural evolution|hyperpage}{174}
-\indexentry {assumption|hyperpage}{174}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{174}
-\indexentry {transmission|hyperpage}{174}
-\indexentry {problem-solving|hyperpage}{174}
-\indexentry {communicative success|hyperpage}{174}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{174}
-\indexentry {problem-solving|hyperpage}{174}
 \indexentry {Poverty of the Stimulus|hyperpage}{175}
 \indexentry {communicative success|hyperpage}{175}
 \indexentry {bottleneck|hyperpage}{175}
@@ -2781,14 +2774,26 @@
 \indexentry {lexicon|hyperpage}{175}
 \indexentry {semantic role|hyperpage}{175}
 \indexentry {semantic role|hyperpage}{175}
-\indexentry {problem-solving|hyperpage}{175}
-\indexentry {selection!utterance-based selection|hyperpage}{175}
-\indexentry {selection|hyperpage}{175}
-\indexentry {abstraction|hyperpage}{175}
-\indexentry {convention|hyperpage}{175}
-\indexentry {speech population|hyperpage}{175}
-\indexentry {systematicity|hyperpage}{175}
+\indexentry {alignment strategy|hyperpage}{175}
+\indexentry {case!case marking|hyperpage}{175}
 \indexentry {Iterated Learning Model (ILM)|hyperpage}{175}
+\indexentry {problem-solving|hyperpage}{175}
+\indexentry {evolution!cultural evolution|hyperpage}{175}
+\indexentry {assumption|hyperpage}{175}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{175}
+\indexentry {transmission|hyperpage}{175}
+\indexentry {problem-solving|hyperpage}{175}
+\indexentry {communicative success|hyperpage}{175}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{175}
+\indexentry {problem-solving|hyperpage}{176}
+\indexentry {problem-solving|hyperpage}{176}
+\indexentry {selection!utterance-based selection|hyperpage}{176}
+\indexentry {selection|hyperpage}{176}
+\indexentry {abstraction|hyperpage}{176}
+\indexentry {convention|hyperpage}{176}
+\indexentry {speech population|hyperpage}{176}
+\indexentry {systematicity|hyperpage}{176}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{176}
 \indexentry {grammaticalization|hyperpage}{176}
 \indexentry {problem-solving|hyperpage}{176}
 \indexentry {Iterated Learning Model (ILM)|hyperpage}{176}
@@ -2800,18 +2805,19 @@
 \indexentry {artificial language evolution|hyperpage}{176}
 \indexentry {event structure|hyperpage}{176}
 \indexentry {construction!argument structure construction|hyperpage}{176}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{176}
-\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{176}
-\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{176}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{176}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{176}
-\indexentry {event structure|hyperpage}{176}
-\indexentry {English|hyperpage}{176}
-\indexentry {ditransitive clause|hyperpage}{176}
-\indexentry {event structure|hyperpage}{176}
-\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{176}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{176}
-\indexentry {event structure|hyperpage}{176}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
+\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{177}
+\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{177}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
+\indexentry {event structure|hyperpage}{177}
+\indexentry {English|hyperpage}{177}
+\indexentry {ditransitive clause|hyperpage}{177}
+\indexentry {event structure|hyperpage}{177}
+\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{177}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
+\indexentry {event structure|hyperpage}{177}
 \indexentry {event structure|hyperpage}{177}
 \indexentry {construction!argument structure construction|hyperpage}{177}
 \indexentry {event type|hyperpage}{177}
@@ -2853,18 +2859,18 @@
 \indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
 \indexentry {derivation|hyperpage}{177}
 \indexentry {verb|hyperpage}{177}
-\indexentry {locative alternation|hyperpage}{177}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
-\indexentry {verb|hyperpage}{177}
-\indexentry {syntactic role!subject|hyperpage}{177}
-\indexentry {ditransitive clause|hyperpage}{177}
-\indexentry {event structure|hyperpage}{177}
-\indexentry {construction!argument structure construction|hyperpage}{177}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
-\indexentry {English|hyperpage}{177}
-\indexentry {ditransitive clause|hyperpage}{177}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{177}
-\indexentry {assumption|hyperpage}{177}
+\indexentry {locative alternation|hyperpage}{178}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{178}
+\indexentry {verb|hyperpage}{178}
+\indexentry {syntactic role!subject|hyperpage}{178}
+\indexentry {ditransitive clause|hyperpage}{178}
+\indexentry {event structure|hyperpage}{178}
+\indexentry {construction!argument structure construction|hyperpage}{178}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{178}
+\indexentry {English|hyperpage}{178}
+\indexentry {ditransitive clause|hyperpage}{178}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{178}
+\indexentry {assumption|hyperpage}{178}
 \indexentry {minimal lexical entry|hyperpage}{178}
 \indexentry {lexical entry|hyperpage}{178}
 \indexentry {verb|hyperpage}{178}
@@ -2887,41 +2893,41 @@
 \indexentry {construction!Recipient Construction|hyperpage}{178}
 \indexentry {unification|hyperpage}{178}
 \indexentry {event structure|hyperpage}{178}
-\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{178}
-\indexentry {English|hyperpage}{178}
-\indexentry {ditransitive clause|hyperpage}{178}
-\indexentry {unify and merge|hyperpage}{178}
-\indexentry {lexical entry|hyperpage}{178}
-\indexentry {verb|hyperpage}{178}
-\indexentry {lexical entry|hyperpage}{178}
-\indexentry {verb|hyperpage}{178}
-\indexentry {semantic role!recipient|hyperpage}{178}
-\indexentry {frame!semantic frame|hyperpage}{178}
-\indexentry {ditransitive clause|hyperpage}{178}
 \indexentry {semantic role!recipient|hyperpage}{179}
-\indexentry {verb|hyperpage}{179}
-\indexentry {construction!passive construction|hyperpage}{179}
-\indexentry {derivation|hyperpage}{179}
-\indexentry {construction!passive construction|hyperpage}{179}
+\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{179}
+\indexentry {English|hyperpage}{179}
 \indexentry {ditransitive clause|hyperpage}{179}
-\indexentry {entailment|hyperpage}{179}
-\indexentry {semantic role!beneficiary|hyperpage}{179}
+\indexentry {unify and merge|hyperpage}{179}
+\indexentry {lexical entry|hyperpage}{179}
 \indexentry {verb|hyperpage}{179}
+\indexentry {lexical entry|hyperpage}{179}
+\indexentry {verb|hyperpage}{179}
+\indexentry {semantic role!recipient|hyperpage}{179}
+\indexentry {frame!semantic frame|hyperpage}{179}
 \indexentry {semantic role!recipient|hyperpage}{180}
-\indexentry {derivation|hyperpage}{180}
-\indexentry {argument realization|hyperpage}{180}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{180}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{180}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{180}
-\indexentry {unify and merge|hyperpage}{180}
-\indexentry {lexical entry|hyperpage}{180}
+\indexentry {ditransitive clause|hyperpage}{180}
 \indexentry {verb|hyperpage}{180}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{180}
-\indexentry {fusion|hyperpage}{180}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{180}
-\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{180}
+\indexentry {construction!passive construction|hyperpage}{180}
 \indexentry {derivation|hyperpage}{180}
-\indexentry {mother and daughter components|hyperpage}{180}
+\indexentry {construction!passive construction|hyperpage}{180}
+\indexentry {ditransitive clause|hyperpage}{181}
+\indexentry {entailment|hyperpage}{181}
+\indexentry {semantic role!beneficiary|hyperpage}{181}
+\indexentry {verb|hyperpage}{181}
+\indexentry {derivation|hyperpage}{181}
+\indexentry {argument realization|hyperpage}{181}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{181}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{181}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{181}
+\indexentry {unify and merge|hyperpage}{181}
+\indexentry {lexical entry|hyperpage}{181}
+\indexentry {verb|hyperpage}{181}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{181}
+\indexentry {fusion|hyperpage}{181}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{181}
+\indexentry {Head-Driven Phrase Structure Grammar|hyperpage}{181}
+\indexentry {derivation|hyperpage}{181}
+\indexentry {mother and daughter components|hyperpage}{181}
 \indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{181}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{181}
 \indexentry {valency!potential valents|hyperpage}{181}
@@ -2943,18 +2949,18 @@
 \indexentry {verb|hyperpage}{181}
 \indexentry {valency!actual valency|hyperpage}{181}
 \indexentry {analogy|hyperpage}{181}
-\indexentry {analogy|hyperpage}{181}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{181}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{181}
-\indexentry {derivation|hyperpage}{181}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{181}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{181}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{181}
-\indexentry {derivation|hyperpage}{181}
-\indexentry {assumption|hyperpage}{181}
-\indexentry {minimal lexical entry|hyperpage}{181}
-\indexentry {minimal lexical entry|hyperpage}{181}
-\indexentry {verb|hyperpage}{181}
+\indexentry {analogy|hyperpage}{182}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{182}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{182}
+\indexentry {derivation|hyperpage}{182}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{182}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{182}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{182}
+\indexentry {derivation|hyperpage}{182}
+\indexentry {assumption|hyperpage}{182}
+\indexentry {minimal lexical entry|hyperpage}{182}
+\indexentry {minimal lexical entry|hyperpage}{182}
+\indexentry {verb|hyperpage}{182}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{182}
 \indexentry {frequency|hyperpage}{182}
 \indexentry {priming|hyperpage}{182}
@@ -2971,39 +2977,39 @@
 \indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{182}
 \indexentry {verb|hyperpage}{182}
 \indexentry {derivation|hyperpage}{182}
-\indexentry {construction!active construction|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
-\indexentry {event structure|hyperpage}{182}
-\indexentry {construction!argument structure construction|hyperpage}{182}
-\indexentry {construction!active construction|hyperpage}{182}
-\indexentry {event structure|hyperpage}{182}
-\indexentry {construction!argument structure construction|hyperpage}{182}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
-\indexentry {derivation|hyperpage}{182}
-\indexentry {construction!active construction|hyperpage}{182}
-\indexentry {construction!active construction|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
-\indexentry {collostructional analysis|hyperpage}{182}
-\indexentry {collostructional analysis|hyperpage}{182}
-\indexentry {co-occurrence|hyperpage}{182}
-\indexentry {collostructional analysis|hyperpage}{182}
-\indexentry {construction!active construction|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
-\indexentry {semantic motivation|hyperpage}{182}
-\indexentry {collexemes|hyperpage}{182}
-\indexentry {construction!active construction|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
-\indexentry {collexemes|hyperpage}{182}
-\indexentry {construction!active construction|hyperpage}{182}
-\indexentry {verb|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
-\indexentry {verb|hyperpage}{182}
-\indexentry {causality|hyperpage}{182}
-\indexentry {semantic role!patient|hyperpage}{182}
-\indexentry {construction!passive construction|hyperpage}{182}
+\indexentry {construction!active construction|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
+\indexentry {event structure|hyperpage}{183}
+\indexentry {construction!argument structure construction|hyperpage}{183}
+\indexentry {construction!active construction|hyperpage}{183}
+\indexentry {event structure|hyperpage}{183}
+\indexentry {construction!argument structure construction|hyperpage}{183}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
+\indexentry {derivation|hyperpage}{183}
+\indexentry {construction!active construction|hyperpage}{183}
+\indexentry {construction!active construction|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
+\indexentry {collostructional analysis|hyperpage}{183}
+\indexentry {collostructional analysis|hyperpage}{183}
+\indexentry {co-occurrence|hyperpage}{183}
+\indexentry {collostructional analysis|hyperpage}{183}
+\indexentry {construction!active construction|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
+\indexentry {semantic motivation|hyperpage}{183}
+\indexentry {collexemes|hyperpage}{183}
+\indexentry {construction!active construction|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
+\indexentry {collexemes|hyperpage}{183}
+\indexentry {construction!active construction|hyperpage}{183}
+\indexentry {verb|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
+\indexentry {verb|hyperpage}{183}
+\indexentry {causality|hyperpage}{183}
+\indexentry {semantic role!patient|hyperpage}{183}
+\indexentry {construction!passive construction|hyperpage}{183}
 \indexentry {information structure|hyperpage}{183}
 \indexentry {construction!active construction|hyperpage}{183}
 \indexentry {construction!passive construction|hyperpage}{183}
@@ -3021,33 +3027,33 @@
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{183}
 \indexentry {thematic hierarchy|hyperpage}{183}
 \indexentry {macro-roles|hyperpage}{183}
-\indexentry {analogy|hyperpage}{183}
-\indexentry {innovation|hyperpage}{183}
-\indexentry {selection|hyperpage}{183}
-\indexentry {multi-level selection|hyperpage}{183}
-\indexentry {analogy|hyperpage}{183}
-\indexentry {reuse|hyperpage}{183}
-\indexentry {selection|hyperpage}{183}
-\indexentry {multi-level selection|hyperpage}{183}
-\indexentry {systematicity|hyperpage}{183}
-\indexentry {linguistic inventory|hyperpage}{183}
-\indexentry {systematicity|hyperpage}{183}
-\indexentry {emergence|hyperpage}{183}
-\indexentry {event structure|hyperpage}{183}
-\indexentry {construction!argument structure construction|hyperpage}{183}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{183}
-\indexentry {emergence|hyperpage}{183}
-\indexentry {convention|hyperpage}{183}
-\indexentry {event structure|hyperpage}{183}
-\indexentry {lexical entry|hyperpage}{183}
-\indexentry {variation|hyperpage}{183}
-\indexentry {derivation|hyperpage}{183}
-\indexentry {derivation|hyperpage}{183}
-\indexentry {construction!passive construction|hyperpage}{183}
-\indexentry {ditransitive clause|hyperpage}{183}
-\indexentry {derivation|hyperpage}{183}
-\indexentry {lexical entry|hyperpage}{183}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{183}
+\indexentry {analogy|hyperpage}{184}
+\indexentry {innovation|hyperpage}{184}
+\indexentry {selection|hyperpage}{184}
+\indexentry {multi-level selection|hyperpage}{184}
+\indexentry {analogy|hyperpage}{184}
+\indexentry {reuse|hyperpage}{184}
+\indexentry {selection|hyperpage}{184}
+\indexentry {multi-level selection|hyperpage}{184}
+\indexentry {systematicity|hyperpage}{184}
+\indexentry {linguistic inventory|hyperpage}{184}
+\indexentry {systematicity|hyperpage}{184}
+\indexentry {emergence|hyperpage}{184}
+\indexentry {event structure|hyperpage}{184}
+\indexentry {construction!argument structure construction|hyperpage}{184}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{184}
+\indexentry {emergence|hyperpage}{184}
+\indexentry {convention|hyperpage}{184}
+\indexentry {event structure|hyperpage}{184}
+\indexentry {lexical entry|hyperpage}{184}
+\indexentry {variation|hyperpage}{184}
+\indexentry {derivation|hyperpage}{184}
+\indexentry {derivation|hyperpage}{184}
+\indexentry {construction!passive construction|hyperpage}{184}
+\indexentry {ditransitive clause|hyperpage}{184}
+\indexentry {derivation|hyperpage}{184}
+\indexentry {lexical entry|hyperpage}{184}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{184}
 \indexentry {analogy|hyperpage}{184}
 \indexentry {selection|hyperpage}{184}
 \indexentry {multi-level selection|hyperpage}{184}
@@ -3059,14 +3065,14 @@
 \indexentry {multi-level selection|hyperpage}{184}
 \indexentry {linguistic inventory|hyperpage}{184}
 \indexentry {linguistic inventory|hyperpage}{184}
-\indexentry {instance link|hyperpage}{184}
-\indexentry {idiom|hyperpage}{184}
-\indexentry {construction!the X-er, the Y-er construction|hyperpage}{184}
-\indexentry {construction!the X-er, the Y-er construction|hyperpage}{184}
-\indexentry {derivation|hyperpage}{184}
-\indexentry {idiom|hyperpage}{184}
-\indexentry {derivation|hyperpage}{184}
-\indexentry {inheritance|hyperpage}{184}
+\indexentry {instance link|hyperpage}{185}
+\indexentry {idiom|hyperpage}{185}
+\indexentry {construction!the X-er, the Y-er construction|hyperpage}{185}
+\indexentry {construction!the X-er, the Y-er construction|hyperpage}{185}
+\indexentry {derivation|hyperpage}{185}
+\indexentry {idiom|hyperpage}{185}
+\indexentry {derivation|hyperpage}{185}
+\indexentry {inheritance|hyperpage}{185}
 \indexentry {verb|hyperpage}{185}
 \indexentry {verb|hyperpage}{185}
 \indexentry {redundancy|hyperpage}{185}
@@ -3077,14 +3083,14 @@
 \indexentry {construction grammar!Lakoff/Goldberg model|hyperpage}{185}
 \indexentry {construction grammar!Cognitive Grammar|hyperpage}{185}
 \indexentry {usage-based model|hyperpage}{185}
-\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{185}
-\indexentry {inheritance|hyperpage}{185}
-\indexentry {linguistic inventory|hyperpage}{185}
-\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{185}
-\indexentry {redundancy|hyperpage}{185}
-\indexentry {inheritance|hyperpage}{185}
-\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{185}
-\indexentry {instance link|hyperpage}{185}
+\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{186}
+\indexentry {inheritance|hyperpage}{186}
+\indexentry {linguistic inventory|hyperpage}{186}
+\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{186}
+\indexentry {redundancy|hyperpage}{186}
+\indexentry {inheritance|hyperpage}{186}
+\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{186}
+\indexentry {instance link|hyperpage}{186}
 \indexentry {construction grammar!Lakoff/Goldberg model|hyperpage}{186}
 \indexentry {instance link|hyperpage}{186}
 \indexentry {meronomy|hyperpage}{186}
@@ -3100,27 +3106,27 @@
 \indexentry {ditransitive clause|hyperpage}{186}
 \indexentry {extension|hyperpage}{186}
 \indexentry {extension|hyperpage}{186}
-\indexentry {extension|hyperpage}{186}
-\indexentry {inheritance|hyperpage}{186}
-\indexentry {construction grammar!Lakoff/Goldberg model|hyperpage}{186}
-\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{186}
-\indexentry {inheritance|hyperpage}{186}
-\indexentry {inheritance|hyperpage}{186}
-\indexentry {construction grammar!Cognitive Grammar|hyperpage}{186}
-\indexentry {construction grammar!Cognitive Grammar|hyperpage}{186}
-\indexentry {assumption|hyperpage}{186}
-\indexentry {extension|hyperpage}{186}
-\indexentry {prototype|hyperpage}{186}
-\indexentry {prototype|hyperpage}{186}
-\indexentry {extension|hyperpage}{186}
-\indexentry {prototype|hyperpage}{186}
-\indexentry {extension|hyperpage}{186}
-\indexentry {extension|hyperpage}{186}
-\indexentry {analogy|hyperpage}{186}
-\indexentry {linguistic inventory|hyperpage}{186}
-\indexentry {entrenchment|hyperpage}{186}
-\indexentry {token frequency|hyperpage}{186}
-\indexentry {frequency|hyperpage}{186}
+\indexentry {extension|hyperpage}{187}
+\indexentry {inheritance|hyperpage}{187}
+\indexentry {construction grammar!Lakoff/Goldberg model|hyperpage}{187}
+\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{187}
+\indexentry {inheritance|hyperpage}{187}
+\indexentry {inheritance|hyperpage}{187}
+\indexentry {construction grammar!Cognitive Grammar|hyperpage}{187}
+\indexentry {construction grammar!Cognitive Grammar|hyperpage}{187}
+\indexentry {assumption|hyperpage}{187}
+\indexentry {extension|hyperpage}{187}
+\indexentry {prototype|hyperpage}{187}
+\indexentry {prototype|hyperpage}{187}
+\indexentry {extension|hyperpage}{187}
+\indexentry {prototype|hyperpage}{187}
+\indexentry {extension|hyperpage}{187}
+\indexentry {extension|hyperpage}{187}
+\indexentry {analogy|hyperpage}{187}
+\indexentry {linguistic inventory|hyperpage}{187}
+\indexentry {entrenchment|hyperpage}{187}
+\indexentry {token frequency|hyperpage}{187}
+\indexentry {frequency|hyperpage}{187}
 \indexentry {productivity|hyperpage}{187}
 \indexentry {extension|hyperpage}{187}
 \indexentry {extension|hyperpage}{187}
@@ -3132,29 +3138,29 @@
 \indexentry {construction grammar!Radical Construction Grammar|hyperpage}{187}
 \indexentry {noun|hyperpage}{187}
 \indexentry {verb|hyperpage}{187}
-\indexentry {verb|hyperpage}{187}
-\indexentry {verb|hyperpage}{187}
-\indexentry {verb|hyperpage}{187}
-\indexentry {verb|hyperpage}{187}
-\indexentry {abstraction|hyperpage}{187}
-\indexentry {verb|hyperpage}{187}
-\indexentry {verb|hyperpage}{187}
-\indexentry {tense|hyperpage}{187}
-\indexentry {aspect|hyperpage}{187}
-\indexentry {abstraction|hyperpage}{187}
-\indexentry {semantic motivation|hyperpage}{187}
-\indexentry {verb|hyperpage}{187}
-\indexentry {tense|hyperpage}{187}
-\indexentry {aspect|hyperpage}{187}
-\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{187}
-\indexentry {reductionism|hyperpage}{187}
-\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{187}
-\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{187}
-\indexentry {usage-based model|hyperpage}{187}
-\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{187}
-\indexentry {semantic maps|hyperpage}{187}
-\indexentry {conceptual space|hyperpage}{187}
-\indexentry {syntactic space|hyperpage}{187}
+\indexentry {verb|hyperpage}{188}
+\indexentry {verb|hyperpage}{188}
+\indexentry {verb|hyperpage}{188}
+\indexentry {verb|hyperpage}{188}
+\indexentry {abstraction|hyperpage}{188}
+\indexentry {verb|hyperpage}{188}
+\indexentry {verb|hyperpage}{188}
+\indexentry {tense|hyperpage}{188}
+\indexentry {aspect|hyperpage}{188}
+\indexentry {abstraction|hyperpage}{188}
+\indexentry {semantic motivation|hyperpage}{188}
+\indexentry {verb|hyperpage}{188}
+\indexentry {tense|hyperpage}{188}
+\indexentry {aspect|hyperpage}{188}
+\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{188}
+\indexentry {reductionism|hyperpage}{188}
+\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{188}
+\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{188}
+\indexentry {usage-based model|hyperpage}{188}
+\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{188}
+\indexentry {semantic maps|hyperpage}{188}
+\indexentry {conceptual space|hyperpage}{188}
+\indexentry {syntactic space|hyperpage}{188}
 \indexentry {linguistic inventory|hyperpage}{188}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{188}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{188}
@@ -3164,28 +3170,28 @@
 \indexentry {abstraction|hyperpage}{188}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{188}
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{188}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{188}
-\indexentry {noun|hyperpage}{188}
-\indexentry {verb|hyperpage}{188}
-\indexentry {event structure|hyperpage}{188}
-\indexentry {construction!argument structure construction|hyperpage}{188}
-\indexentry {semantic motivation|hyperpage}{188}
-\indexentry {tense|hyperpage}{188}
-\indexentry {aspect|hyperpage}{188}
-\indexentry {generalization|hyperpage}{188}
-\indexentry {noun|hyperpage}{188}
-\indexentry {verb|hyperpage}{188}
-\indexentry {semantic motivation|hyperpage}{188}
-\indexentry {valency!potential valents|hyperpage}{188}
-\indexentry {valency!actual valency|hyperpage}{188}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{188}
-\indexentry {reductionism|hyperpage}{188}
-\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{188}
-\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{188}
-\indexentry {reductionism|hyperpage}{188}
-\indexentry {parsimony|hyperpage}{188}
-\indexentry {linguistic inventory|hyperpage}{188}
-\indexentry {parsimony|hyperpage}{188}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{189}
+\indexentry {noun|hyperpage}{189}
+\indexentry {verb|hyperpage}{189}
+\indexentry {event structure|hyperpage}{189}
+\indexentry {construction!argument structure construction|hyperpage}{189}
+\indexentry {semantic motivation|hyperpage}{189}
+\indexentry {tense|hyperpage}{189}
+\indexentry {aspect|hyperpage}{189}
+\indexentry {generalization|hyperpage}{189}
+\indexentry {noun|hyperpage}{189}
+\indexentry {verb|hyperpage}{189}
+\indexentry {semantic motivation|hyperpage}{189}
+\indexentry {valency!potential valents|hyperpage}{189}
+\indexentry {valency!actual valency|hyperpage}{189}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{189}
+\indexentry {reductionism|hyperpage}{189}
+\indexentry {construction grammar!Berkeley Construction Grammar|hyperpage}{189}
+\indexentry {construction grammar!Sign-Based Construction Grammar|hyperpage}{189}
+\indexentry {reductionism|hyperpage}{189}
+\indexentry {parsimony|hyperpage}{189}
+\indexentry {linguistic inventory|hyperpage}{189}
+\indexentry {parsimony|hyperpage}{189}
 \indexentry {linguistic inventory|hyperpage}{189}
 \indexentry {parsimony|hyperpage}{189}
 \indexentry {analogy|hyperpage}{189}
@@ -3203,39 +3209,39 @@
 \indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{189}
 \indexentry {abstraction|hyperpage}{189}
 \indexentry {instance link|hyperpage}{189}
-\indexentry {innovation|hyperpage}{189}
-\indexentry {pattern formation|hyperpage}{189}
-\indexentry {formation|hyperpage}{189}
-\indexentry {co-occurrence|hyperpage}{189}
-\indexentry {usage-based model|hyperpage}{189}
-\indexentry {token frequency|hyperpage}{189}
-\indexentry {frequency|hyperpage}{189}
-\indexentry {entrenchment|hyperpage}{189}
-\indexentry {extension|hyperpage}{189}
-\indexentry {analogy|hyperpage}{189}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{189}
-\indexentry {innovation|hyperpage}{189}
-\indexentry {abstraction|hyperpage}{189}
-\indexentry {abstraction|hyperpage}{189}
-\indexentry {extension|hyperpage}{189}
-\indexentry {pattern formation|hyperpage}{189}
-\indexentry {formation|hyperpage}{189}
-\indexentry {analogy|hyperpage}{189}
-\indexentry {selection|hyperpage}{189}
-\indexentry {multi-level selection|hyperpage}{189}
-\indexentry {emergence|hyperpage}{189}
-\indexentry {systematicity|hyperpage}{189}
-\indexentry {systematicity|hyperpage}{189}
-\indexentry {usage-based model|hyperpage}{189}
-\indexentry {inheritance|hyperpage}{189}
-\indexentry {systematicity|hyperpage}{189}
-\indexentry {innovation|hyperpage}{189}
-\indexentry {type frequency|hyperpage}{189}
-\indexentry {frequency|hyperpage}{189}
-\indexentry {productivity|hyperpage}{189}
-\indexentry {innovation|hyperpage}{189}
-\indexentry {reuse|hyperpage}{189}
-\indexentry {alignment strategy|hyperpage}{189}
+\indexentry {innovation|hyperpage}{190}
+\indexentry {pattern formation|hyperpage}{190}
+\indexentry {formation|hyperpage}{190}
+\indexentry {co-occurrence|hyperpage}{190}
+\indexentry {usage-based model|hyperpage}{190}
+\indexentry {token frequency|hyperpage}{190}
+\indexentry {frequency|hyperpage}{190}
+\indexentry {entrenchment|hyperpage}{190}
+\indexentry {extension|hyperpage}{190}
+\indexentry {analogy|hyperpage}{190}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{190}
+\indexentry {innovation|hyperpage}{190}
+\indexentry {abstraction|hyperpage}{190}
+\indexentry {abstraction|hyperpage}{190}
+\indexentry {extension|hyperpage}{190}
+\indexentry {pattern formation|hyperpage}{190}
+\indexentry {formation|hyperpage}{190}
+\indexentry {analogy|hyperpage}{190}
+\indexentry {selection|hyperpage}{190}
+\indexentry {multi-level selection|hyperpage}{190}
+\indexentry {emergence|hyperpage}{190}
+\indexentry {systematicity|hyperpage}{190}
+\indexentry {systematicity|hyperpage}{190}
+\indexentry {usage-based model|hyperpage}{190}
+\indexentry {inheritance|hyperpage}{190}
+\indexentry {systematicity|hyperpage}{190}
+\indexentry {innovation|hyperpage}{190}
+\indexentry {type frequency|hyperpage}{190}
+\indexentry {frequency|hyperpage}{190}
+\indexentry {productivity|hyperpage}{190}
+\indexentry {innovation|hyperpage}{190}
+\indexentry {reuse|hyperpage}{190}
+\indexentry {alignment strategy|hyperpage}{190}
 \indexentry {selection|hyperpage}{190}
 \indexentry {multi-level selection|hyperpage}{190}
 \indexentry {generalization|hyperpage}{190}
@@ -3245,35 +3251,35 @@
 \indexentry {selection|hyperpage}{190}
 \indexentry {multi-level selection|hyperpage}{190}
 \indexentry {reductionism|hyperpage}{190}
-\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{190}
-\indexentry {generalization|hyperpage}{190}
-\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{190}
-\indexentry {systematicity|hyperpage}{190}
-\indexentry {selection|hyperpage}{190}
-\indexentry {multi-level selection|hyperpage}{190}
-\indexentry {alignment strategy|hyperpage}{190}
-\indexentry {inheritance|hyperpage}{190}
-\indexentry {license|hyperpage}{190}
-\indexentry {unify and merge|hyperpage}{190}
-\indexentry {abstraction|hyperpage}{190}
-\indexentry {inheritance|hyperpage}{190}
-\indexentry {abstraction|hyperpage}{190}
-\indexentry {inheritance|hyperpage}{190}
-\indexentry {exemplar-based models|hyperpage}{190}
-\indexentry {natural language processing|hyperpage}{190}
-\indexentry {analogy|hyperpage}{190}
-\indexentry {inheritance|hyperpage}{190}
-\indexentry {abstraction|hyperpage}{190}
-\indexentry {communicative success|hyperpage}{190}
-\indexentry {convention|hyperpage}{190}
-\indexentry {abstraction|hyperpage}{190}
-\indexentry {selection|hyperpage}{190}
-\indexentry {multi-level selection|hyperpage}{190}
-\indexentry {linguistic typology|hyperpage}{190}
-\indexentry {grammaticalization|hyperpage}{190}
-\indexentry {artificial language evolution|hyperpage}{190}
-\indexentry {grammaticalization|hyperpage}{190}
-\indexentry {linguistic typology|hyperpage}{190}
+\indexentry {construction grammar!Fluid Construction Grammar|hyperpage}{191}
+\indexentry {generalization|hyperpage}{191}
+\indexentry {construction grammar!Radical Construction Grammar|hyperpage}{191}
+\indexentry {systematicity|hyperpage}{191}
+\indexentry {selection|hyperpage}{191}
+\indexentry {multi-level selection|hyperpage}{191}
+\indexentry {alignment strategy|hyperpage}{191}
+\indexentry {inheritance|hyperpage}{191}
+\indexentry {license|hyperpage}{191}
+\indexentry {unify and merge|hyperpage}{191}
+\indexentry {abstraction|hyperpage}{191}
+\indexentry {inheritance|hyperpage}{191}
+\indexentry {abstraction|hyperpage}{191}
+\indexentry {inheritance|hyperpage}{191}
+\indexentry {exemplar-based models|hyperpage}{191}
+\indexentry {natural language processing|hyperpage}{191}
+\indexentry {analogy|hyperpage}{191}
+\indexentry {inheritance|hyperpage}{191}
+\indexentry {abstraction|hyperpage}{191}
+\indexentry {communicative success|hyperpage}{191}
+\indexentry {convention|hyperpage}{191}
+\indexentry {abstraction|hyperpage}{191}
+\indexentry {selection|hyperpage}{191}
+\indexentry {multi-level selection|hyperpage}{191}
+\indexentry {linguistic typology|hyperpage}{191}
+\indexentry {grammaticalization|hyperpage}{191}
+\indexentry {artificial language evolution|hyperpage}{191}
+\indexentry {grammaticalization|hyperpage}{191}
+\indexentry {linguistic typology|hyperpage}{191}
 \indexentry {semantic maps|hyperpage}{191}
 \indexentry {English|hyperpage}{191}
 \indexentry {preposition|hyperpage}{191}
@@ -3283,47 +3289,40 @@
 \indexentry {case!dative|hyperpage}{191}
 \indexentry {English|hyperpage}{191}
 \indexentry {preposition|hyperpage}{191}
-\indexentry {semantic role!direction|hyperpage}{191}
-\indexentry {semantic role!recipient|hyperpage}{191}
-\indexentry {semantic role!experiencer|hyperpage}{191}
-\indexentry {semantic role!purpose|hyperpage}{191}
-\indexentry {semantic role!predicative possessor|hyperpage}{191}
-\indexentry {semantic role!possessor|hyperpage}{191}
-\indexentry {semantic role!beneficiary|hyperpage}{191}
-\indexentry {case!dative|hyperpage}{191}
-\indexentry {semantic role!dative judicantis|hyperpage}{191}
-\indexentry {French|hyperpage}{191}
-\indexentry {preposition|hyperpage}{191}
-\indexentry {semantic role!predicative possessor|hyperpage}{191}
-\indexentry {semantic role!possessor|hyperpage}{191}
-\indexentry {German|hyperpage}{191}
-\indexentry {case!dative|hyperpage}{191}
-\indexentry {case!dative|hyperpage}{191}
-\indexentry {semantic role!dative judicantis|hyperpage}{191}
-\indexentry {semantic maps|hyperpage}{191}
-\indexentry {semantic maps|hyperpage}{191}
-\indexentry {semantic maps|hyperpage}{191}
-\indexentry {case!dative|hyperpage}{191}
-\indexentry {English|hyperpage}{191}
-\indexentry {preposition|hyperpage}{191}
-\indexentry {semantic role!purpose|hyperpage}{191}
-\indexentry {semantic role!direction|hyperpage}{191}
-\indexentry {semantic role!recipient|hyperpage}{191}
-\indexentry {semantic role!experiencer|hyperpage}{191}
-\indexentry {semantic role!beneficiary|hyperpage}{191}
-\indexentry {semantic role!predicative possessor|hyperpage}{191}
-\indexentry {semantic role!possessor|hyperpage}{191}
-\indexentry {preposition|hyperpage}{191}
-\indexentry {verb|hyperpage}{191}
-\indexentry {case!dative|hyperpage}{191}
-\indexentry {semantic role!dative judicantis|hyperpage}{191}
-\indexentry {semantic maps|hyperpage}{192}
+\indexentry {semantic role!direction|hyperpage}{192}
+\indexentry {semantic role!recipient|hyperpage}{192}
+\indexentry {semantic role!experiencer|hyperpage}{192}
+\indexentry {semantic role!purpose|hyperpage}{192}
+\indexentry {semantic role!predicative possessor|hyperpage}{192}
+\indexentry {semantic role!possessor|hyperpage}{192}
+\indexentry {semantic role!beneficiary|hyperpage}{192}
+\indexentry {case!dative|hyperpage}{192}
+\indexentry {semantic role!dative judicantis|hyperpage}{192}
 \indexentry {French|hyperpage}{192}
 \indexentry {preposition|hyperpage}{192}
+\indexentry {semantic role!predicative possessor|hyperpage}{192}
+\indexentry {semantic role!possessor|hyperpage}{192}
+\indexentry {German|hyperpage}{192}
+\indexentry {case!dative|hyperpage}{192}
+\indexentry {case!dative|hyperpage}{192}
+\indexentry {semantic role!dative judicantis|hyperpage}{192}
+\indexentry {semantic maps|hyperpage}{192}
+\indexentry {semantic maps|hyperpage}{192}
+\indexentry {semantic maps|hyperpage}{192}
+\indexentry {case!dative|hyperpage}{192}
 \indexentry {English|hyperpage}{192}
 \indexentry {preposition|hyperpage}{192}
+\indexentry {semantic role!purpose|hyperpage}{192}
+\indexentry {semantic role!direction|hyperpage}{192}
+\indexentry {semantic role!recipient|hyperpage}{192}
+\indexentry {semantic role!experiencer|hyperpage}{192}
+\indexentry {semantic role!beneficiary|hyperpage}{192}
+\indexentry {semantic role!predicative possessor|hyperpage}{192}
+\indexentry {semantic role!possessor|hyperpage}{192}
+\indexentry {preposition|hyperpage}{192}
+\indexentry {verb|hyperpage}{192}
 \indexentry {case!dative|hyperpage}{192}
-\indexentry {case!dative|hyperpage}{192}
+\indexentry {semantic role!dative judicantis|hyperpage}{192}
 \indexentry {semantic role!direction|hyperpage}{192}
 \indexentry {semantic role!recipient|hyperpage}{192}
 \indexentry {English|hyperpage}{192}
@@ -3334,81 +3333,88 @@
 \indexentry {case!dative|hyperpage}{192}
 \indexentry {semantic role!recipient|hyperpage}{192}
 \indexentry {semantic maps|hyperpage}{192}
-\indexentry {English|hyperpage}{192}
-\indexentry {preposition|hyperpage}{192}
-\indexentry {semantic role!purpose|hyperpage}{192}
-\indexentry {semantic role!direction|hyperpage}{192}
-\indexentry {semantic role!recipient|hyperpage}{192}
-\indexentry {semantic role!purpose|hyperpage}{192}
-\indexentry {semantic role!direction|hyperpage}{192}
-\indexentry {semantic role!recipient|hyperpage}{192}
-\indexentry {semantic role!direction|hyperpage}{192}
-\indexentry {semantic role!purpose|hyperpage}{192}
-\indexentry {semantic role!recipient|hyperpage}{192}
-\indexentry {semantic role!direction|hyperpage}{192}
-\indexentry {semantic role!recipient|hyperpage}{192}
-\indexentry {semantic role!purpose|hyperpage}{192}
-\indexentry {French|hyperpage}{192}
-\indexentry {preposition|hyperpage}{192}
-\indexentry {semantic role!purpose|hyperpage}{192}
-\indexentry {German|hyperpage}{192}
-\indexentry {preposition|hyperpage}{192}
-\indexentry {semantic role!purpose|hyperpage}{192}
-\indexentry {semantic role!direction|hyperpage}{192}
-\indexentry {semantic role!recipient|hyperpage}{192}
-\indexentry {semantic maps|hyperpage}{192}
 \indexentry {semantic maps|hyperpage}{193}
-\indexentry {Semantic Map Connectivity Hypothesis|hyperpage}{193}
-\indexentry {conceptual space|hyperpage}{193}
-\indexentry {semantic maps|hyperpage}{193}
-\indexentry {semantic maps|hyperpage}{193}
-\indexentry {semantic maps|hyperpage}{193}
-\indexentry {semantic maps|hyperpage}{193}
-\indexentry {semantic maps|hyperpage}{193}
-\indexentry {acceptability|hyperpage}{193}
-\indexentry {semantic maps|hyperpage}{193}
-\indexentry {semantic role!recipient|hyperpage}{193}
-\indexentry {semantic role!beneficiary|hyperpage}{193}
-\indexentry {semantic role!recipient|hyperpage}{193}
-\indexentry {semantic role!beneficiary|hyperpage}{193}
+\indexentry {French|hyperpage}{193}
 \indexentry {preposition|hyperpage}{193}
-\indexentry {syntactic role!object|hyperpage}{193}
 \indexentry {English|hyperpage}{193}
-\indexentry {ditransitive clause|hyperpage}{193}
+\indexentry {preposition|hyperpage}{193}
+\indexentry {case!dative|hyperpage}{193}
+\indexentry {case!dative|hyperpage}{193}
+\indexentry {English|hyperpage}{193}
+\indexentry {preposition|hyperpage}{193}
+\indexentry {semantic role!purpose|hyperpage}{193}
+\indexentry {semantic role!direction|hyperpage}{193}
+\indexentry {semantic role!recipient|hyperpage}{193}
+\indexentry {semantic role!purpose|hyperpage}{193}
+\indexentry {semantic role!direction|hyperpage}{193}
+\indexentry {semantic role!recipient|hyperpage}{193}
+\indexentry {semantic role!direction|hyperpage}{193}
+\indexentry {semantic role!purpose|hyperpage}{193}
+\indexentry {semantic role!recipient|hyperpage}{193}
+\indexentry {semantic role!direction|hyperpage}{193}
+\indexentry {semantic role!recipient|hyperpage}{193}
+\indexentry {semantic role!purpose|hyperpage}{193}
+\indexentry {French|hyperpage}{193}
+\indexentry {preposition|hyperpage}{193}
+\indexentry {semantic role!purpose|hyperpage}{193}
+\indexentry {German|hyperpage}{193}
+\indexentry {preposition|hyperpage}{193}
+\indexentry {semantic role!purpose|hyperpage}{193}
+\indexentry {semantic role!direction|hyperpage}{193}
+\indexentry {semantic role!recipient|hyperpage}{193}
 \indexentry {semantic maps|hyperpage}{193}
-\indexentry {conceptual space|hyperpage}{193}
-\indexentry {conceptual space|hyperpage}{193}
-\indexentry {artificial language evolution|hyperpage}{193}
-\indexentry {problem-solving|hyperpage}{193}
-\indexentry {evolution!cultural evolution|hyperpage}{193}
+\indexentry {semantic maps|hyperpage}{193}
+\indexentry {Semantic Map Connectivity Hypothesis|hyperpage}{194}
+\indexentry {conceptual space|hyperpage}{194}
+\indexentry {semantic maps|hyperpage}{194}
+\indexentry {semantic maps|hyperpage}{194}
+\indexentry {semantic maps|hyperpage}{194}
+\indexentry {semantic maps|hyperpage}{194}
+\indexentry {semantic maps|hyperpage}{194}
+\indexentry {acceptability|hyperpage}{194}
+\indexentry {semantic maps|hyperpage}{194}
+\indexentry {semantic role!recipient|hyperpage}{194}
+\indexentry {semantic role!beneficiary|hyperpage}{194}
+\indexentry {semantic role!recipient|hyperpage}{194}
+\indexentry {semantic role!beneficiary|hyperpage}{194}
+\indexentry {preposition|hyperpage}{194}
+\indexentry {syntactic role!object|hyperpage}{194}
+\indexentry {English|hyperpage}{194}
+\indexentry {ditransitive clause|hyperpage}{194}
+\indexentry {semantic maps|hyperpage}{194}
+\indexentry {conceptual space|hyperpage}{194}
+\indexentry {conceptual space|hyperpage}{194}
+\indexentry {artificial language evolution|hyperpage}{194}
+\indexentry {problem-solving|hyperpage}{194}
+\indexentry {evolution!cultural evolution|hyperpage}{194}
 \indexentry {semantic maps|hyperpage}{194}
 \indexentry {emergence|hyperpage}{194}
 \indexentry {semantic maps|hyperpage}{194}
 \indexentry {conceptual space|hyperpage}{194}
-\indexentry {concept formation|hyperpage}{194}
-\indexentry {speech population|hyperpage}{194}
-\indexentry {self-organization|hyperpage}{194}
-\indexentry {conceptualization|hyperpage}{194}
-\indexentry {lexicon|hyperpage}{194}
-\indexentry {speech population|hyperpage}{194}
-\indexentry {language game!guessing game|hyperpage}{194}
-\indexentry {speech population|hyperpage}{194}
-\indexentry {colour|hyperpage}{194}
-\indexentry {concept formation|hyperpage}{194}
-\indexentry {discrimination game|hyperpage}{194}
-\indexentry {language game|hyperpage}{194}
-\indexentry {conceptual space|hyperpage}{194}
+\indexentry {concept formation|hyperpage}{195}
+\indexentry {speech population|hyperpage}{195}
+\indexentry {self-organization|hyperpage}{195}
+\indexentry {conceptualization|hyperpage}{195}
+\indexentry {lexicon|hyperpage}{195}
+\indexentry {speech population|hyperpage}{195}
+\indexentry {language game!guessing game|hyperpage}{195}
+\indexentry {speech population|hyperpage}{195}
+\indexentry {colour|hyperpage}{195}
+\indexentry {concept formation|hyperpage}{195}
+\indexentry {discrimination game|hyperpage}{195}
+\indexentry {language game|hyperpage}{195}
 \indexentry {conceptual space|hyperpage}{195}
-\indexentry {semantic maps|hyperpage}{195}
 \indexentry {colour|hyperpage}{195}
 \indexentry {spatial language|hyperpage}{195}
 \indexentry {communicative success|hyperpage}{195}
-\indexentry {speech population|hyperpage}{195}
-\indexentry {lexicon|hyperpage}{195}
-\indexentry {semantic role|hyperpage}{195}
-\indexentry {analogy|hyperpage}{195}
-\indexentry {semantic role|hyperpage}{195}
-\indexentry {semantic maps|hyperpage}{195}
+\indexentry {conceptual space|hyperpage}{196}
+\indexentry {semantic maps|hyperpage}{196}
+\indexentry {speech population|hyperpage}{196}
+\indexentry {lexicon|hyperpage}{196}
+\indexentry {semantic role|hyperpage}{196}
+\indexentry {analogy|hyperpage}{196}
+\indexentry {semantic role|hyperpage}{196}
+\indexentry {semantic maps|hyperpage}{196}
 \indexentry {selection|hyperpage}{196}
 \indexentry {multi-level selection|hyperpage}{196}
 \indexentry {memory decay|hyperpage}{196}
@@ -3419,289 +3425,290 @@
 \indexentry {case!case marking|hyperpage}{196}
 \indexentry {participant role|hyperpage}{196}
 \indexentry {semantic role|hyperpage}{196}
-\indexentry {semantic role|hyperpage}{196}
-\indexentry {semantic maps|hyperpage}{196}
-\indexentry {grammaticalization|hyperpage}{196}
-\indexentry {analogy|hyperpage}{196}
-\indexentry {extension|hyperpage}{196}
-\indexentry {semantic maps|hyperpage}{196}
-\indexentry {analogy|hyperpage}{196}
-\indexentry {conceptual space|hyperpage}{196}
-\indexentry {conceptualization|hyperpage}{196}
-\indexentry {conceptual space|hyperpage}{196}
-\indexentry {semantic maps|hyperpage}{196}
-\indexentry {case!case system|hyperpage}{196}
-\indexentry {hierarchy|hyperpage}{196}
-\indexentry {systematicity|hyperpage}{196}
-\indexentry {hierarchy|hyperpage}{196}
-\indexentry {Universal Grammar|hyperpage}{196}
-\indexentry {case!case marking|hyperpage}{196}
-\indexentry {noun|hyperpage}{196}
-\indexentry {systematicity|hyperpage}{196}
+\indexentry {semantic role|hyperpage}{197}
+\indexentry {semantic maps|hyperpage}{197}
+\indexentry {grammaticalization|hyperpage}{197}
+\indexentry {analogy|hyperpage}{197}
+\indexentry {extension|hyperpage}{197}
+\indexentry {semantic maps|hyperpage}{197}
+\indexentry {analogy|hyperpage}{197}
+\indexentry {conceptual space|hyperpage}{197}
+\indexentry {conceptualization|hyperpage}{197}
+\indexentry {conceptual space|hyperpage}{197}
+\indexentry {semantic maps|hyperpage}{197}
+\indexentry {case!case system|hyperpage}{197}
+\indexentry {hierarchy|hyperpage}{197}
+\indexentry {systematicity|hyperpage}{197}
+\indexentry {hierarchy|hyperpage}{197}
+\indexentry {Universal Grammar|hyperpage}{197}
 \indexentry {case!case marking|hyperpage}{197}
 \indexentry {noun|hyperpage}{197}
+\indexentry {systematicity|hyperpage}{197}
 \indexentry {case!case system|hyperpage}{197}
 \indexentry {case!nominative|hyperpage}{197}
 \indexentry {case!accusative|hyperpage}{197}
 \indexentry {case!case system|hyperpage}{197}
 \indexentry {syntactic role!subject|hyperpage}{197}
 \indexentry {intransitive clause|hyperpage}{197}
-\indexentry {syntactic role!subject|hyperpage}{197}
-\indexentry {syntactic role!object|hyperpage}{197}
-\indexentry {transitive clause|hyperpage}{197}
-\indexentry {case!accusative|hyperpage}{197}
-\indexentry {case!nominative|hyperpage}{197}
-\indexentry {case!accusative|hyperpage}{197}
-\indexentry {Latvian|hyperpage}{197}
-\indexentry {Hunzib|hyperpage}{197}
-\indexentry {case!tripartite case system|hyperpage}{197}
-\indexentry {Hindi|hyperpage}{197}
-\indexentry {active-stative languages|hyperpage}{197}
-\indexentry {construction!active construction|hyperpage}{197}
-\indexentry {case!case marking|hyperpage}{197}
-\indexentry {semantic role!patient|hyperpage}{197}
-\indexentry {Georgian|hyperpage}{197}
-\indexentry {conceptual space|hyperpage}{197}
-\indexentry {case!case marking|hyperpage}{197}
-\indexentry {case!case system|hyperpage}{197}
-\indexentry {case!case system|hyperpage}{197}
 \indexentry {case!case marking|hyperpage}{198}
-\indexentry {variation|hyperpage}{198}
-\indexentry {analogy|hyperpage}{198}
-\indexentry {pattern formation|hyperpage}{198}
-\indexentry {formation|hyperpage}{198}
-\indexentry {selection|hyperpage}{198}
-\indexentry {multi-level selection|hyperpage}{198}
-\indexentry {thematic hierarchy|hyperpage}{198}
-\indexentry {generalization|hyperpage}{198}
-\indexentry {inferential coding system|hyperpage}{198}
-\indexentry {communicative success|hyperpage}{198}
-\indexentry {innovation|hyperpage}{198}
-\indexentry {analogy|hyperpage}{198}
-\indexentry {convention|hyperpage}{198}
-\indexentry {analogy|hyperpage}{198}
-\indexentry {reuse|hyperpage}{198}
-\indexentry {type frequency|hyperpage}{198}
-\indexentry {frequency|hyperpage}{198}
-\indexentry {productivity|hyperpage}{198}
-\indexentry {selection|hyperpage}{198}
-\indexentry {multi-level selection|hyperpage}{198}
-\indexentry {alignment strategy|hyperpage}{198}
-\indexentry {frequency|hyperpage}{198}
-\indexentry {selection|hyperpage}{198}
-\indexentry {multi-level selection|hyperpage}{198}
-\indexentry {thematic hierarchy|hyperpage}{198}
-\indexentry {extension|hyperpage}{198}
+\indexentry {noun|hyperpage}{198}
 \indexentry {syntactic role!subject|hyperpage}{198}
 \indexentry {syntactic role!object|hyperpage}{198}
-\indexentry {thematic hierarchy|hyperpage}{198}
-\indexentry {grammaticalization|hyperpage}{198}
-\indexentry {artificial language evolution|hyperpage}{198}
-\indexentry {grammaticalization|hyperpage}{198}
-\indexentry {grammaticalization|hyperpage}{198}
-\indexentry {language change|hyperpage}{198}
-\indexentry {grammaticalization|hyperpage}{198}
-\indexentry {speech population|hyperpage}{199}
+\indexentry {transitive clause|hyperpage}{198}
+\indexentry {case!accusative|hyperpage}{198}
+\indexentry {case!nominative|hyperpage}{198}
+\indexentry {case!accusative|hyperpage}{198}
+\indexentry {Latvian|hyperpage}{198}
+\indexentry {Hunzib|hyperpage}{198}
+\indexentry {case!tripartite case system|hyperpage}{198}
+\indexentry {Hindi|hyperpage}{198}
+\indexentry {active-stative languages|hyperpage}{198}
+\indexentry {construction!active construction|hyperpage}{198}
+\indexentry {case!case marking|hyperpage}{198}
+\indexentry {semantic role!patient|hyperpage}{198}
+\indexentry {Georgian|hyperpage}{198}
+\indexentry {conceptual space|hyperpage}{198}
+\indexentry {case!case marking|hyperpage}{198}
+\indexentry {case!case system|hyperpage}{198}
+\indexentry {case!case system|hyperpage}{198}
+\indexentry {case!case marking|hyperpage}{198}
+\indexentry {variation|hyperpage}{198}
+\indexentry {analogy|hyperpage}{199}
+\indexentry {pattern formation|hyperpage}{199}
+\indexentry {formation|hyperpage}{199}
+\indexentry {selection|hyperpage}{199}
+\indexentry {multi-level selection|hyperpage}{199}
+\indexentry {thematic hierarchy|hyperpage}{199}
+\indexentry {generalization|hyperpage}{199}
+\indexentry {inferential coding system|hyperpage}{199}
+\indexentry {communicative success|hyperpage}{199}
 \indexentry {innovation|hyperpage}{199}
-\indexentry {variation|hyperpage}{199}
-\indexentry {propagation|hyperpage}{199}
+\indexentry {analogy|hyperpage}{199}
 \indexentry {convention|hyperpage}{199}
-\indexentry {actualization|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
+\indexentry {analogy|hyperpage}{199}
+\indexentry {reuse|hyperpage}{199}
+\indexentry {type frequency|hyperpage}{199}
+\indexentry {frequency|hyperpage}{199}
+\indexentry {productivity|hyperpage}{199}
+\indexentry {selection|hyperpage}{199}
+\indexentry {multi-level selection|hyperpage}{199}
+\indexentry {alignment strategy|hyperpage}{199}
+\indexentry {frequency|hyperpage}{199}
+\indexentry {selection|hyperpage}{199}
+\indexentry {multi-level selection|hyperpage}{199}
+\indexentry {thematic hierarchy|hyperpage}{199}
+\indexentry {extension|hyperpage}{199}
+\indexentry {syntactic role!subject|hyperpage}{199}
+\indexentry {syntactic role!object|hyperpage}{199}
+\indexentry {thematic hierarchy|hyperpage}{199}
 \indexentry {grammaticalization|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {grammaticalization|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {grammaticalization|hyperpage}{199}
-\indexentry {semantic role!direction|hyperpage}{199}
-\indexentry {complement|hyperpage}{199}
-\indexentry {complement|hyperpage}{199}
-\indexentry {rebracketing|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {entailment|hyperpage}{199}
+\indexentry {artificial language evolution|hyperpage}{199}
 \indexentry {grammaticalization|hyperpage}{199}
 \indexentry {grammaticalization|hyperpage}{199}
-\indexentry {bidirectionality|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {actualization|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {innovation|hyperpage}{199}
-\indexentry {propagation|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {reanalysis|hyperpage}{199}
-\indexentry {verb|hyperpage}{199}
-\indexentry {preposition|hyperpage}{199}
-\indexentry {verb|hyperpage}{199}
+\indexentry {language change|hyperpage}{199}
+\indexentry {grammaticalization|hyperpage}{199}
+\indexentry {speech population|hyperpage}{199}
+\indexentry {innovation|hyperpage}{200}
+\indexentry {variation|hyperpage}{200}
+\indexentry {propagation|hyperpage}{200}
+\indexentry {convention|hyperpage}{200}
+\indexentry {actualization|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
 \indexentry {grammaticalization|hyperpage}{200}
 \indexentry {reanalysis|hyperpage}{200}
+\indexentry {grammaticalization|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {grammaticalization|hyperpage}{200}
+\indexentry {semantic role!direction|hyperpage}{200}
+\indexentry {complement|hyperpage}{200}
+\indexentry {complement|hyperpage}{200}
+\indexentry {rebracketing|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {entailment|hyperpage}{200}
+\indexentry {grammaticalization|hyperpage}{200}
+\indexentry {grammaticalization|hyperpage}{200}
 \indexentry {bidirectionality|hyperpage}{200}
-\indexentry {ambiguity|hyperpage}{200}
-\indexentry {ambiguity|hyperpage}{200}
-\indexentry {acquisition|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {actualization|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {innovation|hyperpage}{200}
+\indexentry {propagation|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {reanalysis|hyperpage}{200}
+\indexentry {verb|hyperpage}{200}
+\indexentry {preposition|hyperpage}{200}
+\indexentry {verb|hyperpage}{200}
 \indexentry {co-existence|hyperpage}{200}
 \indexentry {redundancy|hyperpage}{200}
 \indexentry {pattern formation|hyperpage}{200}
 \indexentry {formation|hyperpage}{200}
-\indexentry {French|hyperpage}{200}
-\indexentry {negation|hyperpage}{200}
-\indexentry {co-occurrence|hyperpage}{200}
-\indexentry {English|hyperpage}{200}
-\indexentry {verb|hyperpage}{200}
-\indexentry {gerund|hyperpage}{200}
-\indexentry {English|hyperpage}{200}
-\indexentry {verb|hyperpage}{200}
-\indexentry {gerund|hyperpage}{200}
-\indexentry {nominalization|hyperpage}{200}
-\indexentry {verb|hyperpage}{200}
-\indexentry {grammaticalization|hyperpage}{200}
-\indexentry {reanalysis|hyperpage}{200}
-\indexentry {redundancy|hyperpage}{200}
-\indexentry {pattern formation|hyperpage}{200}
-\indexentry {formation|hyperpage}{200}
-\indexentry {English|hyperpage}{200}
-\indexentry {gerund|hyperpage}{200}
-\indexentry {verb|hyperpage}{200}
-\indexentry {complement|hyperpage}{200}
-\indexentry {to-infinitive|hyperpage}{200}
-\indexentry {finiteness|hyperpage}{200}
-\indexentry {English|hyperpage}{200}
-\indexentry {gerund|hyperpage}{200}
-\indexentry {verb|hyperpage}{200}
-\indexentry {syntactic role!object|hyperpage}{200}
-\indexentry {adverb|hyperpage}{200}
-\indexentry {tense|hyperpage}{200}
-\indexentry {aspect|hyperpage}{200}
-\indexentry {syntactic role!subject|hyperpage}{200}
-\indexentry {case!genitive|hyperpage}{200}
-\indexentry {emergence|hyperpage}{201}
-\indexentry {evolution!cultural evolution|hyperpage}{201}
+\indexentry {grammaticalization|hyperpage}{201}
+\indexentry {reanalysis|hyperpage}{201}
+\indexentry {bidirectionality|hyperpage}{201}
+\indexentry {ambiguity|hyperpage}{201}
+\indexentry {ambiguity|hyperpage}{201}
+\indexentry {acquisition|hyperpage}{201}
+\indexentry {French|hyperpage}{201}
+\indexentry {negation|hyperpage}{201}
+\indexentry {co-occurrence|hyperpage}{201}
+\indexentry {English|hyperpage}{201}
+\indexentry {verbal gerund|hyperpage}{201}
+\indexentry {English|hyperpage}{201}
+\indexentry {verb|hyperpage}{201}
 \indexentry {gerund|hyperpage}{201}
-\indexentry {nominalization|hyperpage}{201}
 \indexentry {nominalization|hyperpage}{201}
 \indexentry {verb|hyperpage}{201}
-\indexentry {nominalization|hyperpage}{201}
-\indexentry {Dutch|hyperpage}{201}
+\indexentry {grammaticalization|hyperpage}{201}
+\indexentry {reanalysis|hyperpage}{201}
+\indexentry {redundancy|hyperpage}{201}
+\indexentry {pattern formation|hyperpage}{201}
+\indexentry {formation|hyperpage}{201}
+\indexentry {English|hyperpage}{201}
+\indexentry {gerund|hyperpage}{201}
+\indexentry {verb|hyperpage}{201}
 \indexentry {complement|hyperpage}{201}
-\indexentry {syntactic role!object|hyperpage}{201}
-\indexentry {English|hyperpage}{201}
-\indexentry {gerund|hyperpage}{201}
-\indexentry {preposition|hyperpage}{201}
-\indexentry {Dutch|hyperpage}{201}
-\indexentry {preposition|hyperpage}{201}
-\indexentry {noun|hyperpage}{201}
 \indexentry {to-infinitive|hyperpage}{201}
+\indexentry {finiteness|hyperpage}{201}
 \indexentry {English|hyperpage}{201}
 \indexentry {gerund|hyperpage}{201}
-\indexentry {nominalization|hyperpage}{201}
-\indexentry {English|hyperpage}{201}
-\indexentry {gerund|hyperpage}{201}
-\indexentry {nominalization|hyperpage}{201}
-\indexentry {adverb|hyperpage}{201}
+\indexentry {verb|hyperpage}{201}
 \indexentry {syntactic role!object|hyperpage}{201}
-\indexentry {English|hyperpage}{202}
+\indexentry {adverb|hyperpage}{201}
+\indexentry {tense|hyperpage}{201}
+\indexentry {aspect|hyperpage}{201}
+\indexentry {syntactic role!subject|hyperpage}{201}
+\indexentry {case!genitive|hyperpage}{201}
+\indexentry {emergence|hyperpage}{202}
+\indexentry {evolution!cultural evolution|hyperpage}{202}
+\indexentry {gerund|hyperpage}{202}
+\indexentry {nominalization|hyperpage}{202}
+\indexentry {nominalization|hyperpage}{202}
 \indexentry {verb|hyperpage}{202}
-\indexentry {tense|hyperpage}{202}
+\indexentry {nominalization|hyperpage}{202}
+\indexentry {Dutch|hyperpage}{202}
+\indexentry {complement|hyperpage}{202}
+\indexentry {syntactic role!object|hyperpage}{202}
 \indexentry {English|hyperpage}{202}
 \indexentry {gerund|hyperpage}{202}
-\indexentry {syntactic role!subject|hyperpage}{202}
-\indexentry {reanalysis|hyperpage}{202}
-\indexentry {verb|hyperpage}{202}
-\indexentry {co-existence|hyperpage}{202}
-\indexentry {verb|hyperpage}{202}
-\indexentry {acceptability|hyperpage}{202}
-\indexentry {determiner|hyperpage}{202}
-\indexentry {gerund|hyperpage}{202}
+\indexentry {preposition|hyperpage}{202}
+\indexentry {Dutch|hyperpage}{202}
+\indexentry {preposition|hyperpage}{202}
 \indexentry {noun|hyperpage}{202}
-\indexentry {verb|hyperpage}{202}
+\indexentry {to-infinitive|hyperpage}{202}
 \indexentry {English|hyperpage}{202}
 \indexentry {gerund|hyperpage}{202}
-\indexentry {reanalysis|hyperpage}{202}
-\indexentry {actualization|hyperpage}{202}
+\indexentry {nominalization|hyperpage}{202}
 \indexentry {English|hyperpage}{202}
-\indexentry {reanalysis|hyperpage}{202}
-\indexentry {actualization|hyperpage}{202}
+\indexentry {gerund|hyperpage}{202}
+\indexentry {nominalization|hyperpage}{202}
+\indexentry {adverb|hyperpage}{202}
+\indexentry {syntactic role!object|hyperpage}{202}
+\indexentry {English|hyperpage}{203}
+\indexentry {verb|hyperpage}{203}
+\indexentry {tense|hyperpage}{203}
+\indexentry {English|hyperpage}{203}
+\indexentry {gerund|hyperpage}{203}
+\indexentry {syntactic role!subject|hyperpage}{203}
+\indexentry {reanalysis|hyperpage}{203}
+\indexentry {verb|hyperpage}{203}
+\indexentry {co-existence|hyperpage}{203}
+\indexentry {verb|hyperpage}{203}
+\indexentry {acceptability|hyperpage}{203}
+\indexentry {determiner|hyperpage}{203}
+\indexentry {gerund|hyperpage}{203}
+\indexentry {noun|hyperpage}{203}
+\indexentry {verb|hyperpage}{203}
+\indexentry {English|hyperpage}{203}
+\indexentry {gerund|hyperpage}{203}
+\indexentry {reanalysis|hyperpage}{203}
+\indexentry {actualization|hyperpage}{203}
+\indexentry {English|hyperpage}{203}
+\indexentry {reanalysis|hyperpage}{203}
+\indexentry {actualization|hyperpage}{203}
 \indexentry {actualization|hyperpage}{203}
 \indexentry {reanalysis|hyperpage}{203}
-\indexentry {reanalysis|hyperpage}{203}
-\indexentry {reanalysis|hyperpage}{203}
-\indexentry {semantic bleaching|hyperpage}{203}
-\indexentry {analogy|hyperpage}{203}
-\indexentry {extension|hyperpage}{203}
-\indexentry {verb|hyperpage}{203}
-\indexentry {reanalysis|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {verb|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {determiner|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {determiner|hyperpage}{203}
-\indexentry {verb|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {redundancy|hyperpage}{203}
-\indexentry {English|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {verb|hyperpage}{203}
-\indexentry {determiner|hyperpage}{203}
-\indexentry {determiner|hyperpage}{203}
-\indexentry {determiner|hyperpage}{203}
-\indexentry {noun|hyperpage}{203}
-\indexentry {English|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {determiner|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {redundancy|hyperpage}{203}
-\indexentry {extension|hyperpage}{203}
-\indexentry {synchron\is {synchronic}ic layering|hyperpage}{203}
-\indexentry {ambiguity|hyperpage}{203}
-\indexentry {gerund|hyperpage}{203}
-\indexentry {reanalysis|hyperpage}{203}
-\indexentry {extension|hyperpage}{203}
-\indexentry {nominalization|hyperpage}{204}
-\indexentry {competition|hyperpage}{204}
-\indexentry {English|hyperpage}{204}
-\indexentry {Dutch|hyperpage}{204}
-\indexentry {frequency|hyperpage}{204}
-\indexentry {competition|hyperpage}{204}
-\indexentry {productivity|hyperpage}{204}
-\indexentry {verb|hyperpage}{204}
-\indexentry {English|hyperpage}{204}
-\indexentry {to-infinitive|hyperpage}{204}
-\indexentry {preposition|hyperpage}{204}
-\indexentry {gerund|hyperpage}{204}
-\indexentry {gerund|hyperpage}{204}
-\indexentry {French|hyperpage}{204}
-\indexentry {co-occurrence|hyperpage}{204}
-\indexentry {gerund|hyperpage}{204}
-\indexentry {case!genitive|hyperpage}{204}
-\indexentry {English|hyperpage}{204}
-\indexentry {gerund|hyperpage}{204}
-\indexentry {selection|hyperpage}{204}
-\indexentry {selection|hyperpage}{204}
-\indexentry {multi-level selection|hyperpage}{204}
-\indexentry {gerund|hyperpage}{204}
-\indexentry {productivity|hyperpage}{204}
-\indexentry {competition|hyperpage}{204}
 \indexentry {reanalysis|hyperpage}{204}
-\indexentry {grammaticalization|hyperpage}{204}
-\indexentry {selection|hyperpage}{204}
-\indexentry {multi-level selection|hyperpage}{204}
-\indexentry {frequency|hyperpage}{204}
-\indexentry {grammaticalization|hyperpage}{204}
-\indexentry {redundancy|hyperpage}{204}
-\indexentry {variation|hyperpage}{204}
-\indexentry {speech population|hyperpage}{204}
-\indexentry {speech population|hyperpage}{204}
-\indexentry {generalization|hyperpage}{204}
-\indexentry {design stance|hyperpage}{204}
+\indexentry {reanalysis|hyperpage}{204}
+\indexentry {semantic bleaching|hyperpage}{204}
+\indexentry {analogy|hyperpage}{204}
+\indexentry {extension|hyperpage}{204}
 \indexentry {verb|hyperpage}{204}
+\indexentry {reanalysis|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {verb|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {determiner|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {determiner|hyperpage}{204}
+\indexentry {verb|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {redundancy|hyperpage}{204}
+\indexentry {English|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {verb|hyperpage}{204}
+\indexentry {determiner|hyperpage}{204}
+\indexentry {determiner|hyperpage}{204}
+\indexentry {determiner|hyperpage}{204}
+\indexentry {noun|hyperpage}{204}
+\indexentry {English|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {determiner|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {redundancy|hyperpage}{204}
+\indexentry {extension|hyperpage}{204}
+\indexentry {synchron\is {synchronic}ic layering|hyperpage}{204}
+\indexentry {ambiguity|hyperpage}{204}
+\indexentry {gerund|hyperpage}{204}
+\indexentry {reanalysis|hyperpage}{204}
+\indexentry {extension|hyperpage}{204}
+\indexentry {nominalization|hyperpage}{205}
+\indexentry {competition|hyperpage}{205}
+\indexentry {English|hyperpage}{205}
+\indexentry {Dutch|hyperpage}{205}
+\indexentry {frequency|hyperpage}{205}
+\indexentry {competition|hyperpage}{205}
+\indexentry {productivity|hyperpage}{205}
+\indexentry {verb|hyperpage}{205}
+\indexentry {English|hyperpage}{205}
+\indexentry {to-infinitive|hyperpage}{205}
+\indexentry {preposition|hyperpage}{205}
+\indexentry {gerund|hyperpage}{205}
+\indexentry {gerund|hyperpage}{205}
+\indexentry {French|hyperpage}{205}
+\indexentry {co-occurrence|hyperpage}{205}
+\indexentry {gerund|hyperpage}{205}
+\indexentry {case!genitive|hyperpage}{205}
+\indexentry {English|hyperpage}{205}
+\indexentry {gerund|hyperpage}{205}
+\indexentry {selection|hyperpage}{205}
+\indexentry {selection|hyperpage}{205}
+\indexentry {multi-level selection|hyperpage}{205}
+\indexentry {gerund|hyperpage}{205}
+\indexentry {productivity|hyperpage}{205}
+\indexentry {competition|hyperpage}{205}
 \indexentry {reanalysis|hyperpage}{205}
-\indexentry {Iterated Learning Model (ILM)|hyperpage}{205}
-\indexentry {reanalysis|hyperpage}{205}
-\indexentry {usage-based model|hyperpage}{205}
-\indexentry {reanalysis|hyperpage}{205}
-\indexentry {reanalysis|hyperpage}{205}
+\indexentry {grammaticalization|hyperpage}{205}
+\indexentry {selection|hyperpage}{205}
+\indexentry {multi-level selection|hyperpage}{205}
+\indexentry {frequency|hyperpage}{205}
+\indexentry {grammaticalization|hyperpage}{205}
+\indexentry {redundancy|hyperpage}{205}
+\indexentry {variation|hyperpage}{205}
+\indexentry {speech population|hyperpage}{205}
+\indexentry {speech population|hyperpage}{205}
+\indexentry {generalization|hyperpage}{205}
+\indexentry {design stance|hyperpage}{205}
+\indexentry {verb|hyperpage}{205}
+\indexentry {reanalysis|hyperpage}{206}
+\indexentry {Iterated Learning Model (ILM)|hyperpage}{206}
+\indexentry {reanalysis|hyperpage}{206}
+\indexentry {usage-based model|hyperpage}{206}
+\indexentry {reanalysis|hyperpage}{206}
+\indexentry {reanalysis|hyperpage}{206}
+\indexentry {serial verb|hyperpage}{243}
+\indexentry {synchronic|hyperpage}{243}

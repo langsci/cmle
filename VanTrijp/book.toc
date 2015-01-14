@@ -66,7 +66,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.1}Key abilities and self-assessment criteria}{50}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Description games}{52}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Description games}{53}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.3}The world, sensory-motor input and conceptualization}{54}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
@@ -78,7 +78,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.4}Additional assumption\p@index [sbj]{assumption}s and scaffold\p@index [sbj]{scaffold}s}{59}{subsection.3.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Baseline experiment 1: no marking}{64}{section.3.2}
+\contentsline {section}{\numberline {3.2}Baseline experiment 1: no marking}{62}{section.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.1}An inferential coding system}{64}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
@@ -86,19 +86,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.1.2}The hearer}{66}{subsubsection.3.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1.3}Communicative success\p@index [sbj]{communicative success}}{68}{subsubsection.3.2.1.3}
+\contentsline {subsubsection}{\numberline {3.2.1.3}Communicative success\p@index [sbj]{communicative success}}{67}{subsubsection.3.2.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.2}Results and discussion}{68}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.2.1}Results}{68}{subsubsection.3.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2.2}Discussion}{69}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Discussion}{68}{subsubsection.3.2.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Baseline experiment 2: specific marking}{70}{section.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.1}Speaker-based innovat\p@index [sbj]{innovation}ion}{70}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1.1}Re-entrance\p@index [sbj]{re-entrance}}{70}{subsubsection.3.3.1.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Re-entrance\p@index [sbj]{re-entrance}}{71}{subsubsection.3.3.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.1.2}Innovation}{72}{subsubsection.3.3.1.2}
 \defcounter {refsection}{0}\relax 
@@ -110,11 +110,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.2.1}Results of set-up 2a}{80}{subsubsection.3.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2.2}Results of set-up 2b}{82}{subsubsection.3.3.2.2}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Results of set-up 2b}{80}{subsubsection.3.3.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.2.3}Results of set-up 2c}{83}{subsubsection.3.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2.4}Discussion}{84}{subsubsection.3.3.2.4}
+\contentsline {subsubsection}{\numberline {3.3.2.4}Discussion}{85}{subsubsection.3.3.2.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.4}Baseline experiment 3: semantic role\p@index [sbj]{semantic role}s}{85}{section.3.4}
 \defcounter {refsection}{0}\relax 
@@ -122,7 +122,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.1.1}The target and the source}{87}{subsubsection.3.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1.2}Elaborate the mapping between the two}{88}{subsubsection.3.4.1.2}
+\contentsline {subsubsection}{\numberline {3.4.1.2}Elaborate the mapping between the two}{87}{subsubsection.3.4.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.1.3}A good mapping}{89}{subsubsection.3.4.1.3}
 \defcounter {refsection}{0}\relax 
@@ -134,15 +134,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.2}Results and discussion of set-up 3a}{94}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.2.1}Results}{94}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Results}{95}{subsubsection.3.4.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.2.2}Discussion}{96}{subsubsection.3.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Results and discussion of set-up 3b}{97}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.3}Results and discussion of set-up 3b}{96}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3.1}Results}{97}{subsubsection.3.4.3.1}
+\contentsline {subsubsection}{\numberline {3.4.3.1}Results}{96}{subsubsection.3.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3.2}Discussion}{99}{subsubsection.3.4.3.2}
+\contentsline {subsubsection}{\numberline {3.4.3.2}Discussion}{98}{subsubsection.3.4.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.4}Results and discussion of set-up 3c}{100}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax 
@@ -152,11 +152,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.5}Results and discussion of set-up 3d}{103}{subsection.3.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.5.1}Results}{104}{subsubsection.3.4.5.1}
+\contentsline {subsubsection}{\numberline {3.4.5.1}Results}{103}{subsubsection.3.4.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.5.2}Discussion}{105}{subsubsection.3.4.5.2}
+\contentsline {subsubsection}{\numberline {3.4.5.2}Discussion}{104}{subsubsection.3.4.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.6}Conclusions and future work}{106}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.6}Conclusions and future work}{107}{subsection.3.4.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.6.1}Analog\p@index [sbj]{analogy}y all the way}{107}{subsubsection.3.4.6.1}
 \defcounter {refsection}{0}\relax 
@@ -180,13 +180,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.2.1}Results}{120}{subsubsection.4.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.2.2}Discussion}{124}{subsubsection.4.2.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2.2}Discussion}{126}{subsubsection.4.2.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.3}The problem of systematicity\p@index [sbj]{systematicity} in other work}{127}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.3.1}Exemplar-based\p@index [sbj]{exemplar-based models} simulations}{127}{subsubsection.4.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.3.2}Probabilistic grammars}{128}{subsubsection.4.2.3.2}
+\contentsline {subsubsection}{\numberline {4.2.3.2}Probabilistic grammars}{129}{subsubsection.4.2.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.3.3}Iterated Learning Model\p@index [sbj]{Iterated Learning Model (ILM)}s}{130}{subsubsection.4.2.3.3}
 \defcounter {refsection}{0}\relax 
@@ -194,11 +194,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Experiment 2: multi-level selection\p@index [sbj]{multi-level selection} without analog\p@index [sbj]{analogy}y}{132}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Experimental set-up}{132}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.1}Experimental set-up}{133}{subsection.4.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3.2}Results and discussion}{133}{subsection.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2.1}Results}{133}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Results}{136}{subsubsection.4.3.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.3.2.2}Discussion}{140}{subsubsection.4.3.2.2}
 \defcounter {refsection}{0}\relax 
@@ -238,38 +238,108 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.1}Experiment 1: a primitive case system?}{164}{subsection.5.1.1}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.1.1}The experiment}{164}{subsubsection.5.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.1.2}Results}{165}{subsubsection.5.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.1.3}Discussion}{167}{subsubsection.5.1.1.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.2}Experiment 2: dealing with variation\p@index [sbj]{variation}}{168}{subsection.5.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.3}Experiment 3: implementing communicative pressures}{170}{subsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.2.1}Experimental results}{168}{subsubsection.5.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.2}Discussion}{169}{subsubsection.5.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.3}Problems with multi-agent simulations}{170}{subsubsection.5.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Experiment 3: implementing communicative pressures}{171}{subsection.5.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.3.1}Experimental results}{171}{subsubsection.5.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.3.2}Discussion}{171}{subsubsection.5.1.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.4}Experiment 4: more innate knowledge}{172}{subsection.5.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.5}Summary: case marker\p@index [sbj]{case!case marking}s serve communication}{174}{subsection.5.1.5}
+\contentsline {subsubsection}{\numberline {5.1.4.1}Experimental results}{173}{subsubsection.5.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.4.2}Discussion}{174}{subsubsection.5.1.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.5}Summary: case marker\p@index [sbj]{case!case marking}s serve communication}{175}{subsection.5.1.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}Argument structure and construction grammar}{176}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Argument structure in BCG\p@index [sbj]{construction grammar!Berkeley Construction Grammar} and SBCG\p@index [sbj]{construction grammar!Sign-Based Construction Grammar}}{176}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.1}Argument structure in BCG\p@index [sbj]{construction grammar!Berkeley Construction Grammar} and SBCG\p@index [sbj]{construction grammar!Sign-Based Construction Grammar}}{177}{subsection.5.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}An example: the ditransitive\p@index [sbj]{ditransitive clause} construction}{177}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.2}An example: the ditransitive\p@index [sbj]{ditransitive clause} construction}{178}{subsection.5.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.3}Discussion and comparison}{180}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.3}Discussion and comparison}{181}{subsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3.1}Derivational versus non-deriv\p@index [sbj]{derivation}ational constructions.}{181}{subsubsection.5.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3.2}Evidence from corpus-linguistics}{182}{subsubsection.5.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3.3}Thematic hierarchy}{183}{subsubsection.5.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3.4}The emergence\p@index [sbj]{emergence} of \p@index [sbj]{event structure}\p@index [sbj]{construction!argument structure construction}argument structure constructions.}{184}{subsubsection.5.2.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}Analog\p@index [sbj]{analogy}y, multi-level selection\p@index [sbj]{selection}\p@index [sbj]{multi-level selection} and the constructicon}{184}{section.5.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.1}The organization of the linguistic inventory}{184}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.1}Berkeley Construction Grammar}{186}{subsubsection.5.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.2}The Lakoff/Goldberg model\p@index [sbj]{construction grammar!Lakoff/Goldberg model}.}{186}{subsubsection.5.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.3}Cognitive Grammar\p@index [sbj]{construction grammar!Cognitive Grammar}.}{187}{subsubsection.5.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.4}Radical Construction Grammar}{187}{subsubsection.5.3.1.4}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.2}The inventor\p@index [sbj]{linguistic inventory}y in Fluid Construction Grammar\p@index [sbj]{construction grammar!Fluid Construction Grammar}}{188}{subsection.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Linguistic typology\p@index [sbj]{linguistic typology} and grammaticalization\p@index [sbj]{grammaticalization}}{190}{section.5.4}
+\contentsline {subsubsection}{\numberline {5.3.2.1}The emergence of linguistic categories}{189}{subsubsection.5.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.2}Innovation through analog\p@index [sbj]{analogy}y and pattern formation\p@index [sbj]{pattern formation}\p@index [sbj]{formation}.}{189}{subsubsection.5.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.3}Multi-level selection\p@index [sbj]{selection}\p@index [sbj]{multi-level selection} in the emergence\p@index [sbj]{emergence} of language systematicity\p@index [sbj]{systematicity}.}{190}{subsubsection.5.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.4}On the status of inheritance\p@index [sbj]{inheritance} networks.}{190}{subsubsection.5.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Linguistic typology\p@index [sbj]{linguistic typology} and grammaticalization\p@index [sbj]{grammaticalization}}{191}{section.5.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.1}The status of semantic map\p@index [sbj]{semantic maps}s}{191}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.2}Thematic hierarchies in case systems\p@index [sbj]{case!case system}}{196}{subsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.1.1}The universality of semantic map\p@index [sbj]{semantic maps}s.}{192}{subsubsection.5.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.3}A redundant approach to grammaticalization\p@index [sbj]{grammaticalization}}{198}{subsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.1.2}Prior work on concept\p@index [sbj]{concept formation} emergence.}{195}{subsubsection.5.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Postscriptum}{206}{Item.205}
+\contentsline {subsubsection}{\numberline {5.4.1.3}The contribution of this book}{195}{subsubsection.5.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Thematic hierarchies in case systems\p@index [sbj]{case!case system}}{197}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.1}Analog\p@index [sbj]{analogy}y, pattern formation\p@index [sbj]{pattern formation}\p@index [sbj]{formation} and multi-level selection\p@index [sbj]{selection}\p@index [sbj]{multi-level selection}.}{199}{subsubsection.5.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}A redundant approach to grammaticalization\p@index [sbj]{grammaticalization}}{199}{subsection.5.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.3.1}Reanalysis and actualization\p@index [sbj]{actualization}}{200}{subsubsection.5.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.3.2}Example: the English\p@index [sbj]{English} verbal gerund\p@index [sbj]{verbal gerund}.}{201}{subsubsection.5.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.3.3}Problems with Fanego's account.}{203}{subsubsection.5.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.3.4}A model based on redundancy\p@index [sbj]{redundancy}}{204}{subsubsection.5.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.3.5}Back to the computational model}{205}{subsubsection.5.4.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Postscriptum}{207}{subsubsection.5.4.3.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Acknowledgements}{209}{section*.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendix: Measures}{211}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Bibliography}{215}{appendix*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Indexes}{229}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Name index}{229}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Subject index}{237}{section*.17}
